@@ -1,0 +1,471 @@
+<scripts>
+<script id="1">
+<item slot="1" text="take a glass ." />
+<item slot="2" text="pour the drink in it ." />
+<item slot="3" text="give the glass to a person ." />
+</script>
+<script id="2">
+<item slot="1" text="offer beverage to person ." />
+<item slot="2" text="locate requested beverage ." />
+<item slot="3" text="locate serving glass ." />
+<item slot="4" text="place requested beverage in glass ." />
+<item slot="5" text="give glass to person ." />
+</script>
+<script id="3">
+<item slot="1" text="locate glass ." />
+<item slot="2" text="locate drink ." />
+<item slot="3" text="poor drink into glass ." />
+<item slot="4" text="bring drink to person ." />
+</script>
+<script id="4">
+<item slot="1" text="pour drink into glass ." />
+<item slot="2" text="bring drink to person who requested drink ." />
+</script>
+<script id="5">
+<item slot="1" text="find a glass ." />
+<item slot="2" text="find some ice cubes ." />
+<item slot="3" text="find a napkin ." />
+<item slot="4" text="find a straw ." />
+<item slot="5" text="pour the drink into the glass ." />
+<item slot="6" text="take the drink to the person ." />
+</script>
+<script id="6">
+<item slot="1" text="move to the fridge ." />
+<item slot="2" text="remove drink container from fridge ." />
+<item slot="3" text="locate glass ." />
+<item slot="4" text="pour drink from the container into the glass ." />
+<item slot="5" text="but the drink container back into fridge ." />
+<item slot="6" text="close fridge door ." />
+<item slot="7" text="take drink to the desired person ." />
+</script>
+<script id="7">
+<item slot="1" text="ask drink preference ." />
+<item slot="2" text="get glass ." />
+<item slot="3" text="pour drink ." />
+<item slot="4" text="bring drink ." />
+</script>
+<script id="8">
+<item slot="1" text="ask guest for preference ." />
+<item slot="2" text="get drink ." />
+<item slot="3" text="pour drink in glass ." />
+<item slot="4" text="bring drink to guest ." />
+</script>
+<script id="9">
+<item slot="1" text="get a glass ." />
+<item slot="2" text="get a bottle ." />
+<item slot="3" text="fill glass from bottle ." />
+<item slot="4" text="give glass to person ." />
+</script>
+<script id="10">
+<item slot="1" text="ask person what drink they want ." />
+<item slot="2" text="get appropriate glass ." />
+<item slot="3" text="put ice in glass if appropriate for the drink ." />
+<item slot="4" text="pour the requested liquid into the glass ." />
+<item slot="5" text="give glass with drink to the person ." />
+</script>
+<script id="11">
+<item slot="1" text="pour drink into glass ." />
+<item slot="2" text="give drink to person ." />
+</script>
+<script id="12">
+<item slot="1" text="go to refridgerator ." />
+<item slot="2" text="open refridgerator ." />
+<item slot="3" text="get out cold drink ." />
+<item slot="4" text="pour drink in glass ." />
+<item slot="5" text="add ice cubes ." />
+<item slot="6" text="hand drink to person ." />
+</script>
+<script id="13">
+<item slot="1" text="get a glass ." />
+<item slot="2" text="get drink container ." />
+<item slot="3" text="hold glass ." />
+<item slot="4" text="pour drink out of drink container into glass ." />
+<item slot="5" text="give the drink to a person ." />
+</script>
+<script id="14">
+<item slot="1" text="locate serving glasses ." />
+<item slot="2" text="locate drink to serve ." />
+<item slot="3" text="pour drink into glasses ." />
+<item slot="4" text="distribute glasses ." />
+</script>
+<script id="15">
+<item slot="1" text="locate glasses to serve drink in ." />
+<item slot="2" text="determine which drink to serve ." />
+<item slot="3" text="pour drink into glasses ." />
+<item slot="4" text="distribute glasses to guests ." />
+</script>
+<script id="16">
+<item slot="1" text="find out what drink the person wants ." />
+<item slot="2" text="get a glass ." />
+<item slot="3" text="open the bottle the drink comes in ." />
+<item slot="4" text="pour a glass of the drink from the bottle ." />
+<item slot="5" text="bring the glass of the drink to the person who wanted it ." />
+</script>
+<script id="17">
+<item slot="1" text="get a clean glass ." />
+<item slot="2" text="put some ice in the glass ." />
+<item slot="3" text="open preferred beverage ." />
+<item slot="4" text="pour beverage into glass ." />
+<item slot="5" text="offer drink to guests ." />
+</script>
+<script id="18">
+<item slot="1" text="get a glass ." />
+<item slot="2" text="pour the drink ." />
+<item slot="3" text="give the drink to a person ." />
+</script>
+<script id="19">
+<item slot="1" text="get a clean glass ." />
+<item slot="2" text="put ice in the glass if desired ." />
+<item slot="3" text="add ingredients to the glass ." />
+<item slot="4" text="put a garnish on the glass ." />
+<item slot="5" text="get a napkin ." />
+<item slot="6" text="put the glass on the napkin ." />
+<item slot="7" text="hand the glass to the drinker ." />
+</script>
+<script id="20">
+<item slot="1" text="get a glass ." />
+<item slot="2" text="get bottle of soda ." />
+<item slot="3" text="poor drink ." />
+<item slot="4" text="add ice ." />
+</script>
+<script id="21">
+<item slot="1" text="ask the guest what drink they want ." />
+<item slot="2" text="make and serve the drink to them ." />
+</script>
+<script id="22">
+<item slot="1" text="put the drink in a clean glass ." />
+<item slot="2" text="serve the drink ." />
+</script>
+<script id="23">
+<item slot="1" text="remove a glass from the cupboard ." />
+<item slot="2" text="remove beverage from the refrigerator ." />
+<item slot="3" text="pour desired amount of beverage into the glass ." />
+<item slot="4" text="give the glass to your guest ." />
+</script>
+<script id="24">
+<item slot="1" text="ask what kind of drink is desired ." />
+<item slot="2" text="find the requested drink ." />
+<item slot="3" text="prepare the drink for serving ." />
+<item slot="4" text="offer the drink to the person who requested it ." />
+</script>
+<script id="25">
+<item slot="1" text="prepare the drink ." />
+<item slot="2" text="find a napkin ." />
+<item slot="3" text="serve the drink ." />
+</script>
+<script id="26">
+<item slot="1" text="prepare the drink ." />
+<item slot="2" text="find a napkin ." />
+<item slot="3" text="serve the drink ." />
+</script>
+<script id="27">
+<item slot="1" text="pour drink in glass ." />
+<item slot="2" text="take it to whoever is to be served ." />
+</script>
+<script id="28">
+<item slot="1" text="pour drink in glass ." />
+<item slot="2" text="take it to whoever is to be served ." />
+</script>
+<script id="29">
+<item slot="1" text="pour drink in glass ." />
+<item slot="2" text="take it to whoever is to be served ." />
+</script>
+<script id="30">
+<item slot="1" text="pour drink in glass ." />
+<item slot="2" text="take it to whoever is to be served ." />
+</script>
+<script id="31">
+<item slot="1" text="pour drink in glass ." />
+<item slot="2" text="take it to whoever is to be served ." />
+</script>
+<script id="32">
+<item slot="1" text="pour drink in glass ." />
+<item slot="2" text="take it to whoever is to be served ." />
+</script>
+<script id="33">
+<item slot="1" text="get a clean glass ." />
+<item slot="2" text="get a beverage in a container ." />
+<item slot="3" text="open beverage container ." />
+<item slot="4" text="pour contents of beverage container into glass ." />
+<item slot="5" text="pick up glass ." />
+<item slot="6" text="deliver glass to person ." />
+</script>
+<script id="34">
+<item slot="1" text="get a clean glass ." />
+<item slot="2" text="get a beverage in a container ." />
+<item slot="3" text="open beverage container ." />
+<item slot="4" text="pour contents of beverage container into glass ." />
+<item slot="5" text="pick up glass ." />
+<item slot="6" text="deliver glass to person ." />
+</script>
+<script id="35">
+<item slot="1" text="get a clean glass ." />
+<item slot="2" text="get a beverage in a container ." />
+<item slot="3" text="open beverage container ." />
+<item slot="4" text="pour contents of beverage container into glass ." />
+<item slot="5" text="pick up glass ." />
+<item slot="6" text="deliver glass to person ." />
+</script>
+<script id="36">
+<item slot="1" text="get a clean glass ." />
+<item slot="2" text="get a beverage in a container ." />
+<item slot="3" text="open beverage container ." />
+<item slot="4" text="pour contents of beverage container into glass ." />
+<item slot="5" text="pick up glass ." />
+<item slot="6" text="deliver glass to person ." />
+</script>
+<script id="37">
+<item slot="1" text="get a clean glass ." />
+<item slot="2" text="get a beverage in a container ." />
+<item slot="3" text="open beverage container ." />
+<item slot="4" text="pour contents of beverage container into glass ." />
+<item slot="5" text="pick up glass ." />
+<item slot="6" text="deliver glass to person ." />
+</script>
+<script id="38">
+<item slot="1" text="get a clean glass ." />
+<item slot="2" text="get a beverage in a container ." />
+<item slot="3" text="open beverage container ." />
+<item slot="4" text="pour contents of beverage container into glass ." />
+<item slot="5" text="pick up glass ." />
+<item slot="6" text="deliver glass to person ." />
+</script>
+<script id="39">
+<item slot="1" text="get a clean glass ." />
+<item slot="2" text="get a beverage in a container ." />
+<item slot="3" text="open beverage container ." />
+<item slot="4" text="pour contents of beverage container into glass ." />
+<item slot="5" text="pick up glass ." />
+<item slot="6" text="deliver glass to person ." />
+</script>
+<script id="40">
+<item slot="1" text="get a clean glass ." />
+<item slot="2" text="get a beverage in a container ." />
+<item slot="3" text="open beverage container ." />
+<item slot="4" text="pour contents of beverage container into glass ." />
+<item slot="5" text="pick up glass ." />
+<item slot="6" text="deliver glass to person ." />
+</script>
+<script id="41">
+<item slot="1" text="pour drink into glass ." />
+<item slot="2" text="take glass to person ." />
+</script>
+<script id="42">
+<item slot="1" text="pour drink into glass ." />
+<item slot="2" text="take glass to person ." />
+</script>
+<script id="43">
+<item slot="1" text="give drink to patron ." />
+</script>
+<script id="44">
+<item slot="1" text="give drink to patron ." />
+</script>
+<script id="45">
+<item slot="1" text="selecting drink ." />
+<item slot="2" text="finding glass ." />
+<item slot="3" text="pooring  drink into glass ." />
+</script>
+<script id="46">
+<item slot="1" text="ask guest what they would prefer ." />
+<item slot="2" text="go to kitchen ." />
+<item slot="3" text="get a glass ." />
+<item slot="4" text="prepare requested drink ." />
+<item slot="5" text="pour drink into glass ." />
+<item slot="6" text="put glass on a tray ." />
+<item slot="7" text="bring drink to guest ." />
+</script>
+<script id="47">
+<item slot="1" text="ask guest what they would prefer ." />
+<item slot="2" text="go to kitchen ." />
+<item slot="3" text="get a glass ." />
+<item slot="4" text="prepare requested drink ." />
+<item slot="5" text="pour drink into glass ." />
+<item slot="6" text="put glass on a tray ." />
+<item slot="7" text="bring drink to guest ." />
+</script>
+<script id="48">
+<item slot="1" text="get a glass ." />
+<item slot="2" text="add ice to glass ." />
+<item slot="3" text="add drink to glass ." />
+<item slot="4" text="give drink to person ." />
+</script>
+<script id="49">
+<item slot="1" text="get drink ." />
+<item slot="2" text="get cup/glass ." />
+<item slot="3" text="pour drink into cup/glass ." />
+</script>
+<script id="50">
+<item slot="1" text="take order ." />
+<item slot="2" text="research recipe ." />
+<item slot="3" text="secure ingredients ." />
+<item slot="4" text="mix ingredients ." />
+</script>
+<script id="51">
+<item slot="1" text="take order ." />
+<item slot="2" text="research recipe ." />
+<item slot="3" text="secure ingredients ." />
+<item slot="4" text="mix ingredients ." />
+<item slot="5" text="pour ingredients in vessel ." />
+<item slot="6" text="serve drink ." />
+</script>
+<script id="52">
+<item slot="1" text="get glass ." />
+<item slot="2" text="select drink ." />
+<item slot="3" text="pour drink ." />
+<item slot="4" text="serve drink ." />
+</script>
+<script id="53">
+<item slot="1" text="open bottle ." />
+<item slot="2" text="pour drink into glass ." />
+<item slot="3" text="serve glass ." />
+</script>
+<script id="54">
+<item slot="1" text="open bottle ." />
+<item slot="2" text="pour drink into glass ." />
+<item slot="3" text="serve glass ." />
+</script>
+<script id="55">
+<item slot="1" text="open bottle ." />
+<item slot="2" text="pour drink into glass ." />
+<item slot="3" text="serve glass ." />
+</script>
+<script id="56">
+<item slot="1" text="open bottle ." />
+<item slot="2" text="pour drink into glass ." />
+<item slot="3" text="serve glass ." />
+</script>
+<script id="57">
+<item slot="1" text="get a glass ." />
+<item slot="2" text="go to fridge ." />
+<item slot="3" text="pour water into glass ." />
+<item slot="4" text="serve drink ." />
+</script>
+<script id="58">
+<item slot="1" text="get a glass ." />
+<item slot="2" text="go to fridge ." />
+<item slot="3" text="pour water into glass ." />
+<item slot="4" text="serve drink ." />
+</script>
+<script id="59">
+<item slot="1" text="get a glass ." />
+<item slot="2" text="go to fridge ." />
+<item slot="3" text="pour water into glass ." />
+<item slot="4" text="serve drink ." />
+</script>
+<script id="60">
+<item slot="1" text="get glass ." />
+<item slot="2" text="get drink from fridge ." />
+<item slot="3" text="pour drink ." />
+<item slot="4" text="put drink away in fridge ." />
+<item slot="5" text="drink ." />
+</script>
+<script id="61">
+<item slot="1" text="get glass ." />
+<item slot="2" text="get drink from fridge ." />
+<item slot="3" text="pour drink ." />
+<item slot="4" text="put drink away in fridge ." />
+<item slot="5" text="drink ." />
+</script>
+<script id="62">
+<item slot="1" text="take order ." />
+<item slot="2" text="go to the kitchen ." />
+<item slot="3" text="get glass ." />
+<item slot="4" text="get drink ." />
+<item slot="5" text="put drink in glass ." />
+<item slot="6" text="bring it out ." />
+<item slot="7" text="serve it to person ." />
+</script>
+<script id="63">
+<item slot="1" text="get glass ." />
+<item slot="2" text="get drink from fridge ." />
+<item slot="3" text="pour drink ." />
+<item slot="4" text="put drink away in fridge ." />
+<item slot="5" text="drink ." />
+</script>
+<script id="64">
+<item slot="1" text="take order ." />
+<item slot="2" text="go to the kitchen ." />
+<item slot="3" text="get glass ." />
+<item slot="4" text="get drink ." />
+<item slot="5" text="put drink in glass ." />
+<item slot="6" text="bring it out ." />
+<item slot="7" text="serve it to person ." />
+</script>
+<script id="65">
+<item slot="1" text="take order ." />
+<item slot="2" text="go to the kitchen ." />
+<item slot="3" text="get glass ." />
+<item slot="4" text="get drink ." />
+<item slot="5" text="put drink in glass ." />
+<item slot="6" text="bring it out ." />
+<item slot="7" text="serve it to person ." />
+</script>
+<script id="66">
+<item slot="1" text="get glass ." />
+<item slot="2" text="get drink from fridge ." />
+<item slot="3" text="pour drink ." />
+<item slot="4" text="put drink away in fridge ." />
+<item slot="5" text="drink ." />
+</script>
+<script id="67">
+<item slot="1" text="take order ." />
+<item slot="2" text="go to the kitchen ." />
+<item slot="3" text="get glass ." />
+<item slot="4" text="get drink ." />
+<item slot="5" text="put drink in glass ." />
+<item slot="6" text="bring it out ." />
+<item slot="7" text="serve it to person ." />
+</script>
+<script id="68">
+<item slot="1" text="get glass ." />
+<item slot="2" text="get drink from fridge ." />
+<item slot="3" text="pour drink ." />
+<item slot="4" text="put drink away in fridge ." />
+<item slot="5" text="drink ." />
+</script>
+<script id="69">
+<item slot="1" text="take order ." />
+<item slot="2" text="go to the kitchen ." />
+<item slot="3" text="get glass ." />
+<item slot="4" text="get drink ." />
+<item slot="5" text="put drink in glass ." />
+<item slot="6" text="bring it out ." />
+<item slot="7" text="serve it to person ." />
+</script>
+<script id="70">
+<item slot="1" text="take order ." />
+<item slot="2" text="make drink ." />
+<item slot="3" text="serve drink ." />
+</script>
+<script id="71">
+<item slot="1" text="take order ." />
+<item slot="2" text="make drink ." />
+<item slot="3" text="serve drink ." />
+</script>
+<script id="72">
+<item slot="1" text="take order ." />
+<item slot="2" text="make drink ." />
+<item slot="3" text="serve drink ." />
+</script>
+<script id="73">
+<item slot="1" text="place drink on tray ." />
+<item slot="2" text="pick up tray with drink ." />
+<item slot="3" text="walk over to the person being served ." />
+<item slot="4" text="ask the person to take the drink from the tray ." />
+<item slot="5" text="ask the person to take a napkin from the tray ." />
+<item slot="6" text="walk away from the person ." />
+</script>
+<script id="74">
+<item slot="1" text="take drink ." />
+<item slot="2" text="get glasses ." />
+<item slot="3" text="pour drink in glass ." />
+<item slot="4" text="bring glass to person ." />
+</script>
+<script id="75">
+<item slot="1" text="open refrigerator ." />
+<item slot="2" text="find drink ." />
+<item slot="3" text="remove drink from refrigerator ." />
+<item slot="4" text="pour drink into glass(es) ." />
+<item slot="5" text="disperse drink(s) ." />
+</script>
+</scripts>

@@ -1,0 +1,238 @@
+<scripts>
+<script id="1">
+<item slot="1" text="remove old filter ." />
+<item slot="2" text="throw away old filter ." />
+<item slot="3" text="open new filter ." />
+<item slot="4" text="install new filter according to package instructions ." />
+</script>
+<script id="2">
+<item slot="1" text="remove old filter ." />
+<item slot="2" text="locate new filter ." />
+<item slot="3" text="screw on new filter ." />
+</script>
+<script id="3">
+<item slot="1" text="unscrew filter ." />
+<item slot="2" text="remove old filter ." />
+<item slot="3" text="replace with new filter ." />
+<item slot="4" text="screw filter back on ." />
+</script>
+<script id="4">
+<item slot="1" text="unscrew filter holder from tap ." />
+<item slot="2" text="remove old filter ." />
+<item slot="3" text="place new filter ." />
+<item slot="4" text="screw filter holder onto tap ." />
+</script>
+<script id="5">
+<item slot="1" text="remove filter from tap ." />
+<item slot="2" text="remove old filter ." />
+<item slot="3" text="place new filter ." />
+<item slot="4" text="attach water filter to tap ." />
+</script>
+<script id="6">
+<item slot="1" text="remove water tap ." />
+<item slot="2" text="remove filter from tap ." />
+<item slot="3" text="put in new filter ." />
+<item slot="4" text="put water tap back on ." />
+</script>
+<script id="7">
+<item slot="1" text="unscrew faucet tap ." />
+<item slot="2" text="remove old filter ." />
+<item slot="3" text="put new filter into water tap ." />
+<item slot="4" text="rescrew the faucet tap back into place ." />
+</script>
+<script id="8">
+<item slot="1" text="remove old water tap filter ." />
+<item slot="2" text="put old water tap filter in garbage ." />
+<item slot="3" text="find new water tap filter ." />
+<item slot="4" text="put new water tap filter into the filter container ." />
+</script>
+<script id="9">
+<item slot="1" text="remove tap ." />
+<item slot="2" text="remove old filter ." />
+<item slot="3" text="put in new filter ." />
+<item slot="4" text="put back tap ." />
+</script>
+<script id="10">
+<item slot="1" text="take the lid off the jug ." />
+<item slot="2" text="remove the old filter ." />
+<item slot="3" text="put int he new filter ." />
+<item slot="4" text="fill the jug ." />
+<item slot="5" text="put the lid on ." />
+<item slot="6" text="throw away the old filter ." />
+</script>
+<script id="11">
+<item slot="1" text="turn off water ." />
+<item slot="2" text="remove filter ." />
+<item slot="3" text="place new filter on tap ." />
+<item slot="4" text="turn on water ." />
+</script>
+<script id="12">
+<item slot="1" text="buy new filter ." />
+<item slot="2" text="open filter holder ." />
+<item slot="3" text="remove old filter ." />
+<item slot="4" text="put new filter in ." />
+<item slot="5" text="close filter container ." />
+<item slot="6" text="run water through filter ." />
+<item slot="7" text="turn off water ." />
+</script>
+<script id="13">
+<item slot="1" text="remove and dispose of old filter ." />
+<item slot="2" text="install new filter ." />
+</script>
+<script id="14">
+<item slot="1" text="remove cover on dispenser ." />
+<item slot="2" text="remove old filter ." />
+<item slot="3" text="insert new filter ." />
+<item slot="4" text="replace cover on dispenser ." />
+</script>
+<script id="15">
+<item slot="1" text="remove cover on dispenser ." />
+<item slot="2" text="remove old filter ." />
+<item slot="3" text="insert new filter ." />
+<item slot="4" text="replace cover on dispenser ." />
+</script>
+<script id="16">
+<item slot="1" text="remove cover on dispenser ." />
+<item slot="2" text="remove old filter ." />
+<item slot="3" text="insert new filter ." />
+<item slot="4" text="replace cover on dispenser ." />
+</script>
+<script id="17">
+<item slot="1" text="remove cover on dispenser ." />
+<item slot="2" text="remove old filter ." />
+<item slot="3" text="insert new filter ." />
+<item slot="4" text="replace cover on dispenser ." />
+</script>
+<script id="18">
+<item slot="1" text="remove cover on dispenser ." />
+<item slot="2" text="remove old filter ." />
+<item slot="3" text="insert new filter ." />
+<item slot="4" text="replace cover on dispenser ." />
+</script>
+<script id="19">
+<item slot="1" text="remove cover on dispenser ." />
+<item slot="2" text="remove old filter ." />
+<item slot="3" text="insert new filter ." />
+<item slot="4" text="replace cover on dispenser ." />
+</script>
+<script id="20">
+<item slot="1" text="remove cover on dispenser ." />
+<item slot="2" text="remove old filter ." />
+<item slot="3" text="insert new filter ." />
+<item slot="4" text="replace cover on dispenser ." />
+</script>
+<script id="21">
+<item slot="1" text="remove cover on dispenser ." />
+<item slot="2" text="remove old filter ." />
+<item slot="3" text="insert new filter ." />
+<item slot="4" text="replace cover on dispenser ." />
+</script>
+<script id="22">
+<item slot="1" text="turn off water ." />
+<item slot="2" text="remove old filter ." />
+<item slot="3" text="put on new filter ." />
+<item slot="4" text="turn water on ." />
+</script>
+<script id="23">
+<item slot="1" text="turn off water ." />
+<item slot="2" text="remove old filter ." />
+<item slot="3" text="put on new filter ." />
+<item slot="4" text="turn water on ." />
+</script>
+<script id="24">
+<item slot="1" text="unscrew top flange ." />
+<item slot="2" text="remove gasket ." />
+<item slot="3" text="remove filtering material ." />
+<item slot="4" text="replace filtering material ." />
+<item slot="5" text="re-insert gasket flange assembly ." />
+<item slot="6" text="screw filter assembly back in ." />
+</script>
+<script id="25">
+<item slot="1" text="unscrew top flange ." />
+<item slot="2" text="remove gasket ." />
+<item slot="3" text="remove filtering material ." />
+<item slot="4" text="replace filtering material ." />
+<item slot="5" text="re-insert gasket flange assembly ." />
+<item slot="6" text="screw filter assembly back in ." />
+</script>
+<script id="26">
+<item slot="1" text="remove old filter ." />
+<item slot="2" text="add new filter ." />
+</script>
+<script id="27">
+<item slot="1" text="turn off the tap ." />
+<item slot="2" text="remove the old filter ." />
+<item slot="3" text="open packaging for new filter ." />
+<item slot="4" text="place new filter onto the tap ." />
+<item slot="5" text="make sure new filter is fully attached ." />
+<item slot="6" text="test the faucet ." />
+<item slot="7" text="throw away old filter ." />
+</script>
+<script id="28">
+<item slot="1" text="remove filter cover ." />
+<item slot="2" text="remove old filter ." />
+<item slot="3" text="insert new filter ." />
+<item slot="4" text="replace filter cover ." />
+</script>
+<script id="29">
+<item slot="1" text="remove filter cover ." />
+<item slot="2" text="remove old filter ." />
+<item slot="3" text="insert new filter ." />
+<item slot="4" text="replace filter cover ." />
+</script>
+<script id="30">
+<item slot="1" text="remove old water tap filter ." />
+<item slot="2" text="connect new water tap filter ." />
+</script>
+<script id="31">
+<item slot="1" text="take old off ." />
+<item slot="2" text="clean ." />
+<item slot="3" text="take new out of box ." />
+<item slot="4" text="put on ." />
+<item slot="5" text="test ." />
+</script>
+<script id="32">
+<item slot="1" text="remove old filter ." />
+<item slot="2" text="place new filter ." />
+<item slot="3" text="throw away old filter ." />
+</script>
+<script id="33">
+<item slot="1" text="close tap ." />
+<item slot="2" text="remove old filter ." />
+<item slot="3" text="put new filter into cup of cold water ." />
+<item slot="4" text="clean head of tap ." />
+<item slot="5" text="replace filter ." />
+<item slot="6" text="throw away garbage ." />
+<item slot="7" text="turn on water ." />
+</script>
+<script id="34">
+<item slot="1" text="clean surface ." />
+<item slot="2" text="find filter ." />
+<item slot="3" text="screw it on ." />
+</script>
+<script id="35">
+<item slot="1" text="clean surface ." />
+<item slot="2" text="find filter ." />
+<item slot="3" text="screw it on ." />
+</script>
+<script id="36">
+<item slot="1" text="clean surface ." />
+<item slot="2" text="find filter ." />
+<item slot="3" text="screw it on ." />
+</script>
+<script id="37">
+<item slot="1" text="clean surface ." />
+<item slot="2" text="find filter ." />
+<item slot="3" text="screw it on ." />
+</script>
+<script id="38">
+<item slot="1" text="clean surface ." />
+<item slot="2" text="find filter ." />
+<item slot="3" text="screw it on ." />
+</script>
+<script id="39">
+<item slot="1" text="buy new filter ." />
+<item slot="2" text="unscrew old filter ." />
+<item slot="3" text="screw in new filter ." />
+</script>
+</scripts>

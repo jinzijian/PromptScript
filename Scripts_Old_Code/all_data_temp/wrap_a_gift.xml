@@ -1,0 +1,334 @@
+<scripts>
+<script id="1">
+<item slot="1" text="get gift ." />
+<item slot="2" text="get wrap ." />
+<item slot="3" text="wrap gift ." />
+</script>
+<script id="2">
+<item slot="1" text="buy the gift ." />
+<item slot="2" text="get wrapping paper ." />
+<item slot="3" text="get tape ." />
+<item slot="4" text="cut the paper to the correct size ." />
+<item slot="5" text="wrap the paper around the gift ." />
+<item slot="6" text="tape the paper in place ." />
+<item slot="7" text="put a bow on the package ." />
+</script>
+<script id="3">
+<item slot="1" text="buy wrapping paper and ribbon ." />
+<item slot="2" text="cut paper ." />
+<item slot="3" text="fold and tape paper ." />
+<item slot="4" text="cut and tape ribbon ." />
+</script>
+<script id="4">
+<item slot="1" text="getting the wraping paper ." />
+<item slot="2" text="placing the gift on the plain side of the paper ." />
+<item slot="3" text="covering the gift in paper ." />
+<item slot="4" text="cutting the excess paper away ." />
+<item slot="5" text="taping the paper so that it does not come off of the gift ." />
+</script>
+<script id="5">
+<item slot="1" text="get the gift ." />
+<item slot="2" text="get the wrapping paper ." />
+<item slot="3" text="get the scissors and tape ." />
+</script>
+<script id="6">
+<item slot="1" text="get the gift ." />
+<item slot="2" text="get the wrapping paper ." />
+<item slot="3" text="get the scissors and tape ." />
+<item slot="4" text="place the gift on the wrapping paper ." />
+<item slot="5" text="cut out enough wrapping paper to wrap the gift up in ." />
+<item slot="6" text="tape the wrapping paper onto the gift ." />
+</script>
+<script id="7">
+<item slot="1" text="get gift ." />
+<item slot="2" text="get appropriate wrapping paper ." />
+<item slot="3" text="spread paper on flat surface ." />
+<item slot="4" text="put gift on paper ." />
+<item slot="5" text="fold paper so as to cover gift ." />
+<item slot="6" text="fold ribbon over wrapping paper ." />
+</script>
+<script id="8">
+<item slot="1" text="get gift ." />
+<item slot="2" text="get appropriate wrapping paper ." />
+<item slot="3" text="spread paper on flat surface ." />
+<item slot="4" text="put gift on paper ." />
+<item slot="5" text="fold paper so as to cover gift ." />
+<item slot="6" text="fold ribbon over wrapping paper ." />
+</script>
+<script id="9">
+<item slot="1" text="take wrapping paper ." />
+<item slot="2" text="place on flat surface ." />
+<item slot="3" text="place gift on wrapping paper ." />
+<item slot="4" text="fold paper around gift ." />
+<item slot="5" text="tie together with ribbon ." />
+</script>
+<script id="10">
+<item slot="1" text="put gift in a box ." />
+<item slot="2" text="select a wrapping paper ." />
+<item slot="3" text="wrap the box with the paper ." />
+<item slot="4" text="tie the paper with a string ." />
+</script>
+<script id="11">
+<item slot="1" text="put gift in a box big enough to fit the gift in ." />
+<item slot="2" text="choose decorative bag for gift ." />
+<item slot="3" text="put gift in decorative bag ." />
+<item slot="4" text="put tissue paper into bag on top of gift ." />
+</script>
+<script id="12">
+<item slot="1" text="take wrapping paper and place on flat surface ." />
+<item slot="2" text="place gift on wrapping paper ." />
+<item slot="3" text="fold paper aroung gift ." />
+<item slot="4" text="use tape to hold paper in place ." />
+</script>
+<script id="13">
+<item slot="1" text="get a gift ." />
+<item slot="2" text="get some paper ." />
+<item slot="3" text="put paper round the gift ." />
+<item slot="4" text="put label on the gift ." />
+</script>
+<script id="14">
+<item slot="1" text="get gift ." />
+<item slot="2" text="find a piece of wrapping paper that is large enough ." />
+<item slot="3" text="put wrapping paper around gift until fully covered ." />
+<item slot="4" text="tape end of the paper so it doesn t fall off ." />
+</script>
+<script id="15">
+<item slot="1" text="get enough wrapping paper to cover gift ." />
+<item slot="2" text="get scotch tape ." />
+<item slot="3" text="measure wrapping paper and place around gift ." />
+<item slot="4" text="tape into place ." />
+<item slot="5" text="attach a ribbon ." />
+</script>
+<script id="16">
+<item slot="1" text="measure size of gift ." />
+<item slot="2" text="cut wrapping paper to cover gift ." />
+<item slot="3" text="place gift on opened wrapping paper ." />
+<item slot="4" text="fold wrapping paper around gift ." />
+<item slot="5" text="tape any loose edges ." />
+</script>
+<script id="17">
+<item slot="1" text="get gift ." />
+<item slot="2" text="get paper ." />
+<item slot="3" text="cut large piece of paper ." />
+<item slot="4" text="wrap paper around gift ." />
+<item slot="5" text="attach tape to paper ." />
+<item slot="6" text="put decoration on gift ." />
+</script>
+<script id="18">
+<item slot="1" text="cut paper ." />
+<item slot="2" text="place gift in paper ." />
+<item slot="3" text="fold in sides ." />
+<item slot="4" text="tape together ." />
+</script>
+<script id="19">
+<item slot="1" text="take sheet of wrapping paper ." />
+<item slot="2" text="place wrapping paper face down on flat surface ." />
+<item slot="3" text="place gift in center of wrapping paper ." />
+<item slot="4" text="fold paper over gift ." />
+<item slot="5" text="tape paper closed ." />
+</script>
+<script id="20">
+<item slot="1" text="unroll the wrapping paper ." />
+<item slot="2" text="cut out desired amount of paper ." />
+<item slot="3" text="fold paper over gift ." />
+<item slot="4" text="tape the ends down ." />
+<item slot="5" text="fold over other sides of paper ." />
+<item slot="6" text="tape those ends together ." />
+<item slot="7" text="place bow on gift ." />
+</script>
+<script id="21">
+<item slot="1" text="lay the wrapping paper out flat ." />
+<item slot="2" text="place the gift on the paper ." />
+<item slot="3" text="bring the paper up around the gift ." />
+<item slot="4" text="stick the seams together with tape ." />
+<item slot="5" text="wrap a ribbon around the gift ." />
+<item slot="6" text="tie the ribbon in a bow ." />
+</script>
+<script id="22">
+<item slot="1" text="partially unroll wrapping paper ." />
+</script>
+<script id="23">
+<item slot="1" text="partially unroll wrapping paper ." />
+</script>
+<script id="24">
+<item slot="1" text="find a gift ." />
+<item slot="2" text="choose a gift wrapper ." />
+<item slot="3" text="cut the gift wrapper ." />
+<item slot="4" text="measure the gift wrapper ." />
+<item slot="5" text="cover the gift with a wrapper and tape it in place ." />
+<item slot="6" text="tie a matching ribbon ." />
+<item slot="7" text="accessorize with a matching bow ." />
+</script>
+<script id="25">
+<item slot="1" text="determine wrapping method ." />
+<item slot="2" text="collect wrapping materials ." />
+<item slot="3" text="collect scissors tape etc ." />
+<item slot="4" text="cut wrapping paper to fit ." />
+<item slot="5" text="enclose gift in wrapping paper ." />
+<item slot="6" text="tape paper closed ." />
+<item slot="7" text="tie ribbon ." />
+</script>
+<script id="26">
+<item slot="1" text="choose gift wrap ." />
+<item slot="2" text="cut correct size of wrap ." />
+<item slot="3" text="place gift in center of wrap ." />
+<item slot="4" text="fold wrap around gift ." />
+<item slot="5" text="tape wrap in place ." />
+<item slot="6" text="adorn with ribbons and bows ." />
+<item slot="7" text="label gift or attach card ." />
+</script>
+<script id="27">
+<item slot="1" text="cut gift wrap to appropriate size ." />
+<item slot="2" text="tape gift wrap around object ." />
+<item slot="3" text="fold and tape ends of gift wrap ." />
+<item slot="4" text="add a bow ." />
+</script>
+<script id="28">
+<item slot="1" text="get gift ." />
+<item slot="2" text="wrap gift ." />
+</script>
+<script id="29">
+<item slot="1" text="obtain wrapping paper ." />
+<item slot="2" text="verify needed length ." />
+<item slot="3" text="cut paper ." />
+<item slot="4" text="wrap around gift ." />
+<item slot="5" text="tape edges closed ." />
+<item slot="6" text="verify ." />
+</script>
+<script id="30">
+<item slot="1" text="obtain gift ." />
+<item slot="2" text="obtain wrapping paper ." />
+<item slot="3" text="obtain tape ." />
+<item slot="4" text="remove price from gift ." />
+<item slot="5" text="wrap gift ." />
+<item slot="6" text="tape gift ." />
+</script>
+<script id="31">
+<item slot="1" text="buy gift ." />
+<item slot="2" text="cut paper ." />
+<item slot="3" text="tape papaer around gift ." />
+</script>
+<script id="32">
+<item slot="1" text="buy gift ." />
+<item slot="2" text="cut paper ." />
+<item slot="3" text="tape papaer around gift ." />
+</script>
+<script id="33">
+<item slot="1" text="buy gift ." />
+<item slot="2" text="cut paper ." />
+<item slot="3" text="tape papaer around gift ." />
+</script>
+<script id="34">
+<item slot="1" text="buy gift ." />
+<item slot="2" text="cut paper ." />
+<item slot="3" text="tape papaer around gift ." />
+</script>
+<script id="35">
+<item slot="1" text="buy gift ." />
+<item slot="2" text="cut paper ." />
+<item slot="3" text="tape papaer around gift ." />
+</script>
+<script id="36">
+<item slot="1" text="buy gift ." />
+<item slot="2" text="cut paper ." />
+<item slot="3" text="tape papaer around gift ." />
+</script>
+<script id="37">
+<item slot="1" text="cut wrap to the right dimensions ." />
+<item slot="2" text="lay gift in center of wrap ." />
+<item slot="3" text="fold edges of wrap to entirely cover gift ." />
+<item slot="4" text="tape the wrapping shut ." />
+<item slot="5" text="add a giftcard and abow ." />
+</script>
+<script id="38">
+<item slot="1" text="cut wrap to the right dimensions ." />
+<item slot="2" text="lay gift in center of wrap ." />
+<item slot="3" text="fold edges of wrap to entirely cover gift ." />
+<item slot="4" text="tape the wrapping shut ." />
+<item slot="5" text="add a giftcard and abow ." />
+</script>
+<script id="39">
+<item slot="1" text="cut wrap to the right dimensions ." />
+<item slot="2" text="lay gift in center of wrap ." />
+<item slot="3" text="fold edges of wrap to entirely cover gift ." />
+<item slot="4" text="tape the wrapping shut ." />
+<item slot="5" text="add a giftcard and abow ." />
+</script>
+<script id="40">
+<item slot="1" text="cut wrap to the right dimensions ." />
+<item slot="2" text="lay gift in center of wrap ." />
+<item slot="3" text="fold edges of wrap to entirely cover gift ." />
+<item slot="4" text="tape the wrapping shut ." />
+<item slot="5" text="add a giftcard and abow ." />
+</script>
+<script id="41">
+<item slot="1" text="cut wrap to the right dimensions ." />
+<item slot="2" text="lay gift in center of wrap ." />
+<item slot="3" text="fold edges of wrap to entirely cover gift ." />
+<item slot="4" text="tape the wrapping shut ." />
+<item slot="5" text="add a giftcard and abow ." />
+</script>
+<script id="42">
+<item slot="1" text="cut wrap to the right dimensions ." />
+<item slot="2" text="lay gift in center of wrap ." />
+<item slot="3" text="fold edges of wrap to entirely cover gift ." />
+<item slot="4" text="tape the wrapping shut ." />
+<item slot="5" text="add a giftcard and abow ." />
+</script>
+<script id="43">
+<item slot="1" text="cut wrapping paper to size ." />
+<item slot="2" text="set gift on paper ." />
+<item slot="3" text="fold edges of wrap to entirely cover gift ." />
+<item slot="4" text="tape the wrapping shut ." />
+<item slot="5" text="add a giftcard and a bow ." />
+</script>
+<script id="44">
+<item slot="1" text="cut wrapping paper ." />
+<item slot="2" text="wrap gift ." />
+<item slot="3" text="secure paper with tape ." />
+</script>
+<script id="45">
+<item slot="1" text="cut wrapping paper ." />
+<item slot="2" text="wrap gift ." />
+<item slot="3" text="secure paper with tape ." />
+</script>
+<script id="46">
+<item slot="1" text="cut wrapping paper ." />
+<item slot="2" text="wrap gift ." />
+<item slot="3" text="secure paper with tape ." />
+</script>
+<script id="47">
+<item slot="1" text="choose wrapping paper ." />
+<item slot="2" text="cut to desired size ." />
+<item slot="3" text="wrap paper around gift ." />
+<item slot="4" text="tape in place ." />
+</script>
+<script id="48">
+<item slot="1" text="choose wrapping paper ." />
+<item slot="2" text="cut to desired size ." />
+<item slot="3" text="wrap paper around gift ." />
+<item slot="4" text="tape in place ." />
+</script>
+<script id="49">
+<item slot="1" text="choose wrapping paper ." />
+<item slot="2" text="cut to desired size ." />
+<item slot="3" text="wrap paper around gift ." />
+<item slot="4" text="tape in place ." />
+</script>
+<script id="50">
+<item slot="1" text="find paper ." />
+<item slot="2" text="make sure will fit gift ." />
+<item slot="3" text="find tape ." />
+<item slot="4" text="wrap paper around gift ." />
+<item slot="5" text="put tape to hold it together ." />
+</script>
+<script id="51">
+<item slot="1" text="buy wrapping paper ." />
+<item slot="2" text="get scotch tape ." />
+<item slot="3" text="get ruler ." />
+<item slot="4" text="get scissors ." />
+<item slot="5" text="measure gift ." />
+<item slot="6" text="cut paper ." />
+<item slot="7" text="place gift on paper and tape up ." />
+</script>
+</scripts>

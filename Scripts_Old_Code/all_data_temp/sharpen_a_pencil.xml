@@ -1,0 +1,225 @@
+<scripts>
+<script id="1">
+<item slot="1" text="pick up pencil ." />
+<item slot="2" text="find a pencil sharpener ." />
+<item slot="3" text="put pencil into the pencil sharpener ." />
+<item slot="4" text="turn the pencil sharpener s handle to sharpen the pencil ." />
+</script>
+<script id="2">
+<item slot="1" text="get pencil ." />
+<item slot="2" text="get sharpener ." />
+<item slot="3" text="use sharpener on pencil ." />
+<item slot="4" text="dispose of remnants ." />
+</script>
+<script id="3">
+<item slot="1" text="turn pencil in sharpener ." />
+<item slot="2" text="thow trash ." />
+</script>
+<script id="4">
+<item slot="1" text="get a sharpner ." />
+<item slot="2" text="rotate pencil to sharpen ." />
+</script>
+<script id="5">
+<item slot="1" text="take the pencil ." />
+<item slot="2" text="put the tip of the pencil inside the sharpener ." />
+<item slot="3" text="activate the sharpener ." />
+</script>
+<script id="6">
+<item slot="1" text="get pencil ." />
+<item slot="2" text="place pencil into sharpener ." />
+<item slot="3" text="turn on sharpener ." />
+<item slot="4" text="pull out pencil ." />
+</script>
+<script id="7">
+<item slot="1" text="get  pencil sharpener ." />
+<item slot="2" text="stick pencil in pencil sharpener ." />
+<item slot="3" text="rotate pencil so that wood is shaved off ." />
+<item slot="4" text="take pencil out of sharpener when sharpened ." />
+</script>
+<script id="8">
+<item slot="1" text="walk over to electric pencil sharpener ." />
+<item slot="2" text="stick in until there is some resistance ." />
+<item slot="3" text="take pencil out when resistance is gone ." />
+</script>
+<script id="9">
+<item slot="1" text="take pencil ." />
+<item slot="2" text="insert pencil into sharpener ." />
+<item slot="3" text="press pencil so that sharpener works ." />
+<item slot="4" text="remove pencil from sharpener when sharp ." />
+</script>
+<script id="10">
+<item slot="1" text="put pencil in pencil sharpener ." />
+<item slot="2" text="rotate pencil until sharpened ." />
+</script>
+<script id="11">
+<item slot="1" text="locate a pencil sharpener ." />
+<item slot="2" text="stick the pencil into the hole of the pencil sharpener ." />
+<item slot="3" text="turn the pencil for a while ." />
+<item slot="4" text="take the pencil out of the pencil sharpener ." />
+</script>
+<script id="12">
+<item slot="1" text="get pencil sharpener ." />
+<item slot="2" text="get pencil ." />
+<item slot="3" text="put pencil in sharpener ." />
+<item slot="4" text="rotate pencil ." />
+<item slot="5" text="take pencil out of sharpener ." />
+</script>
+<script id="13">
+<item slot="1" text="identify pencil ." />
+<item slot="2" text="identify sharpener ." />
+<item slot="3" text="place pencil in sharpener ." />
+<item slot="4" text="manipulate sharpener ." />
+<item slot="5" text="remove pencil ." />
+</script>
+<script id="14">
+<item slot="1" text="place pencil in hand ." />
+<item slot="2" text="place end of pencil without eraser in sharpener ." />
+<item slot="3" text="turn hand crank ." />
+<item slot="4" text="pull out pencil ." />
+</script>
+<script id="15">
+<item slot="1" text="obtain pencil ." />
+<item slot="2" text="place pencil in pencil sharpener ." />
+<item slot="3" text="turn crank ." />
+<item slot="4" text="remove pencil ." />
+</script>
+<script id="16">
+<item slot="1" text="get a sharpener ." />
+<item slot="2" text="insert the pencil ." />
+</script>
+<script id="17">
+<item slot="1" text="putting the pencil in the sharpener ." />
+<item slot="2" text="turning the handle ." />
+</script>
+<script id="18">
+<item slot="1" text="put the pencil in the sharpener ." />
+<item slot="2" text="remove the pencil ." />
+<item slot="3" text="repeat until the pencil is sharp ." />
+</script>
+<script id="19">
+<item slot="1" text="realize pencil needs sharperned ." />
+<item slot="2" text="find a pencil sharpener ." />
+<item slot="3" text="set dial to correct size ." />
+<item slot="4" text="insert pencil ." />
+<item slot="5" text="operate handle ." />
+<item slot="6" text="hold pencil steady ." />
+<item slot="7" text="remove the sharp pencil ." />
+</script>
+<script id="20">
+<item slot="1" text="pick up the pencil ." />
+<item slot="2" text="pick up the pencil sharpener ." />
+<item slot="3" text="put the pencil into the sharpener ." />
+<item slot="4" text="rotate the pencil ." />
+<item slot="5" text="remove the pencil from the sharpener ." />
+</script>
+<script id="21">
+<item slot="1" text="find sharpener ." />
+<item slot="2" text="insert pencil in opening ." />
+<item slot="3" text="turn crank on side ." />
+<item slot="4" text="remove pencil ." />
+</script>
+<script id="22">
+<item slot="1" text="find pencil sharpener ." />
+<item slot="2" text="place the pencil in pencil sharpener ." />
+<item slot="3" text="turn pencil in relation to pencil sharpener ." />
+</script>
+<script id="23">
+<item slot="1" text="put the pencil in the electric sharpener ." />
+</script>
+<script id="24">
+<item slot="1" text="put the pencil in the electric sharpener ." />
+<item slot="2" text="when the light is lit pull the pencil out ." />
+</script>
+<script id="25">
+<item slot="1" text="take pencil ." />
+<item slot="2" text="put pencil into sharpener ." />
+</script>
+<script id="26">
+<item slot="1" text="put the pencil in the hole of the sharpener ." />
+<item slot="2" text="when the light goes on pull the pencil out ." />
+</script>
+<script id="27">
+<item slot="1" text="put the pencil in the sharpener ." />
+<item slot="2" text="when the light goes on pull it out ." />
+</script>
+<script id="28">
+<item slot="1" text="put it in the sharpener ." />
+<item slot="2" text="turn the knob ." />
+</script>
+<script id="29">
+<item slot="1" text="put it in the sharpener ." />
+<item slot="2" text="turn the knob ." />
+</script>
+<script id="30">
+<item slot="1" text="pick up pencil ." />
+<item slot="2" text="insert writing end into sharpener ." />
+<item slot="3" text="hold eraser end firmly ." />
+<item slot="4" text="turn sharpener handle ." />
+<item slot="5" text="push pencil gently but firmly into sharpener ." />
+<item slot="6" text="check if pencil is sharp enough ." />
+<item slot="7" text="sharpen until sharp enough ." />
+</script>
+<script id="31">
+<item slot="1" text="hold the pencil with a firm grip ." />
+<item slot="2" text="push the pencil gently into the sharpener ." />
+<item slot="3" text="remove the pencil to check sharpness ." />
+<item slot="4" text="repeat steps 1 through 3 until the pencil is sufficiently sharp ." />
+</script>
+<script id="32">
+<item slot="1" text="hold the pencil with a firm grip ." />
+<item slot="2" text="push the pencil gently into the sharpener ." />
+<item slot="3" text="remove the pencil to check sharpness ." />
+<item slot="4" text="repeat steps 1 through 3 until the pencil is sufficiently sharp ." />
+</script>
+<script id="33">
+<item slot="1" text="put pencil into sharpener ." />
+<item slot="2" text="turn pencil until sharp ." />
+</script>
+<script id="34">
+<item slot="1" text="pick up pencil ." />
+<item slot="2" text="pick up sharpener ." />
+<item slot="3" text="insert pencil into sharpener ." />
+<item slot="4" text="twist pencil around to sharpen ." />
+<item slot="5" text="repeat step four until desired sharpness is reached ." />
+</script>
+<script id="35">
+<item slot="1" text="put pencil into sharpener ." />
+<item slot="2" text="turn pencil a couple of times ." />
+<item slot="3" text="pull out pencil from sharpener ." />
+<item slot="4" text="blow off the pencil/lead dust ." />
+</script>
+<script id="36">
+<item slot="1" text="find a pencil and sharpen it ." />
+</script>
+<script id="37">
+<item slot="1" text="put the pencil into the pencil sharpener ." />
+<item slot="2" text="turn the crank ." />
+<item slot="3" text="remove the pencil ." />
+</script>
+<script id="38">
+<item slot="1" text="put pencil in sharpener ." />
+<item slot="2" text="rotate pencil until sharp ." />
+<item slot="3" text="remove pencil from sharpener ." />
+</script>
+<script id="39">
+<item slot="1" text="put pencil in sharpener ." />
+<item slot="2" text="rotate pencil until sharp ." />
+<item slot="3" text="remove pencil from sharpener ." />
+</script>
+<script id="40">
+<item slot="1" text="put pencil in sharpener ." />
+<item slot="2" text="rotate pencil until sharp ." />
+<item slot="3" text="remove pencil from sharpener ." />
+</script>
+<script id="41">
+<item slot="1" text="get pecil ." />
+<item slot="2" text="put pencil into shapener ." />
+</script>
+<script id="42">
+<item slot="1" text="get pecil ." />
+<item slot="2" text="put pencil into shapener ." />
+</script>
+<script id="43">
+<item slot="1" text="put pencil in sharpener ." />
+</script>
+</scripts>

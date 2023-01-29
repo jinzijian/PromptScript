@@ -1,0 +1,202 @@
+<scripts>
+<script id="1">
+<item slot="1" text="vocalize words at different pitches ." />
+</script>
+<script id="2">
+<item slot="1" text="decide which song to sing ." />
+<item slot="2" text="open your mouth ." />
+<item slot="3" text="sing ." />
+</script>
+<script id="3">
+<item slot="1" text="remember the tones and words of a song ." />
+<item slot="2" text="vocalize the words using the tones ." />
+</script>
+<script id="4">
+<item slot="1" text="think of a song ." />
+<item slot="2" text="rythmically speak the lyrics to the song ." />
+</script>
+<script id="5">
+<item slot="1" text="find the text of song ." />
+<item slot="2" text="start the music ." />
+<item slot="3" text="sing a song by speaking ." />
+</script>
+<script id="6">
+<item slot="1" text="choose a song to sing ." />
+<item slot="2" text="sing the song ." />
+</script>
+<script id="7">
+<item slot="1" text="open mouth ." />
+<item slot="2" text="form the words ." />
+<item slot="3" text="sing the melody ." />
+</script>
+<script id="8">
+<item slot="1" text="open mouth ." />
+<item slot="2" text="form sounds ." />
+<item slot="3" text="make right melody with mouth ." />
+</script>
+<script id="9">
+<item slot="1" text="choose song to sing ." />
+<item slot="2" text="read the song ." />
+<item slot="3" text="make the melody of the song with your voice as you say the words ." />
+</script>
+<script id="10">
+<item slot="1" text="determine which song one wishes to sing ." />
+<item slot="2" text="produce tones and words in a given order that match what is required by the song ." />
+</script>
+<script id="11">
+<item slot="1" text="determine what song you want to sing ." />
+<item slot="2" text="find the lyrics to the song ." />
+<item slot="3" text="find the music sheets for the song ." />
+<item slot="4" text="try to make the lyrics match the tone of the song ." />
+</script>
+<script id="12">
+<item slot="1" text="pick a song ." />
+<item slot="2" text="remember lyrics ." />
+<item slot="3" text="take a breath ." />
+<item slot="4" text="sing ." />
+</script>
+<script id="13">
+<item slot="1" text="learn the words to the song ." />
+<item slot="2" text="learn the tune to a song ." />
+<item slot="3" text="sing the words ." />
+</script>
+<script id="14">
+<item slot="1" text="decide on a song ." />
+<item slot="2" text="find the song lyrics ." />
+<item slot="3" text="sing the song ." />
+</script>
+<script id="15">
+<item slot="1" text="pick a song you would like to sing ." />
+<item slot="2" text="start singing ." />
+</script>
+<script id="16">
+<item slot="1" text="turn on the microphone ." />
+<item slot="2" text="pick a song ." />
+<item slot="3" text="start singing ." />
+</script>
+<script id="17">
+<item slot="1" text="turn on the microphone ." />
+<item slot="2" text="pick a song ." />
+<item slot="3" text="start singing ." />
+</script>
+<script id="18">
+<item slot="1" text="know the lyrics ." />
+<item slot="2" text="sing ." />
+</script>
+<script id="19">
+<item slot="1" text="choose a song ." />
+<item slot="2" text="sing it ." />
+</script>
+<script id="20">
+<item slot="1" text="select a song one wants to sing ." />
+<item slot="2" text="have lyrics from the song ready ." />
+<item slot="3" text="play music from the song if desired ." />
+<item slot="4" text="sing the song ." />
+</script>
+<script id="21">
+<item slot="1" text="opening your mouth ." />
+<item slot="2" text="using your vocal cords ." />
+<item slot="3" text="vibrate the sounds into melody ." />
+</script>
+<script id="22">
+<item slot="1" text="purse lips into pucker mode ." />
+<item slot="2" text="open lips wide ." />
+<item slot="3" text="end mouth exercises ." />
+<item slot="4" text="clear your throat ." />
+<item slot="5" text="open your mouth ." />
+<item slot="6" text="engage your vocal chords ." />
+<item slot="7" text="push air though the throat and through the mouth doesn t matter if you re in tune ." />
+</script>
+<script id="23">
+<item slot="1" text="know the tune ." />
+<item slot="2" text="know the lyrics ." />
+<item slot="3" text="know the melody ." />
+<item slot="4" text="drink water ." />
+<item slot="5" text="sing the lyrics with tune ." />
+<item slot="6" text="clear throat ." />
+<item slot="7" text="drink water ." />
+</script>
+<script id="24">
+<item slot="1" text="sing a verse ." />
+<item slot="2" text="sing the chorus ." />
+<item slot="3" text="repeat until all verses have been sung ." />
+</script>
+<script id="25">
+<item slot="1" text="sing a verse ." />
+<item slot="2" text="sing the chorus ." />
+<item slot="3" text="repeat until all verses have been sung ." />
+</script>
+<script id="26">
+<item slot="1" text="think of song ." />
+<item slot="2" text="think of words ." />
+<item slot="3" text="sing ." />
+<item slot="4" text="revive audience ." />
+</script>
+<script id="27">
+<item slot="1" text="think of song ." />
+<item slot="2" text="think of words ." />
+<item slot="3" text="sing ." />
+<item slot="4" text="revive audience ." />
+</script>
+<script id="28">
+<item slot="1" text="think of song ." />
+<item slot="2" text="think of words ." />
+<item slot="3" text="sing ." />
+<item slot="4" text="revive audience ." />
+</script>
+<script id="29">
+<item slot="1" text="think of song ." />
+<item slot="2" text="think of words ." />
+<item slot="3" text="sing ." />
+<item slot="4" text="revive audience ." />
+</script>
+<script id="30">
+<item slot="1" text="think of song ." />
+<item slot="2" text="think of words ." />
+<item slot="3" text="sing ." />
+<item slot="4" text="revive audience ." />
+</script>
+<script id="31">
+<item slot="1" text="think of song ." />
+<item slot="2" text="think of words ." />
+<item slot="3" text="sing ." />
+<item slot="4" text="revive audience ." />
+</script>
+<script id="32">
+<item slot="1" text="play music ." />
+<item slot="2" text="grab lyrics ." />
+<item slot="3" text="sing along ." />
+</script>
+<script id="33">
+<item slot="1" text="play music ." />
+<item slot="2" text="grab lyrics ." />
+<item slot="3" text="sing along ." />
+</script>
+<script id="34">
+<item slot="1" text="play music ." />
+<item slot="2" text="grab lyrics ." />
+<item slot="3" text="sing along ." />
+</script>
+<script id="35">
+<item slot="1" text="pick a tune ." />
+<item slot="2" text="hand out earplugs to those near you ." />
+<item slot="3" text="sing your heart out ." />
+<item slot="4" text="pray you hit one right note ." />
+</script>
+<script id="36">
+<item slot="1" text="choose a song ." />
+<item slot="2" text="begin with first line ." />
+</script>
+<script id="37">
+<item slot="1" text="think of song to sing ." />
+<item slot="2" text="sing song ." />
+</script>
+<script id="38">
+<item slot="1" text="think of song to sing ." />
+<item slot="2" text="sing song ." />
+</script>
+<script id="39">
+<item slot="1" text="think of song to sing ." />
+<item slot="2" text="sing song ." />
+</script>
+</scripts>

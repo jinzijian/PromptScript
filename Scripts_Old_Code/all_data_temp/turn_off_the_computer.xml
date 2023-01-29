@@ -1,0 +1,429 @@
+<scripts>
+<script id="1">
+<item slot="1" text="locate the computer ." />
+<item slot="2" text="locate the front panel on the computer ." />
+<item slot="3" text="locate the power button on the computer s front ." />
+<item slot="4" text="depress the power button shortly ." />
+</script>
+<script id="2">
+<item slot="1" text="find the computer s power switch ." />
+<item slot="2" text="turn the switch to the off position ." />
+</script>
+<script id="3">
+<item slot="1" text="find the computer s power switch ." />
+<item slot="2" text="turn the switch off ." />
+</script>
+<script id="4">
+<item slot="1" text="press the off button on the computer ." />
+</script>
+<script id="5">
+<item slot="1" text="select command to shut down the computer ." />
+<item slot="2" text="wait for the computer to shut down ." />
+<item slot="3" text="if the screen says something like 'it s not safe to turn off your computer' press the power knob ." />
+</script>
+<script id="6">
+<item slot="1" text="locate power button ." />
+<item slot="2" text="push button to off position ." />
+</script>
+<script id="7">
+<item slot="1" text="execute shut down command ." />
+</script>
+<script id="8">
+<item slot="1" text="log out ." />
+<item slot="2" text="if computer is not automatically turned off push power button ." />
+</script>
+<script id="9">
+<item slot="1" text="close all running applications ." />
+<item slot="2" text="execute shut-down command ." />
+<item slot="3" text="turn off monitor if needed ." />
+</script>
+<script id="10">
+<item slot="1" text="find power button ." />
+<item slot="2" text="press power button ." />
+</script>
+<script id="11">
+<item slot="1" text="find the computer ." />
+<item slot="2" text="move to the computer ." />
+<item slot="3" text="press the button on the user s desktop on the computer to shut down the computer ." />
+<item slot="4" text="verify that the computer has turned off ." />
+</script>
+<script id="12">
+<item slot="1" text="exit all programs ." />
+<item slot="2" text="select the shutdown option ." />
+</script>
+<script id="13">
+<item slot="1" text="locate the computer ." />
+<item slot="2" text="locate the computer s control panel ." />
+<item slot="3" text="examine the computer s control panel for the power button ." />
+<item slot="4" text="briefly depress the power button ." />
+</script>
+<script id="14">
+<item slot="1" text="closing down all programs ." />
+<item slot="2" text="log out ." />
+<item slot="3" text="click on the start icon ." />
+<item slot="4" text="click on shut down comptuter ." />
+</script>
+<script id="15">
+<item slot="1" text="go to start menu ." />
+<item slot="2" text="press shut down ." />
+<item slot="3" text="choose shut down computer ." />
+<item slot="4" text="when computer says so press power button ." />
+</script>
+<script id="16">
+<item slot="1" text="reach for computer switch ." />
+<item slot="2" text="push computer switch ." />
+</script>
+<script id="17">
+<item slot="1" text="find the switch ." />
+<item slot="2" text="flip the switch ." />
+</script>
+<script id="18">
+<item slot="1" text="locate menu ." />
+<item slot="2" text="select shut down ." />
+</script>
+<script id="19">
+<item slot="1" text="save documents ." />
+<item slot="2" text="close programs ." />
+<item slot="3" text="remove disks ." />
+<item slot="4" text="press  shut down  button ." />
+<item slot="5" text="turn off peripherals ." />
+<item slot="6" text="turn off monitor ." />
+</script>
+<script id="20">
+<item slot="1" text="select shut down in the menu ." />
+<item slot="2" text="after it tells you it is safe to shut down do so ." />
+</script>
+<script id="21">
+<item slot="1" text="push the button of the cpu ." />
+<item slot="2" text="then push the button of the monitor ." />
+</script>
+<script id="22">
+<item slot="1" text="locate the switch of the computer ." />
+<item slot="2" text="press the switch to turn off the computer ." />
+</script>
+<script id="23">
+<item slot="1" text="identify computer ." />
+<item slot="2" text="identify power button ." />
+<item slot="3" text="press power button ." />
+</script>
+<script id="24">
+<item slot="1" text="press and hold the power button on the computer until it has shut itself down ." />
+</script>
+<script id="25">
+<item slot="1" text="close open applications ." />
+<item slot="2" text="press start key ." />
+<item slot="3" text="select turn off computer ." />
+<item slot="4" text="select turn off ." />
+<item slot="5" text="wait until computer powers down ." />
+<item slot="6" text="turn off monitor ." />
+</script>
+<script id="26">
+<item slot="1" text="save all unsaved data in all programs ." />
+<item slot="2" text="select the 'shut down' command ." />
+<item slot="3" text="wait for the computer to finish working ." />
+</script>
+<script id="27">
+<item slot="1" text="save all unsaved data in all programs ." />
+<item slot="2" text="select the 'shut down' command ." />
+<item slot="3" text="wait for the computer to finish working ." />
+<item slot="4" text="press the power button until the computer shuts off ." />
+</script>
+<script id="28">
+<item slot="1" text="close opened programs ." />
+<item slot="2" text="click on shut down ." />
+<item slot="3" text="shut down ." />
+</script>
+<script id="29">
+<item slot="1" text="close all other programs ." />
+<item slot="2" text="click on start ." />
+<item slot="3" text="click on turn off computer ." />
+<item slot="4" text="click on turn off ." />
+</script>
+<script id="30">
+<item slot="1" text="close all other programs ." />
+<item slot="2" text="click on start ." />
+<item slot="3" text="click on turn off computer ." />
+<item slot="4" text="click on turn off ." />
+</script>
+<script id="31">
+<item slot="1" text="decide to cease actions with computer ." />
+<item slot="2" text="close all open programs ." />
+<item slot="3" text="check email one last time ." />
+<item slot="4" text="move mouse to 'start' ." />
+<item slot="5" text="click on start ." />
+<item slot="6" text="click on close ." />
+<item slot="7" text="check to make sure action was followed then close lid ." />
+</script>
+<script id="32">
+<item slot="1" text="get instructions from the computer user ." />
+<item slot="2" text="follow those instructions ." />
+</script>
+<script id="33">
+<item slot="1" text="go to start button ." />
+<item slot="2" text="click on turn off ." />
+<item slot="3" text="push power button on monitor ." />
+</script>
+<script id="34">
+<item slot="1" text="close all programs on computer ." />
+<item slot="2" text="click on 'start' ." />
+<item slot="3" text="click on 'turn off computer' ." />
+<item slot="4" text="click on 'off' ." />
+<item slot="5" text="shut off screen ." />
+</script>
+<script id="35">
+<item slot="1" text="type bye ." />
+<item slot="2" text="press enter ." />
+<item slot="3" text="turn off monitor switch ." />
+</script>
+<script id="36">
+<item slot="1" text="select start buttom ." />
+<item slot="2" text="select 'turn off computer' ." />
+<item slot="3" text="select 'turn off computer' again ." />
+<item slot="4" text="wait until it is safe to turn off your computer ." />
+<item slot="5" text="push the power button on your computer ." />
+</script>
+<script id="37">
+<item slot="1" text="click on  start  button ." />
+<item slot="2" text="click on  turn off computer ." />
+<item slot="3" text="click on  shutdown ." />
+<item slot="4" text="wait for computer to shutdown ." />
+<item slot="5" text="switch off power from wall socket ." />
+</script>
+<script id="38">
+<item slot="1" text="save document in progress ." />
+<item slot="2" text="close programs in use ." />
+<item slot="3" text="open start menu ." />
+<item slot="4" text="choose shut down menu ." />
+<item slot="5" text="click on shut down ." />
+<item slot="6" text="wait a few moments ." />
+<item slot="7" text="close lid of lap top ." />
+</script>
+<script id="39">
+<item slot="1" text="push on off button on the computer to turn it off ." />
+</script>
+<script id="40">
+<item slot="1" text="push on off button on the computer to turn it off ." />
+</script>
+<script id="41">
+<item slot="1" text="save any work in progress ." />
+<item slot="2" text="log out of running programs ." />
+<item slot="3" text="turn off comuter ." />
+<item slot="4" text="tunr off moniter ." />
+</script>
+<script id="42">
+<item slot="1" text="click start button ." />
+<item slot="2" text="click turn off computer ." />
+<item slot="3" text="select shut down ." />
+</script>
+<script id="43">
+<item slot="1" text="close all windows ." />
+<item slot="2" text="go to menu ." />
+<item slot="3" text="go to shutdown ." />
+<item slot="4" text="click shutdown and say ok to any command boxes ." />
+<item slot="5" text="wait for computer to shut off ." />
+</script>
+<script id="44">
+<item slot="1" text="go to start menu ." />
+<item slot="2" text="click system ." />
+<item slot="3" text="click turn off ." />
+<item slot="4" text="turn off monitor ." />
+</script>
+<script id="45">
+<item slot="1" text="go to start menu ." />
+<item slot="2" text="click system ." />
+<item slot="3" text="click turn off ." />
+<item slot="4" text="turn off monitor ." />
+</script>
+<script id="46">
+<item slot="1" text="go to start menu ." />
+<item slot="2" text="click system ." />
+<item slot="3" text="click turn off ." />
+<item slot="4" text="turn off monitor ." />
+</script>
+<script id="47">
+<item slot="1" text="go to start menu ." />
+<item slot="2" text="click system ." />
+<item slot="3" text="click turn off ." />
+<item slot="4" text="turn off monitor ." />
+</script>
+<script id="48">
+<item slot="1" text="go to start menu ." />
+<item slot="2" text="click system ." />
+<item slot="3" text="click turn off ." />
+<item slot="4" text="turn off monitor ." />
+</script>
+<script id="49">
+<item slot="1" text="go to start menu ." />
+<item slot="2" text="click system ." />
+<item slot="3" text="click turn off ." />
+<item slot="4" text="turn off monitor ." />
+</script>
+<script id="50">
+<item slot="1" text="go to start menu ." />
+<item slot="2" text="click system ." />
+<item slot="3" text="click turn off ." />
+<item slot="4" text="turn off monitor ." />
+</script>
+<script id="51">
+<item slot="1" text="go to start menu ." />
+<item slot="2" text="click system ." />
+<item slot="3" text="click turn off ." />
+<item slot="4" text="turn off monitor ." />
+</script>
+<script id="52">
+<item slot="1" text="go to start menu ." />
+<item slot="2" text="click system ." />
+<item slot="3" text="click turn off ." />
+<item slot="4" text="turn off monitor ." />
+</script>
+<script id="53">
+<item slot="1" text="go to start menu ." />
+<item slot="2" text="click system ." />
+<item slot="3" text="click turn off ." />
+<item slot="4" text="turn off monitor ." />
+</script>
+<script id="54">
+<item slot="1" text="go to start menu ." />
+<item slot="2" text="click system ." />
+<item slot="3" text="click turn off ." />
+<item slot="4" text="turn off monitor ." />
+</script>
+<script id="55">
+<item slot="1" text="go to start menu ." />
+<item slot="2" text="click system ." />
+<item slot="3" text="click turn off ." />
+<item slot="4" text="turn off monitor ." />
+</script>
+<script id="56">
+<item slot="1" text="go to start menu ." />
+<item slot="2" text="click system ." />
+<item slot="3" text="click turn off ." />
+<item slot="4" text="turn off monitor ." />
+</script>
+<script id="57">
+<item slot="1" text="go to start menu ." />
+<item slot="2" text="click system ." />
+<item slot="3" text="click turn off ." />
+<item slot="4" text="turn off monitor ." />
+</script>
+<script id="58">
+<item slot="1" text="go to start menu ." />
+<item slot="2" text="click system ." />
+<item slot="3" text="click turn off ." />
+<item slot="4" text="turn off monitor ." />
+</script>
+<script id="59">
+<item slot="1" text="close all open windows ." />
+<item slot="2" text="left click start link ." />
+<item slot="3" text="left click turn off computer button ." />
+<item slot="4" text="click turn off to confirm ." />
+<item slot="5" text="press monitor power button ." />
+</script>
+<script id="60">
+<item slot="1" text="close all open windows ." />
+<item slot="2" text="left click start link ." />
+<item slot="3" text="left click turn off computer button ." />
+<item slot="4" text="click turn off to confirm ." />
+<item slot="5" text="press monitor power button ." />
+</script>
+<script id="61">
+<item slot="1" text="close all open windows ." />
+<item slot="2" text="left click start link ." />
+<item slot="3" text="left click turn off computer button ." />
+<item slot="4" text="click turn off to confirm ." />
+<item slot="5" text="press monitor power button ." />
+</script>
+<script id="62">
+<item slot="1" text="close all open windows ." />
+<item slot="2" text="left click start link ." />
+<item slot="3" text="left click turn off computer button ." />
+<item slot="4" text="click turn off to confirm ." />
+<item slot="5" text="press monitor power button ." />
+</script>
+<script id="63">
+<item slot="1" text="close all open windows ." />
+<item slot="2" text="left click start link ." />
+<item slot="3" text="left click turn off computer button ." />
+<item slot="4" text="click turn off to confirm ." />
+<item slot="5" text="press monitor power button ." />
+</script>
+<script id="64">
+<item slot="1" text="close all open windows ." />
+<item slot="2" text="left click start link ." />
+<item slot="3" text="left click turn off computer button ." />
+<item slot="4" text="click turn off to confirm ." />
+<item slot="5" text="press monitor power button ." />
+</script>
+<script id="65">
+<item slot="1" text="find computer ." />
+<item slot="2" text="find switch ." />
+<item slot="3" text="press and hold switch ." />
+</script>
+<script id="66">
+<item slot="1" text="push computer power button in ." />
+<item slot="2" text="hold computer power button in until computer turns off ." />
+</script>
+<script id="67">
+<item slot="1" text="push computer power button in ." />
+<item slot="2" text="hold computer power button in until computer turns off ." />
+</script>
+<script id="68">
+<item slot="1" text="push computer power button in ." />
+<item slot="2" text="hold computer power button in until computer turns off ." />
+</script>
+<script id="69">
+<item slot="1" text="push computer power button in ." />
+<item slot="2" text="hold computer power button in until computer turns off ." />
+</script>
+<script id="70">
+<item slot="1" text="close applications ." />
+<item slot="2" text="choose shut down from menu ." />
+</script>
+<script id="71">
+<item slot="1" text="close applications ." />
+<item slot="2" text="choose shut down from menu ." />
+</script>
+<script id="72">
+<item slot="1" text="close applications ." />
+<item slot="2" text="choose shut down from menu ." />
+</script>
+<script id="73">
+<item slot="1" text="point with mouse and click on start menu ." />
+<item slot="2" text="click on 'shut down' from menu ." />
+<item slot="3" text="find 'turn off computer' on pop up menu ." />
+<item slot="4" text="click on 'turn computer off' ." />
+<item slot="5" text="wait for computer to shut down ." />
+<item slot="6" text="turn off power source ." />
+</script>
+<script id="74">
+<item slot="1" text="log off the system ." />
+<item slot="2" text="go to start menu ." />
+<item slot="3" text="press the turn off button ." />
+<item slot="4" text="turn off monitor ." />
+</script>
+<script id="75">
+<item slot="1" text="log off the system ." />
+<item slot="2" text="go to start menu ." />
+<item slot="3" text="press the turn off button ." />
+<item slot="4" text="turn off monitor ." />
+</script>
+<script id="76">
+<item slot="1" text="log off the system ." />
+<item slot="2" text="go to start menu ." />
+<item slot="3" text="press the turn off button ." />
+<item slot="4" text="turn off monitor ." />
+</script>
+<script id="77">
+<item slot="1" text="press and hold the power button ." />
+</script>
+<script id="78">
+<item slot="1" text="walk over to computer ." />
+<item slot="2" text="log off computer ." />
+<item slot="3" text="find switch on computer ." />
+<item slot="4" text="press on/off button to off position ." />
+</script>
+<script id="79">
+<item slot="1" text="go to the computer ." />
+<item slot="2" text="switch it off ." />
+</script>
+</scripts>

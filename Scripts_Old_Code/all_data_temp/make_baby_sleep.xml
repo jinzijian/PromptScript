@@ -1,0 +1,334 @@
+<scripts>
+<script id="1">
+<item slot="1" text="give baby clean diaper ." />
+<item slot="2" text="pick up baby ." />
+<item slot="3" text="rock baby gently side to side ." />
+<item slot="4" text="sing lullaby to baby ." />
+<item slot="5" text="put baby down in bed ." />
+</script>
+<script id="2">
+<item slot="1" text="put the baby in the bed ." />
+<item slot="2" text="sing a lullaby ." />
+</script>
+<script id="3">
+<item slot="1" text="hold baby ." />
+<item slot="2" text="gently rock baby ." />
+<item slot="3" text="sing to baby ." />
+</script>
+<script id="4">
+<item slot="1" text="hold the baby in your arms ." />
+<item slot="2" text="sing to the baby ." />
+<item slot="3" text="make sure the baby does have a clean diaper on ." />
+</script>
+<script id="5">
+<item slot="1" text="hold baby in arms ." />
+<item slot="2" text="snuggle baby ." />
+<item slot="3" text="sing lulaby ." />
+</script>
+<script id="6">
+<item slot="1" text="play music ." />
+<item slot="2" text="sing a song ." />
+</script>
+<script id="7">
+<item slot="1" text="cuddle baby ." />
+<item slot="2" text="tug baby in ." />
+<item slot="3" text="sing to baby ." />
+</script>
+<script id="8">
+<item slot="1" text="hold baby in your arms ." />
+<item slot="2" text="ove baby slowly back and forth ." />
+<item slot="3" text="sing a lullaby ." />
+<item slot="4" text="put baby to bed ." />
+</script>
+<script id="9">
+<item slot="1" text="turn off any noisy electronic device ." />
+<item slot="2" text="stop any noise ." />
+<item slot="3" text="take baby in hands ." />
+<item slot="4" text="rock carefully ." />
+<item slot="5" text="sing cradlesong ." />
+<item slot="6" text="put baby back in the cradle ." />
+</script>
+<script id="10">
+<item slot="1" text="pick baby up ." />
+<item slot="2" text="hold baby ." />
+<item slot="3" text="rock baby back and forth in your arms ." />
+<item slot="4" text="pat baby s back ." />
+<item slot="5" text="place baby in baby bed ." />
+</script>
+<script id="11">
+<item slot="1" text="change its nappy ." />
+<item slot="2" text="feed it ." />
+<item slot="3" text="calm it down by singing ." />
+<item slot="4" text="lay it in cot on their back ." />
+</script>
+<script id="12">
+<item slot="1" text="place baby gently into its crib ." />
+<item slot="2" text="sing softly to the baby ." />
+<item slot="3" text="rock the crib gently ." />
+</script>
+<script id="13">
+<item slot="1" text="give the baby a bottle ." />
+<item slot="2" text="hold the baby ." />
+<item slot="3" text="rock the baby ." />
+<item slot="4" text="put the baby in his or her bed ." />
+<item slot="5" text="rub the baby s back ." />
+<item slot="6" text="sing softly to the baby ." />
+</script>
+<script id="14">
+<item slot="1" text="feed baby ." />
+<item slot="2" text="change babys diaper ." />
+<item slot="3" text="put baby to bed ." />
+<item slot="4" text="sing lullaby ." />
+</script>
+<script id="15">
+<item slot="1" text="change diaper ." />
+<item slot="2" text="feed ." />
+<item slot="3" text="burp ." />
+<item slot="4" text="rock ." />
+<item slot="5" text="place in crib ." />
+</script>
+<script id="16">
+<item slot="1" text="change diaper ." />
+<item slot="2" text="feed ." />
+<item slot="3" text="burp ." />
+<item slot="4" text="rock ." />
+<item slot="5" text="place in crib ." />
+</script>
+<script id="17">
+<item slot="1" text="change diaper ." />
+<item slot="2" text="feed ." />
+<item slot="3" text="burp ." />
+<item slot="4" text="rock ." />
+<item slot="5" text="place in crib ." />
+</script>
+<script id="18">
+<item slot="1" text="change diaper ." />
+<item slot="2" text="feed ." />
+<item slot="3" text="burp ." />
+<item slot="4" text="rock ." />
+<item slot="5" text="place in crib ." />
+</script>
+<script id="19">
+<item slot="1" text="change diaper ." />
+<item slot="2" text="feed ." />
+<item slot="3" text="burp ." />
+<item slot="4" text="rock ." />
+<item slot="5" text="place in crib ." />
+</script>
+<script id="20">
+<item slot="1" text="change diaper ." />
+<item slot="2" text="feed ." />
+<item slot="3" text="burp ." />
+<item slot="4" text="rock ." />
+<item slot="5" text="place in crib ." />
+</script>
+<script id="21">
+<item slot="1" text="change diaper ." />
+<item slot="2" text="feed ." />
+<item slot="3" text="burp ." />
+<item slot="4" text="rock ." />
+<item slot="5" text="place in crib ." />
+</script>
+<script id="22">
+<item slot="1" text="change diaper ." />
+<item slot="2" text="feed ." />
+<item slot="3" text="burp ." />
+<item slot="4" text="rock ." />
+<item slot="5" text="place in crib ." />
+</script>
+<script id="23">
+<item slot="1" text="warm bath ." />
+</script>
+<script id="24">
+<item slot="1" text="warm bath ." />
+<item slot="2" text="put fresh diaper on ." />
+<item slot="3" text="put pajamas on ." />
+<item slot="4" text="read a story ." />
+<item slot="5" text="tuck in ." />
+<item slot="6" text="play music box ." />
+<item slot="7" text="turn off light ." />
+</script>
+<script id="25">
+<item slot="1" text="feed baby ." />
+<item slot="2" text="hold in arms ." />
+<item slot="3" text="rock in chair ." />
+<item slot="4" text="sing a lullabye ." />
+<item slot="5" text="put baby in crib ." />
+</script>
+<script id="26">
+<item slot="1" text="make bottle ." />
+<item slot="2" text="put in crib ." />
+<item slot="3" text="give bottle ." />
+</script>
+<script id="27">
+<item slot="1" text="make bottle ." />
+<item slot="2" text="put in crib ." />
+<item slot="3" text="give bottle ." />
+</script>
+<script id="28">
+<item slot="1" text="feed baby ." />
+<item slot="2" text="put baby down ." />
+<item slot="3" text="turn monitor on ." />
+<item slot="4" text="turn light off ." />
+<item slot="5" text="close door ." />
+</script>
+<script id="29">
+<item slot="1" text="hold baby ." />
+<item slot="2" text="rock baby ." />
+</script>
+<script id="30">
+<item slot="1" text="turning off the light ." />
+<item slot="2" text="holding the baby closely ." />
+<item slot="3" text="sitting in the rocker ." />
+<item slot="4" text="rocking gently ." />
+<item slot="5" text="singing softly ." />
+<item slot="6" text="make no noise ." />
+<item slot="7" text="put baby in the crib ." />
+</script>
+<script id="31">
+<item slot="1" text="when child is tierd ." />
+<item slot="2" text="place child in arms ." />
+<item slot="3" text="rock and sing to child ." />
+<item slot="4" text="child should fall asleep if tierd ." />
+</script>
+<script id="32">
+<item slot="1" text="give baby a bath ." />
+<item slot="2" text="put a clean diaper on baby ." />
+<item slot="3" text="put pajamas on baby ." />
+<item slot="4" text="breastfeed baby ." />
+<item slot="5" text="hum softly to baby ." />
+<item slot="6" text="gently rock or jiggle baby ." />
+<item slot="7" text="very slowly transfer baby to crib ." />
+</script>
+<script id="33">
+<item slot="1" text="pick up the baby ." />
+<item slot="2" text="cradle in arms ." />
+<item slot="3" text="rock gently ." />
+<item slot="4" text="sing a song softly ." />
+</script>
+<script id="34">
+<item slot="1" text="hold baby ." />
+<item slot="2" text="rock baby ." />
+<item slot="3" text="pat baby ." />
+</script>
+<script id="35">
+<item slot="1" text="put baby to bed ." />
+<item slot="2" text="sing a lulaby ." />
+</script>
+<script id="36">
+<item slot="1" text="place baby in crib ." />
+<item slot="2" text="cover with baby blanket ." />
+<item slot="3" text="turn off lights ." />
+<item slot="4" text="sing until baby sleeps ." />
+</script>
+<script id="37">
+<item slot="1" text="lay baby in crib ." />
+<item slot="2" text="put blankie over baby ." />
+<item slot="3" text="sing to baby ." />
+<item slot="4" text="stroke baby softly ." />
+</script>
+<script id="38">
+<item slot="1" text="hold baby in comfortable position ." />
+<item slot="2" text="rock baby back and forth ." />
+<item slot="3" text="gently sing a lullaby ." />
+<item slot="4" text="keep cradling baby ." />
+<item slot="5" text="once baby is starting to nof off place in crib ." />
+</script>
+<script id="39">
+<item slot="1" text="hold baby in comfortable position ." />
+<item slot="2" text="rock baby back and forth ." />
+<item slot="3" text="gently sing a lullaby ." />
+<item slot="4" text="keep cradling baby ." />
+<item slot="5" text="once baby is starting to nof off place in crib ." />
+</script>
+<script id="40">
+<item slot="1" text="pick up baby ." />
+<item slot="2" text="craddle baby in your arms ." />
+<item slot="3" text="gently rock baby ." />
+<item slot="4" text="hum a song ." />
+<item slot="5" text="lay baby down in bed when asleep ." />
+<item slot="6" text="cover baby ." />
+</script>
+<script id="41">
+<item slot="1" text="pick up baby ." />
+<item slot="2" text="craddle baby in your arms ." />
+<item slot="3" text="gently rock baby ." />
+<item slot="4" text="hum a song ." />
+<item slot="5" text="lay baby down in bed when asleep ." />
+<item slot="6" text="cover baby ." />
+</script>
+<script id="42">
+<item slot="1" text="pick up baby ." />
+<item slot="2" text="craddle baby in your arms ." />
+<item slot="3" text="gently rock baby ." />
+<item slot="4" text="hum a song ." />
+<item slot="5" text="lay baby down in bed when asleep ." />
+<item slot="6" text="cover baby ." />
+</script>
+<script id="43">
+<item slot="1" text="pick up baby ." />
+<item slot="2" text="rock baby ." />
+<item slot="3" text="when baby falls asleep put baby in crib ." />
+</script>
+<script id="44">
+<item slot="1" text="pick up baby ." />
+<item slot="2" text="rock baby ." />
+<item slot="3" text="when baby falls asleep put baby in crib ." />
+</script>
+<script id="45">
+<item slot="1" text="sing baby a song ." />
+<item slot="2" text="rock baby ." />
+</script>
+<script id="46">
+<item slot="1" text="give the baby a warm bath ." />
+<item slot="2" text="give baby milk ." />
+<item slot="3" text="put baby in crib with blanket and stuffed animals ." />
+<item slot="4" text="read book or tell story to the baby ." />
+<item slot="5" text="sing softly ." />
+<item slot="6" text="turn out the lights ." />
+<item slot="7" text="leave the room ." />
+</script>
+<script id="47">
+<item slot="1" text="put baby in crib ." />
+<item slot="2" text="turn out lights ." />
+<item slot="3" text="sing softly ." />
+</script>
+<script id="48">
+<item slot="1" text="put baby in crib ." />
+<item slot="2" text="turn out lights ." />
+<item slot="3" text="sing softly ." />
+</script>
+<script id="49">
+<item slot="1" text="put baby in crib ." />
+<item slot="2" text="turn out lights ." />
+<item slot="3" text="sing softly ." />
+</script>
+<script id="50">
+<item slot="1" text="put baby in crib ." />
+<item slot="2" text="turn out lights ." />
+<item slot="3" text="sing softly ." />
+</script>
+<script id="51">
+<item slot="1" text="put baby in crib ." />
+<item slot="2" text="turn out lights ." />
+<item slot="3" text="sing softly ." />
+</script>
+<script id="52">
+<item slot="1" text="feed baby ." />
+<item slot="2" text="burp baby ." />
+<item slot="3" text="change baby ." />
+</script>
+<script id="53">
+<item slot="1" text="feed baby ." />
+<item slot="2" text="burp baby ." />
+<item slot="3" text="change baby ." />
+</script>
+<script id="54">
+<item slot="1" text="feed baby ." />
+<item slot="2" text="burp baby ." />
+<item slot="3" text="change baby ." />
+</script>
+<script id="55">
+<item slot="1" text="rock the baby ." />
+</script>
+</scripts>

@@ -1,0 +1,272 @@
+<scripts>
+<script id="1">
+<item slot="1" text="find the baby ." />
+<item slot="2" text="take present diaper out ." />
+<item slot="3" text="dispose present diaper ." />
+<item slot="4" text="get new diaper ." />
+<item slot="5" text="put new diaper on baby ." />
+</script>
+<script id="2">
+<item slot="1" text="remove diaper ." />
+<item slot="2" text="clean diaper area thouroughly ." />
+<item slot="3" text="apply ointment in necessary ." />
+<item slot="4" text="place diaper under baby ." />
+<item slot="5" text="rap back around to front ." />
+<item slot="6" text="fasten diaper holders ." />
+</script>
+<script id="3">
+<item slot="1" text="remove diaper ." />
+<item slot="2" text="clean diaper area thouroughly ." />
+<item slot="3" text="apply ointment if necessary ." />
+<item slot="4" text="place diaper under baby ." />
+<item slot="5" text="wrap back around to front ." />
+<item slot="6" text="fasten diaper holders ." />
+<item slot="7" text="throw away old diaper ." />
+</script>
+<script id="4">
+<item slot="1" text="take the baby to the change table ." />
+<item slot="2" text="remove the old diaper ." />
+<item slot="3" text="find a fresh diaper ." />
+<item slot="4" text="put the fresh diaper on the baby ." />
+<item slot="5" text="dress the baby ." />
+</script>
+<script id="5">
+<item slot="1" text="remove diaper from baby ." />
+<item slot="2" text="dispose diaper ." />
+<item slot="3" text="get a new diaper ." />
+<item slot="4" text="put new diaper on baby ." />
+</script>
+<script id="6">
+<item slot="1" text="put baby on its back on a flat surface ." />
+<item slot="2" text="take off baby s clothes ." />
+<item slot="3" text="take off baby s diaper ." />
+<item slot="4" text="clean baby ." />
+<item slot="5" text="powder baby ." />
+<item slot="6" text="put on clean diaper ." />
+<item slot="7" text="put clothes on baby ." />
+</script>
+<script id="7">
+<item slot="1" text="get a new diaper ." />
+<item slot="2" text="place baby on a surface on which the baby won t slip ." />
+<item slot="3" text="remove baby s old diaper ." />
+<item slot="4" text="put new diaper on the baby ." />
+<item slot="5" text="put the old diaper into the trash ." />
+</script>
+<script id="8">
+<item slot="1" text="find baby ." />
+<item slot="2" text="find a clean diaper ." />
+<item slot="3" text="remove baby s dirty diaper ." />
+<item slot="4" text="put clean diaper on baby ." />
+<item slot="5" text="put dirty diaper into a trash can ." />
+</script>
+<script id="9">
+<item slot="1" text="retrieve baby ." />
+<item slot="2" text="retrieve diaper ." />
+<item slot="3" text="remove soiled diaper ." />
+<item slot="4" text="apply clean diaper ." />
+<item slot="5" text="dispose of soiled diaper ." />
+</script>
+<script id="10">
+<item slot="1" text="take off the old diaper ." />
+<item slot="2" text="clean the baby ." />
+<item slot="3" text="put some baby powder on the baby ." />
+<item slot="4" text="take a new diaper ." />
+<item slot="5" text="put on the new diaper ." />
+</script>
+<script id="11">
+<item slot="1" text="place baby on bed ." />
+<item slot="2" text="remove old diaper ." />
+<item slot="3" text="wipe baby ." />
+<item slot="4" text="place new diaper ." />
+</script>
+<script id="12">
+<item slot="1" text="put baby on changing table ." />
+<item slot="2" text="undress baby to get at diaper ." />
+<item slot="3" text="with caution take diaper off baby ." />
+<item slot="4" text="throw diaper away ." />
+<item slot="5" text="clean baby ." />
+<item slot="6" text="put new diaper on baby ." />
+<item slot="7" text="dress baby ." />
+</script>
+<script id="13">
+<item slot="1" text="lay baby on changing table ." />
+<item slot="2" text="undress baby to get at the diaper ." />
+<item slot="3" text="take old diaper off ." />
+<item slot="4" text="clean baby ." />
+<item slot="5" text="put new diaper on ." />
+<item slot="6" text="dress baby ." />
+<item slot="7" text="take baby off changing table ." />
+</script>
+<script id="14">
+<item slot="1" text="put baby on flat surface ." />
+<item slot="2" text="remove old diaper ." />
+<item slot="3" text="place new diaper on baby ." />
+</script>
+<script id="15">
+<item slot="1" text="undress baby ." />
+<item slot="2" text="take off old diaper ." />
+<item slot="3" text="clean baby ." />
+<item slot="4" text="put on new diaper ." />
+<item slot="5" text="throw away old diaper ." />
+<item slot="6" text="dress baby ." />
+</script>
+<script id="16">
+<item slot="1" text="place baby on flat surface ." />
+<item slot="2" text="remove old diaper ." />
+<item slot="3" text="trash old diaper ." />
+<item slot="4" text="clean baby ." />
+<item slot="5" text="put on new diaper ." />
+</script>
+<script id="17">
+<item slot="1" text="put baby on the changing mat ." />
+<item slot="2" text="take off dirty nappy ." />
+<item slot="3" text="put nappy in a bin ." />
+<item slot="4" text="wipe bum ." />
+<item slot="5" text="put cream on bum ." />
+<item slot="6" text="put in clean nappy ." />
+<item slot="7" text="take baby off changing mat ." />
+</script>
+<script id="18">
+<item slot="1" text="remove dirty diaper ." />
+<item slot="2" text="clean bottom ." />
+<item slot="3" text="place clean diaper under bottom ." />
+<item slot="4" text="secure clean diaper ." />
+</script>
+<script id="19">
+<item slot="1" text="take dirty diaper off of baby ." />
+<item slot="2" text="wipe baby s bottom ." />
+<item slot="3" text="powder baby s bottom ." />
+<item slot="4" text="put clean diaper on baby ." />
+</script>
+<script id="20">
+<item slot="1" text="take the baby ." />
+<item slot="2" text="take off the diaper ." />
+<item slot="3" text="find a new diaper ." />
+<item slot="4" text="put on the new diaper ." />
+</script>
+<script id="21">
+<item slot="1" text="lay baby down ." />
+<item slot="2" text="get clean diaper ." />
+<item slot="3" text="remove soiled diaper from baby ." />
+<item slot="4" text="clean babys bottom with wipes ." />
+<item slot="5" text="put on clean diaper ." />
+</script>
+<script id="22">
+<item slot="1" text="get the baby ." />
+<item slot="2" text="get the diaper ." />
+<item slot="3" text="get the wipes ." />
+<item slot="4" text="lay the baby down ." />
+<item slot="5" text="take off dirty diaper ." />
+<item slot="6" text="wipe the baby ." />
+<item slot="7" text="put on new diaper ." />
+</script>
+<script id="23">
+<item slot="1" text="get the baby ." />
+<item slot="2" text="get the diaper ." />
+<item slot="3" text="get the wipes ." />
+<item slot="4" text="lay the baby down ." />
+<item slot="5" text="take off dirty diaper ." />
+<item slot="6" text="wipe the baby ." />
+<item slot="7" text="put on new diaper ." />
+</script>
+<script id="24">
+<item slot="1" text="laying baby on a comfortable surface ." />
+<item slot="2" text="removing diaper ." />
+<item slot="3" text="clean/wipe messes off baby ." />
+<item slot="4" text="baby powder baby ." />
+<item slot="5" text="dress baby in new diaper ." />
+</script>
+<script id="25">
+<item slot="1" text="change diaper ." />
+</script>
+<script id="26">
+<item slot="1" text="take off old diaper ." />
+</script>
+<script id="27">
+<item slot="1" text="get baby ." />
+<item slot="2" text="get new diaper ." />
+<item slot="3" text="lie baby down ." />
+<item slot="4" text="open diaper ." />
+<item slot="5" text="wipe bottom ." />
+<item slot="6" text="put on new diaper ." />
+<item slot="7" text="dispose of old diaper ." />
+</script>
+<script id="28">
+<item slot="1" text="put baby on back ." />
+<item slot="2" text="remove dirty diaper ." />
+<item slot="3" text="wipe affected area ." />
+<item slot="4" text="use baby powder ." />
+<item slot="5" text="put on new diaper ." />
+</script>
+<script id="29">
+<item slot="1" text="put baby on back ." />
+<item slot="2" text="remove dirty diaper ." />
+<item slot="3" text="wipe affected area ." />
+<item slot="4" text="use baby powder ." />
+<item slot="5" text="put on new diaper ." />
+</script>
+<script id="30">
+<item slot="1" text="remove old diaper and properly dispose of it ." />
+<item slot="2" text="clean filth off of baby s bottom ." />
+<item slot="3" text="wipe down baby s bottom with lotion ." />
+<item slot="4" text="powder baby with talc ." />
+<item slot="5" text="replace diaper ." />
+</script>
+<script id="31">
+<item slot="1" text="genly place baby on back on change table ." />
+<item slot="2" text="remove baby s pants ." />
+<item slot="3" text="undo diaper ." />
+</script>
+<script id="32">
+<item slot="1" text="genly place baby on back on change table ." />
+<item slot="2" text="remove baby s pants ." />
+<item slot="3" text="undo diaper ." />
+</script>
+<script id="33">
+<item slot="1" text="genly place baby on back on change table ." />
+<item slot="2" text="remove baby s pants ." />
+<item slot="3" text="undo diaper ." />
+</script>
+<script id="34">
+<item slot="1" text="genly place baby on back on change table ." />
+<item slot="2" text="remove baby s pants ." />
+<item slot="3" text="undo diaper ." />
+</script>
+<script id="35">
+<item slot="1" text="prepare in advance ." />
+<item slot="2" text="put baby on change table ." />
+<item slot="3" text="take off baby pants ." />
+<item slot="4" text="take off diaper ." />
+<item slot="5" text="wipe baby s bottom ." />
+<item slot="6" text="put on new diaper ." />
+<item slot="7" text="put back on baby pants ." />
+</script>
+<script id="36">
+<item slot="1" text="disposing of the old diaper ." />
+<item slot="2" text="securing the new diaper around baby ." />
+</script>
+<script id="37">
+<item slot="1" text="disposing of the old diaper ." />
+<item slot="2" text="securing the new diaper around baby ." />
+</script>
+<script id="38">
+<item slot="1" text="disposing of the old diaper ." />
+<item slot="2" text="securing the new diaper around baby ." />
+</script>
+<script id="39">
+<item slot="1" text="disposing of the old diaper ." />
+<item slot="2" text="securing the new diaper around baby ." />
+</script>
+<script id="40">
+<item slot="1" text="disposing of the old diaper ." />
+<item slot="2" text="securing the new diaper around baby ." />
+</script>
+<script id="41">
+<item slot="1" text="put baby on table ." />
+<item slot="2" text="remove old diaper ." />
+<item slot="3" text="clean baby ." />
+<item slot="4" text="put talc on baby ." />
+<item slot="5" text="put new diaper on baby ." />
+<item slot="6" text="dispose of old diaper ." />
+</script>
+</scripts>

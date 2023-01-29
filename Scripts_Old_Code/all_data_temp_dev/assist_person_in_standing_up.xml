@@ -1,0 +1,142 @@
+<scripts>
+<script id="1">
+<item slot="1" text="give hand to person ." />
+<item slot="2" text="grab his hand ." />
+<item slot="3" text="pull towards you ." />
+</script>
+<script id="2">
+<item slot="1" text="find that person ." />
+<item slot="2" text="walk to that person ." />
+<item slot="3" text="tell that person you re going to help ." />
+<item slot="4" text="hold his/her arms ." />
+<item slot="5" text="pull him/her up ." />
+</script>
+<script id="3">
+<item slot="1" text="crouch or bend over ." />
+<item slot="2" text="acquire stable footing ." />
+<item slot="3" text="offer hand to person ." />
+<item slot="4" text="lean backwards ." />
+<item slot="5" text="pull gently ." />
+</script>
+<script id="4">
+<item slot="1" text="go to person ." />
+<item slot="2" text="hold person s hand ." />
+<item slot="3" text="pull hand toward you ." />
+</script>
+<script id="5">
+<item slot="1" text="locate the person ." />
+<item slot="2" text="go to the person ." />
+<item slot="3" text="hold the person s arm and waist ." />
+<item slot="4" text="tell the person to stand up ." />
+<item slot="5" text="hold the person s arm and waist while s/he stands up ." />
+</script>
+<script id="6">
+<item slot="1" text="go next to person ." />
+<item slot="2" text="hold person s hand ." />
+<item slot="3" text="standing in front of person pull hand towards yourself ." />
+</script>
+<script id="7">
+<item slot="1" text="go to person ." />
+<item slot="2" text="standing in front of person grab person s hand ." />
+<item slot="3" text="pull person s arm up toward you ." />
+</script>
+<script id="8">
+<item slot="1" text="go over to the person ." />
+<item slot="2" text="grasp the person s arm ." />
+<item slot="3" text="gently pull the person up ." />
+<item slot="4" text="watch the person s feet so the person doesn t slip ." />
+<item slot="5" text="put your hand on the person s back so the person doesn t fall backward ." />
+</script>
+<script id="9">
+<item slot="1" text="identify person ." />
+<item slot="2" text="approach person ." />
+<item slot="3" text="extend hand to person ." />
+<item slot="4" text="pull person ." />
+<item slot="5" text="release person ." />
+</script>
+<script id="10">
+<item slot="1" text="go to person ." />
+<item slot="2" text="put arm under arm of person ." />
+<item slot="3" text="lift person ." />
+<item slot="4" text="make sure person is standing firmly ." />
+</script>
+<script id="11">
+<item slot="1" text="hold person s hand ." />
+<item slot="2" text="brace ." />
+<item slot="3" text="counter person s weight ." />
+</script>
+<script id="12">
+<item slot="1" text="stand in front of person ." />
+<item slot="2" text="hold out hand ." />
+<item slot="3" text="grasp person s hand ." />
+<item slot="4" text="pull on person s hand ." />
+</script>
+<script id="13">
+<item slot="1" text="grab arm of person ." />
+<item slot="2" text="help raise them up ." />
+</script>
+<script id="14">
+<item slot="1" text="grab arm of person ." />
+<item slot="2" text="help raise them up ." />
+</script>
+<script id="15">
+<item slot="1" text="grab their arms ." />
+<item slot="2" text="pull ." />
+</script>
+<script id="16">
+<item slot="1" text="go to person ." />
+<item slot="2" text="lift person ." />
+</script>
+<script id="17">
+<item slot="1" text="go to person ." />
+<item slot="2" text="lift person ." />
+</script>
+<script id="18">
+<item slot="1" text="stand in front of person ." />
+<item slot="2" text="put out your arms to person ." />
+<item slot="3" text="allow person to lever them sleves against you ." />
+<item slot="4" text="put gentlely on person as they raise ." />
+<item slot="5" text="make sure they are steady on there feet ." />
+<item slot="6" text="let go of person ." />
+</script>
+<script id="19">
+<item slot="1" text="stand next to the person ." />
+<item slot="2" text="extend your arm ." />
+<item slot="3" text="let the person grip your arm as they stand ." />
+</script>
+<script id="20">
+<item slot="1" text="stand up ." />
+<item slot="2" text="walk to them ." />
+<item slot="3" text="ask them if they want help ." />
+<item slot="4" text="hold onto their arm ." />
+<item slot="5" text="pull ." />
+<item slot="6" text="walk away ." />
+</script>
+<script id="21">
+<item slot="1" text="hold person ." />
+<item slot="2" text="pull person up ." />
+<item slot="3" text="assist person ." />
+<item slot="4" text="assist person in standing ." />
+<item slot="5" text="assist perosn in standing up ." />
+<item slot="6" text="help person ." />
+<item slot="7" text="help ." />
+</script>
+<script id="22">
+<item slot="1" text="reach out your arm ." />
+<item slot="2" text="take hold of their hand ." />
+<item slot="3" text="pull vigorously ." />
+<item slot="4" text="pull again ." />
+<item slot="5" text="get ice water ." />
+<item slot="6" text="dump it on them ." />
+<item slot="7" text="run like mad ." />
+</script>
+<script id="23">
+<item slot="1" text="reach out your arm ." />
+<item slot="2" text="take hold of their hand ." />
+<item slot="3" text="pull vigorously ." />
+<item slot="4" text="pull again ." />
+<item slot="5" text="get ice water ." />
+<item slot="6" text="dump it on them ." />
+<item slot="7" text="run like mad ." />
+</script>
+</scripts>

@@ -1,0 +1,285 @@
+<scripts>
+<script id="1">
+<item slot="1" text="plug cell phone charging cord into electrical outlet ." />
+<item slot="2" text="plug other end of charging cord into cellphone ." />
+</script>
+<script id="2">
+<item slot="1" text="locate the proper cell phone charger ." />
+<item slot="2" text="place the cell phone in the charger ." />
+<item slot="3" text="wait until the charger indicates a successful charge ." />
+<item slot="4" text="remove the cell phone from the charger ." />
+</script>
+<script id="3">
+<item slot="1" text="grasp cell phone in hand ." />
+<item slot="2" text="place on charger at appropriate contact points ." />
+<item slot="3" text="turn on charger if needed ." />
+<item slot="4" text="wait appropriate and specified amount of time for charging ." />
+</script>
+<script id="4">
+<item slot="1" text="place the cell phone in its charger base ." />
+<item slot="2" text="wait until the cell phone is charged ." />
+</script>
+<script id="5">
+<item slot="1" text="place the cell phone in its recharging base ." />
+<item slot="2" text="make sure the base is plugged in ." />
+<item slot="3" text="wait until the phone is charged ." />
+</script>
+<script id="6">
+<item slot="1" text="plug charger into wall socket ." />
+<item slot="2" text="plug charger into cell phone ." />
+<item slot="3" text="unplug charger from phone ." />
+<item slot="4" text="unplug charger from wall ." />
+</script>
+<script id="7">
+<item slot="1" text="finding the correct charger ." />
+<item slot="2" text="connecting the charger to the correct port on the cell phone ." />
+<item slot="3" text="pluging the other end of the charger into a wall recepticle ." />
+</script>
+<script id="8">
+<item slot="1" text="locate cell phone ." />
+<item slot="2" text="locate charger ." />
+<item slot="3" text="locate power outlet ." />
+<item slot="4" text="plug cell phone into charger ." />
+<item slot="5" text="plug charger into power outlet ." />
+</script>
+<script id="9">
+<item slot="1" text="get cell phone ." />
+<item slot="2" text="plug cell phone into charger ." />
+<item slot="3" text="plug charger into power outlet ." />
+<item slot="4" text="wait for battery to charge ." />
+<item slot="5" text="remove phone from charger ." />
+<item slot="6" text="remove charger from power outlet ." />
+</script>
+<script id="10">
+<item slot="1" text="connect cell phone charger to outlet ." />
+<item slot="2" text="put phone in cell phone charger ." />
+<item slot="3" text="wait ." />
+</script>
+<script id="11">
+<item slot="1" text="plug in cell phone charger into wall socket ." />
+<item slot="2" text="plug cell phone into charger cord ." />
+<item slot="3" text="wait necessary time until phone has been charged ." />
+</script>
+<script id="12">
+<item slot="1" text="get the cell phone ." />
+<item slot="2" text="plug in the cell phone charger ." />
+<item slot="3" text="place the cell phone into the cell phone charger ." />
+<item slot="4" text="make sure the cell phone is plugged into the charger properly ." />
+</script>
+<script id="13">
+<item slot="1" text="turn phone off ." />
+<item slot="2" text="get charger ." />
+<item slot="3" text="plug charger into outlet ." />
+<item slot="4" text="plug charger into phone ." />
+<item slot="5" text="leave charger in for a few hours ." />
+<item slot="6" text="remove charger from phone ." />
+<item slot="7" text="remove charger from outlet ." />
+</script>
+<script id="14">
+<item slot="1" text="plug the dc wall adapter into a power outlet ." />
+<item slot="2" text="plug the cell phone into the wall adapter ." />
+<item slot="3" text="wait until the cell phone indicates that it is fully charged ." />
+</script>
+<script id="15">
+<item slot="1" text="find cell phone charger ." />
+<item slot="2" text="find wall socket ." />
+<item slot="3" text="attach phone charger to wall socket ." />
+<item slot="4" text="attach other end of charger to cell phone ." />
+</script>
+<script id="16">
+<item slot="1" text="plug charger into wall outlet ." />
+<item slot="2" text="plug other end of cord into phone ." />
+</script>
+<script id="17">
+<item slot="1" text="take cellphone ." />
+<item slot="2" text="take charger ." />
+<item slot="3" text="plug in the charger ." />
+<item slot="4" text="plug the charger with cell phone ." />
+</script>
+<script id="18">
+<item slot="1" text="plug the cell phone into the charger ." />
+<item slot="2" text="plug the charger into the outlet ." />
+<item slot="3" text="look at the phone display ." />
+</script>
+<script id="19">
+<item slot="1" text="plug travel charger to the cell phone ." />
+<item slot="2" text="plug the other end of the travel charger into the electrical outlet ." />
+</script>
+<script id="20">
+<item slot="1" text="plug the cord to the cell phone ." />
+<item slot="2" text="plug the charger to the outlet ." />
+</script>
+<script id="21">
+<item slot="1" text="plug cell phone in ." />
+<item slot="2" text="wait till fully charged ." />
+</script>
+<script id="22">
+<item slot="1" text="put phone in charger ." />
+<item slot="2" text="plug charger in ." />
+<item slot="3" text="wait ." />
+</script>
+<script id="23">
+<item slot="1" text="get cell phone ." />
+<item slot="2" text="take cell phone to outlet ." />
+<item slot="3" text="plug cell phone into outlet ." />
+<item slot="4" text="wait 3 hours ." />
+<item slot="5" text="remove cell phone fromoutlet ." />
+</script>
+<script id="24">
+<item slot="1" text="plug cell phone charger in ." />
+<item slot="2" text="attach cell phone charger to cell phone ." />
+<item slot="3" text="wait until cell phone is fully charged ." />
+</script>
+<script id="25">
+<item slot="1" text="plug in the charger on the socket ." />
+<item slot="2" text="connect the charger to the handphone ." />
+<item slot="3" text="switch on the charger ." />
+</script>
+<script id="26">
+<item slot="1" text="plug in the charger on the socket ." />
+<item slot="2" text="connect the charger to the handphone ." />
+<item slot="3" text="switch on the charger ." />
+</script>
+<script id="27">
+<item slot="1" text="switch phone off ." />
+<item slot="2" text="find charger ." />
+<item slot="3" text="plug charger in to wall socket ." />
+<item slot="4" text="plug charger into phone ." />
+<item slot="5" text="switch wall plug to on ." />
+<item slot="6" text="leave to charge ." />
+<item slot="7" text="disconnect once charged ." />
+</script>
+<script id="28">
+<item slot="1" text="locate cell phone charger ." />
+<item slot="2" text="locate charging port on cell phone ." />
+<item slot="3" text="plug charger into cell phone ." />
+<item slot="4" text="plug charger in power outlet ." />
+<item slot="5" text="wait unitl prompted by device that charging is complete ." />
+<item slot="6" text="remove charger ." />
+</script>
+<script id="29">
+<item slot="1" text="place cell phone in charger ." />
+</script>
+<script id="30">
+<item slot="1" text="plug cell phone to charger ." />
+<item slot="2" text="plug charger to wall socket ." />
+</script>
+<script id="31">
+<item slot="1" text="plug cell phone to charger ." />
+<item slot="2" text="plug charger to wall socket ." />
+</script>
+<script id="32">
+<item slot="1" text="plug cell phone to charger ." />
+<item slot="2" text="plug charger to wall socket ." />
+</script>
+<script id="33">
+<item slot="1" text="plug cell phone to charger ." />
+<item slot="2" text="plug charger to wall socket ." />
+</script>
+<script id="34">
+<item slot="1" text="plug cell phone to charger ." />
+<item slot="2" text="plug charger to wall socket ." />
+</script>
+<script id="35">
+<item slot="1" text="plug cell phone to charger ." />
+<item slot="2" text="plug charger to wall socket ." />
+</script>
+<script id="36">
+<item slot="1" text="plug cell phone to charger ." />
+<item slot="2" text="plug charger to wall socket ." />
+</script>
+<script id="37">
+<item slot="1" text="plug cell phone to charger ." />
+<item slot="2" text="plug charger to wall socket ." />
+</script>
+<script id="38">
+<item slot="1" text="plug cell phone to charger ." />
+<item slot="2" text="plug charger to wall socket ." />
+</script>
+<script id="39">
+<item slot="1" text="plug cell phone to charger ." />
+<item slot="2" text="plug charger to wall socket ." />
+</script>
+<script id="40">
+<item slot="1" text="plug cell phone to charger ." />
+<item slot="2" text="plug charger to wall socket ." />
+</script>
+<script id="41">
+<item slot="1" text="plug cell phone to charger ." />
+<item slot="2" text="plug charger to wall socket ." />
+</script>
+<script id="42">
+<item slot="1" text="plug cell phone to charger ." />
+<item slot="2" text="plug charger to wall socket ." />
+</script>
+<script id="43">
+<item slot="1" text="plug cell phone to charger ." />
+<item slot="2" text="plug charger to wall socket ." />
+</script>
+<script id="44">
+<item slot="1" text="plug cell phone to charger ." />
+<item slot="2" text="plug charger to wall socket ." />
+</script>
+<script id="45">
+<item slot="1" text="get cellphone ." />
+<item slot="2" text="charge cell phone ." />
+<item slot="3" text="wait ." />
+</script>
+<script id="46">
+<item slot="1" text="plug charge to cell phone ." />
+</script>
+<script id="47">
+<item slot="1" text="find cell phone ." />
+<item slot="2" text="find cell phone charger ." />
+<item slot="3" text="plug charger into cell phone ." />
+<item slot="4" text="plug charger into wall ." />
+<item slot="5" text="wait ." />
+</script>
+<script id="48">
+<item slot="1" text="get charger ." />
+<item slot="2" text="connect charger to phone ." />
+<item slot="3" text="plug in charger ." />
+<item slot="4" text="wait until phone is charged ." />
+<item slot="5" text="unplug from outlet ." />
+<item slot="6" text="unplug charger from phone ." />
+<item slot="7" text="phone is charged ." />
+</script>
+<script id="49">
+<item slot="1" text="take cell phone with you ." />
+<item slot="2" text="find charger ." />
+<item slot="3" text="plug charger in the wall ." />
+<item slot="4" text="take cell phone out of case ." />
+<item slot="5" text="shut cell phone off ." />
+<item slot="6" text="plug charger in cell phone ." />
+<item slot="7" text="put on table where cats knock it over ." />
+</script>
+<script id="50">
+<item slot="1" text="take cell phone with you ." />
+<item slot="2" text="find charger ." />
+<item slot="3" text="plug charger in the wall ." />
+<item slot="4" text="take cell phone out of case ." />
+<item slot="5" text="shut cell phone off ." />
+<item slot="6" text="plug charger in cell phone ." />
+<item slot="7" text="put on table where cats knock it over ." />
+</script>
+<script id="51">
+<item slot="1" text="get cell phone ." />
+<item slot="2" text="put phone on charger ." />
+<item slot="3" text="plug in charger ." />
+</script>
+<script id="52">
+<item slot="1" text="get cell phone ." />
+<item slot="2" text="put phone on charger ." />
+<item slot="3" text="plug in charger ." />
+</script>
+<script id="53">
+<item slot="1" text="get cell phone ." />
+<item slot="2" text="put phone on charger ." />
+<item slot="3" text="plug in charger ." />
+</script>
+<script id="54">
+<item slot="1" text="get cell phone ." />
+<item slot="2" text="place cell phone on charger ." />
+<item slot="3" text="plug in charger ." />
+</script>
+</scripts>

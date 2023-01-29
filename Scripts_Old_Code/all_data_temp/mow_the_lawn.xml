@@ -1,0 +1,250 @@
+<scripts>
+<script id="1">
+<item slot="1" text="get mower ." />
+<item slot="2" text="start mower ." />
+<item slot="3" text="mow grass ." />
+<item slot="4" text="stop mower ." />
+<item slot="5" text="put mower away ." />
+</script>
+<script id="2">
+<item slot="1" text="go to the garage ." />
+<item slot="2" text="get the lawn mower ." />
+<item slot="3" text="take the lawn mower to the grass ." />
+<item slot="4" text="start the mower ." />
+<item slot="5" text="push it over the grass area ." />
+<item slot="6" text="turn off the mower ." />
+<item slot="7" text="put the mower back in the garage ." />
+</script>
+<script id="3">
+<item slot="1" text="get a lawn mover ." />
+<item slot="2" text="put the lawn mover on the lawn ." />
+<item slot="3" text="turn on or activate the lawn mover ." />
+<item slot="4" text="move the lawn mover over the lawn ." />
+</script>
+<script id="4">
+<item slot="1" text="get the lawn mover ." />
+<item slot="2" text="move close to the lawn ." />
+<item slot="3" text="start the lawnmower ." />
+<item slot="4" text="use the lawnmower on the lawn ." />
+</script>
+<script id="5">
+<item slot="1" text="fill lawnmower with gas ." />
+<item slot="2" text="start lawnmower ." />
+<item slot="3" text="push lawnmower around lawn ." />
+</script>
+<script id="6">
+<item slot="1" text="turn on the mower ." />
+<item slot="2" text="push the mower on the area that should be mowed ." />
+<item slot="3" text="turn of the mower ." />
+</script>
+<script id="7">
+<item slot="1" text="get mower ." />
+<item slot="2" text="start mover ." />
+<item slot="3" text="move mower over lawn ." />
+<item slot="4" text="find any missed spots ." />
+<item slot="5" text="mow them ." />
+<item slot="6" text="stop mower ." />
+</script>
+<script id="8">
+<item slot="1" text="start mower ." />
+<item slot="2" text="move mower over lawn ." />
+<item slot="3" text="if there are patches left move over patch ." />
+</script>
+<script id="9">
+<item slot="1" text="move lawnmover over lawn ." />
+<item slot="2" text="start lawnmower ." />
+<item slot="3" text="move around lawnmower so that it covers all the lawn ." />
+<item slot="4" text="when finished stop lawnmower ." />
+</script>
+<script id="10">
+<item slot="1" text="find the lawn mover ." />
+<item slot="2" text="move the lawn mower to the lawn ." />
+<item slot="3" text="turn on the lawn mower ." />
+<item slot="4" text="move the lawn mower across an unmowed section of the lawn in a straight line ." />
+<item slot="5" text="repeat until the lawn is mowed ." />
+</script>
+<script id="11">
+<item slot="1" text="go to the garden ." />
+<item slot="2" text="get the mower out he shed ." />
+<item slot="3" text="mow the lawn ." />
+<item slot="4" text="empty the grass cuttings ." />
+<item slot="5" text="put the mower away ." />
+<item slot="6" text="go back inside the house ." />
+</script>
+<script id="12">
+<item slot="1" text="get the mower out ." />
+<item slot="2" text="plug it in ." />
+<item slot="3" text="cut the grass ." />
+<item slot="4" text="empty the cutting box ." />
+<item slot="5" text="unplug the mower ." />
+<item slot="6" text="put the mower away ." />
+</script>
+<script id="13">
+<item slot="1" text="find push lawn mower ." />
+<item slot="2" text="move the lawn mower to the lawn ." />
+<item slot="3" text="push the lawn mower in a straight line across the line ." />
+<item slot="4" text="repeat until all of the lawn is mowed ." />
+</script>
+<script id="14">
+<item slot="1" text="get the lawn mower ." />
+<item slot="2" text="start the lawn mower ." />
+<item slot="3" text="begin mowing lawn ." />
+<item slot="4" text="continue until grass in lawn is cut ." />
+<item slot="5" text="stop mower ." />
+<item slot="6" text="put the lawn mower away ." />
+</script>
+<script id="15">
+<item slot="1" text="get the lawn mower ." />
+<item slot="2" text="move the lawn mower to the yard ." />
+<item slot="3" text="turn on the lawn mower ." />
+<item slot="4" text="mow the lawn ." />
+<item slot="5" text="turn off the lawn mower ." />
+<item slot="6" text="empty lawn mower bag in the trash ." />
+<item slot="7" text="put away the lawn mower ." />
+</script>
+<script id="16">
+<item slot="1" text="get the lawnmower ." />
+<item slot="2" text="turn the lawnmower on ." />
+<item slot="3" text="push the lawnmower around the lawn ." />
+<item slot="4" text="turn the lawnmower off ." />
+</script>
+<script id="17">
+<item slot="1" text="get mower out ." />
+<item slot="2" text="fill with gas ." />
+<item slot="3" text="turn mower on ." />
+<item slot="4" text="mow ." />
+</script>
+<script id="18">
+<item slot="1" text="take out lawn mower ." />
+<item slot="2" text="start up mower ." />
+<item slot="3" text="mow lawn ." />
+<item slot="4" text="finish ." />
+<item slot="5" text="win! ." />
+</script>
+<script id="19">
+<item slot="1" text="get out the lawn mower ." />
+<item slot="2" text="check the oil and gasoline ." />
+<item slot="3" text="prime the engine by pumping the button ." />
+<item slot="4" text="pull cord to start the mower ." />
+<item slot="5" text="follow the lawn perimeter once around ." />
+<item slot="6" text="mow the rest of the yard in even rows ." />
+</script>
+<script id="20">
+<item slot="1" text="buy gas for lawamower ." />
+<item slot="2" text="get lawamower out of shed ." />
+<item slot="3" text="put gas in lawnmower ." />
+<item slot="4" text="start lawnmower ." />
+<item slot="5" text="mow an area ." />
+<item slot="6" text="stop lawnmower ." />
+<item slot="7" text="put lawnmower away ." />
+</script>
+<script id="21">
+<item slot="1" text="buy gas for lawamower ." />
+<item slot="2" text="get lawamower out of shed ." />
+<item slot="3" text="put gas in lawnmower ." />
+<item slot="4" text="start lawnmower ." />
+<item slot="5" text="mow an area ." />
+<item slot="6" text="stop lawnmower ." />
+<item slot="7" text="put lawnmower away ." />
+</script>
+<script id="22">
+<item slot="1" text="check and add oil ." />
+<item slot="2" text="check and add gas ." />
+<item slot="3" text="cut grass ." />
+<item slot="4" text="bag cut grass ." />
+</script>
+<script id="23">
+<item slot="1" text="put gas in the lawnmower ." />
+<item slot="2" text="take lawnmower to yard ." />
+<item slot="3" text="start the lawnmower ." />
+<item slot="4" text="adjust the height of the blades ." />
+<item slot="5" text="push/ride the lawnmower across lawn ." />
+<item slot="6" text="empty grass-bag when necessary ." />
+<item slot="7" text="turn off lawnmower put away ." />
+</script>
+<script id="24">
+<item slot="1" text="put gas in the lawnmower ." />
+<item slot="2" text="start the lawnmower ." />
+<item slot="3" text="move the lawnmower over the grass in rows ." />
+<item slot="4" text="turn off the lawnmower ." />
+<item slot="5" text="empty the grass catcher on the lawnmower into the trash ." />
+</script>
+<script id="25">
+<item slot="1" text="get lawn mower ." />
+<item slot="2" text="fill with gas ." />
+<item slot="3" text="start mower ." />
+<item slot="4" text="push mower around lawn ." />
+</script>
+<script id="26">
+<item slot="1" text="pull string to start mower ." />
+<item slot="2" text="push mower down one section of grass ." />
+<item slot="3" text="mave slightly over and go back up section of grass ." />
+<item slot="4" text="mover over again and go down section ." />
+<item slot="5" text="continue until lawn is mowed ." />
+</script>
+<script id="27">
+<item slot="1" text="start lawn mower ." />
+<item slot="2" text="push lawn mower on grass ." />
+<item slot="3" text="mow until all grass has been cut ." />
+<item slot="4" text="turn off lawn mower ." />
+</script>
+<script id="28">
+<item slot="1" text="start the lawn mower ." />
+<item slot="2" text="push the lawn mower forward over the grass ." />
+<item slot="3" text="mow the lawn one mower-wide swath at a time until the lawn is completely mowed ." />
+</script>
+<script id="29">
+<item slot="1" text="start the lawn mower ." />
+<item slot="2" text="push the lawn mower forward over the grass ." />
+<item slot="3" text="mow the lawn one mower-wide swath at a time until the lawn is completely mowed ." />
+</script>
+<script id="30">
+<item slot="1" text="start the lawn mower ." />
+<item slot="2" text="push the lawn mower forward over the grass ." />
+<item slot="3" text="mow the lawn one mower-wide swath at a time until the lawn is completely mowed ." />
+</script>
+<script id="31">
+<item slot="1" text="start the lawn mower ." />
+<item slot="2" text="push the lawn mower forward over the grass ." />
+<item slot="3" text="mow the lawn one mower-wide swath at a time until the lawn is completely mowed ." />
+</script>
+<script id="32">
+<item slot="1" text="start the lawn mower ." />
+<item slot="2" text="push the lawn mower forward over the grass ." />
+<item slot="3" text="mow the lawn one mower-wide swath at a time until the lawn is completely mowed ." />
+</script>
+<script id="33">
+<item slot="1" text="start the lawn mower ." />
+<item slot="2" text="push the lawn mower forward over the grass ." />
+<item slot="3" text="mow the lawn one mower-wide swath at a time until the lawn is completely mowed ." />
+</script>
+<script id="34">
+<item slot="1" text="turn on lawn mower ." />
+<item slot="2" text="push over grass ." />
+</script>
+<script id="35">
+<item slot="1" text="go to the garage ." />
+<item slot="2" text="take out the lawn mower ." />
+<item slot="3" text="put the lawn mower on the grass ." />
+<item slot="4" text="turn on the lawn mower ." />
+<item slot="5" text="walk up and down the lawn until it is trimmed ." />
+<item slot="6" text="turn off the mower ." />
+<item slot="7" text="put the mower away ." />
+</script>
+<script id="36">
+<item slot="1" text="turn on lawn mower ." />
+<item slot="2" text="roll across grass ." />
+</script>
+<script id="37">
+<item slot="1" text="go to shed ." />
+<item slot="2" text="take out lawn mower ." />
+<item slot="3" text="fill with gas ." />
+<item slot="4" text="turn on mower ." />
+<item slot="5" text="mow grass in one direction ." />
+<item slot="6" text="mow in other direction ." />
+<item slot="7" text="put mower away ." />
+</script>
+<script id="38">
+<item slot="1" text="run lawn mower over the lawn ." />
+</script>
+</scripts>

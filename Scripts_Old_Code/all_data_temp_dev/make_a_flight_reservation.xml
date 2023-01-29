@@ -1,0 +1,382 @@
+<?xml version="1.0"?>
+<scripts>
+	<script id="1">
+		<item slot="1" text="call a flight reservation agency ."/>
+		<item slot="2" text="select a flight ."/>
+		<item slot="3" text="ask to reserve that flight ."/>
+	</script>
+	<script id="2">
+		<item slot="1" text="find the phone number for a travel agency ."/>
+		<item slot="2" text="call the agency ."/>
+		<item slot="3" text="give flight details ."/>
+		<item slot="4" text="give payment details ."/>
+		<item slot="5" text="give adress details ."/>
+		<item slot="6" text="hang up ."/>
+	</script>
+	<script id="3">
+		<item slot="1" text="call travel agent ."/>
+		<item slot="2" text="inquire about flights ."/>
+		<item slot="3" text="make decision ."/>
+		<item slot="4" text="pay ."/>
+		<item slot="5" text="hang up ."/>
+	</script>
+	<script id="4">
+		<item slot="1" text="pick a date and time to travel ."/>
+		<item slot="2" text="contact an airline ."/>
+		<item slot="3" text="tell them you destination and desired travel time ."/>
+		<item slot="4" text="select the best flight option that they present ."/>
+	</script>
+	<script id="5">
+		<item slot="1" text="visin an online travel site ."/>
+		<item slot="2" text="enter the date and location of your flight ."/>
+		<item slot="3" text="search for flights ."/>
+		<item slot="4" text="select the flight you like ."/>
+		<item slot="5" text="pay for the flight ."/>
+	</script>
+	<script id="6">
+		<item slot="1" text="decide on travel dates ."/>
+		<item slot="2" text="access travel website and enter dates and destination ."/>
+		<item slot="3" text="modify dates and/or destinations until price is acceptable ."/>
+		<item slot="4" text="book tickets ."/>
+		<item slot="5" text="give credit card number and mailing address ."/>
+	</script>
+	<script id="7">
+		<item slot="1" text="decide on travel dates ."/>
+		<item slot="2" text="access travel website and enter dates and destination ."/>
+		<item slot="3" text="if price is acceptable reserve tickets ."/>
+		<item slot="4" text="provide credit card number ."/>
+	</script>
+	<script id="8">
+		<item slot="1" text="decide on travel dates ."/>
+		<item slot="2" text="access travel website and enter dates and destination ."/>
+		<item slot="3" text="if price is acceptable reserve tickets ."/>
+		<item slot="4" text="provide credit card number ."/>
+	</script>
+	<script id="9">
+		<item slot="1" text="call travel agent ."/>
+		<item slot="2" text="inquire about flight on desired dates ."/>
+		<item slot="3" text="if price acceptable make reservation ."/>
+	</script>
+	<script id="10">
+		<item slot="1" text="go to travel website ."/>
+		<item slot="2" text="search for desired flights ."/>
+		<item slot="3" text="select flight ."/>
+		<item slot="4" text="press  make reservation ."/>
+		<item slot="5" text="enter credit card information ."/>
+		<item slot="6" text="save confirmation number ."/>
+	</script>
+	<script id="11">
+		<item slot="1" text="find airline reservation phone number in phone book ."/>
+		<item slot="2" text="call airline reservation phone number ."/>
+		<item slot="3" text="ask to reserve a flight on the date and time you wish ."/>
+	</script>
+	<script id="12">
+		<item slot="1" text="call airline ."/>
+		<item slot="2" text="tell them where you want to fly ."/>
+		<item slot="3" text="tell them when you want to fly ."/>
+		<item slot="4" text="find out which flights are available ."/>
+		<item slot="5" text="reserve best flight ."/>
+	</script>
+	<script id="13">
+		<item slot="1" text="start internet application ."/>
+		<item slot="2" text="go to site of airline ."/>
+		<item slot="3" text="fill out reservation form ."/>
+		<item slot="4" text="fill out credit card information ."/>
+		<item slot="5" text="fill out adress details ."/>
+		<item slot="6" text="confirm reservation ."/>
+	</script>
+	<script id="14">
+		<item slot="1" text="call flight reservation office ."/>
+		<item slot="2" text="give your name ."/>
+		<item slot="3" text="ask for flight reservation ."/>
+		<item slot="4" text="give the number of person ."/>
+		<item slot="5" text="give the date and time when to fly ."/>
+	</script>
+	<script id="15">
+		<item slot="1" text="call travel agent ."/>
+		<item slot="2" text="tell source of travel ."/>
+		<item slot="3" text="tell destination of travel ."/>
+		<item slot="4" text="ask for available flights ."/>
+		<item slot="5" text="select best available flight ."/>
+	</script>
+	<script id="16">
+		<item slot="1" text="pick up phone ."/>
+		<item slot="2" text="call travel agent ."/>
+		<item slot="3" text="speak with travel agent ."/>
+		<item slot="4" text="request flight reservation ."/>
+		<item slot="5" text="hang up phone ."/>
+	</script>
+	<script id="17">
+		<item slot="1" text="pick up phone ."/>
+		<item slot="2" text="call travel agent ."/>
+		<item slot="3" text="speak with travel agent ."/>
+		<item slot="4" text="request flight reservation ."/>
+		<item slot="5" text="hang up phone ."/>
+	</script>
+	<script id="18">
+		<item slot="1" text="find the airline s phone number ."/>
+		<item slot="2" text="call the airline on the phone ."/>
+		<item slot="3" text="tell the person when you want to fly ."/>
+		<item slot="4" text="give the person your credit card number ."/>
+		<item slot="5" text="say thank you ."/>
+	</script>
+	<script id="19">
+		<item slot="1" text="call find travel agent ."/>
+		<item slot="2" text="specify date/time of travel ."/>
+		<item slot="3" text="specify origin ."/>
+		<item slot="4" text="specify destination ."/>
+		<item slot="5" text="review flight/travel options ."/>
+		<item slot="6" text="contract for a flight reservation ."/>
+	</script>
+	<script id="20">
+		<item slot="1" text="call find travel agent ."/>
+		<item slot="2" text="specify date/time of travel ."/>
+		<item slot="3" text="specify origin ."/>
+		<item slot="4" text="specify destination ."/>
+		<item slot="5" text="review flight/travel options ."/>
+		<item slot="6" text="contract for a flight reservation ."/>
+	</script>
+	<script id="21">
+		<item slot="1" text="call travel agent ."/>
+		<item slot="2" text="give time of flight ."/>
+		<item slot="3" text="give number of persons flying ."/>
+		<item slot="4" text="answer any questions ."/>
+		<item slot="5" text="confirm reservation ."/>
+	</script>
+	<script id="22">
+		<item slot="1" text="goto website ."/>
+		<item slot="2" text="make reservation ."/>
+		<item slot="3" text="confirm reservation ."/>
+	</script>
+	<script id="23">
+		<item slot="1" text="goto website ."/>
+		<item slot="2" text="make reservation ."/>
+		<item slot="3" text="confirm reservation ."/>
+	</script>
+	<script id="24">
+		<item slot="1" text="go online ."/>
+		<item slot="2" text="find airline website ."/>
+		<item slot="3" text="check flight availability ."/>
+		<item slot="4" text="note flight times ."/>
+		<item slot="5" text="compare prices with competitors ."/>
+		<item slot="6" text="choose preferred flight ."/>
+		<item slot="7" text="provide credit card details ."/>
+	</script>
+	<script id="25">
+		<item slot="1" text="find the number for an airline ."/>
+		<item slot="2" text="call the airline ."/>
+		<item slot="3" text="book your flight ."/>
+	</script>
+	<script id="26">
+		<item slot="1" text="log on the airline site ."/>
+		<item slot="2" text="check times for flight ."/>
+		<item slot="3" text="choose appropriate time ."/>
+		<item slot="4" text="type in name and address ."/>
+		<item slot="5" text="write down confirmation number ."/>
+	</script>
+	<script id="27">
+		<item slot="1" text="log on the airline site ."/>
+		<item slot="2" text="check times for flight ."/>
+		<item slot="3" text="choose appropriate time ."/>
+		<item slot="4" text="type in name and address ."/>
+		<item slot="5" text="write down confirmation number ."/>
+	</script>
+	<script id="28">
+		<item slot="1" text="log on the airline site ."/>
+		<item slot="2" text="check times for flight ."/>
+		<item slot="3" text="choose appropriate time ."/>
+		<item slot="4" text="type in name and address ."/>
+		<item slot="5" text="write down confirmation number ."/>
+	</script>
+	<script id="29">
+		<item slot="1" text="calling a travel agent ."/>
+		<item slot="2" text="telling the travel agent the dates and times of travel ."/>
+		<item slot="3" text="accepting the term and conditions of the airline ."/>
+	</script>
+	<script id="30">
+		<item slot="1" text="phone call to flight reservation specialist ."/>
+		<item slot="2" text="request flight ."/>
+		<item slot="3" text="make payment ."/>
+		<item slot="4" text="receive reservation number ."/>
+		<item slot="5" text="thank reservation specialist ."/>
+		<item slot="6" text="end phone call ."/>
+	</script>
+	<script id="31">
+		<item slot="1" text="go to airline website ."/>
+		<item slot="2" text="choose flight destination ."/>
+		<item slot="3" text="choose flight time ."/>
+		<item slot="4" text="enter personal information ."/>
+		<item slot="5" text="give payment information ."/>
+		<item slot="6" text="note confirmation number ."/>
+	</script>
+	<script id="32">
+		<item slot="1" text="choose flight ."/>
+		<item slot="2" text="call travel agent ."/>
+		<item slot="3" text="book flight ."/>
+	</script>
+	<script id="33">
+		<item slot="1" text="determine destination ."/>
+		<item slot="2" text="check flight schedules ."/>
+		<item slot="3" text="price comparison ."/>
+		<item slot="4" text="call agent or book online ."/>
+		<item slot="5" text="confirm reservation ."/>
+	</script>
+	<script id="34">
+		<item slot="1" text="comparison shop ."/>
+		<item slot="2" text="decide on best deal ."/>
+		<item slot="3" text="purchase ticket ."/>
+		<item slot="4" text="pick up ticket ."/>
+	</script>
+	<script id="35">
+		<item slot="1" text="comparison shop ."/>
+		<item slot="2" text="comparison shop ."/>
+		<item slot="3" text="decide on best deal ."/>
+		<item slot="4" text="decide on best deal ."/>
+		<item slot="5" text="purchase ticket ."/>
+		<item slot="6" text="purchase ticket ."/>
+		<item slot="7" text="pick up ticket ."/>
+		<item slot="8" text="pick up ticket ."/>
+	</script>
+	<script id="36">
+		<item slot="1" text="comparison shop ."/>
+		<item slot="2" text="decide on best deal ."/>
+		<item slot="3" text="purchase ticket ."/>
+		<item slot="4" text="pick up ticket ."/>
+	</script>
+	<script id="37">
+		<item slot="1" text="comparison shop ."/>
+		<item slot="2" text="decide on best deal ."/>
+		<item slot="3" text="purchase ticket ."/>
+		<item slot="4" text="pick up ticket ."/>
+	</script>
+	<script id="38">
+		<item slot="1" text="comparison shop ."/>
+		<item slot="2" text="decide on best deal ."/>
+		<item slot="3" text="purchase ticket ."/>
+		<item slot="4" text="pick up ticket ."/>
+	</script>
+	<script id="39">
+		<item slot="1" text="comparison shop ."/>
+		<item slot="2" text="decide on best deal ."/>
+		<item slot="3" text="purchase ticket ."/>
+		<item slot="4" text="pick up ticket ."/>
+	</script>
+	<script id="40">
+		<item slot="1" text="comparison shop ."/>
+		<item slot="2" text="decide on best deal ."/>
+		<item slot="3" text="purchase ticket ."/>
+		<item slot="4" text="pick up ticket ."/>
+	</script>
+	<script id="41">
+		<item slot="1" text="comparison shop ."/>
+		<item slot="2" text="decide on best deal ."/>
+		<item slot="3" text="purchase ticket ."/>
+		<item slot="4" text="pick up ticket ."/>
+	</script>
+	<script id="42">
+		<item slot="1" text="walk toward phone ."/>
+		<item slot="2" text="call flight ."/>
+		<item slot="3" text="make flight plan ."/>
+	</script>
+	<script id="43">
+		<item slot="1" text="go to airline website ."/>
+		<item slot="2" text="choose departure city ."/>
+		<item slot="3" text="choose destination city ."/>
+		<item slot="4" text="choose dates ."/>
+		<item slot="5" text="select flight ."/>
+		<item slot="6" text="enter payment information ."/>
+		<item slot="7" text="note confirmation number ."/>
+	</script>
+	<script id="44">
+		<item slot="1" text="go to airline website ."/>
+		<item slot="2" text="choose departure city ."/>
+		<item slot="3" text="choose destination city ."/>
+		<item slot="4" text="choose dates ."/>
+		<item slot="5" text="select flight ."/>
+		<item slot="6" text="enter payment information ."/>
+		<item slot="7" text="note confirmation number ."/>
+	</script>
+	<script id="45">
+		<item slot="1" text="book flight ."/>
+	</script>
+	<script id="46">
+		<item slot="1" text="call travel agent ."/>
+		<item slot="2" text="book fight ."/>
+	</script>
+	<script id="47">
+		<item slot="1" text="make flight ."/>
+	</script>
+	<script id="48">
+		<item slot="1" text="go to airline website ."/>
+		<item slot="2" text="select dates for departure and arrival ."/>
+		<item slot="3" text="input credit card information ."/>
+	</script>
+	<script id="49">
+		<item slot="1" text="go to airline website ."/>
+		<item slot="2" text="select dates for departure and arrival ."/>
+		<item slot="3" text="input credit card information ."/>
+	</script>
+	<script id="50">
+		<item slot="1" text="go to airline website ."/>
+		<item slot="2" text="select dates for departure and arrival ."/>
+		<item slot="3" text="input credit card information ."/>
+	</script>
+	<script id="51">
+		<item slot="1" text="go to airline website ."/>
+		<item slot="2" text="select dates for departure and arrival ."/>
+		<item slot="3" text="input credit card information ."/>
+	</script>
+	<script id="52">
+		<item slot="1" text="call travel agent ."/>
+		<item slot="2" text="give pertinent info ."/>
+		<item slot="3" text="book the flight ."/>
+	</script>
+	<script id="53">
+		<item slot="1" text="get online ."/>
+		<item slot="2" text="search for cheap flight ."/>
+		<item slot="3" text="select flight ."/>
+		<item slot="4" text="pay for flight ."/>
+	</script>
+	<script id="54">
+		<item slot="1" text="find out destination ."/>
+		<item slot="2" text="find out date ."/>
+		<item slot="3" text="call airline ."/>
+		<item slot="4" text="tell airline information ."/>
+		<item slot="5" text="book seating ."/>
+		<item slot="6" text="get info on departure and arrival ."/>
+		<item slot="7" text="reservation is set ."/>
+	</script>
+	<script id="55">
+		<item slot="1" text="call the travel agent ."/>
+		<item slot="2" text="tell them where you want to go ."/>
+		<item slot="3" text="tell them dates ."/>
+		<item slot="4" text="give them money ."/>
+	</script>
+	<script id="56">
+		<item slot="1" text="call the travel agent ."/>
+		<item slot="2" text="tell them where you want to go ."/>
+		<item slot="3" text="tell them dates ."/>
+		<item slot="4" text="give them money ."/>
+	</script>
+	<script id="57">
+		<item slot="1" text="call the travel agent ."/>
+		<item slot="2" text="tell them where you want to go ."/>
+		<item slot="3" text="tell them dates ."/>
+		<item slot="4" text="give them money ."/>
+	</script>
+	<script id="58">
+		<item slot="1" text="call the travel agent ."/>
+		<item slot="2" text="tell them where you want to go ."/>
+		<item slot="3" text="tell them dates ."/>
+		<item slot="4" text="give them money ."/>
+	</script>
+	<script id="59">
+		<item slot="1" text="decide where you want to go ."/>
+		<item slot="2" text="check airfares through expedia com ."/>
+		<item slot="3" text="enter source and destination airports ."/>
+		<item slot="4" text="choose dates ."/>
+		<item slot="5" text="pick flight ."/>
+		<item slot="6" text="book flight ."/>
+		<item slot="7" text="print tickets ."/>
+	</script>
+</scripts>

@@ -1,0 +1,237 @@
+<scripts>
+<script id="1">
+<item slot="1" text="turn shreder on ." />
+<item slot="2" text="put paper in shreder ." />
+<item slot="3" text="turn shreder off ." />
+</script>
+<script id="2">
+<item slot="1" text="taking the paper ." />
+<item slot="2" text="putting it in the shredder ." />
+</script>
+<script id="3">
+<item slot="1" text="grab a few peices of paper ." />
+<item slot="2" text="place in shredder opening ." />
+<item slot="3" text="press shredder button ." />
+<item slot="4" text="wait until all pieces have been shredded ." />
+<item slot="5" text="if there are paper sleft go to 1 ." />
+</script>
+<script id="4">
+<item slot="1" text="find paper ." />
+<item slot="2" text="find a paper shredder ." />
+<item slot="3" text="turn on the paper shredder ." />
+<item slot="4" text="place one piece of paper into the shredder ." />
+<item slot="5" text="repeat until all paper is shredded ." />
+</script>
+<script id="5">
+<item slot="1" text="plugin the shredder ." />
+<item slot="2" text="switch it on ." />
+<item slot="3" text="feed the paper in the shredder ." />
+</script>
+<script id="6">
+<item slot="1" text="get the paper you want to shred ." />
+<item slot="2" text="get a pair of scissors ." />
+<item slot="3" text="cut the paper into strips with the scissors ." />
+<item slot="4" text="tear up the strips with your hands ." />
+</script>
+<script id="7">
+<item slot="1" text="take the paper to the shredder ." />
+<item slot="2" text="switch the shredder on ." />
+<item slot="3" text="feed the paper into the shredder ." />
+<item slot="4" text="switch the shredder off ." />
+</script>
+<script id="8">
+<item slot="1" text="get paper ." />
+<item slot="2" text="put paper in shredder ." />
+<item slot="3" text="push on button ." />
+</script>
+<script id="9">
+<item slot="1" text="turn the shredder on ." />
+<item slot="2" text="feed the paper into the shredder ." />
+<item slot="3" text="turn the shredder off ." />
+<item slot="4" text="deny everything :) ." />
+</script>
+<script id="10">
+<item slot="1" text="buy shredder ." />
+<item slot="2" text="unpack shredder ." />
+<item slot="3" text="plug in shredder ." />
+<item slot="4" text="read instructions ." />
+<item slot="5" text="feed paper ." />
+<item slot="6" text="empty trash ." />
+</script>
+<script id="11">
+<item slot="1" text="put the paper in a shedder ." />
+<item slot="2" text="press on to shred ." />
+</script>
+<script id="12">
+<item slot="1" text="place the paper inside the shredder slot ." />
+<item slot="2" text="turn the shredder on ." />
+<item slot="3" text="feed the paper through the shredder ." />
+<item slot="4" text="turn the shredder off ." />
+</script>
+<script id="13">
+<item slot="1" text="turn on shredder ." />
+<item slot="2" text="put edge of paper into top of shredder ." />
+<item slot="3" text="watch paper get shredded ." />
+<item slot="4" text="turn off shredder ." />
+</script>
+<script id="14">
+<item slot="1" text="turn on the shredder ." />
+<item slot="2" text="put the paper in the shredder ." />
+</script>
+<script id="15">
+<item slot="1" text="turn on paper shredder ." />
+<item slot="2" text="place paper in slot ." />
+<item slot="3" text="when done shredding turn off paper shredder ." />
+</script>
+<script id="16">
+<item slot="1" text="turn on shredder ." />
+<item slot="2" text="insert paper into shredder ." />
+</script>
+<script id="17">
+<item slot="1" text="take paper to shredder ." />
+<item slot="2" text="place papaer in shredder ." />
+<item slot="3" text="turn shredder on ." />
+</script>
+<script id="18">
+<item slot="1" text="remove staples and clips ." />
+<item slot="2" text="feed the paper to the shredder ." />
+</script>
+<script id="19">
+<item slot="1" text="pick up paper to be discarded ." />
+<item slot="2" text="take paper to shredder ." />
+<item slot="3" text="make sure shredder is turned on ." />
+<item slot="4" text="feed paper into shredder ." />
+<item slot="5" text="collect other papers to be discarded ." />
+<item slot="6" text="repeat steps 1-4 with remaining papers ." />
+<item slot="7" text="turn shredder off ." />
+</script>
+<script id="20">
+<item slot="1" text="select the paper ." />
+<item slot="2" text="shred the paper ." />
+</script>
+<script id="21">
+<item slot="1" text="get paper ." />
+<item slot="2" text="go to shredder ." />
+<item slot="3" text="put paper into shreder ." />
+<item slot="4" text="wait for the paper to be shred ." />
+<item slot="5" text="report the task being done ." />
+</script>
+<script id="22">
+<item slot="1" text="turn on paper shredder ." />
+<item slot="2" text="get piece of paper ." />
+<item slot="3" text="put paper in the shredder s slot ." />
+<item slot="4" text="allow shredder to shred paper while you guide the piece of paper gently in ." />
+</script>
+<script id="23">
+<item slot="1" text="find waste paper ." />
+<item slot="2" text="turn on paper shredder ." />
+<item slot="3" text="feed paper through afew sheets at a time ." />
+<item slot="4" text="when all the waste paper has been shredded turn shredder off ." />
+<item slot="5" text="dump the shreds in the recycle bin ." />
+</script>
+<script id="24">
+<item slot="1" text="gather paper that is to be shredded ." />
+<item slot="2" text="place paper into shredder one by one ." />
+<item slot="3" text="discard paper after it has been shredded ." />
+</script>
+<script id="25">
+<item slot="1" text="turn on shredder ." />
+<item slot="2" text="insert paper ." />
+<item slot="3" text="be careful of blades ." />
+<item slot="4" text="wait for job to finish ." />
+<item slot="5" text="turn off shredder ." />
+<item slot="6" text="discard shredded paper ." />
+</script>
+<script id="26">
+<item slot="1" text="plug in shredder ." />
+<item slot="2" text="slide paper in shredder ." />
+<item slot="3" text="dispose of paper ." />
+</script>
+<script id="27">
+<item slot="1" text="turn on paper shredder ." />
+<item slot="2" text="feed paper through shredder ." />
+</script>
+<script id="28">
+<item slot="1" text="turn on paper shredder ." />
+<item slot="2" text="feed paper through shredder ." />
+</script>
+<script id="29">
+<item slot="1" text="turn on paper shredder ." />
+<item slot="2" text="feed paper through shredder ." />
+</script>
+<script id="30">
+<item slot="1" text="turn on paper shredder ." />
+<item slot="2" text="feed paper through shredder ." />
+</script>
+<script id="31">
+<item slot="1" text="turn on paper shredder ." />
+<item slot="2" text="feed paper through shredder ." />
+</script>
+<script id="32">
+<item slot="1" text="turn on paper shredder ." />
+<item slot="2" text="feed paper through shredder ." />
+</script>
+<script id="33">
+<item slot="1" text="turn shredder on ." />
+<item slot="2" text="place paper in the feed ." />
+<item slot="3" text="turnshredder off ." />
+</script>
+<script id="34">
+<item slot="1" text="turn shredder on ." />
+<item slot="2" text="place paper in the feed ." />
+<item slot="3" text="turnshredder off ." />
+</script>
+<script id="35">
+<item slot="1" text="turn shredder on ." />
+<item slot="2" text="place paper in the feed ." />
+<item slot="3" text="turnshredder off ." />
+</script>
+<script id="36">
+<item slot="1" text="turn shredder on ." />
+<item slot="2" text="place paper in the feed ." />
+<item slot="3" text="turnshredder off ." />
+</script>
+<script id="37">
+<item slot="1" text="get piece of paper ." />
+<item slot="2" text="feed the paper into the shredder ." />
+</script>
+<script id="38">
+<item slot="1" text="get piece of paper ." />
+<item slot="2" text="feed the paper into the shredder ." />
+</script>
+<script id="39">
+<item slot="1" text="take paper one at a time ." />
+<item slot="2" text="insert paper into shredder ." />
+</script>
+<script id="40">
+<item slot="1" text="take paper one at a time ." />
+<item slot="2" text="insert paper into shredder ." />
+</script>
+<script id="41">
+<item slot="1" text="gather papers for shredding ." />
+<item slot="2" text="double check they are correct papers ." />
+<item slot="3" text="put a paper the shredder ." />
+<item slot="4" text="repeat for all documents ." />
+<item slot="5" text="gather the shredded pieces ." />
+<item slot="6" text="put in recycle bin ." />
+<item slot="7" text="sent to recycle center ." />
+</script>
+<script id="42">
+<item slot="1" text="get sheet of paper ." />
+<item slot="2" text="go to shredder ." />
+<item slot="3" text="feed paper into shredder ." />
+</script>
+<script id="43">
+<item slot="1" text="get sheet of paper ." />
+<item slot="2" text="go to shredder ." />
+<item slot="3" text="feed paper into shredder ." />
+</script>
+<script id="44">
+<item slot="1" text="get sheet of paper ." />
+<item slot="2" text="go to shredder ." />
+<item slot="3" text="feed paper into shredder ." />
+</script>
+<script id="45">
+<item slot="1" text="put paper into shredder ." />
+</script>
+</scripts>

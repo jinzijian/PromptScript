@@ -1,0 +1,229 @@
+<scripts>
+<script id="1">
+<item slot="1" text="look for the tool ." />
+<item slot="2" text="pick it up ." />
+</script>
+<script id="2">
+<item slot="1" text="move to tool ." />
+<item slot="2" text="reach to pick up tool ." />
+<item slot="3" text="pick up tool ." />
+<item slot="4" text="place tool in proper location ." />
+</script>
+<script id="3">
+<item slot="1" text="move to tool box ." />
+<item slot="2" text="open tool box ." />
+<item slot="3" text="pick up tool ." />
+<item slot="4" text="close tool box ." />
+</script>
+<script id="4">
+<item slot="1" text="move to get the tool ." />
+<item slot="2" text="take the tool ." />
+</script>
+<script id="5">
+<item slot="1" text="open tool box ." />
+<item slot="2" text="select tool ." />
+<item slot="3" text="take tool out of tool box ." />
+</script>
+<script id="6">
+<item slot="1" text="go to toolbox ." />
+<item slot="2" text="open toolbox ." />
+<item slot="3" text="take out tool of choice ." />
+</script>
+<script id="7">
+<item slot="1" text="identify the tool needed ." />
+<item slot="2" text="locate the tool ." />
+</script>
+<script id="8">
+<item slot="1" text="think about where the tool could be ." />
+<item slot="2" text="look around the places you ve thought of ." />
+<item slot="3" text="look around other places ." />
+<item slot="4" text="see the tool ." />
+<item slot="5" text="take the tool ." />
+</script>
+<script id="9">
+<item slot="1" text="go to the tool storage area ." />
+<item slot="2" text="open the tool box ." />
+<item slot="3" text="remove the tool ." />
+<item slot="4" text="carry the tool back ." />
+</script>
+<script id="10">
+<item slot="1" text="open tool box ." />
+<item slot="2" text="select tool ." />
+<item slot="3" text="take tool out of the tool box ." />
+</script>
+<script id="11">
+<item slot="1" text="open tool box ." />
+<item slot="2" text="take out tool ." />
+</script>
+<script id="12">
+<item slot="1" text="figure out where the tool is ." />
+<item slot="2" text="walk in the direction of the tool ." />
+<item slot="3" text="retrieve the tool ." />
+</script>
+<script id="13">
+<item slot="1" text="go to toll box ." />
+<item slot="2" text="open tool box ." />
+<item slot="3" text="remove tool needed ." />
+</script>
+<script id="14">
+<item slot="1" text="go to toolbox ." />
+<item slot="2" text="open toolbox ." />
+<item slot="3" text="remove tool ." />
+</script>
+<script id="15">
+<item slot="1" text="go to toolbox ." />
+<item slot="2" text="open toolbox ." />
+<item slot="3" text="get tool needed ." />
+<item slot="4" text="return to previous location ." />
+</script>
+<script id="16">
+<item slot="1" text="open tool box ." />
+<item slot="2" text="locate tool ." />
+<item slot="3" text="take tool out of tool box ." />
+</script>
+<script id="17">
+<item slot="1" text="go to toolbox ." />
+<item slot="2" text="open toolbox ." />
+<item slot="3" text="get tool ." />
+<item slot="4" text="go back ." />
+</script>
+<script id="18">
+<item slot="1" text="go to where the tool is laid ." />
+<item slot="2" text="pick up the tool ." />
+<item slot="3" text="carry the tool back to the place it needs to be ." />
+</script>
+<script id="19">
+<item slot="1" text="determine the needed tool ." />
+<item slot="2" text="attempt to locate the position of the tool ." />
+<item slot="3" text="find the tool ." />
+<item slot="4" text="pick up the tool ." />
+<item slot="5" text="return to where the tool was needed ." />
+</script>
+<script id="20">
+<item slot="1" text="go to toolbox ." />
+<item slot="2" text="open toolbox ." />
+<item slot="3" text="retrieve tool ." />
+<item slot="4" text="bring back tool ." />
+</script>
+<script id="21">
+<item slot="1" text="look for the tool ." />
+<item slot="2" text="move to the tool s location ." />
+<item slot="3" text="pick up the tool ." />
+<item slot="4" text="return to your original location ." />
+</script>
+<script id="22">
+<item slot="1" text="determine tool to be retrieved ." />
+<item slot="2" text="go to toolbox ." />
+<item slot="3" text="open toolbox ." />
+<item slot="4" text="search for tool ." />
+<item slot="5" text="grab tool ." />
+<item slot="6" text="close toolbox ." />
+<item slot="7" text="bring back to original location ." />
+</script>
+<script id="23">
+<item slot="1" text="pick up the tool ." />
+</script>
+<script id="24">
+<item slot="1" text="get the tool from the tool box ." />
+</script>
+<script id="25">
+<item slot="1" text="go to toolbox ." />
+<item slot="2" text="open toolbox ." />
+<item slot="3" text="select tool needed ." />
+<item slot="4" text="close toolbox ." />
+</script>
+<script id="26">
+<item slot="1" text="locate the tool ." />
+<item slot="2" text="go to the tool ." />
+<item slot="3" text="pick up the tool ." />
+<item slot="4" text="walk back to your first position ." />
+</script>
+<script id="27">
+<item slot="1" text="find the tool ." />
+<item slot="2" text="pick up the tool ." />
+<item slot="3" text="bring the tool back ." />
+</script>
+<script id="28">
+<item slot="1" text="walk to the tool ." />
+<item slot="2" text="grasp the tool ." />
+<item slot="3" text="pick up the tool ." />
+</script>
+<script id="29">
+<item slot="1" text="get tool ." />
+</script>
+<script id="30">
+<item slot="1" text="got to toolbox ." />
+<item slot="2" text="pick out tool ." />
+</script>
+<script id="31">
+<item slot="1" text="find the tool ." />
+<item slot="2" text="pick up the tool ." />
+<item slot="3" text="bring the tool back ." />
+</script>
+<script id="32">
+<item slot="1" text="identify the tool you need ." />
+<item slot="2" text="go to the tool box ." />
+<item slot="3" text="retrieve the tool ." />
+<item slot="4" text="use the tool ." />
+</script>
+<script id="33">
+<item slot="1" text="go to the tool box ." />
+<item slot="2" text="open the drawer ." />
+<item slot="3" text="gather the tool from the drawer ." />
+<item slot="4" text="close the drawer ." />
+</script>
+<script id="34">
+<item slot="1" text="go to tool box ." />
+<item slot="2" text="open the lid ." />
+<item slot="3" text="search for tool needed ." />
+<item slot="4" text="take out of tool box ." />
+</script>
+<script id="35">
+<item slot="1" text="identify the needed tool ." />
+<item slot="2" text="find the location of the tool ." />
+<item slot="3" text="go to location ." />
+<item slot="4" text="pick up tool ." />
+<item slot="5" text="bring back to desired location ." />
+</script>
+<script id="36">
+<item slot="1" text="go to the closet ." />
+<item slot="2" text="get the toolbox ." />
+<item slot="3" text="find the tool ." />
+<item slot="4" text="pick up the tool ." />
+<item slot="5" text="bring it to me ." />
+</script>
+<script id="37">
+<item slot="1" text="ask where the tool is ." />
+<item slot="2" text="go and get it ." />
+<item slot="3" text="bring it back ." />
+</script>
+<script id="38">
+<item slot="1" text="ask where the tool is ." />
+<item slot="2" text="go and get it ." />
+<item slot="3" text="bring it back ." />
+</script>
+<script id="39">
+<item slot="1" text="ask where the tool is ." />
+<item slot="2" text="go and get it ." />
+<item slot="3" text="bring it back ." />
+</script>
+<script id="40">
+<item slot="1" text="open toolbox ." />
+<item slot="2" text="locate tool ." />
+<item slot="3" text="retrieve tool ." />
+</script>
+<script id="41">
+<item slot="1" text="open toolbox ." />
+<item slot="2" text="locate tool ." />
+<item slot="3" text="retrieve tool ." />
+</script>
+<script id="42">
+<item slot="1" text="open toolbox ." />
+<item slot="2" text="locate tool ." />
+<item slot="3" text="retrieve tool ." />
+</script>
+<script id="43">
+<item slot="1" text="locate a tool ." />
+<item slot="2" text="pick up tool ." />
+</script>
+</scripts>

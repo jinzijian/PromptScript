@@ -1,0 +1,258 @@
+<scripts>
+<script id="1">
+<item slot="1" text="hold the clothes ." />
+<item slot="2" text="straighten the clothes out ." />
+<item slot="3" text="fold the clothes neatly ." />
+<item slot="4" text="set in a different pile ." />
+</script>
+<script id="2">
+<item slot="1" text="place clothes on a flat surface ." />
+<item slot="2" text="flatten the clothing ." />
+<item slot="3" text="bend the clothing over itself ." />
+<item slot="4" text="repeat until the desired shape appears ." />
+</script>
+<script id="3">
+<item slot="1" text="take an item out of dryer or basket ." />
+<item slot="2" text="shake out the wrinkles ." />
+<item slot="3" text="lay the item down on something flat ." />
+<item slot="4" text="fold the item into a flat compact rectangular shape ." />
+<item slot="5" text="repeat ." />
+</script>
+<script id="4">
+<item slot="1" text="remove an item of clothing from the hamper ." />
+<item slot="2" text="fold the item in half ." />
+<item slot="3" text="fold it in half again ." />
+<item slot="4" text="place the article of clothing in a pile ." />
+<item slot="5" text="place each pile in its appropriate drawer or shelf ." />
+</script>
+<script id="5">
+<item slot="1" text="lay piece  of clothing on flat surface ." />
+<item slot="2" text="fold piece of clothing ." />
+<item slot="3" text="take next piece of clothing and repeat 1 and  2 ." />
+</script>
+<script id="6">
+<item slot="1" text="take cloth and lat flat on bed ." />
+<item slot="2" text="fold and put aside ." />
+</script>
+<script id="7">
+<item slot="1" text="take clothes one by one ." />
+<item slot="2" text="lay on flat surface ." />
+<item slot="3" text="fold into a regular shape ." />
+</script>
+<script id="8">
+<item slot="1" text="find clean clothes ." />
+<item slot="2" text="pick up a piece of clothing ." />
+<item slot="3" text="fold the piece of clothing upon itselt into a rectangular shape ." />
+<item slot="4" text="place the folded clothing onto a stack ." />
+<item slot="5" text="repeat until all clothes are folded ." />
+</script>
+<script id="9">
+<item slot="1" text="locate the unfolded clothes ." />
+<item slot="2" text="take one item at a time to fold ." />
+<item slot="3" text="fold each item neatly placing it aside ." />
+</script>
+<script id="10">
+<item slot="1" text="locate improperly situated clothes ." />
+<item slot="2" text="gather clothes to one location ." />
+<item slot="3" text="organize each piece of clothing in a neat manner folding the clothes over on themselves ." />
+<item slot="4" text="store clothes in the appropriate location ." />
+</script>
+<script id="11">
+<item slot="1" text="pick up piece of garment ." />
+<item slot="2" text="fold garment ." />
+<item slot="3" text="put garment on pile ." />
+<item slot="4" text="repeat for all garments ." />
+</script>
+<script id="12">
+<item slot="1" text="locate clothes ." />
+<item slot="2" text="fold clothes ." />
+</script>
+<script id="13">
+<item slot="1" text="fold the left side of the clothes ." />
+<item slot="2" text="fold the right side of the clothes ." />
+<item slot="3" text="fold the center of the cothes ." />
+</script>
+<script id="14">
+<item slot="1" text="take clothes from dryer ." />
+<item slot="2" text="fold clothes ." />
+<item slot="3" text="put clothes away ." />
+</script>
+<script id="15">
+<item slot="1" text="get clothes ." />
+<item slot="2" text="fold clothes ." />
+</script>
+<script id="16">
+<item slot="1" text="fold clothes ." />
+<item slot="2" text="put them in the drawer ." />
+</script>
+<script id="17">
+<item slot="1" text="hold corners ." />
+</script>
+<script id="18">
+<item slot="1" text="remove clothes from dryer ." />
+<item slot="2" text="flod clothes ." />
+<item slot="3" text="place in closet ." />
+</script>
+<script id="19">
+<item slot="1" text="fodl cothes ." />
+</script>
+<script id="20">
+<item slot="1" text="iron clothes ." />
+<item slot="2" text="fold pant ." />
+</script>
+<script id="21">
+<item slot="1" text="take clothes out of dryer ." />
+<item slot="2" text="fold clothes ." />
+<item slot="3" text="place in pile ." />
+</script>
+<script id="22">
+<item slot="1" text="remove clothes from drier ." />
+<item slot="2" text="put on flat surface ." />
+<item slot="3" text="begin folding ." />
+<item slot="4" text="continue folding ." />
+<item slot="5" text="when done put on hangers ." />
+<item slot="6" text="take hangers to closet ." />
+<item slot="7" text="hang hangers ." />
+</script>
+<script id="23">
+<item slot="1" text="remove clothes from drier ." />
+<item slot="2" text="put on flat surface ." />
+<item slot="3" text="begin folding ." />
+<item slot="4" text="continue folding ." />
+<item slot="5" text="when done put on hangers ." />
+<item slot="6" text="take hangers to closet ." />
+<item slot="7" text="hang hangers ." />
+</script>
+<script id="24">
+<item slot="1" text="find a flat surface ." />
+<item slot="2" text="lay an item of clothing ." />
+<item slot="3" text="fold it in half ." />
+<item slot="4" text="fold in half once again ." />
+<item slot="5" text="pu tin a pile ." />
+<item slot="6" text="separate piles for different kinds of clothes ." />
+<item slot="7" text="repeat with each item ." />
+</script>
+<script id="25">
+<item slot="1" text="hold item in front of you and shake ." />
+<item slot="2" text="place on a flat surface ." />
+<item slot="3" text="smooth out wrinkles with open hand ." />
+<item slot="4" text="bring edges of garment together to fold lengthwise ." />
+<item slot="5" text="bring edges of garment together to fold other way ." />
+</script>
+<script id="26">
+<item slot="1" text="hold item in front of you and shake ." />
+<item slot="2" text="place on a flat surface ." />
+<item slot="3" text="smooth out wrinkles with open hand ." />
+<item slot="4" text="bring edges of garment together to fold lengthwise ." />
+<item slot="5" text="bring edges of garment together to fold other way ." />
+</script>
+<script id="27">
+<item slot="1" text="hold item in front of you and shake ." />
+<item slot="2" text="place on a flat surface ." />
+<item slot="3" text="smooth out wrinkles with open hand ." />
+<item slot="4" text="bring edges of garment together to fold lengthwise ." />
+<item slot="5" text="bring edges of garment together to fold other way ." />
+</script>
+<script id="28">
+<item slot="1" text="hold item in front of you and shake ." />
+<item slot="2" text="place on a flat surface ." />
+<item slot="3" text="smooth out wrinkles with open hand ." />
+<item slot="4" text="bring edges of garment together to fold lengthwise ." />
+<item slot="5" text="bring edges of garment together to fold other way ." />
+</script>
+<script id="29">
+<item slot="1" text="get clothes ." />
+<item slot="2" text="place on flat surface ." />
+<item slot="3" text="fold clothes ." />
+</script>
+<script id="30">
+<item slot="1" text="get clothes ." />
+<item slot="2" text="place on flat surface ." />
+<item slot="3" text="fold clothes ." />
+</script>
+<script id="31">
+<item slot="1" text="get clothes ." />
+<item slot="2" text="place on flat surface ." />
+<item slot="3" text="fold clothes ." />
+</script>
+<script id="32">
+<item slot="1" text="get clothes ." />
+<item slot="2" text="place on flat surface ." />
+<item slot="3" text="fold clothes ." />
+</script>
+<script id="33">
+<item slot="1" text="get clothes ." />
+<item slot="2" text="place on flat surface ." />
+<item slot="3" text="fold clothes ." />
+</script>
+<script id="34">
+<item slot="1" text="get clothes ." />
+<item slot="2" text="place on flat surface ." />
+<item slot="3" text="fold clothes ." />
+</script>
+<script id="35">
+<item slot="1" text="take clothes out of dryer ." />
+<item slot="2" text="shake them ." />
+<item slot="3" text="put in pile on top of dryer ." />
+<item slot="4" text="sneak upstairs ." />
+<item slot="5" text="sit in front of t v ." />
+<item slot="6" text="wait til wife gets home ." />
+<item slot="7" text="tell her the laundry needs folded ." />
+</script>
+<script id="36">
+<item slot="1" text="take clothes out of dryer ." />
+<item slot="2" text="shake them ." />
+<item slot="3" text="put in pile on top of dryer ." />
+<item slot="4" text="sneak upstairs ." />
+<item slot="5" text="sit in front of t v ." />
+<item slot="6" text="wait til wife gets home ." />
+<item slot="7" text="tell her the laundry needs folded ." />
+</script>
+<script id="37">
+<item slot="1" text="pick up clothing ." />
+<item slot="2" text="shake clothing ." />
+<item slot="3" text="check for wrinkles ." />
+<item slot="4" text="smooth clothign with one hand while holding it with the other ." />
+<item slot="5" text="chose a place to make a crease ." />
+<item slot="6" text="fold clothing at crease ." />
+<item slot="7" text="fold clothing again and pat ." />
+</script>
+<script id="38">
+<item slot="1" text="pick up clothing ." />
+<item slot="2" text="shake clothing ." />
+<item slot="3" text="check for wrinkles ." />
+<item slot="4" text="smooth clothign with one hand while holding it with the other ." />
+<item slot="5" text="chose a place to make a crease ." />
+<item slot="6" text="fold clothing at crease ." />
+<item slot="7" text="fold clothing again and pat ." />
+</script>
+<script id="39">
+<item slot="1" text="pick up clothing ." />
+<item slot="2" text="shake clothing ." />
+<item slot="3" text="check for wrinkles ." />
+<item slot="4" text="smooth clothign with one hand while holding it with the other ." />
+<item slot="5" text="chose a place to make a crease ." />
+<item slot="6" text="fold clothing at crease ." />
+<item slot="7" text="fold clothing again and pat ." />
+</script>
+<script id="40">
+<item slot="1" text="get shirt ." />
+<item slot="2" text="lay shirt out on flat surface ." />
+<item slot="3" text="fold shirt ." />
+</script>
+<script id="41">
+<item slot="1" text="get shirt ." />
+<item slot="2" text="lay shirt out on flat surface ." />
+<item slot="3" text="fold shirt ." />
+</script>
+<script id="42">
+<item slot="1" text="get shirt ." />
+<item slot="2" text="lay shirt out on flat surface ." />
+<item slot="3" text="fold shirt ." />
+</script>
+<script id="43">
+<item slot="1" text="take clothes out of dryer ." />
+<item slot="2" text="fold clothes ." />
+<item slot="3" text="put clothes away ." />
+</script>
+</scripts>

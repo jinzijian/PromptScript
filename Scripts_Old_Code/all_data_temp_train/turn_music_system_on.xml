@@ -1,0 +1,291 @@
+<scripts>
+<script id="1">
+<item slot="1" text="find the music system ." />
+<item slot="2" text="turn the power on ." />
+<item slot="3" text="adjust the volume ." />
+</script>
+<script id="2">
+<item slot="1" text="go to the music system or pick up the remote for the music system ." />
+<item slot="2" text="turn it on ." />
+<item slot="3" text="adjust the volume ." />
+<item slot="4" text="go to the station or song you wish to listen to ." />
+</script>
+<script id="3">
+<item slot="1" text="move to music system ." />
+<item slot="2" text="push power switch ." />
+</script>
+<script id="4">
+<item slot="1" text="find the music system ." />
+<item slot="2" text="find the system s on switch ." />
+<item slot="3" text="turn the switch to the on position ." />
+</script>
+<script id="5">
+<item slot="1" text="find music system ." />
+<item slot="2" text="plug music system into electrical outlet ." />
+<item slot="3" text="find music system s power switch ." />
+<item slot="4" text="turn switch to the on position ." />
+</script>
+<script id="6">
+<item slot="1" text="locate music system ." />
+<item slot="2" text="locate music system s on switch ." />
+<item slot="3" text="press the music system s on switch ." />
+</script>
+<script id="7">
+<item slot="1" text="locate music system ." />
+<item slot="2" text="locate power button on music system ." />
+<item slot="3" text="press power button on music system with finger ." />
+</script>
+<script id="8">
+<item slot="1" text="approach the music system ." />
+<item slot="2" text="press the power button ." />
+</script>
+<script id="9">
+<item slot="1" text="find power knob ." />
+<item slot="2" text="push power knob ." />
+</script>
+<script id="10">
+<item slot="1" text="find music system ." />
+<item slot="2" text="find remote ." />
+<item slot="3" text="point remote towards system ." />
+<item slot="4" text="press on button ." />
+</script>
+<script id="11">
+<item slot="1" text="grab the on knob or button ." />
+<item slot="2" text="turn or push it ." />
+<item slot="3" text="adjust the volume ." />
+</script>
+<script id="12">
+<item slot="1" text="locate remote ." />
+<item slot="2" text="point remote toward music system ." />
+<item slot="3" text="press power button ." />
+</script>
+<script id="13">
+<item slot="1" text="locate remote ." />
+<item slot="2" text="point remote toward music system ." />
+<item slot="3" text="press power button ." />
+</script>
+<script id="14">
+<item slot="1" text="find music system ." />
+<item slot="2" text="press off button ." />
+</script>
+<script id="15">
+<item slot="1" text="go to music system ." />
+<item slot="2" text="insert cd ." />
+<item slot="3" text="press play ." />
+</script>
+<script id="16">
+<item slot="1" text="take the remote control ." />
+<item slot="2" text="press the i/o button ." />
+</script>
+<script id="17">
+<item slot="1" text="go to music system location ." />
+<item slot="2" text="locate on button on music system controls ." />
+<item slot="3" text="press on button on the music system ." />
+</script>
+<script id="18">
+<item slot="1" text="fetch remote ." />
+<item slot="2" text="aim remote towards music system ." />
+<item slot="3" text="press play button ." />
+</script>
+<script id="19">
+<item slot="1" text="get in proximity of music system ." />
+<item slot="2" text="turn on power ." />
+</script>
+<script id="20">
+<item slot="1" text="plug in the music device ." />
+<item slot="2" text="turn it on ." />
+</script>
+<script id="21">
+<item slot="1" text="turn the switch on to turn on the music system ." />
+</script>
+<script id="22">
+<item slot="1" text="identify music system ." />
+<item slot="2" text="identify power button ." />
+<item slot="3" text="press power button ." />
+</script>
+<script id="23">
+<item slot="1" text="locate power button ." />
+<item slot="2" text="press power button ." />
+</script>
+<script id="24">
+<item slot="1" text="use remote control to turn on system ." />
+</script>
+<script id="25">
+<item slot="1" text="go to music system near on button ." />
+<item slot="2" text="press on button ." />
+<item slot="3" text="adjust volume to occupant preferance ." />
+</script>
+<script id="26">
+<item slot="1" text="go to music system near on button ." />
+<item slot="2" text="press on button ." />
+<item slot="3" text="adjust volume to occupant preferance ." />
+</script>
+<script id="27">
+<item slot="1" text="go to music system near on button ." />
+<item slot="2" text="press on button ." />
+<item slot="3" text="adjust volume to occupant preferance ." />
+</script>
+<script id="28">
+<item slot="1" text="go to music system near on button ." />
+<item slot="2" text="press on button ." />
+<item slot="3" text="adjust volume to occupant preferance ." />
+</script>
+<script id="29">
+<item slot="1" text="go to music system near on button ." />
+<item slot="2" text="press on button ." />
+<item slot="3" text="adjust volume to occupant preferance ." />
+</script>
+<script id="30">
+<item slot="1" text="go to music system near on button ." />
+<item slot="2" text="press on button ." />
+<item slot="3" text="adjust volume to occupant preferance ." />
+</script>
+<script id="31">
+<item slot="1" text="go to music system near on button ." />
+<item slot="2" text="press on button ." />
+<item slot="3" text="adjust volume to occupant preferance ." />
+</script>
+<script id="32">
+<item slot="1" text="go to music system near on button ." />
+<item slot="2" text="press on button ." />
+<item slot="3" text="adjust volume to occupant preferance ." />
+</script>
+<script id="33">
+<item slot="1" text="press the power button ." />
+<item slot="2" text="adjust the volume button ." />
+</script>
+<script id="34">
+<item slot="1" text="plug in power cord ." />
+<item slot="2" text="turn on power point ." />
+<item slot="3" text="turn on music system ." />
+</script>
+<script id="35">
+<item slot="1" text="plug in power cord ." />
+<item slot="2" text="turn on power point ." />
+<item slot="3" text="turn on music system ." />
+</script>
+<script id="36">
+<item slot="1" text="plug on the system ." />
+<item slot="2" text="insert cd or dvd ." />
+<item slot="3" text="press the play button ." />
+<item slot="4" text="adjust the volume ." />
+<item slot="5" text="listen the music ." />
+</script>
+<script id="37">
+<item slot="1" text="locate music system ." />
+<item slot="2" text="locate on/off button/switch ." />
+<item slot="3" text="change to on ." />
+<item slot="4" text="press play button ." />
+<item slot="5" text="adjust volume to required level ." />
+</script>
+<script id="38">
+<item slot="1" text="walk over to stereo ." />
+<item slot="2" text="press on button ." />
+</script>
+<script id="39">
+<item slot="1" text="walk to music system ." />
+<item slot="2" text="press power button ." />
+</script>
+<script id="40">
+<item slot="1" text="walk ." />
+<item slot="2" text="walk towards stereo or radio ." />
+<item slot="3" text="turn on radio ." />
+<item slot="4" text="change radio ." />
+<item slot="5" text="put cd inside system ." />
+<item slot="6" text="turn on system ." />
+<item slot="7" text="turn up volume ." />
+</script>
+<script id="41">
+<item slot="1" text="go to stereo ." />
+<item slot="2" text="find power button ." />
+<item slot="3" text="push ." />
+</script>
+<script id="42">
+<item slot="1" text="find music system remote ." />
+<item slot="2" text="press power button ." />
+<item slot="3" text="enjoy ." />
+</script>
+<script id="43">
+<item slot="1" text="find music system remote ." />
+<item slot="2" text="press power button ." />
+<item slot="3" text="enjoy ." />
+</script>
+<script id="44">
+<item slot="1" text="hit power button ." />
+<item slot="2" text="select cd ." />
+<item slot="3" text="press play cd ." />
+<item slot="4" text="turn up volume ." />
+</script>
+<script id="45">
+<item slot="1" text="hit power button ." />
+<item slot="2" text="select cd ." />
+<item slot="3" text="press play cd ." />
+<item slot="4" text="turn up volume ." />
+</script>
+<script id="46">
+<item slot="1" text="hit power button ." />
+<item slot="2" text="select cd ." />
+<item slot="3" text="press play cd ." />
+<item slot="4" text="turn up volume ." />
+</script>
+<script id="47">
+<item slot="1" text="find system ." />
+<item slot="2" text="hit the on button ." />
+</script>
+<script id="48">
+<item slot="1" text="find system ." />
+<item slot="2" text="hit the on button ." />
+</script>
+<script id="49">
+<item slot="1" text="find system ." />
+<item slot="2" text="hit the on button ." />
+</script>
+<script id="50">
+<item slot="1" text="find system ." />
+<item slot="2" text="hit the on button ." />
+</script>
+<script id="51">
+<item slot="1" text="find system ." />
+<item slot="2" text="hit the on button ." />
+</script>
+<script id="52">
+<item slot="1" text="find system ." />
+<item slot="2" text="hit the on button ." />
+</script>
+<script id="53">
+<item slot="1" text="hit on ." />
+</script>
+<script id="54">
+<item slot="1" text="hit on ." />
+</script>
+<script id="55">
+<item slot="1" text="press the on button ." />
+</script>
+<script id="56">
+<item slot="1" text="press the on button ." />
+</script>
+<script id="57">
+<item slot="1" text="press the on button ." />
+</script>
+<script id="58">
+<item slot="1" text="press the on button ." />
+</script>
+<script id="59">
+<item slot="1" text="select disc ." />
+<item slot="2" text="put disc into music system ." />
+<item slot="3" text="turn power on ." />
+<item slot="4" text="press play button ." />
+</script>
+<script id="60">
+<item slot="1" text="select disc ." />
+<item slot="2" text="put disc into music system ." />
+<item slot="3" text="turn power on ." />
+<item slot="4" text="press play button ." />
+</script>
+<script id="61">
+<item slot="1" text="select disc ." />
+<item slot="2" text="put disc into music system ." />
+<item slot="3" text="turn power on ." />
+<item slot="4" text="press play button ." />
+</script>
+</scripts>

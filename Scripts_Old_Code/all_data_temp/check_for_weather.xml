@@ -1,0 +1,254 @@
+<scripts>
+<script id="1">
+<item slot="1" text="go to www weather com ." />
+<item slot="2" text="enter the zipcode of the area you want to know the weather of ." />
+</script>
+<script id="2">
+<item slot="1" text="open the door ." />
+<item slot="2" text="stick out the arm ." />
+<item slot="3" text="feel for temperature and rain ." />
+<item slot="4" text="look outside for rain and clouds ." />
+</script>
+<script id="3">
+<item slot="1" text="go to window or door ." />
+<item slot="2" text="make sure there are no obstacles in way ." />
+<item slot="3" text="examine sky for clouds ." />
+<item slot="4" text="examine wind speed ." />
+<item slot="5" text="examine humidity and percipitation ." />
+<item slot="6" text="if any readings above or below normal there is weather ." />
+</script>
+<script id="4">
+<item slot="1" text="go outside ." />
+<item slot="2" text="look at the sky ." />
+</script>
+<script id="5">
+<item slot="1" text="draw curtains ." />
+<item slot="2" text="look outside at sky ." />
+<item slot="3" text="check for rain ." />
+</script>
+<script id="6">
+<item slot="1" text="go outside ." />
+<item slot="2" text="feel the temperature ." />
+<item slot="3" text="look for clouds ." />
+<item slot="4" text="check for rain ." />
+</script>
+<script id="7">
+<item slot="1" text="go to a window using your legs to walk there ." />
+<item slot="2" text="look outside through the window using your eyes ." />
+<item slot="3" text="decide what kind of weather is currently outside ." />
+</script>
+<script id="8">
+<item slot="1" text="go to the tv ." />
+<item slot="2" text="turn the tv to the weather channel ." />
+<item slot="3" text="look for news about the weather in your area ." />
+<item slot="4" text="note any potential weather activity such as temperature changes or rain ." />
+</script>
+<script id="9">
+<item slot="1" text="turn on the television ." />
+<item slot="2" text="change the channel to the weather channel ." />
+<item slot="3" text="listen to the weather being given ." />
+<item slot="4" text="make note of the important weather information in your area ." />
+</script>
+<script id="10">
+<item slot="1" text="turn on tv ." />
+<item slot="2" text="go to weather channel ." />
+<item slot="3" text="watch tv ." />
+</script>
+<script id="11">
+<item slot="1" text="switch television on ." />
+<item slot="2" text="switch to correct channel ." />
+<item slot="3" text="switch to text view ." />
+<item slot="4" text="move to weather page ." />
+<item slot="5" text="read weather page ." />
+</script>
+<script id="12">
+<item slot="1" text="turn on the television ." />
+<item slot="2" text="change television to weather channel ." />
+<item slot="3" text="wait for weather report ." />
+<item slot="4" text="listen to report ." />
+</script>
+<script id="13">
+<item slot="1" text="look out window ." />
+</script>
+<script id="14">
+<item slot="1" text="walk to window ." />
+<item slot="2" text="look out the window ." />
+</script>
+<script id="15">
+<item slot="1" text="look outside at the sky ." />
+</script>
+<script id="16">
+<item slot="1" text="look outside at the sky ." />
+</script>
+<script id="17">
+<item slot="1" text="look outside at the sky ." />
+</script>
+<script id="18">
+<item slot="1" text="look outside at the sky ." />
+</script>
+<script id="19">
+<item slot="1" text="look outside at the sky ." />
+</script>
+<script id="20">
+<item slot="1" text="look outside at the sky ." />
+</script>
+<script id="21">
+<item slot="1" text="look outside at the sky ." />
+</script>
+<script id="22">
+<item slot="1" text="look outside at the sky ." />
+</script>
+<script id="23">
+<item slot="1" text="look out the window ." />
+</script>
+<script id="24">
+<item slot="1" text="open window ." />
+<item slot="2" text="stick hand outside ." />
+<item slot="3" text="evalutate sensations from hand ." />
+<item slot="4" text="relate sensations to weather conditions ." />
+</script>
+<script id="25">
+<item slot="1" text="open window ." />
+<item slot="2" text="stick hand outside ." />
+<item slot="3" text="evalutate sensations from hand ." />
+<item slot="4" text="relate sensations to weather conditions ." />
+</script>
+<script id="26">
+<item slot="1" text="turn on radio ." />
+</script>
+<script id="27">
+<item slot="1" text="turn on radio ." />
+<item slot="2" text="listen to weather report ." />
+</script>
+<script id="28">
+<item slot="1" text="goto information ." />
+<item slot="2" text="check for weather ." />
+</script>
+<script id="29">
+<item slot="1" text="turn on the tv ." />
+<item slot="2" text="switch to the weather channel ." />
+<item slot="3" text="listen for report on weather in local area ." />
+<item slot="4" text="tunr off tv ." />
+</script>
+<script id="30">
+<item slot="1" text="go outside ." />
+<item slot="2" text="look up ." />
+<item slot="3" text="observe sky ." />
+<item slot="4" text="record data ." />
+<item slot="5" text="look forward ." />
+<item slot="6" text="go inside ." />
+<item slot="7" text="analyize data ." />
+</script>
+<script id="31">
+<item slot="1" text="turn on the television ." />
+<item slot="2" text="put on the weather network ." />
+<item slot="3" text="wait for weather broadcast ." />
+<item slot="4" text="turn off television ." />
+</script>
+<script id="32">
+<item slot="1" text="turn on tv ." />
+<item slot="2" text="turn to weather channel ." />
+<item slot="3" text="watch until home area is mentioned ." />
+<item slot="4" text="watch weatherman discuss local weather ." />
+</script>
+<script id="33">
+<item slot="1" text="weather check ." />
+</script>
+<script id="34">
+<item slot="1" text="weather check ." />
+</script>
+<script id="35">
+<item slot="1" text="weather check ." />
+</script>
+<script id="36">
+<item slot="1" text="weather check ." />
+</script>
+<script id="37">
+<item slot="1" text="weather check ." />
+</script>
+<script id="38">
+<item slot="1" text="weather check ." />
+</script>
+<script id="39">
+<item slot="1" text="weather check ." />
+</script>
+<script id="40">
+<item slot="1" text="turn on tv ." />
+<item slot="2" text="check magazine ." />
+<item slot="3" text="look at newspaper ." />
+<item slot="4" text="check channel ." />
+<item slot="5" text="open newspaper ." />
+<item slot="6" text="open magazine ." />
+<item slot="7" text="check weather ." />
+</script>
+<script id="41">
+<item slot="1" text="turn on tv ." />
+<item slot="2" text="turn to weather channel ." />
+<item slot="3" text="listen to forecast for your area ." />
+<item slot="4" text="open the door to the outside world and see what it looks like ." />
+</script>
+<script id="42">
+<item slot="1" text="turn on tv ." />
+<item slot="2" text="turn to weather channel ." />
+<item slot="3" text="listen to forecast for your area ." />
+<item slot="4" text="open the door to the outside world and see what it looks like ." />
+</script>
+<script id="43">
+<item slot="1" text="turn on tv ." />
+<item slot="2" text="turn to weather channel ." />
+<item slot="3" text="listen to forecast for your area ." />
+<item slot="4" text="open the door to the outside world and see what it looks like ." />
+</script>
+<script id="44">
+<item slot="1" text="turn on tv ." />
+<item slot="2" text="turn to weather channel ." />
+<item slot="3" text="listen to forecast for your area ." />
+<item slot="4" text="open the door to the outside world and see what it looks like ." />
+</script>
+<script id="45">
+<item slot="1" text="turn on tv ." />
+<item slot="2" text="turn to weather channel ." />
+<item slot="3" text="listen to forecast for your area ." />
+<item slot="4" text="open the door to the outside world and see what it looks like ." />
+</script>
+<script id="46">
+<item slot="1" text="turn on tv ." />
+<item slot="2" text="turn to weather channel ." />
+<item slot="3" text="listen to forecast for your area ." />
+<item slot="4" text="open the door to the outside world and see what it looks like ." />
+</script>
+<script id="47">
+<item slot="1" text="turn on tv ." />
+<item slot="2" text="change to weather channel ." />
+</script>
+<script id="48">
+<item slot="1" text="look outside the window ." />
+</script>
+<script id="49">
+<item slot="1" text="look outside the window ." />
+</script>
+<script id="50">
+<item slot="1" text="open curtains ." />
+<item slot="2" text="look out window ." />
+</script>
+<script id="51">
+<item slot="1" text="open curtains ." />
+<item slot="2" text="look out window ." />
+</script>
+<script id="52">
+<item slot="1" text="open curtains ." />
+<item slot="2" text="look out window ." />
+</script>
+<script id="53">
+<item slot="1" text="open curtains ." />
+<item slot="2" text="look out window ." />
+</script>
+<script id="54">
+<item slot="1" text="open curtains ." />
+<item slot="2" text="look out window ." />
+</script>
+<script id="55">
+<item slot="1" text="look outside ." />
+<item slot="2" text="check weather ." />
+</script>
+</scripts>

@@ -1,0 +1,311 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<scripts>
+<script id="1">
+<item slot="1" text="take off all your clothes" />
+<item slot="2" text="adjust temperature to your liking" />
+<!-- temp. = temperature, ur = your -->
+<item slot="3" text="scrub soap over your body" />
+<item slot="4" text="wash ur arms and legs" />
+<!-- ur = your -->
+<item slot="5" text="wash everywhere else" />
+<item slot="6" text="rinse and dry off" />
+<item slot="7" text="put clothes back on" />
+</script>
+
+<script id="2">
+<item slot="1" text="Turn on lighs in the bathroom" />
+<item slot="2" text="Get naked" />
+<item slot="3" text="Turn on the water" />
+<item slot="4" text="Get into the tub" />
+<item slot="5" text="Wash my head" />
+<item slot="6" text="wash the rest of the body" />
+<item slot="7" text="Get off the tub" />
+<item slot="8" text="Get dry" />
+</script>
+
+<script id="3">
+<item slot="1" text="enter bathroom" />
+<item slot="2" text="turn on shower" />
+<item slot="3" text="set handle to correct temperature" />
+<!-- temp = temperature -->
+<item slot="4" text="take off clothes" />
+<item slot="5" text="enter shower" />
+<item slot="6" text="use soap all over your body" />
+<item slot="7" text="put shampoo on your hair" />
+<item slot="8" text="rinse well" />
+<item slot="9" text="put face scrub on wash cloth" />
+<item slot="10" text="wash face with cloth" />
+<item slot="11" text="rinse face" />
+<item slot="12" text="put conditioner on hair" />
+<item slot="13" text="repeat soaping body" />
+<item slot="14" text="rinse well" />
+<item slot="15" text="turn off shower" />
+<item slot="16" text="dry off with towel" />
+</script>
+
+<script id="4">
+<item slot="1" text="get in the bathroom" />
+<item slot="2" text="turn on the shower" />
+<item slot="3" text="adjust the position of shower" />
+<item slot="4" text="use shampoo and soap" />
+<item slot="5" text="wash the body" />
+<item slot="6" text="wash the body" />
+<item slot="7" text="come out of bathroom" />
+</script>
+
+<script id="5">
+<item slot="1" text="Go in bathroom" />
+<item slot="2" text="close door" />
+<item slot="3" text="take clothes off" />
+<item slot="4" text="turn water on" />
+<item slot="5" text="get in when warm" />
+<item slot="6" text="get wet" />
+<item slot="7" text="get soapy" />
+<item slot="8" text="rinse soap" />
+<item slot="9" text="shampoo" />
+<item slot="10" text="rinse" />
+<item slot="11" text="shave if needed" />
+<item slot="12" text="get out" />
+<item slot="13" text="dry off" />
+<item slot="14" text="get dressed" />
+</script>
+
+<script id="6">
+<item slot="1" text="remove clothes" />
+<item slot="2" text="turn on water" />
+<item slot="3" text="feel for good temperature" />
+<item slot="4" text="step into spray" />
+<item slot="5" text="close door or curtain" />
+<!-- / = or -->
+<item slot="6" text="shampoo hair" />
+<item slot="7" text="wash body with soap" />
+<item slot="8" text="rinse off" />
+<item slot="9" text="turn off water" />
+<item slot="10" text="leave shower" />
+<item slot="11" text="dry off" />
+</script>
+
+<script id="7">
+<item slot="1" text="get undressed" />
+<item slot="2" text="start water" />
+<item slot="3" text="adjust water temperature" />
+<item slot="4" text="step in shower" />
+<item slot="5" text="close curtain or door" />
+<item slot="6" text="wash hair" />
+<item slot="7" text="wash body" />
+<item slot="8" text="shave" />
+<item slot="9" text="rinse" />
+<item slot="10" text="shut off water" />
+</script>
+<script id="8">
+<item slot="1" text="disrobe" />
+<item slot="2" text="turn on the water" />
+<item slot="3" text="get in" />
+<item slot="4" text="draw the curtain" />
+<item slot="5" text="apply soap" />
+<item slot="6" text="apply shampoo" />
+<item slot="7" text="rinse" />
+<item slot="8" text="dry" />
+<item slot="9" text="apply clothes" />
+</script>
+
+<script id="9">
+<item slot="1" text="remove the clothes" />
+<item slot="2" text="place clothes in hanger" />
+<item slot="3" text="turn on the water" />
+<item slot="4" text="check the temperature" />
+<item slot="5" text="wet entire body" />
+<item slot="6" text="wet the whole head" />
+<item slot="7" text="clean the hair" />
+<item slot="8" text="put bath soap on body" />
+<item slot="9" text="scrub the body parts" />
+<item slot="10" text="rinse the body in shower" />
+<item slot="11" text="turn off the water" />
+<item slot="12" text="exit the shower" />
+<item slot="13" text="dry the body with towel" />
+<item slot="14" text="dry the hair with dryer" />
+<item slot="15" text="put clothes on" />
+</script>
+
+<script id="10">
+<item slot="1" text="Get soap  shampoo ready." />
+<item slot="2" text="Get washcloth  sponge  etc." />
+<item slot="3" text="Turn on water." />
+<item slot="4" text="Turn on showerhead." />
+<item slot="5" text="Use showercap with no shampoo" />
+<item slot="6" text="Get in when water comfortable." />
+<item slot="7" text="Use cloth, etc. to scrub body." />
+<item slot="8" text="Clean certain parts last.." />
+<item slot="9" text="Scrub hands a little." />
+<item slot="10" text="Wash hair if desired." />
+<item slot="11" text="Get out of shower." />
+<item slot="12" text="Turn off water." />
+<item slot="13" text="Dry body and hair with towels." />
+</script>
+
+<script id="11">
+<item slot="1" text="take off close" />
+<item slot="2" text="turn on water" />
+<item slot="3" text="wait for hot water" />
+<item slot="4" text="turn on shower" />
+<item slot="5" text="get hair wet" />
+<item slot="6" text="apply shampoo to hair" />
+<item slot="7" text="shave face" />
+<item slot="8" text="wash shampoo out of hair" />
+<item slot="9" text="apply conditioner to hair" />
+<item slot="10" text="wash body with soap" />
+<item slot="11" text="wash conditioner out of hair" />
+<item slot="12" text="turn off shower" />
+<item slot="13" text="turn off water" />
+<item slot="14" text="dry self with towel" />
+</script>
+<script id="12">
+<item slot="1" text="take off clothes" />
+<item slot="2" text="start water" />
+<item slot="3" text="get into water" />
+<item slot="4" text="rinse body" />
+<item slot="5" text="soap body" />
+<item slot="6" text="rinse off soap" />
+<item slot="7" text="wash hair" />
+<item slot="8" text="condition hair" />
+<item slot="9" text="turn off water" />
+<item slot="10" text="dry off body" />
+</script>
+
+<script id="13">
+<item slot="1" text="turn on water" />
+<item slot="2" text="adjust temperature" />
+<item slot="3" text="shampoo and rinse" />
+<item slot="4" text="conditioner" />
+<item slot="5" text="bodywash" />
+<item slot="6" text="wash face" />
+<item slot="7" text="rinse" />
+<item slot="8" text="turn off tap" />
+<item slot="9" text="towel dry" />
+<item slot="10" text="turn on exhaust fan" />
+<item slot="11" text="put on clothes" />
+<item slot="12" text="dry hair" />
+</script>
+<script id="14">
+<item slot="1" text="turn on water" />
+<item slot="2" text="get wet" />
+<item slot="3" text="put shampoo on head" />
+<item slot="4" text="wash and rinse hair" />
+<item slot="5" text="put soap on washcloth" />
+<item slot="6" text="wash face and neck" />
+<item slot="7" text="more soap on washcloth" />
+<item slot="8" text="wash everything else" />
+<item slot="9" text="add soap to cloth as needed" />
+<item slot="10" text="rinse" />
+<item slot="11" text="turn off water" />
+<item slot="12" text="retrieve towel" />
+<item slot="13" text="dry off" />
+<item slot="14" text="exit shower" />
+</script>
+
+<script id="15">
+<item slot="1" text="turn on water" />
+<item slot="2" text="remove clothing" />
+<item slot="3" text="get into shower" />
+<item slot="4" text="close curtain" />
+<item slot="5" text="shampoo hair" />
+<item slot="6" text="wash body" />
+<item slot="7" text="rinse off lather" />
+<item slot="8" text="turn off water" />
+<item slot="9" text="dry off with towel" />
+<item slot="10" text="exit shower" />
+</script>
+<script id="16">
+<item slot="1" text="Go into the bathroom" />
+<item slot="2" text="Turn on the shower" />
+<item slot="3" text="Undress" />
+<item slot="4" text="Get into the shower" />
+<item slot="5" text="Rinse off" />
+<item slot="6" text="Use soap to wash body" />
+<item slot="7" text="Rinse off" />
+<item slot="8" text="Use shampoo to wash hair" />
+<item slot="9" text="Rinse Hair" />
+<item slot="10" text="Step out of the shower" />
+</script>
+
+<script id="18">
+<item slot="1" text="I turn on the warm water" />
+<item slot="2" text="I take off my clothes" />
+<!-- talk = take, close = clothes -->
+<item slot="3" text="I get in from the left side" />
+<item slot="4" text="I water down" />
+<item slot="5" text="I soap up" />
+<item slot="6" text="I shave" />
+<item slot="7" text="I rinse" />
+<item slot="8" text="I wash my hair" />
+<item slot="9" text="I get out and towel dry." />
+</script>
+
+<script id="19">
+<item slot="1" text="go to bathroom" />
+<item slot="2" text="undress" />
+<item slot="3" text="turn hot water on" />
+<item slot="4" text="turn cold water on" />
+<item slot="5" text="adjust for desired temperature" />
+<!-- temp = temperature -->
+<item slot="6" text="get in." />
+<item slot="7" text="apply shampoo to hair" />
+<item slot="8" text="rinse shampoo" />
+<item slot="9" text="apply conditioner to hair" />
+<item slot="10" text="rinse conditioner" />
+<item slot="11" text="soap body with soap or gel" />
+<item slot="12" text="rinse body well" />
+<item slot="13" text="turn hot and cold water off" />
+<item slot="14" text="step out" />
+<item slot="15" text="dry off" />
+<item slot="16" text="dress in clean clothing" />
+</script>
+
+<script id="20">
+<item slot="1" text="go to bathroom" />
+<!-- goto = go to -->
+<item slot="2" text="remove clothes" />
+<item slot="3" text="keep towel near" />
+<item slot="4" text="open shower tap" />
+<item slot="5" text="adjust to cold or hot water" />
+<!-- / = or -->
+<item slot="6" text="get shampoo and soap" />
+<item slot="7" text="clean body with them" />
+<item slot="8" text="close tap when you feel to" />
+<item slot="9" text="dry self with towel" />
+</script>
+<!-- 21 is not chronological -->
+
+<script id="22">
+<item slot="1" text="get in bathroom" />
+<item slot="2" text="peeloff dresses" />
+<!-- peeloff = peel off -->
+<item slot="3" text="open the shower" />
+<item slot="4" text="get bath" />
+<item slot="5" text="close the shower" />
+<item slot="6" text="get dressed" />
+<item slot="7" text="get off bathroom" />
+</script>
+
+<script id="23">
+<item slot="1" text="turn on water" />
+<item slot="2" text="turn on fan" />
+<item slot="3" text="undress" />
+<item slot="4" text="get in shower" />
+<item slot="5" text="get wet" />
+<item slot="6" text="shampoo your hair" />
+<item slot="7" text="wash hair out" />
+<item slot="8" text="condition hair" />
+<item slot="9" text="wash body with soap" />
+<item slot="10" text="wash face" />
+<item slot="11" text="shave if necessary" />
+<item slot="12" text="wash out hair" />
+<item slot="13" text="turn water off" />
+<item slot="14" text="wipe off excess water off self" />
+<item slot="15" text="dry off with towel" />
+<item slot="16" text="get dressed" />
+</script>
+
+<!-- 24 is a collection of effects rather than a script --> 
+
+</scripts>

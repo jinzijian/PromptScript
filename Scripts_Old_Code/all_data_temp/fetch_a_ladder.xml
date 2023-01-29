@@ -1,0 +1,204 @@
+<scripts>
+<script id="1">
+<item slot="1" text="go to the garage ." />
+<item slot="2" text="open up the door ." />
+<item slot="3" text="take the out the ladder ." />
+<item slot="4" text="lean it against the wall ." />
+</script>
+<script id="2">
+<item slot="1" text="look for a ladder ." />
+<item slot="2" text="move to the ladder s location ." />
+<item slot="3" text="pick up the ladder ." />
+<item slot="4" text="return to your original location ." />
+</script>
+<script id="3">
+<item slot="1" text="go to where ladder is located ." />
+<item slot="2" text="pick up ladder ." />
+<item slot="3" text="carefully carry ladder to where it was requested ." />
+</script>
+<script id="4">
+<item slot="1" text="locate ladder ." />
+<item slot="2" text="walk to ladder ." />
+<item slot="3" text="pick up ladder ." />
+<item slot="4" text="walk with ladder to desired location ." />
+</script>
+<script id="5">
+<item slot="1" text="locate ladder ." />
+<item slot="2" text="go to ladder ." />
+<item slot="3" text="pick up ladder ." />
+<item slot="4" text="bring ladder to person ." />
+</script>
+<script id="6">
+<item slot="1" text="find the ladder ." />
+<item slot="2" text="pick up the ladder ." />
+<item slot="3" text="bring the ladder to wherever you re going to use it ." />
+</script>
+<script id="7">
+<item slot="1" text="find the ladder ." />
+<item slot="2" text="pick up the ladder ." />
+<item slot="3" text="bring the ladder to wherever you re going to use it ." />
+</script>
+<script id="8">
+<item slot="1" text="find the ladder ." />
+<item slot="2" text="pick up the ladder ." />
+<item slot="3" text="bring the ladder to wherever you re going to use it ." />
+</script>
+<script id="9">
+<item slot="1" text="find the ladder ." />
+<item slot="2" text="pick up the ladder ." />
+<item slot="3" text="bring the ladder to wherever you re going to use it ." />
+</script>
+<script id="10">
+<item slot="1" text="find the ladder ." />
+<item slot="2" text="pick up the ladder ." />
+<item slot="3" text="bring the ladder to wherever you re going to use it ." />
+</script>
+<script id="11">
+<item slot="1" text="find the ladder ." />
+<item slot="2" text="pick up the ladder ." />
+<item slot="3" text="bring the ladder to wherever you re going to use it ." />
+</script>
+<script id="12">
+<item slot="1" text="know location of ladder ." />
+<item slot="2" text="pick up ladder ." />
+<item slot="3" text="carry to desired location ." />
+</script>
+<script id="13">
+<item slot="1" text="know location of ladder ." />
+<item slot="2" text="pick up ladder ." />
+<item slot="3" text="carry to desired location ." />
+</script>
+<script id="14">
+<item slot="1" text="know location of ladder ." />
+<item slot="2" text="pick up ladder ." />
+<item slot="3" text="carry to desired location ." />
+</script>
+<script id="15">
+<item slot="1" text="go to garage ." />
+<item slot="2" text="open garage door ." />
+<item slot="3" text="locate ladder ." />
+<item slot="4" text="remove ladder from hooks ." />
+<item slot="5" text="exit garage with ladder ." />
+<item slot="6" text="close garage door ." />
+<item slot="7" text="bring ladder to where it is needed ." />
+</script>
+<script id="16">
+<item slot="1" text="go to garage ." />
+<item slot="2" text="open garage door ." />
+<item slot="3" text="locate ladder ." />
+<item slot="4" text="remove ladder from hooks ." />
+<item slot="5" text="exit garage with ladder ." />
+<item slot="6" text="close garage door ." />
+<item slot="7" text="bring ladder to where it is needed ." />
+</script>
+<script id="17">
+<item slot="1" text="go to where the ladder is stored ." />
+<item slot="2" text="get the ladder ." />
+</script>
+<script id="18">
+<item slot="1" text="go to the garage ." />
+<item slot="2" text="pcik up the ladder ." />
+<item slot="3" text="bring it back ." />
+</script>
+<script id="19">
+<item slot="1" text="find lader ." />
+<item slot="2" text="pick up lader ." />
+<item slot="3" text="take ladder to where required ." />
+</script>
+<script id="20">
+<item slot="1" text="go to the backyard ." />
+<item slot="2" text="open the shed ." />
+<item slot="3" text="grab the ladder off the hook ." />
+</script>
+<script id="21">
+<item slot="1" text="find location of ladder ." />
+<item slot="2" text="pick up ladder ." />
+<item slot="3" text="bring ladder to desired location ." />
+</script>
+<script id="22">
+<item slot="1" text="find ladder ." />
+<item slot="2" text="pick up ladder ." />
+<item slot="3" text="carry ladder ." />
+</script>
+<script id="23">
+<item slot="1" text="find ladder ." />
+</script>
+<script id="24">
+<item slot="1" text="find ladder ." />
+</script>
+<script id="25">
+<item slot="1" text="find ladder ." />
+</script>
+<script id="26">
+<item slot="1" text="find ladder ." />
+</script>
+<script id="27">
+<item slot="1" text="find ladder ." />
+</script>
+<script id="28">
+<item slot="1" text="find ladder ." />
+</script>
+<script id="29">
+<item slot="1" text="decide range of height ." />
+<item slot="2" text="get right size ladder ." />
+<item slot="3" text="place ladder firmly ." />
+<item slot="4" text="have someone around to help ." />
+<item slot="5" text="carry ladder to destination ." />
+<item slot="6" text="be careful ." />
+<item slot="7" text="work together ." />
+</script>
+<script id="30">
+<item slot="1" text="go to garage ." />
+<item slot="2" text="open garage door ." />
+<item slot="3" text="grab ladder off rack ." />
+<item slot="4" text="bring to necessary location ." />
+</script>
+<script id="31">
+<item slot="1" text="go to garage ." />
+<item slot="2" text="open garage door ." />
+<item slot="3" text="grab ladder off rack ." />
+<item slot="4" text="bring to necessary location ." />
+</script>
+<script id="32">
+<item slot="1" text="go to garage ." />
+<item slot="2" text="open garage door ." />
+<item slot="3" text="grab ladder off rack ." />
+<item slot="4" text="bring to necessary location ." />
+</script>
+<script id="33">
+<item slot="1" text="find a ladder ." />
+<item slot="2" text="pick up the ladder ." />
+<item slot="3" text="put down the ladder where needed ." />
+</script>
+<script id="34">
+<item slot="1" text="go to neighbours house ." />
+<item slot="2" text="ask if i could borrow his ladder ." />
+<item slot="3" text="take ladder home ." />
+<item slot="4" text="setup ladder ." />
+</script>
+<script id="35">
+<item slot="1" text="go to neighbours house ." />
+<item slot="2" text="ask if i could borrow his ladder ." />
+<item slot="3" text="take ladder home ." />
+<item slot="4" text="setup ladder ." />
+</script>
+<script id="36">
+<item slot="1" text="go to garage ." />
+<item slot="2" text="get ladder ." />
+<item slot="3" text="bring ladder back into house ." />
+</script>
+<script id="37">
+<item slot="1" text="go to garage ." />
+<item slot="2" text="get ladder ." />
+<item slot="3" text="bring ladder back into house ." />
+</script>
+<script id="38">
+<item slot="1" text="look for ladder ." />
+<item slot="2" text="pick up ladder ." />
+<item slot="3" text="carry ladder ." />
+</script>
+<script id="39">
+<item slot="1" text="get ladder ." />
+<item slot="2" text="place ladder against wall ." />
+</script>
+</scripts>

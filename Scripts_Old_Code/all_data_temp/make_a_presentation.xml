@@ -1,0 +1,222 @@
+<scripts>
+<script id="1">
+<item slot="1" text="thinking of an idea ." />
+<item slot="2" text="organizing the idea ." />
+<item slot="3" text="planning the idea ." />
+<item slot="4" text="carrying out the presentaion ." />
+</script>
+<script id="2">
+<item slot="1" text="prepare presentation ." />
+<item slot="2" text="schedule presentation ." />
+<item slot="3" text="talk about presentation while showing visuals ." />
+</script>
+<script id="3">
+<item slot="1" text="prepare materials for a presentation ." />
+<item slot="2" text="arrange one or more people into an audience ." />
+<item slot="3" text="show the presentation materials ." />
+<item slot="4" text="talk about the presentation and the materials ." />
+</script>
+<script id="4">
+<item slot="1" text="determine the content of the presentation ." />
+<item slot="2" text="construct an outline of the material for the presentation ." />
+<item slot="3" text="research the material to be presented ." />
+<item slot="4" text="write notes for the presentation ." />
+<item slot="5" text="present the presentation ." />
+</script>
+<script id="5">
+<item slot="1" text="research subject ." />
+<item slot="2" text="prepare slides ." />
+<item slot="3" text="deliver presentation ." />
+</script>
+<script id="6">
+<item slot="1" text="prepare slides for the presentation ." />
+<item slot="2" text="stand before the audience ." />
+<item slot="3" text="go through the slides one by one ." />
+<item slot="4" text="for each slide describe and explain its content ." />
+</script>
+<script id="7">
+<item slot="1" text="research topic ." />
+<item slot="2" text="summarize findings ." />
+<item slot="3" text="write slides ." />
+</script>
+<script id="8">
+<item slot="1" text="research subject of presentation ." />
+<item slot="2" text="write presentation outlook ." />
+<item slot="3" text="write slides on chosen topic ." />
+</script>
+<script id="9">
+<item slot="1" text="research subject of presentation ." />
+<item slot="2" text="make a list with main point ." />
+<item slot="3" text="write slides to illustrate those points ." />
+<item slot="4" text="review presentation ." />
+</script>
+<script id="10">
+<item slot="1" text="set up presentation equipment ." />
+<item slot="2" text="greet the audience ." />
+<item slot="3" text="give talk to the audience ." />
+<item slot="4" text="do question and answer session ." />
+</script>
+<script id="11">
+<item slot="1" text="decide what the presentation will be on ." />
+<item slot="2" text="dicide how you will do your presentation ." />
+<item slot="3" text="gather all information and materials ." />
+<item slot="4" text="put the presentation together ." />
+</script>
+<script id="12">
+<item slot="1" text="get the resources ." />
+<item slot="2" text="lay out a plan ." />
+<item slot="3" text="create notes ." />
+<item slot="4" text="memorize notes ." />
+<item slot="5" text="do the presentation ." />
+</script>
+<script id="13">
+<item slot="1" text="set up the presentation equipment ." />
+<item slot="2" text="get up in front of the people in the room ." />
+<item slot="3" text="use the equipment to illustrate the presentation ." />
+<item slot="4" text="use your notes to tell the information needed in the presentation ." />
+</script>
+<script id="14">
+<item slot="1" text="open powerpoint ." />
+<item slot="2" text="compose presentation ." />
+<item slot="3" text="perform presentation in front of peers ." />
+</script>
+<script id="15">
+<item slot="1" text="collect pictures ." />
+<item slot="2" text="write information ." />
+<item slot="3" text="create slides ." />
+<item slot="4" text="assemble an audience ." />
+<item slot="5" text="show slides to audience ." />
+<item slot="6" text="listen to questions from audience ." />
+<item slot="7" text="answer the questions ." />
+</script>
+<script id="16">
+<item slot="1" text="decide on topic ." />
+<item slot="2" text="make notes of major points to make ." />
+<item slot="3" text="research ." />
+<item slot="4" text="organize notes ." />
+<item slot="5" text="write rough draft ." />
+<item slot="6" text="edit draft ." />
+<item slot="7" text="finalize and present ." />
+</script>
+<script id="17">
+<item slot="1" text="decide on topic ." />
+<item slot="2" text="make notes of major points to make ." />
+<item slot="3" text="research ." />
+<item slot="4" text="organize notes ." />
+<item slot="5" text="write rough draft ." />
+<item slot="6" text="edit draft ." />
+<item slot="7" text="finalize and present ." />
+</script>
+<script id="18">
+<item slot="1" text="decide on topic ." />
+<item slot="2" text="research topic ." />
+<item slot="3" text="rough draft presentation ." />
+<item slot="4" text="prepare hand outs ." />
+<item slot="5" text="finalize presentation ." />
+<item slot="6" text="finalize hand outs ." />
+<item slot="7" text="present presentation ." />
+</script>
+<script id="19">
+<item slot="1" text="gather material to present ." />
+<item slot="2" text="choose 10 % ." />
+<item slot="3" text="open powerpoint ." />
+<item slot="4" text="create slides with material chosen ." />
+<item slot="5" text="save powerpoint to portable disk ." />
+</script>
+<script id="20">
+<item slot="1" text="type in presentation to computer ." />
+<item slot="2" text="get projector ." />
+<item slot="3" text="gather audience ." />
+<item slot="4" text="turn on projector ." />
+<item slot="5" text="talk ." />
+</script>
+<script id="21">
+<item slot="1" text="choose a topic ." />
+<item slot="2" text="research information on that topic ." />
+<item slot="3" text="compile the information into a presentation ." />
+<item slot="4" text="learn the material to be presented ." />
+<item slot="5" text="practice reciting the speech ." />
+<item slot="6" text="present the information ." />
+</script>
+<script id="22">
+<item slot="1" text="use projection ." />
+</script>
+<script id="23">
+<item slot="1" text="use projection ." />
+</script>
+<script id="24">
+<item slot="1" text="use projection ." />
+</script>
+<script id="25">
+<item slot="1" text="use projection ." />
+</script>
+<script id="26">
+<item slot="1" text="use projection ." />
+</script>
+<script id="27">
+<item slot="1" text="use projection ." />
+</script>
+<script id="28">
+<item slot="1" text="research topic ." />
+<item slot="2" text="gather data ." />
+<item slot="3" text="input date ." />
+<item slot="4" text="spell check ." />
+<item slot="5" text="prepare folders ." />
+<item slot="6" text="obtain media for viewing ." />
+<item slot="7" text="memo attendees ." />
+</script>
+<script id="29">
+<item slot="1" text="research topic ." />
+<item slot="2" text="gather data ." />
+<item slot="3" text="input date ." />
+<item slot="4" text="spell check ." />
+<item slot="5" text="prepare folders ." />
+<item slot="6" text="obtain media for viewing ." />
+<item slot="7" text="memo attendees ." />
+</script>
+<script id="30">
+<item slot="1" text="research topic ." />
+<item slot="2" text="gather data ." />
+<item slot="3" text="input date ." />
+<item slot="4" text="spell check ." />
+<item slot="5" text="prepare folders ." />
+<item slot="6" text="obtain media for viewing ." />
+<item slot="7" text="memo attendees ." />
+</script>
+<script id="31">
+<item slot="1" text="gather notes and visuals ." />
+<item slot="2" text="stand in front of room ." />
+<item slot="3" text="face audience ." />
+<item slot="4" text="greet audience ." />
+<item slot="5" text="introduce self ." />
+<item slot="6" text="introduce topic ." />
+<item slot="7" text="begin presentation ." />
+</script>
+<script id="32">
+<item slot="1" text="gather notes and visuals ." />
+<item slot="2" text="stand in front of room ." />
+<item slot="3" text="face audience ." />
+<item slot="4" text="greet audience ." />
+<item slot="5" text="introduce self ." />
+<item slot="6" text="introduce topic ." />
+<item slot="7" text="begin presentation ." />
+</script>
+<script id="33">
+<item slot="1" text="gather notes and visuals ." />
+<item slot="2" text="stand in front of room ." />
+<item slot="3" text="face audience ." />
+<item slot="4" text="greet audience ." />
+<item slot="5" text="introduce self ." />
+<item slot="6" text="introduce topic ." />
+<item slot="7" text="begin presentation ." />
+</script>
+<script id="34">
+<item slot="1" text="gather notes and visuals ." />
+<item slot="2" text="stand in front of room ." />
+<item slot="3" text="face audience ." />
+<item slot="4" text="greet audience ." />
+<item slot="5" text="introduce self ." />
+<item slot="6" text="introduce topic ." />
+<item slot="7" text="begin presentation ." />
+</script>
+</scripts>

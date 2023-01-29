@@ -1,0 +1,21 @@
+<scripts><script id="6">
+<item slot="1" text="walk into restaurant"/>
+<item slot="2" text="find the end of the line"/>
+<item slot="3" text="stand in line"/>
+<item slot="4" text="look at menu board"/>
+<item slot="5" text="decide on food and drink"/>
+<item slot="6" text="tell cashier your order"/>
+<item slot="7" text="listen to cashier repeat order"/>
+<item slot="8" text="listen for total price"/>
+<item slot="9" text="swipe credit card in scanner"/>
+<item slot="10" text="put up credit card"/>
+<item slot="11" text="take receipt"/>
+<item slot="12" text="look at order number"/>
+<item slot="13" text="take your cup"/>
+<item slot="14" text="stand off to the side"/>
+<item slot="15" text="wait for number to be called"/>
+<item slot="16" text="get your drink"/>
+<!-- Corrections:
+	food/drink -> food and drink
+-->
+</script></scripts>

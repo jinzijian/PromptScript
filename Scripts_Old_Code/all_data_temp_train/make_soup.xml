@@ -1,0 +1,344 @@
+<scripts>
+<script id="1">
+<item slot="1" text="find pot ." />
+<item slot="2" text="collect soup ingredients ." />
+<item slot="3" text="place pot on stove ." />
+<item slot="4" text="turn on stove ." />
+<item slot="5" text="put in ingredients ." />
+<item slot="6" text="stir soup until cooked ." />
+</script>
+<script id="2">
+<item slot="1" text="open a can of soup ." />
+<item slot="2" text="empty the soup into the pan ." />
+<item slot="3" text="add some water ." />
+<item slot="4" text="boil the soup on the stove ." />
+</script>
+<script id="3">
+<item slot="1" text="pick up soup in a cup ." />
+<item slot="2" text="open the cover ." />
+<item slot="3" text="fill up the cup with water up to the marked position ." />
+<item slot="4" text="put the cup in microwave for 3 minutes ." />
+</script>
+<script id="4">
+<item slot="1" text="fill large pot with water ." />
+<item slot="2" text="apply heat until the water boils ." />
+<item slot="3" text="prepare the soup ingredients ." />
+<item slot="4" text="place ingredients into the boiling water ." />
+<item slot="5" text="allow it to cook for appropriate amount of time ." />
+</script>
+<script id="5">
+<item slot="1" text="open soup can ." />
+<item slot="2" text="pour soup into pot ." />
+<item slot="3" text="put pot on stove ." />
+<item slot="4" text="turn on stove ." />
+<item slot="5" text="when soup is hot turn off stove ." />
+<item slot="6" text="serve soup in deep dish ." />
+</script>
+<script id="6">
+<item slot="1" text="get ingredients for soup ." />
+<item slot="2" text="clean ingredients ." />
+<item slot="3" text="cut ingredients ." />
+<item slot="4" text="put ingredients in pot ." />
+<item slot="5" text="put water in pot ." />
+<item slot="6" text="heat until done ." />
+</script>
+<script id="7">
+<item slot="1" text="boil water ." />
+<item slot="2" text="cut and peel vegetables ." />
+<item slot="3" text="when water boils put vegetables in water ." />
+<item slot="4" text="wait ten minutes ." />
+<item slot="5" text="add tomato sauce ." />
+<item slot="6" text="remove pot from stove ." />
+</script>
+<script id="8">
+<item slot="1" text="boil water ." />
+<item slot="2" text="open canned soup ." />
+<item slot="3" text="when water boiling pour canned soup in water ." />
+<item slot="4" text="add spices or other vegetables ." />
+<item slot="5" text="stir ." />
+<item slot="6" text="remove pot from stove ." />
+</script>
+<script id="9">
+<item slot="1" text="boil water ." />
+<item slot="2" text="chop vegetables ." />
+<item slot="3" text="when water is boiling put vegetables in water ." />
+<item slot="4" text="leave to boil until vegetables tender ." />
+<item slot="5" text="add tomato juice ." />
+<item slot="6" text="remove pot from stove ." />
+</script>
+<script id="10">
+<item slot="1" text="opening a can of soup ." />
+<item slot="2" text="pouring the soup in to a pot ." />
+<item slot="3" text="putting the pot on a cooking range ." />
+<item slot="4" text="turning the cooking range on to heat the soup ." />
+<item slot="5" text="pouring the soup into a bowl when it is ready ." />
+</script>
+<script id="11">
+<item slot="1" text="open soup can ." />
+<item slot="2" text="pour contents into pot ." />
+<item slot="3" text="add water and/or milk ." />
+<item slot="4" text="put pot on stove ." />
+<item slot="5" text="turn on stove ." />
+<item slot="6" text="mix soup ." />
+<item slot="7" text="wait until done ." />
+</script>
+<script id="12">
+<item slot="1" text="gather ingredients ." />
+<item slot="2" text="turn on stove ." />
+<item slot="3" text="fill pot with two thirds with water ." />
+<item slot="4" text="place pot on stove ." />
+<item slot="5" text="boil water ." />
+<item slot="6" text="place ingredients into boiling water ." />
+<item slot="7" text="keep water boiling until soup is done ." />
+</script>
+<script id="13">
+<item slot="1" text="put water in pot ." />
+<item slot="2" text="put ingredients in pot ." />
+<item slot="3" text="heat water and ingredients ." />
+<item slot="4" text="add spices to taste ." />
+</script>
+<script id="14">
+<item slot="1" text="open soup can ." />
+<item slot="2" text="dump can contents into pot ." />
+<item slot="3" text="add water or milk according to recipe ." />
+<item slot="4" text="heat pot while stirring ." />
+<item slot="5" text="remove when ready ." />
+</script>
+<script id="15">
+<item slot="1" text="get a can of soup from the cupboard ." />
+<item slot="2" text="get a can opener ." />
+<item slot="3" text="use the can opener to open the can of soup ." />
+<item slot="4" text="empty the can of soup into a bowl ." />
+<item slot="5" text="mix the appropriate amount of water with the soup ." />
+<item slot="6" text="heat the soup in the microwave ." />
+</script>
+<script id="16">
+<item slot="1" text="heat water ." />
+<item slot="2" text="add bouillon ." />
+<item slot="3" text="add vegetables ." />
+<item slot="4" text="add meat balls ." />
+<item slot="5" text="cook soup ." />
+</script>
+<script id="17">
+<item slot="1" text="get ingredients ." />
+<item slot="2" text="heat stove ." />
+<item slot="3" text="follow recipe ." />
+</script>
+<script id="18">
+<item slot="1" text="gather foods ." />
+<item slot="2" text="add liquids ." />
+<item slot="3" text="combine foods and liquids ." />
+<item slot="4" text="heat combined foods and liquids ." />
+</script>
+<script id="19">
+<item slot="1" text="open the pantry ." />
+<item slot="2" text="select a can of soup ." />
+<item slot="3" text="open the can of soup ." />
+<item slot="4" text="pour soup into a pot ." />
+<item slot="5" text="place the pot on the stove ." />
+<item slot="6" text="turn the stove on ." />
+<item slot="7" text="let the soup warm to the desired temperature ." />
+</script>
+<script id="20">
+<item slot="1" text="cut up vegetables ." />
+<item slot="2" text="boil water in pot ." />
+<item slot="3" text="boil vegetables in pot ." />
+</script>
+<script id="21">
+<item slot="1" text="find can of soup ." />
+<item slot="2" text="open can of soup ." />
+<item slot="3" text="pour soup into bowl ." />
+<item slot="4" text="place bowl in microwave ." />
+<item slot="5" text="turn on microwave ." />
+<item slot="6" text="turn off microwave ." />
+<item slot="7" text="take bowl from microwave ." />
+</script>
+<script id="22">
+<item slot="1" text="use can opener on soup can ." />
+<item slot="2" text="put contents of can into a bowl ." />
+<item slot="3" text="add water as instructed on soup can ." />
+<item slot="4" text="heat according to soup can s instructions ." />
+<item slot="5" text="let cool for five minutes ." />
+</script>
+<script id="23">
+<item slot="1" text="open can of soup ." />
+<item slot="2" text="pour into pot ." />
+<item slot="3" text="heat pot ." />
+</script>
+<script id="24">
+<item slot="1" text="open the can of soup ." />
+<item slot="2" text="pour soup into pan ." />
+<item slot="3" text="place pan on stovetop ." />
+<item slot="4" text="turn stovetop on ." />
+<item slot="5" text="heat soup until hot ." />
+<item slot="6" text="pour soup into bowl ." />
+<item slot="7" text="turn off stovetop ." />
+</script>
+<script id="25">
+<item slot="1" text="open the can of soup ." />
+<item slot="2" text="pour soup into pan ." />
+<item slot="3" text="place pan on stovetop ." />
+<item slot="4" text="turn stovetop on ." />
+<item slot="5" text="heat soup until hot ." />
+<item slot="6" text="pour soup into bowl ." />
+<item slot="7" text="turn off stovetop ." />
+</script>
+<script id="26">
+<item slot="1" text="open the can of soup ." />
+<item slot="2" text="pour soup into pan ." />
+<item slot="3" text="place pan on stovetop ." />
+<item slot="4" text="turn stovetop on ." />
+<item slot="5" text="heat soup until hot ." />
+<item slot="6" text="pour soup into bowl ." />
+<item slot="7" text="turn off stovetop ." />
+</script>
+<script id="27">
+<item slot="1" text="open the can of soup ." />
+<item slot="2" text="pour soup into pan ." />
+<item slot="3" text="place pan on stovetop ." />
+<item slot="4" text="turn stovetop on ." />
+<item slot="5" text="heat soup until hot ." />
+<item slot="6" text="pour soup into bowl ." />
+<item slot="7" text="turn off stovetop ." />
+</script>
+<script id="28">
+<item slot="1" text="open the can of soup ." />
+<item slot="2" text="pour soup into pan ." />
+<item slot="3" text="place pan on stovetop ." />
+<item slot="4" text="turn stovetop on ." />
+<item slot="5" text="heat soup until hot ." />
+<item slot="6" text="pour soup into bowl ." />
+<item slot="7" text="turn off stovetop ." />
+</script>
+<script id="29">
+<item slot="1" text="open the can of soup ." />
+<item slot="2" text="pour soup into pan ." />
+<item slot="3" text="place pan on stovetop ." />
+<item slot="4" text="turn stovetop on ." />
+<item slot="5" text="heat soup until hot ." />
+<item slot="6" text="pour soup into bowl ." />
+<item slot="7" text="turn off stovetop ." />
+</script>
+<script id="30">
+<item slot="1" text="open the can of soup ." />
+<item slot="2" text="pour soup into pan ." />
+<item slot="3" text="place pan on stovetop ." />
+<item slot="4" text="turn stovetop on ." />
+<item slot="5" text="heat soup until hot ." />
+<item slot="6" text="pour soup into bowl ." />
+<item slot="7" text="turn off stovetop ." />
+</script>
+<script id="31">
+<item slot="1" text="open the can of soup ." />
+<item slot="2" text="pour soup into pan ." />
+<item slot="3" text="place pan on stovetop ." />
+<item slot="4" text="turn stovetop on ." />
+<item slot="5" text="heat soup until hot ." />
+<item slot="6" text="pour soup into bowl ." />
+<item slot="7" text="turn off stovetop ." />
+</script>
+<script id="32">
+<item slot="1" text="open the can of soup ." />
+<item slot="2" text="pour soup into pan ." />
+<item slot="3" text="place pan on stovetop ." />
+<item slot="4" text="turn stovetop on ." />
+<item slot="5" text="heat soup until hot ." />
+<item slot="6" text="pour soup into bowl ." />
+<item slot="7" text="turn off stovetop ." />
+</script>
+<script id="33">
+<item slot="1" text="gather ingredients ." />
+<item slot="2" text="prepare ingredients ." />
+<item slot="3" text="find container ." />
+<item slot="4" text="find heat source ." />
+<item slot="5" text="mix all together ." />
+<item slot="6" text="check tempurature ." />
+<item slot="7" text="remove heat ." />
+</script>
+<script id="34">
+<item slot="1" text="open can ." />
+<item slot="2" text="pour soup in pot ." />
+<item slot="3" text="heat pot ." />
+</script>
+<script id="35">
+<item slot="1" text="open can ." />
+<item slot="2" text="pour soup in pot ." />
+<item slot="3" text="heat pot ." />
+</script>
+<script id="36">
+<item slot="1" text="heat water or stock ." />
+<item slot="2" text="add ingredients ." />
+<item slot="3" text="cook until done ." />
+</script>
+<script id="37">
+<item slot="1" text="chop onions ." />
+<item slot="2" text="slice carrots ." />
+<item slot="3" text="slice potatoes ." />
+<item slot="4" text="slice sausage ." />
+<item slot="5" text="add ingredients to pot ." />
+<item slot="6" text="add water to pot ." />
+<item slot="7" text="heat until ingredients are cooked ." />
+</script>
+<script id="38">
+<item slot="1" text="go to cupboard ." />
+<item slot="2" text="choose variety of soup ." />
+<item slot="3" text="take can of soup from cupboard ." />
+<item slot="4" text="open can with can opener ." />
+<item slot="5" text="pour soup into bowl ." />
+<item slot="6" text="heat soup in microwave ." />
+<item slot="7" text="rinse can ." />
+</script>
+<script id="39">
+<item slot="1" text="prepare ingredients ." />
+<item slot="2" text="put ingredience in cooking pot ." />
+<item slot="3" text="add water ." />
+<item slot="4" text="cook on gas ." />
+</script>
+<script id="40">
+<item slot="1" text="prepare ingredients ." />
+<item slot="2" text="put ingredience in cooking pot ." />
+<item slot="3" text="add water ." />
+<item slot="4" text="cook on gas ." />
+</script>
+<script id="41">
+<item slot="1" text="take pot out of cuboard ." />
+<item slot="2" text="put pot on stove top ." />
+<item slot="3" text="take can of soup from cupboard ." />
+<item slot="4" text="open can with can opener ." />
+<item slot="5" text="put soup in pot ." />
+<item slot="6" text="turn on burner ." />
+<item slot="7" text="heat until hot ." />
+</script>
+<script id="42">
+<item slot="1" text="open can ." />
+<item slot="2" text="pour into pot ." />
+<item slot="3" text="heat pot on medium heat ." />
+<item slot="4" text="bring to boil ." />
+<item slot="5" text="turn of heat ." />
+<item slot="6" text="let cool slightly ." />
+<item slot="7" text="serve ." />
+</script>
+<script id="43">
+<item slot="1" text="open can ." />
+<item slot="2" text="pour into pot ." />
+<item slot="3" text="heat pot on medium heat ." />
+<item slot="4" text="bring to boil ." />
+<item slot="5" text="turn of heat ." />
+<item slot="6" text="let cool slightly ." />
+<item slot="7" text="serve ." />
+</script>
+<script id="44">
+<item slot="1" text="open can ." />
+<item slot="2" text="pour into pot ." />
+<item slot="3" text="heat pot on medium heat ." />
+<item slot="4" text="bring to boil ." />
+<item slot="5" text="turn of heat ." />
+<item slot="6" text="let cool slightly ." />
+<item slot="7" text="serve ." />
+</script>
+<script id="45">
+<item slot="1" text="boil water in a pot ." />
+<item slot="2" text="add ingredients ." />
+<item slot="3" text="cook until ready ." />
+</script>
+</scripts>

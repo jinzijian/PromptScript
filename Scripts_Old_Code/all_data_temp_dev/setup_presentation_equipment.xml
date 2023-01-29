@@ -1,0 +1,171 @@
+<scripts>
+<script id="1">
+<item slot="1" text="ask where to find presentation equipment ." />
+<item slot="2" text="get presentation equipment ." />
+<item slot="3" text="plug presentation equipment into the wall socket ." />
+<item slot="4" text="switch on presentation equipment ." />
+</script>
+<script id="2">
+<item slot="1" text="turn on the projector ." />
+<item slot="2" text="turn on the computer ." />
+<item slot="3" text="connect the computer to the projector with a cable ." />
+</script>
+<script id="3">
+<item slot="1" text="plug components together ." />
+<item slot="2" text="plug equipment in ." />
+<item slot="3" text="turn equipment on ." />
+<item slot="4" text="adjust location of equipment and sharpness of projection ." />
+</script>
+<script id="4">
+<item slot="1" text="turn on the projector ." />
+<item slot="2" text="turn on the computer ." />
+<item slot="3" text="connect the computer to the projector with a cable ." />
+<item slot="4" text="open the slides (presentation file) ." />
+</script>
+<script id="5">
+<item slot="1" text="figure out where you want the equipment ." />
+<item slot="2" text="take the equipment to the location that you picked ." />
+<item slot="3" text="arrange the equipment in the way that you want it ." />
+</script>
+<script id="6">
+<item slot="1" text="roll in presentation cart ." />
+<item slot="2" text="connect presentation cart ." />
+<item slot="3" text="start computer ." />
+</script>
+<script id="7">
+<item slot="1" text="connect projector to computer ." />
+<item slot="2" text="test picture ." />
+</script>
+<script id="8">
+<item slot="1" text="turn on computer ." />
+<item slot="2" text="load presentation slides into the computer program ." />
+<item slot="3" text="turn on the overhead projector ." />
+<item slot="4" text="place overhead sheets on the projector ." />
+<item slot="5" text="pull down slide screen from the wall ." />
+</script>
+<script id="9">
+<item slot="1" text="find presentation equipment ." />
+<item slot="2" text="plug the equipment s power cord into an electrical outlet ." />
+<item slot="3" text="turn the equipment s lens toward the screen ." />
+<item slot="4" text="focus the lens so that it shows a clear picture on the screen ." />
+</script>
+<script id="10">
+<item slot="1" text="find a projector ." />
+<item slot="2" text="plugin the projector ." />
+<item slot="3" text="setup a the projection screen ." />
+<item slot="4" text="connect the projector to a computer ." />
+<item slot="5" text="start the presentation ." />
+</script>
+<script id="11">
+<item slot="1" text="get to presentation room ." />
+<item slot="2" text="set up projector ." />
+<item slot="3" text="put electrical cord in the socket ." />
+<item slot="4" text="set up personal computer ." />
+<item slot="5" text="link personal computer to projector ." />
+<item slot="6" text="dim the lights ." />
+<item slot="7" text="start presentation ." />
+</script>
+<script id="12">
+<item slot="1" text="identify necessary equipment ." />
+<item slot="2" text="secure equipment ." />
+<item slot="3" text="set up table ." />
+<item slot="4" text="place equipment on table ." />
+<item slot="5" text="plug equipment into electrical outlet ." />
+</script>
+<script id="13">
+<item slot="1" text="connect cords ." />
+<item slot="2" text="turn on equipment ." />
+<item slot="3" text="position equipment correctly ." />
+</script>
+<script id="14">
+<item slot="1" text="connect cords ." />
+<item slot="2" text="turn on equipment ." />
+<item slot="3" text="position equipment correctly ." />
+</script>
+<script id="15">
+<item slot="1" text="set up projector screen ." />
+<item slot="2" text="plug in projector unit ." />
+<item slot="3" text="focus projector onto screen ." />
+<item slot="4" text="put presentation material into projector ." />
+<item slot="5" text="dim lights ." />
+<item slot="6" text="start presentation ." />
+</script>
+<script id="16">
+<item slot="1" text="plug in projector ." />
+<item slot="2" text="connect laptop ." />
+<item slot="3" text="point projector ." />
+<item slot="4" text="turn on laptop ." />
+</script>
+<script id="17">
+<item slot="1" text="turn on projector ." />
+</script>
+<script id="18">
+<item slot="1" text="turn on projector ." />
+</script>
+<script id="19">
+<item slot="1" text="turn on projector ." />
+</script>
+<script id="20">
+<item slot="1" text="turn on projector ." />
+</script>
+<script id="21">
+<item slot="1" text="turn on projector ." />
+</script>
+<script id="22">
+<item slot="1" text="turn on projector ." />
+</script>
+<script id="23">
+<item slot="1" text="turn on projector ." />
+<item slot="2" text="connect laptop to projector ." />
+</script>
+<script id="24">
+<item slot="1" text="plug projector to laptop ." />
+<item slot="2" text="turn on both equipment ." />
+</script>
+<script id="25">
+<item slot="1" text="gather the tools you need ." />
+<item slot="2" text="hook laptop up to the projector ." />
+<item slot="3" text="set up screen ." />
+<item slot="4" text="secure settings ." />
+<item slot="5" text="turn everything on ." />
+</script>
+<script id="26">
+<item slot="1" text="gather notes ." />
+<item slot="2" text="plug in slide machine ." />
+<item slot="3" text="press play ." />
+</script>
+<script id="27">
+<item slot="1" text="gather notes ." />
+<item slot="2" text="plug in slide machine ." />
+<item slot="3" text="press play ." />
+</script>
+<script id="28">
+<item slot="1" text="gather notes ." />
+<item slot="2" text="plug in slide machine ." />
+<item slot="3" text="press play ." />
+</script>
+<script id="29">
+<item slot="1" text="hook computer to projector ." />
+<item slot="2" text="turn on computer ." />
+<item slot="3" text="turn on projector ." />
+<item slot="4" text="set the settings ." />
+</script>
+<script id="30">
+<item slot="1" text="hook computer to projector ." />
+<item slot="2" text="turn on computer ." />
+<item slot="3" text="turn on projector ." />
+<item slot="4" text="set the settings ." />
+</script>
+<script id="31">
+<item slot="1" text="find equipment ." />
+<item slot="2" text="move it to the room ." />
+<item slot="3" text="plug it in ." />
+<item slot="4" text="turn it on ." />
+</script>
+<script id="32">
+<item slot="1" text="find equipment ." />
+<item slot="2" text="move it to the room ." />
+<item slot="3" text="plug it in ." />
+<item slot="4" text="turn it on ." />
+</script>
+</scripts>

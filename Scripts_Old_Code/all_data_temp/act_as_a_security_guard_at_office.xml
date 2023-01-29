@@ -1,0 +1,205 @@
+<scripts>
+<script id="1">
+<item slot="1" text="don a security uniform ." />
+<item slot="2" text="don a weapon ." />
+<item slot="3" text="don a security badge ." />
+<item slot="4" text="arrive at the office ." />
+<item slot="5" text="remain watchful for any suspicious activity ." />
+<item slot="6" text="return home after the work day ." />
+</script>
+<script id="2">
+<item slot="1" text="patrol the office at regular intervals ." />
+<item slot="2" text="observe any suspicious activity ." />
+<item slot="3" text="observe any smoke or sign of fire ." />
+<item slot="4" text="report any findings to the authorities ." />
+</script>
+<script id="3">
+<item slot="1" text="walk around the office ." />
+<item slot="2" text="keep an eye out for suspicious activity ." />
+<item slot="3" text="accost anyone involved in suspicious activity ." />
+</script>
+<script id="4">
+<item slot="1" text="go to front desk ." />
+<item slot="2" text="observe security monitors ." />
+<item slot="3" text="ask for id ." />
+</script>
+<script id="5">
+<item slot="1" text="observe all people who enter office ." />
+<item slot="2" text="check ids of people ." />
+<item slot="3" text="watch surveilance monitors for suspicious activity ." />
+<item slot="4" text="respond to suspicious activity ." />
+</script>
+<script id="6">
+<item slot="1" text="pay attention to intruders ." />
+<item slot="2" text="lock doors when necessary ." />
+<item slot="3" text="call police when necessary ." />
+</script>
+<script id="7">
+<item slot="1" text="sit in security office ." />
+<item slot="2" text="watch security monitors ." />
+<item slot="3" text="eat donuts ." />
+<item slot="4" text="take a nap ." />
+</script>
+<script id="8">
+<item slot="1" text="checking in ." />
+<item slot="2" text="watching camera footage ." />
+<item slot="3" text="being visible ." />
+<item slot="4" text="spyiing something suspicious ." />
+<item slot="5" text="invesitgating ." />
+<item slot="6" text="taking action ." />
+<item slot="7" text="reporting resuls ." />
+</script>
+<script id="9">
+<item slot="1" text="stand in front of door ." />
+<item slot="2" text="fight criminals ." />
+<item slot="3" text="prevent theft ." />
+<item slot="4" text="ask who is entering ." />
+</script>
+<script id="10">
+<item slot="1" text="lock all the door ." />
+<item slot="2" text="walk around on shift ." />
+<item slot="3" text="stay alert ." />
+</script>
+<script id="11">
+<item slot="1" text="watch the door ." />
+<item slot="2" text="check the ideas of people coming in ." />
+<item slot="3" text="watch for people who don t belong ." />
+<item slot="4" text="be vigilant ." />
+</script>
+<script id="12">
+<item slot="1" text="keep watch of all equiptment ." />
+<item slot="2" text="watch cctv monitors ." />
+<item slot="3" text="heck for any activity ." />
+</script>
+<script id="13">
+<item slot="1" text="keep watch of all equiptment ." />
+<item slot="2" text="watch cctv monitors ." />
+<item slot="3" text="check for any activity ." />
+</script>
+<script id="14">
+<item slot="1" text="keep watch of all equiptment ." />
+<item slot="2" text="watch cctv monitors ." />
+<item slot="3" text="heck for any activity ." />
+</script>
+<script id="15">
+<item slot="1" text="keep watch of all equiptment ." />
+<item slot="2" text="watch cctv monitors ." />
+<item slot="3" text="check for any activity ." />
+</script>
+<script id="16">
+<item slot="1" text="log all activities ." />
+<item slot="2" text="go on patrol ." />
+<item slot="3" text="answer questions ." />
+<item slot="4" text="answer the phone ." />
+</script>
+<script id="17">
+<item slot="1" text="log all activities ." />
+<item slot="2" text="go on patrol ." />
+<item slot="3" text="answer questions ." />
+<item slot="4" text="answer the phone ." />
+</script>
+<script id="18">
+<item slot="1" text="log all activities ." />
+<item slot="2" text="go on patrol ." />
+<item slot="3" text="answer questions ." />
+<item slot="4" text="answer the phone ." />
+</script>
+<script id="19">
+<item slot="1" text="log all activities ." />
+<item slot="2" text="go on patrol ." />
+<item slot="3" text="answer questions ." />
+<item slot="4" text="answer the phone ." />
+</script>
+<script id="20">
+<item slot="1" text="log all activities ." />
+<item slot="2" text="go on patrol ." />
+<item slot="3" text="answer questions ." />
+<item slot="4" text="log all activities ." />
+<item slot="5" text="go on patrol ." />
+<item slot="6" text="answer the phone ." />
+<item slot="7" text="answer questions ." />
+<item slot="8" text="answer the phone ." />
+</script>
+<script id="21">
+<item slot="1" text="log all activities ." />
+<item slot="2" text="go on patrol ." />
+<item slot="3" text="answer questions ." />
+<item slot="4" text="answer the phone ." />
+</script>
+<script id="22">
+<item slot="1" text="log all activities ." />
+<item slot="2" text="go on patrol ." />
+<item slot="3" text="answer questions ." />
+<item slot="4" text="answer the phone ." />
+</script>
+<script id="23">
+<item slot="1" text="log all activities ." />
+<item slot="2" text="go on patrol ." />
+<item slot="3" text="answer questions ." />
+<item slot="4" text="answer the phone ." />
+</script>
+<script id="24">
+<item slot="1" text="keep looking ." />
+<item slot="2" text="keep patrolling ." />
+<item slot="3" text="keep listening ." />
+</script>
+<script id="25">
+<item slot="1" text="a police check ." />
+<item slot="2" text="training ." />
+<item slot="3" text="good eyes ." />
+<item slot="4" text="healthy ." />
+<item slot="5" text="lots of coffee ." />
+<item slot="6" text="a walkie talkie ." />
+<item slot="7" text="no sleep ." />
+</script>
+<script id="26">
+<item slot="1" text="a police check ." />
+<item slot="2" text="training ." />
+<item slot="3" text="good eyes ." />
+<item slot="4" text="healthy ." />
+<item slot="5" text="lots of coffee ." />
+<item slot="6" text="a walkie talkie ." />
+<item slot="7" text="no sleep ." />
+</script>
+<script id="27">
+<item slot="1" text="a police check ." />
+<item slot="2" text="training ." />
+<item slot="3" text="good eyes ." />
+<item slot="4" text="healthy ." />
+<item slot="5" text="lots of coffee ." />
+<item slot="6" text="a walkie talkie ." />
+<item slot="7" text="no sleep ." />
+</script>
+<script id="28">
+<item slot="1" text="a police check ." />
+<item slot="2" text="training ." />
+<item slot="3" text="good eyes ." />
+<item slot="4" text="healthy ." />
+<item slot="5" text="lots of coffee ." />
+<item slot="6" text="a walkie talkie ." />
+<item slot="7" text="no sleep ." />
+</script>
+<script id="29">
+<item slot="1" text="a police check ." />
+<item slot="2" text="training ." />
+<item slot="3" text="good eyes ." />
+<item slot="4" text="healthy ." />
+<item slot="5" text="lots of coffee ." />
+<item slot="6" text="a walkie talkie ." />
+<item slot="7" text="no sleep ." />
+</script>
+<script id="30">
+<item slot="1" text="a police check ." />
+<item slot="2" text="training ." />
+<item slot="3" text="good eyes ." />
+<item slot="4" text="healthy ." />
+<item slot="5" text="lots of coffee ." />
+<item slot="6" text="a walkie talkie ." />
+<item slot="7" text="no sleep ." />
+</script>
+<script id="31">
+<item slot="1" text="dress in uniform ." />
+<item slot="2" text="patrol the area ." />
+<item slot="3" text="call in any suspicious activity ." />
+</script>
+</scripts>

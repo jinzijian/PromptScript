@@ -1,0 +1,330 @@
+<scripts>
+<script id="1">
+<item slot="1" text="find the thermostat ." />
+<item slot="2" text="put the setting on heat ." />
+</script>
+<script id="2">
+<item slot="1" text="estimate comfort level temperature ." />
+<item slot="2" text="set thermostat to comfort level temperature ." />
+<item slot="3" text="push start button to start heat ." />
+</script>
+<script id="3">
+<item slot="1" text="locate thermostat ." />
+<item slot="2" text="turn switch to heat ." />
+</script>
+<script id="4">
+<item slot="1" text="find heater ." />
+<item slot="2" text="locate on switch ." />
+<item slot="3" text="toggle on switch ." />
+</script>
+<script id="5">
+<item slot="1" text="find heater ." />
+<item slot="2" text="find on switch ." />
+<item slot="3" text="toggle switch to on position ." />
+</script>
+<script id="6">
+<item slot="1" text="locating the heater knob ." />
+<item slot="2" text="turning it clockwise ." />
+</script>
+<script id="7">
+<item slot="1" text="adjust the thermostat ." />
+</script>
+<script id="8">
+<item slot="1" text="feel chilly ." />
+<item slot="2" text="turn up the thermostat ." />
+</script>
+<script id="9">
+<item slot="1" text="walk to adjuster ." />
+<item slot="2" text="raise your hand ." />
+<item slot="3" text="grab the adjuster ." />
+<item slot="4" text="turn the adjuster ." />
+<item slot="5" text="take your hand off it ." />
+<item slot="6" text="lower your hand ." />
+<item slot="7" text="walk away ." />
+</script>
+<script id="10">
+<item slot="1" text="walking to the thermostat ." />
+<item slot="2" text="setting the thermostat to the wanted temperature ." />
+<item slot="3" text="walking away ." />
+<item slot="4" text="sitting down ." />
+</script>
+<script id="11">
+<item slot="1" text="find the heat switch ." />
+<item slot="2" text="turn the switch to the on position ." />
+</script>
+<script id="12">
+<item slot="1" text="locate the house s thermostat ." />
+<item slot="2" text="turn the temperature on the house s thermostat up ." />
+<item slot="3" text="ensure that all heating vents are open and unblocked ." />
+</script>
+<script id="13">
+<item slot="1" text="locate an oven ." />
+<item slot="2" text="locate the front panel on the oven ." />
+<item slot="3" text="determine which knob on the front panel operates the oven ." />
+<item slot="4" text="turn the temperature on the oven to the requested temperature ." />
+</script>
+<script id="14">
+<item slot="1" text="find thermostat ." />
+<item slot="2" text="flip switch to 'heat' ." />
+<item slot="3" text="push up arrow to desired temperature ." />
+</script>
+<script id="15">
+<item slot="1" text="move to ac unit ." />
+<item slot="2" text="locate dial ." />
+<item slot="3" text="set dial to warmer ." />
+</script>
+<script id="16">
+<item slot="1" text="find the knob for the heat ." />
+<item slot="2" text="turn the knob to the on position ." />
+</script>
+<script id="17">
+<item slot="1" text="walk over to the heater switch ." />
+<item slot="2" text="flip the switch into on position ." />
+</script>
+<script id="18">
+<item slot="1" text="locate heater ." />
+<item slot="2" text="turn on switch ." />
+</script>
+<script id="19">
+<item slot="1" text="locate the heater ." />
+<item slot="2" text="locate the power switch ." />
+<item slot="3" text="turn the heater switch to 'on' ." />
+</script>
+<script id="20">
+<item slot="1" text="go to heater ." />
+<item slot="2" text="push on button ." />
+<item slot="3" text="set temperature ." />
+</script>
+<script id="21">
+<item slot="1" text="go over to the thermostat ." />
+<item slot="2" text="grab hold of the thermostat temperature control ." />
+<item slot="3" text="move the thermostat temperature indicator to the 'heat on' position ." />
+</script>
+<script id="22">
+<item slot="1" text="going to the thermostat ." />
+<item slot="2" text="turn the dial up ." />
+</script>
+<script id="23">
+<item slot="1" text="go to the heat switch ." />
+<item slot="2" text="turn it on ." />
+</script>
+<script id="24">
+<item slot="1" text="go to regulator ." />
+<item slot="2" text="turn regulator up ." />
+</script>
+<script id="25">
+<item slot="1" text="locate thermostat ." />
+<item slot="2" text="set thermostat to desired heat ." />
+<item slot="3" text="turn switch on ." />
+</script>
+<script id="26">
+<item slot="1" text="find thermostat ." />
+<item slot="2" text="find 'on' switch ." />
+<item slot="3" text="find temprature setting ." />
+</script>
+<script id="27">
+<item slot="1" text="find thermostat ." />
+<item slot="2" text="find 'on' switch ." />
+<item slot="3" text="find temprature switch ." />
+<item slot="4" text="set 'on' switch to on postition ." />
+<item slot="5" text="set temprature switch to proper setting ." />
+</script>
+<script id="28">
+<item slot="1" text="find the thermostat ." />
+<item slot="2" text="increase the desired temperature ." />
+</script>
+<script id="29">
+<item slot="1" text="walk to the thermostat ." />
+<item slot="2" text="make sure the thermostat is switched to heat ." />
+<item slot="3" text="switch the thermostat on ." />
+<item slot="4" text="turn the dial of the thermostat to the desired temperature ." />
+</script>
+<script id="30">
+<item slot="1" text="go to the thermostat ." />
+<item slot="2" text="turn up the thermostat ." />
+</script>
+<script id="31">
+<item slot="1" text="go to thermostat ." />
+<item slot="2" text="switch heat on ." />
+<item slot="3" text="check thermostat temperature ." />
+</script>
+<script id="32">
+<item slot="1" text="find the heat controller ." />
+<item slot="2" text="turn heat to 'on' ." />
+</script>
+<script id="33">
+<item slot="1" text="light the pilot light on the hot water heater ." />
+<item slot="2" text="set the thermostat to the correct temperature ." />
+<item slot="3" text="set the radiators to the desired setting ." />
+</script>
+<script id="34">
+<item slot="1" text="plug on the heater ." />
+<item slot="2" text="turn on the switch ." />
+<item slot="3" text="adjust the control knob ." />
+</script>
+<script id="35">
+<item slot="1" text="locate temperature dial ." />
+<item slot="2" text="turn up ." />
+</script>
+<script id="36">
+<item slot="1" text="go to thermostat control ." />
+<item slot="2" text="rotate knob to 'on' position ." />
+</script>
+<script id="37">
+<item slot="1" text="go to heating device ." />
+<item slot="2" text="turn dial to desired temperature ." />
+<item slot="3" text="turn on the machine if there is an on switch/button ." />
+</script>
+<script id="38">
+<item slot="1" text="walk to thermostat ." />
+<item slot="2" text="switch to heat setting ." />
+<item slot="3" text="choose desired heat ." />
+</script>
+<script id="39">
+<item slot="1" text="walk to thermostat ." />
+<item slot="2" text="put switch to  heat ." />
+</script>
+<script id="40">
+<item slot="1" text="walk to thermostat ." />
+<item slot="2" text="put switch to  heat ." />
+</script>
+<script id="41">
+<item slot="1" text="feels cold ." />
+<item slot="2" text="walk to termostat ." />
+<item slot="3" text="increase temperature ." />
+<item slot="4" text="sit ." />
+<item slot="5" text="heat goes on ." />
+<item slot="6" text="warmer ." />
+<item slot="7" text="feels better ." />
+</script>
+<script id="42">
+<item slot="1" text="walk ." />
+<item slot="2" text="walk ." />
+<item slot="3" text="walk ." />
+<item slot="4" text="walk ." />
+<item slot="5" text="walk ." />
+<item slot="6" text="walk toward heater ." />
+<item slot="7" text="turn heater on ." />
+</script>
+<script id="43">
+<item slot="1" text="go to thermostat ." />
+<item slot="2" text="turn switch to 'heat' ." />
+<item slot="3" text="turn fan to 'on' ." />
+<item slot="4" text="select a temperature ." />
+</script>
+<script id="44">
+<item slot="1" text="go to thermostat ." />
+<item slot="2" text="turn switch to 'heat' ." />
+<item slot="3" text="turn fan to 'on' ." />
+<item slot="4" text="select a temperature ." />
+</script>
+<script id="45">
+<item slot="1" text="go to thermostat ." />
+<item slot="2" text="turn switch to 'heat' ." />
+<item slot="3" text="turn fan to 'on' ." />
+<item slot="4" text="select a temperature ." />
+</script>
+<script id="46">
+<item slot="1" text="go to thermostat ." />
+<item slot="2" text="turn switch to 'heat' ." />
+<item slot="3" text="turn fan to 'on' ." />
+<item slot="4" text="select a temperature ." />
+</script>
+<script id="47">
+<item slot="1" text="go to thermostat ." />
+<item slot="2" text="turn switch to 'heat' ." />
+<item slot="3" text="turn fan to 'on' ." />
+<item slot="4" text="select a temperature ." />
+</script>
+<script id="48">
+<item slot="1" text="go to thermostat ." />
+<item slot="2" text="turn switch to 'heat' ." />
+<item slot="3" text="turn fan to 'on' ." />
+<item slot="4" text="select a temperature ." />
+</script>
+<script id="49">
+<item slot="1" text="find source ." />
+<item slot="2" text="approach source ." />
+<item slot="3" text="inspect source ." />
+<item slot="4" text="check if its on ." />
+<item slot="5" text="touch the dial ." />
+<item slot="6" text="turn the dial ." />
+<item slot="7" text="check if the heat is on ." />
+</script>
+<script id="50">
+<item slot="1" text="find source ." />
+<item slot="2" text="approach source ." />
+<item slot="3" text="inspect source ." />
+<item slot="4" text="check if its on ." />
+<item slot="5" text="touch the dial ." />
+<item slot="6" text="turn the dial ." />
+<item slot="7" text="check if the heat is on ." />
+</script>
+<script id="51">
+<item slot="1" text="find source ." />
+<item slot="2" text="approach source ." />
+<item slot="3" text="inspect source ." />
+<item slot="4" text="check if its on ." />
+<item slot="5" text="touch the dial ." />
+<item slot="6" text="turn the dial ." />
+<item slot="7" text="check if the heat is on ." />
+</script>
+<script id="52">
+<item slot="1" text="turn the temperature up ." />
+</script>
+<script id="53">
+<item slot="1" text="walk toward heater ." />
+<item slot="2" text="turn heater on ." />
+<item slot="3" text="done ." />
+</script>
+<script id="54">
+<item slot="1" text="locate the thermostat ." />
+<item slot="2" text="turn heater on ." />
+</script>
+<script id="55">
+<item slot="1" text="walk over to thermostat ." />
+<item slot="2" text="check current temperature ." />
+<item slot="3" text="decide desired temperature ." />
+<item slot="4" text="find proper button ." />
+<item slot="5" text="push button ." />
+<item slot="6" text="reach desired temperature ." />
+<item slot="7" text="enjoy the warmth ." />
+</script>
+<script id="56">
+<item slot="1" text="find the thermostat ." />
+<item slot="2" text="turn the dial to desired temperature ." />
+</script>
+<script id="57">
+<item slot="1" text="walk to thermostat ." />
+<item slot="2" text="switch setting to heat ." />
+<item slot="3" text="choose temperature ." />
+</script>
+<script id="58">
+<item slot="1" text="go up to thermostat ." />
+<item slot="2" text="turn dial up to a higher number ." />
+</script>
+<script id="59">
+<item slot="1" text="turn the knob to 'heat' ." />
+<item slot="2" text="turn the fan knob to the desired level ." />
+</script>
+<script id="60">
+<item slot="1" text="turn the knob to 'heat' ." />
+<item slot="2" text="turn the fan knob to the desired level ." />
+</script>
+<script id="61">
+<item slot="1" text="turn the knob to 'heat' ." />
+<item slot="2" text="turn the fan knob to the desired level ." />
+</script>
+<script id="62">
+<item slot="1" text="turn the knob to 'heat' ." />
+<item slot="2" text="turn the fan knob to the desired level ." />
+</script>
+<script id="63">
+<item slot="1" text="turn the knob to 'heat' ." />
+<item slot="2" text="turn the fan knob to the desired level ." />
+</script>
+<script id="64">
+<item slot="1" text="turn the knob to 'heat' ." />
+<item slot="2" text="turn the fan knob to the desired level ." />
+</script>
+</scripts>

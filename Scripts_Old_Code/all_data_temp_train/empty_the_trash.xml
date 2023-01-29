@@ -1,0 +1,259 @@
+<scripts>
+<script id="1">
+<item slot="1" text="find the trash can ." />
+<item slot="2" text="take the garbage bag out ." />
+<item slot="3" text="put the garbage bag outside ." />
+<item slot="4" text="put new garbage bag in trash can ." />
+</script>
+<script id="2">
+<item slot="1" text="locate trash ." />
+<item slot="2" text="move to trash ." />
+<item slot="3" text="pick trash up ." />
+<item slot="4" text="locate trash disposable ." />
+<item slot="5" text="move to trash disposable ." />
+<item slot="6" text="put trash in trash disposable ." />
+</script>
+<script id="3">
+<item slot="1" text="pick up vessel containing trash ." />
+<item slot="2" text="moves towards container suitable for moving trash ." />
+<item slot="3" text="empty first vessel into second container ." />
+<item slot="4" text="replace first vessel in original location ." />
+</script>
+<script id="4">
+<item slot="1" text="find the trash ." />
+<item slot="2" text="remove the trash bag from the container ." />
+<item slot="3" text="tie the trash bag ." />
+<item slot="4" text="carry the trash bag to the curb or garage ." />
+<item slot="5" text="replace the bag with a new one ." />
+</script>
+<script id="5">
+<item slot="1" text="dump trash into trash can ." />
+</script>
+<script id="6">
+<item slot="1" text="go to trash can ." />
+<item slot="2" text="remove bag with trash ." />
+<item slot="3" text="put in new bag ." />
+<item slot="4" text="take trash bag to dumpster ." />
+</script>
+<script id="7">
+<item slot="1" text="remove the bag from the trash can ." />
+<item slot="2" text="tie the top of the bag closed ." />
+<item slot="3" text="carry the bag outside ." />
+<item slot="4" text="carry the bag to a dumpster ." />
+<item slot="5" text="place the bag into the dumpster ." />
+</script>
+<script id="8">
+<item slot="1" text="take the trash bag out of the trash can ." />
+<item slot="2" text="dump the trash bag in the big trash can outside ." />
+<item slot="3" text="put a new trash bag in the trash can ." />
+</script>
+<script id="9">
+<item slot="1" text="take the lid off the trash can ." />
+<item slot="2" text="take out the trash bag ." />
+<item slot="3" text="put a new trash bag into the trash can ." />
+<item slot="4" text="put the lid of the trash can in its place ." />
+<item slot="5" text="take the trash bag that you took out of the trash can outside ." />
+</script>
+<script id="10">
+<item slot="1" text="go to trash can ." />
+<item slot="2" text="remove trash bag ." />
+<item slot="3" text="take trash bag out ." />
+<item slot="4" text="put new trash bag ." />
+</script>
+<script id="11">
+<item slot="1" text="go to trash can ." />
+<item slot="2" text="take out bag with trash ." />
+<item slot="3" text="put in new bag ." />
+<item slot="4" text="take trash bag to dumpster ." />
+</script>
+<script id="12">
+<item slot="1" text="carry trash can to dumpster ." />
+<item slot="2" text="flip trash can so that contents are dumped inside dumpster ." />
+<item slot="3" text="get back ." />
+</script>
+<script id="13">
+<item slot="1" text="open trash can ." />
+<item slot="2" text="take full trash bag out of trash can ." />
+<item slot="3" text="put new trash bag into trash can ." />
+<item slot="4" text="close trash can ." />
+<item slot="5" text="carry full trash bag to trashcontainer outside ." />
+</script>
+<script id="14">
+<item slot="1" text="right-click on trash can icon ." />
+<item slot="2" text="choose menu entry that says 'empty trash can' ." />
+<item slot="3" text="click yes or ok if a dialog box comes up that asks whether you really want to do this ." />
+</script>
+<script id="15">
+<item slot="1" text="removing the trash bag from the waste container ." />
+<item slot="2" text="tying the bag closed ." />
+<item slot="3" text="putting the trash bag outside for pickup ." />
+</script>
+<script id="16">
+<item slot="1" text="take trash can to dumpster ." />
+<item slot="2" text="dump trash into dumpster ." />
+</script>
+<script id="17">
+<item slot="1" text="take the trash bag out of the bin ." />
+<item slot="2" text="carry the trash bag outside ." />
+<item slot="3" text="put trash bag into the trash can ." />
+<item slot="4" text="close the trash can lid ." />
+</script>
+<script id="18">
+<item slot="1" text="take the bag out the waste bin ." />
+<item slot="2" text="tie it up ." />
+<item slot="3" text="take it out the dustbin out side ." />
+</script>
+<script id="19">
+<item slot="1" text="open the trash bin ." />
+<item slot="2" text="remove liner ." />
+<item slot="3" text="throw liner in dumpster ." />
+<item slot="4" text="add new liner ." />
+<item slot="5" text="close bin ." />
+</script>
+<script id="20">
+<item slot="1" text="remove trash bag from trash can ." />
+<item slot="2" text="tie trash bag shut ." />
+<item slot="3" text="take trash bag to curb ." />
+</script>
+<script id="21">
+<item slot="1" text="put the trash in a trash bag ." />
+<item slot="2" text="tie the trash bag ." />
+</script>
+<script id="22">
+<item slot="1" text="open the trash can s lid ." />
+<item slot="2" text="seal the trash bag ." />
+<item slot="3" text="pull the bag out of the trash bin ." />
+<item slot="4" text="take the bag to a disposal facility ." />
+</script>
+<script id="23">
+<item slot="1" text="open trash can ." />
+<item slot="2" text="tie off bag ." />
+<item slot="3" text="remove bag from can ." />
+<item slot="4" text="close trash can ." />
+</script>
+<script id="24">
+<item slot="1" text="pick up trash can ." />
+<item slot="2" text="take to larger trash can ." />
+<item slot="3" text="turn trash can upside down over larger trash can ." />
+<item slot="4" text="make sure everything came out ." />
+<item slot="5" text="put trash can back where it came from ." />
+</script>
+<script id="25">
+<item slot="1" text="remove bag ." />
+<item slot="2" text="tie up bag ." />
+<item slot="3" text="replace bag ." />
+<item slot="4" text="take trash out ." />
+</script>
+<script id="26">
+<item slot="1" text="pull the bag out of the can ." />
+<item slot="2" text="tie the strings ." />
+<item slot="3" text="carry the trash to the dumpster ." />
+<item slot="4" text="wait until it is taken away ." />
+</script>
+<script id="27">
+<item slot="1" text="take bag out of garbage can ." />
+<item slot="2" text="tie garbage bag ." />
+<item slot="3" text="bring bag outside to curb ." />
+</script>
+<script id="28">
+<item slot="1" text="go to trash can ." />
+<item slot="2" text="take trash can to trash bin ." />
+<item slot="3" text="put trash from can into bin ." />
+<item slot="4" text="return can ." />
+</script>
+<script id="29">
+<item slot="1" text="tie the garbage bag ." />
+<item slot="2" text="take trash to dumpster ." />
+<item slot="3" text="replace the garbage bag ." />
+</script>
+<script id="30">
+<item slot="1" text="pick up trash ." />
+<item slot="2" text="carry trash to trash can ." />
+<item slot="3" text="open lid ." />
+<item slot="4" text="place trash in can ." />
+</script>
+<script id="31">
+<item slot="1" text="tie full garbage bag ." />
+<item slot="2" text="remove full bag from can ." />
+<item slot="3" text="carry garbage to dumpster ." />
+<item slot="4" text="throw bag in dumpster ." />
+<item slot="5" text="return home ." />
+<item slot="6" text="take out a clean garbage bag ." />
+<item slot="7" text="put new bag in garbage can ." />
+</script>
+<script id="32">
+<item slot="1" text="tie up trash bag ." />
+<item slot="2" text="pick up trash and take to curb ." />
+<item slot="3" text="put new bag in wasteasket ." />
+</script>
+<script id="33">
+<item slot="1" text="take lid off of garbage can ." />
+<item slot="2" text="lift garbage bag out of can ." />
+<item slot="3" text="tie garbage bag shut ." />
+<item slot="4" text="replace lid on can ." />
+<item slot="5" text="take trash to the curb ." />
+</script>
+<script id="34">
+<item slot="1" text="tie and knot garbage bag ." />
+<item slot="2" text="remove bag from garbage can ." />
+<item slot="3" text="carry out to the outdoor garbage disposal ." />
+</script>
+<script id="35">
+<item slot="1" text="tie and knot garbage bag ." />
+<item slot="2" text="remove bag from garbage can ." />
+<item slot="3" text="carry out to the outdoor garbage disposal ." />
+</script>
+<script id="36">
+<item slot="1" text="tie and knot garbage bag ." />
+<item slot="2" text="remove bag from garbage can ." />
+<item slot="3" text="carry out to the outdoor garbage disposal ." />
+</script>
+<script id="37">
+<item slot="1" text="pull top edges of full bag away from garbage can ." />
+<item slot="2" text="bring top edges together and tie in a double knot to seal ." />
+<item slot="3" text="lift bag out of garbage can ." />
+<item slot="4" text="bring bag to curb ." />
+<item slot="5" text="put a new garbage bag in the garbage can ." />
+</script>
+<script id="38">
+<item slot="1" text="pull top edges of full bag away from garbage can ." />
+<item slot="2" text="bring top edges together and tie in a double knot to seal ." />
+<item slot="3" text="lift bag out of garbage can ." />
+<item slot="4" text="bring bag to curb ." />
+<item slot="5" text="put a new garbage bag in the garbage can ." />
+</script>
+<script id="39">
+<item slot="1" text="pull top edges of full bag away from garbage can ." />
+<item slot="2" text="bring top edges together and tie in a double knot to seal ." />
+<item slot="3" text="lift bag out of garbage can ." />
+<item slot="4" text="bring bag to curb ." />
+<item slot="5" text="put a new garbage bag in the garbage can ." />
+</script>
+<script id="40">
+<item slot="1" text="take the thrash bin ." />
+<item slot="2" text="then take bag ." />
+<item slot="3" text="take the bin put the thrash in the bag ." />
+<item slot="4" text="close the bag ." />
+<item slot="5" text="put the bag in the garbage can ." />
+</script>
+<script id="41">
+<item slot="1" text="take the thrash bin ." />
+<item slot="2" text="then take bag ." />
+<item slot="3" text="take the bin put the thrash in the bag ." />
+<item slot="4" text="close the bag ." />
+<item slot="5" text="put the bag in the garbage can ." />
+</script>
+<script id="42">
+<item slot="1" text="take the thrash bin ." />
+<item slot="2" text="then take bag ." />
+<item slot="3" text="take the bin put the thrash in the bag ." />
+<item slot="4" text="close the bag ." />
+<item slot="5" text="put the bag in the garbage can ." />
+</script>
+<script id="43">
+<item slot="1" text="take out trash bag ." />
+<item slot="2" text="put it in garbage bag ." />
+<item slot="3" text="put it out on the front drive ." />
+<item slot="4" text="put a new garbage bag into the can ." />
+</script>
+</scripts>

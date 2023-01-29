@@ -1,0 +1,241 @@
+<scripts>
+<script id="1">
+<item slot="1" text="get fish food ." />
+<item slot="2" text="go to fish tank ." />
+<item slot="3" text="open fish tank if needed ." />
+<item slot="4" text="take fish food from bottle ." />
+<item slot="5" text="put fish food in fish tank ." />
+<item slot="6" text="close bottle ." />
+<item slot="7" text="close fish tank ." />
+</script>
+<script id="2">
+<item slot="1" text="give food to the fish ." />
+</script>
+<script id="3">
+<item slot="1" text="measure out correct dosage of food ." />
+<item slot="2" text="pour food in water ." />
+</script>
+<script id="4">
+<item slot="1" text="pick up the container of fish food near the aquarium ." />
+<item slot="2" text="open the container ." />
+<item slot="3" text="shake about 5 millilitres of food into the aquarium ." />
+<item slot="4" text="close the container ." />
+<item slot="5" text="put the container back near the aquarium ." />
+</script>
+<script id="5">
+<item slot="1" text="pick up the container of fish food near the aquarium ." />
+<item slot="2" text="open the container ." />
+<item slot="3" text="shake about 5 millilitres of food into the aquarium ." />
+<item slot="4" text="close the container ." />
+<item slot="5" text="put the container back near the aquarium ." />
+</script>
+<script id="6">
+<item slot="1" text="get fishfood ." />
+<item slot="2" text="read label ." />
+<item slot="3" text="pour in fishfood ." />
+</script>
+<script id="7">
+<item slot="1" text="get fish food container ." />
+<item slot="2" text="open cover ." />
+<item slot="3" text="pour in food ." />
+</script>
+<script id="8">
+<item slot="1" text="open up container ." />
+<item slot="2" text="get some food ." />
+<item slot="3" text="put it in the tank ." />
+</script>
+<script id="9">
+<item slot="1" text="open up container ." />
+<item slot="2" text="get some food ." />
+<item slot="3" text="put it in the tank ." />
+</script>
+<script id="10">
+<item slot="1" text="give food to fish ." />
+</script>
+<script id="11">
+<item slot="1" text="give food to fish ." />
+</script>
+<script id="12">
+<item slot="1" text="make sure fish have not already been fed today ." />
+<item slot="2" text="open container of fish food ." />
+<item slot="3" text="measure correct amount of food ." />
+<item slot="4" text="open lid of fish tank if it has a lid ." />
+<item slot="5" text="put measured food in the water with the fish ." />
+</script>
+<script id="13">
+<item slot="1" text="get food ." />
+<item slot="2" text="give food to fish ." />
+</script>
+<script id="14">
+<item slot="1" text="find the fish food ." />
+<item slot="2" text="take lid off aquarium ." />
+<item slot="3" text="pour in a measure of fish food ." />
+<item slot="4" text="replace lid of aquarium ." />
+</script>
+<script id="15">
+<item slot="1" text="open the lidof the tank ." />
+<item slot="2" text="open the lid to the food ." />
+<item slot="3" text="take one pinch of food out ." />
+<item slot="4" text="drop into fish tank ." />
+<item slot="5" text="close fish food ." />
+<item slot="6" text="close lid to tank ." />
+</script>
+<script id="16">
+<item slot="1" text="open fish food container ." />
+<item slot="2" text="take out a pinch of foo ." />
+<item slot="3" text="sprinkle food into the fish tank ." />
+</script>
+<script id="17">
+<item slot="1" text="open fish food container ." />
+<item slot="2" text="take out a pinch of food ." />
+<item slot="3" text="sprinkle food into the fish tank ." />
+</script>
+<script id="18">
+<item slot="1" text="buy bait ." />
+<item slot="2" text="bait on string ." />
+<item slot="3" text="swing in water ." />
+<item slot="4" text="wait ." />
+<item slot="5" text="pull string ." />
+<item slot="6" text="grab fish ." />
+<item slot="7" text="put in bucket ." />
+</script>
+<script id="19">
+<item slot="1" text="open fish tank ." />
+<item slot="2" text="sprinkle fish food ." />
+<item slot="3" text="close fish tank ." />
+</script>
+<script id="20">
+<item slot="1" text="obtain fish food ." />
+<item slot="2" text="sprnikle into tank ." />
+<item slot="3" text="seal container ." />
+<item slot="4" text="verify fish eats food ." />
+</script>
+<script id="21">
+<item slot="1" text="open the fish food container ." />
+<item slot="2" text="take a pinch of food from container ." />
+<item slot="3" text="sprinkle on top of the water ." />
+</script>
+<script id="22">
+<item slot="1" text="open the fish food container ." />
+<item slot="2" text="take a pinch of food from container ." />
+<item slot="3" text="sprinkle on top of the water ." />
+</script>
+<script id="23">
+<item slot="1" text="open the fish food container ." />
+<item slot="2" text="take a pinch of food from container ." />
+<item slot="3" text="sprinkle on top of the water ." />
+</script>
+<script id="24">
+<item slot="1" text="open the fish food container ." />
+<item slot="2" text="take a pinch of food from container ." />
+<item slot="3" text="sprinkle on top of the water ." />
+</script>
+<script id="25">
+<item slot="1" text="open the fish food container ." />
+<item slot="2" text="take a pinch of food from container ." />
+<item slot="3" text="sprinkle on top of the water ." />
+</script>
+<script id="26">
+<item slot="1" text="open the fish food container ." />
+<item slot="2" text="take a pinch of food from container ." />
+<item slot="3" text="sprinkle on top of the water ." />
+</script>
+<script id="27">
+<item slot="1" text="feed ." />
+<item slot="2" text="fish ." />
+<item slot="3" text="walk ." />
+<item slot="4" text="find the fish food ." />
+</script>
+<script id="28">
+<item slot="1" text="sprinkle fish food into tank ." />
+</script>
+<script id="29">
+<item slot="1" text="open the lid of the fish tank ." />
+<item slot="2" text="get the fish food ." />
+<item slot="3" text="dump the fish food in the tank ." />
+<item slot="4" text="close the lid of the fish tank ." />
+</script>
+<script id="30">
+<item slot="1" text="find the fish food ." />
+<item slot="2" text="open up the container ." />
+<item slot="3" text="pour some in the fish bowl ." />
+<item slot="4" text="make sure the fish eat enough food ." />
+</script>
+<script id="31">
+<item slot="1" text="find the fish food ." />
+<item slot="2" text="open up the container ." />
+<item slot="3" text="pour some in the fish bowl ." />
+<item slot="4" text="make sure the fish eat enough food ." />
+</script>
+<script id="32">
+<item slot="1" text="open fish tank ." />
+<item slot="2" text="sprinkle fish food onto water ." />
+<item slot="3" text="close fish tank ." />
+</script>
+<script id="33">
+<item slot="1" text="get fish food ." />
+<item slot="2" text="open lid ." />
+<item slot="3" text="put food in tank ." />
+<item slot="4" text="close lid ." />
+<item slot="5" text="put food away ." />
+</script>
+<script id="34">
+<item slot="1" text="get fish food ." />
+<item slot="2" text="open lid ." />
+<item slot="3" text="put food in tank ." />
+<item slot="4" text="close lid ." />
+<item slot="5" text="put food away ." />
+</script>
+<script id="35">
+<item slot="1" text="get fish food ." />
+<item slot="2" text="open lid ." />
+<item slot="3" text="put food in tank ." />
+<item slot="4" text="close lid ." />
+<item slot="5" text="put food away ." />
+</script>
+<script id="36">
+<item slot="1" text="get fish food ." />
+<item slot="2" text="take cover off of fish tank ." />
+<item slot="3" text="sprinkle in some fish food ." />
+<item slot="4" text="recover aquarium ." />
+</script>
+<script id="37">
+<item slot="1" text="get fish food ." />
+<item slot="2" text="take cover off of fish tank ." />
+<item slot="3" text="sprinkle in some fish food ." />
+<item slot="4" text="recover aquarium ." />
+</script>
+<script id="38">
+<item slot="1" text="get fish food ." />
+<item slot="2" text="take cover off of fish tank ." />
+<item slot="3" text="sprinkle in some fish food ." />
+<item slot="4" text="recover aquarium ." />
+</script>
+<script id="39">
+<item slot="1" text="pick up the bottle of food ." />
+<item slot="2" text="open the lid of the bottle ." />
+<item slot="3" text="open the top of the fish tank ." />
+<item slot="4" text="sprinkle in the food ." />
+<item slot="5" text="close the fish tank ." />
+<item slot="6" text="close the bottle of food ." />
+<item slot="7" text="put down bottle of food ." />
+</script>
+<script id="40">
+<item slot="1" text="pick up the bottle of food ." />
+<item slot="2" text="open the lid of the bottle ." />
+<item slot="3" text="open the top of the fish tank ." />
+<item slot="4" text="sprinkle in the food ." />
+<item slot="5" text="close the fish tank ." />
+<item slot="6" text="close the bottle of food ." />
+<item slot="7" text="put down bottle of food ." />
+</script>
+<script id="41">
+<item slot="1" text="take the lid off the jar ." />
+<item slot="2" text="open the tank ." />
+<item slot="3" text="dump the food in ." />
+<item slot="4" text="close the lid ." />
+<item slot="5" text="close the jar ." />
+<item slot="6" text="they enjoy the food ." />
+<item slot="7" text="you are done ." />
+</script>
+</scripts>

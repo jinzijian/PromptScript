@@ -1,0 +1,110 @@
+<scripts><script id="1" source="1"><item slot="1" original="Get a towel" ></item>
+<item slot="2" original="Get soap and shampoo" ></item>
+<item slot="3" original="Get clothes" ></item>
+<item slot="4" original="Turn on water" ></item>
+<item slot="5" original="Get in the tub" ></item>
+<item slot="6" original="Wash yourself" ></item>
+<item slot="7" original="Dry yourself off" ></item>
+<item slot="8" original="Get dressed" ></item>
+</script><script id="2" source="1"><item slot="1" original="Get undressed" ></item>
+<item slot="2" original="Check water temperature" ></item>
+<item slot="3" original="Going in to the tub / shower booth" ></item>
+<item slot="4" original="Clean your body with soap / wash hair" ></item>
+<item slot="5" original="Rinse the body" ></item>
+<item slot="6" original="Dry yourself using towel and hair dryer" ></item>
+</script><script id="3" source="1"><item slot="1" original="Fill bathtub with warm water" ></item>
+<item slot="2" original="Get undressed" ></item>
+<item slot="3" original="Step into bathtub" ></item>
+<item slot="4" original="Sit down in bathtub" ></item>
+<item slot="5" original="Put soap on washcloth" ></item>
+<item slot="6" original="Wash yourself with washcloth" ></item>
+<item slot="7" original="Rinse yourself off with tub water" ></item>
+<item slot="8" original="Get out of bathtub" ></item>
+<item slot="9" original="Drain bathtub" ></item>
+<item slot="10" original="Dry off with a towel" ></item>
+</script><script id="4" source="1"><item slot="1" original="Fill tub with warm water" ></item>
+<item slot="2" original="Add bubbles or other skin treatment" ></item>
+<item slot="3" original="Remove clothing" ></item>
+<item slot="4" original="Get in the bathtub" ></item>
+<item slot="5" original="Soak" ></item>
+<item slot="6" original="Wash body" ></item>
+<item slot="7" original="Get out of bathtub" ></item>
+<item slot="8" original="Dry body and get dressed" ></item>
+<item slot="9" original="Drain and rinse tub" ></item>
+</script><script id="5" source="1"><item slot="1" original="Run water until desired temperature" ></item>
+<item slot="2" original="Fill bathtub" ></item>
+<item slot="3" original="Enter bathtub" ></item>
+<item slot="4" original="Apply soap to body with washcloth" ></item>
+<item slot="5" original="Exit bathtub" ></item>
+<item slot="6" original="Drain bathtub" ></item>
+<item slot="7" original="Dry body with towel" ></item>
+</script><script id="6" source="1"><item slot="1" original="Make sure tub is clean... If not, clean it." ></item>
+<item slot="2" original="Fill tub with warm water" ></item>
+<item slot="3" original="Get undressed" ></item>
+<item slot="4" original="Get into the bath" ></item>
+<item slot="5" original="Wash yourself" ></item>
+<item slot="6" original="Get out of the tub" ></item>
+<item slot="7" original="Dry off" ></item>
+<item slot="8" original="Empty water from tub" ></item>
+<item slot="9" original="Get dressed" ></item>
+</script><script id="7" source="1"><item slot="1" original="Go to bath tub" ></item>
+<item slot="2" original="Put plug in drain " ></item>
+<item slot="3" original="Turn on water" ></item>
+<item slot="4" original="Fill bath tub to desired water level " ></item>
+<item slot="5" original="Turn off water " ></item>
+<item slot="6" original="Put towel near outside of bath tub" ></item>
+<item slot="7" original="Remove your clothes" ></item>
+<item slot="8" original="Get in bath tub and sit" ></item>
+<item slot="9" original="Clean body with soap " ></item>
+<item slot="10" original="Rinse body with water" ></item>
+<item slot="11" original="Pull plug and drain bath tub" ></item>
+<item slot="12" original="Get out of bath tub" ></item>
+<item slot="13" original="Dry off with towel" ></item>
+</script><script id="8" source="1"><item slot="1" original="Turn hot and cold water on" ></item>
+<item slot="2" original="Pull up the plug " ></item>
+<item slot="3" original="Turn heat on in bathroom" ></item>
+<item slot="4" original="Get in the tub" ></item>
+<item slot="5" original="Wash body" ></item>
+<item slot="6" original="Wash hair" ></item>
+<item slot="7" original="Let water out the tub" ></item>
+<item slot="8" original="Get out the tub" ></item>
+<item slot="9" original="Dry body and hair" ></item>
+<item slot="10" original="Turn off the heat in bathroom" ></item>
+</script><script id="9" source="1"><item slot="1" original="Turn on bath facet to desired temperature " ></item>
+<item slot="2" original="Plug the drain" ></item>
+<item slot="3" original="Let tub fill up" ></item>
+<item slot="4" original="Take off clothes" ></item>
+<item slot="5" original="Get into the tub" ></item>
+<item slot="6" original="Wash your body with soap" ></item>
+<item slot="7" original="Rinse soap off of body" ></item>
+<item slot="8" original="Apply shampoo to hair" ></item>
+<item slot="9" original="Rinse shampoo off " ></item>
+<item slot="10" original="Relax" ></item>
+<item slot="11" original="Remove the plug" ></item>
+<item slot="12" original="Step out of bathtub" ></item>
+<item slot="13" original="Dry off with towel " ></item>
+</script><script id="10" source="1"><item slot="1" original="Get a dry bath towel." ></item>
+<item slot="2" original="Get bubble bath." ></item>
+<item slot="3" original="Turn on hot and cold water taps." ></item>
+<item slot="4" original="Adjust temperature." ></item>
+<item slot="5" original="Plug the drain." ></item>
+<item slot="6" original="Add bubble Bath." ></item>
+<item slot="7" original="Let the bath fill up to overflow drain level." ></item>
+<item slot="8" original="Turn off hot and cold taps." ></item>
+<item slot="9" original="Get in bath, without clothes on." ></item>
+<item slot="10" original="Soak in the bath." ></item>
+<item slot="11" original="Wash with soap or body wash." ></item>
+<item slot="12" original="Get out when water starts to get cool." ></item>
+<item slot="13" original="Unplug the drain." ></item>
+<item slot="14" original="Dry yourself with a towel." ></item>
+</script><script id="11" source="1"><item slot="1" original="Insert plug into drain of bathtub" ></item>
+<item slot="2" original="Turn faucet on" ></item>
+<item slot="3" original="Adjust hot and cold taps to desired temperature " ></item>
+<item slot="4" original="Undress " ></item>
+<item slot="5" original="Step into bathtub" ></item>
+<item slot="6" original="Sit or lay in bathtub" ></item>
+<item slot="7" original="Wash with soap" ></item>
+<item slot="8" original="Rinse soap off" ></item>
+<item slot="9" original="Get out of bathtub" ></item>
+<item slot="10" original="Dry with dry towel " ></item>
+</script></scripts>

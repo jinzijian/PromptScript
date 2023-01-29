@@ -1,0 +1,812 @@
+<scripts>
+<script id="1">
+<item slot="1" text="remove bed from bag ." />
+<item slot="2" text="place bread in toaster ." />
+<item slot="3" text="turn on toaster ." />
+</script>
+<script id="2">
+<item slot="1" text="get loaf of bread ." />
+<item slot="2" text="cut a slice of bread ." />
+<item slot="3" text="get a toaster ." />
+<item slot="4" text="plug in toaster ." />
+<item slot="5" text="place slice of bread in toaster ." />
+<item slot="6" text="turn on toaster ." />
+<item slot="7" text="when done remove toast from toaster ." />
+</script>
+<script id="3">
+<item slot="1" text="place a slice of bread into the slot of the toaster ." />
+<item slot="2" text="set the desired toast darkness ." />
+<item slot="3" text="press down the toast button ." />
+<item slot="4" text="remove the bread when toasting cycle is complete ." />
+</script>
+<script id="4">
+<item slot="1" text="slice bread ." />
+<item slot="2" text="put in toaster ." />
+<item slot="3" text="turn toaster on ." />
+</script>
+<script id="5">
+<item slot="1" text="slice bread ." />
+<item slot="2" text="put bread in toaster ." />
+<item slot="3" text="push button on toaster ." />
+<item slot="4" text="wait for bread to pop up ." />
+<item slot="5" text="remove bread from toaster ." />
+</script>
+<script id="6">
+<item slot="1" text="get sliced bread ." />
+<item slot="2" text="take bread to toaster ." />
+<item slot="3" text="place bread inside toaster ." />
+<item slot="4" text="turn toaster on ." />
+<item slot="5" text="wait for bread to toast ." />
+<item slot="6" text="remove bread ." />
+<item slot="7" text="turn off toaster ." />
+</script>
+<script id="7">
+<item slot="1" text="slice bread or get sliced bread ." />
+<item slot="2" text="put bread in toaster ." />
+<item slot="3" text="select toast level ." />
+<item slot="4" text="turn on toaster ." />
+<item slot="5" text="wait for toaster to finish ." />
+<item slot="6" text="remove bread ." />
+</script>
+<script id="8">
+<item slot="1" text="slice bread ." />
+<item slot="2" text="put bread inside toaster ." />
+<item slot="3" text="select level of darkness for bread ." />
+<item slot="4" text="press button ." />
+<item slot="5" text="wait for bread to toast ." />
+<item slot="6" text="go back to 2 if more bread needed ." />
+</script>
+<script id="9">
+<item slot="1" text="slice bread or get sliced bread ." />
+<item slot="2" text="place sliced bread in toaster ." />
+<item slot="3" text="select toast level ." />
+<item slot="4" text="turn on toaster ." />
+<item slot="5" text="wait for bread to toast ." />
+<item slot="6" text="remove bread ." />
+</script>
+<script id="10">
+<item slot="1" text="cut a slice of bread from the loaf ." />
+<item slot="2" text="place in toaster ." />
+<item slot="3" text="press down the button ." />
+<item slot="4" text="wait for the toast to pop up ." />
+</script>
+<script id="11">
+<item slot="1" text="slice bread ." />
+<item slot="2" text="place bread in toaster ." />
+<item slot="3" text="select desired level on toaster ." />
+<item slot="4" text="turn on toaster ." />
+<item slot="5" text="wait for bread to toast ." />
+<item slot="6" text="remove bread ." />
+</script>
+<script id="12">
+<item slot="1" text="plug in the toaster ." />
+<item slot="2" text="take bread out of bag ." />
+<item slot="3" text="put bread into toaster slots ." />
+<item slot="4" text="set the toaster to the desired level of toasting ." />
+<item slot="5" text="wait for the bread to pop up ." />
+<item slot="6" text="remove toasted bread from toaster ." />
+</script>
+<script id="13">
+<item slot="1" text="get sliced toast ." />
+<item slot="2" text="put bread into toaster ." />
+<item slot="3" text="plug toaster in ." />
+<item slot="4" text="push toaster lever down ." />
+<item slot="5" text="wait until it jumps back up ." />
+<item slot="6" text="take out toasted bread ." />
+</script>
+<script id="14">
+<item slot="1" text="find a piece of bread ." />
+<item slot="2" text="find a bread toaster rack ." />
+<item slot="3" text="place bread into toaster rack ." />
+<item slot="4" text="hold toaster rack against a warm fire until bread is slightly browned ." />
+</script>
+<script id="15">
+<item slot="1" text="locate bread ." />
+<item slot="2" text="locate toaster ." />
+<item slot="3" text="insert bread into toaster ." />
+<item slot="4" text="depress control on toaster to toast bread ." />
+</script>
+<script id="16">
+<item slot="1" text="get some bread ." />
+<item slot="2" text="put it in the toaster ." />
+<item slot="3" text="switch it on ." />
+</script>
+<script id="17">
+<item slot="1" text="get slices of bread ." />
+<item slot="2" text="get toaster ." />
+<item slot="3" text="put bread in toaster ." />
+<item slot="4" text="wait for toaster to finish ." />
+<item slot="5" text="put bread on plate ." />
+<item slot="6" text="apply butter to bread ." />
+</script>
+<script id="18">
+<item slot="1" text="own toaster and bread ." />
+<item slot="2" text="insert bread in toaster ." />
+<item slot="3" text="pull down on switch for toaster ." />
+<item slot="4" text="wait for toaster to finish ." />
+</script>
+<script id="19">
+<item slot="1" text="make sure toaster is plugged in ." />
+<item slot="2" text="place bread in toaster ." />
+<item slot="3" text="turn on toaster ." />
+</script>
+<script id="20">
+<item slot="1" text="get bread out of bag ." />
+<item slot="2" text="place bread in slots of toaster ." />
+<item slot="3" text="plug in toaster ." />
+<item slot="4" text="press button ." />
+<item slot="5" text="wait until toast pops back up ." />
+<item slot="6" text="unplug toaster ." />
+<item slot="7" text="remove toast ." />
+</script>
+<script id="21">
+<item slot="1" text="get bread ." />
+<item slot="2" text="put bread in toaster ." />
+</script>
+<script id="22">
+<item slot="1" text="place bread in toaster ." />
+<item slot="2" text="set toaster and start toasting cycle ." />
+<item slot="3" text="take toast out of toaster when cycle is complete ." />
+</script>
+<script id="23">
+<item slot="1" text="put bread into toaster ." />
+</script>
+<script id="24">
+<item slot="1" text="put bread in toaster ." />
+<item slot="2" text="turn on toaster ." />
+<item slot="3" text="wait for toaster to stop ." />
+<item slot="4" text="remove toast ." />
+</script>
+<script id="25">
+<item slot="1" text="put the bread into the toaster ." />
+<item slot="2" text="push the toaster lever down ." />
+<item slot="3" text="wait until the toaster lever pops back up ." />
+<item slot="4" text="remove the toast being careful not to get burned ." />
+</script>
+<script id="26">
+<item slot="1" text="insert the toast into the toaster ." />
+<item slot="2" text="push the lever down ." />
+<item slot="3" text="when the lever pops back up remove the hot toast ." />
+</script>
+<script id="27">
+<item slot="1" text="put toast in toaster ." />
+<item slot="2" text="press lever down ." />
+<item slot="3" text="when lever pops up remove toast ." />
+</script>
+<script id="28">
+<item slot="1" text="take slice of bread out of the bag ." />
+<item slot="2" text="put slice of bread in the toaster ." />
+<item slot="3" text="push down toaster lever ." />
+<item slot="4" text="wait until bread is toasted ." />
+</script>
+<script id="29">
+<item slot="1" text="select bread slices ." />
+<item slot="2" text="place in toaster ." />
+</script>
+<script id="30">
+<item slot="1" text="obtain appropriate number of bread slices ." />
+<item slot="2" text="place bread in toaster ." />
+<item slot="3" text="close toaster ." />
+<item slot="4" text="turn toaster on ." />
+</script>
+<script id="31">
+<item slot="1" text="find the bread ." />
+<item slot="2" text="remove slices ." />
+<item slot="3" text="pull out toaster ." />
+<item slot="4" text="insert the slices of bread ." />
+<item slot="5" text="set the timer ." />
+<item slot="6" text="turn on toaster ." />
+<item slot="7" text="remove the bread when done ." />
+</script>
+<script id="32">
+<item slot="1" text="put bread in toaster ." />
+<item slot="2" text="push on switch ." />
+</script>
+<script id="33">
+<item slot="1" text="put bread in toaster ." />
+<item slot="2" text="push on switch ." />
+</script>
+<script id="34">
+<item slot="1" text="put bread in toaster ." />
+<item slot="2" text="push on switch ." />
+</script>
+<script id="35">
+<item slot="1" text="put bread in toaster ." />
+<item slot="2" text="push on switch ." />
+</script>
+<script id="36">
+<item slot="1" text="put bread in toaster ." />
+<item slot="2" text="push on switch ." />
+</script>
+<script id="37">
+<item slot="1" text="put bread in toaster ." />
+<item slot="2" text="push on switch ." />
+</script>
+<script id="38">
+<item slot="1" text="put bread in toaster ." />
+<item slot="2" text="push on switch ." />
+</script>
+<script id="39">
+<item slot="1" text="put bread in toaster ." />
+<item slot="2" text="push on switch ." />
+</script>
+<script id="40">
+<item slot="1" text="place sliced bread in toaster ." />
+<item slot="2" text="set toaster to prefered darkness level ." />
+<item slot="3" text="wait for taaster to pop of toast ." />
+<item slot="4" text="ask person if they want butter and jelly on the toast ." />
+</script>
+<script id="41">
+<item slot="1" text="get bread ." />
+<item slot="2" text="put in toaster ." />
+<item slot="3" text="push lever down ." />
+<item slot="4" text="wait for toast to pop up ." />
+<item slot="5" text="take bread from toaster ." />
+</script>
+<script id="42">
+<item slot="1" text="get bread ." />
+<item slot="2" text="put in toaster ." />
+<item slot="3" text="push lever down ." />
+<item slot="4" text="wait for toast to pop up ." />
+<item slot="5" text="take bread from toaster ." />
+</script>
+<script id="43">
+<item slot="1" text="put the bread in the toaster ." />
+<item slot="2" text="adjust the knob for light medium or dark ." />
+<item slot="3" text="when the toast pops up pull it out ." />
+</script>
+<script id="44">
+<item slot="1" text="remove bread from bag ." />
+<item slot="2" text="place bread in toaster ." />
+<item slot="3" text="turn toaster on ." />
+<item slot="4" text="wait until bread browns ." />
+<item slot="5" text="turn toaster off ." />
+<item slot="6" text="place bread on plate ." />
+</script>
+<script id="45">
+<item slot="1" text="put bread in toaster ." />
+<item slot="2" text="turn toaster on ." />
+</script>
+<script id="46">
+<item slot="1" text="take out 1 or 2 slices of bread ." />
+<item slot="2" text="plug in the toaster ." />
+<item slot="3" text="stitch the toaster on ." />
+<item slot="4" text="put in the slices of bread ." />
+<item slot="5" text="select doness dial ." />
+<item slot="6" text="push down leaver ." />
+<item slot="7" text="wait until bread pops up ." />
+</script>
+<script id="47">
+<item slot="1" text="plug in the toaster ." />
+<item slot="2" text="put bread into the toaster ." />
+<item slot="3" text="lower the lever ." />
+<item slot="4" text="wait until the toast pops up ." />
+<item slot="5" text="get the toast ." />
+</script>
+<script id="48">
+<item slot="1" text="place slice of bread in toaster slot ." />
+<item slot="2" text="push down on the start lever ." />
+<item slot="3" text="wait for toast to pop up ." />
+<item slot="4" text="carefully remove hot toast ." />
+</script>
+<script id="49">
+<item slot="1" text="place slice of bread in toaster slot ." />
+<item slot="2" text="push down on the start lever ." />
+<item slot="3" text="wait for toast to pop up ." />
+<item slot="4" text="carefully remove hot toast ." />
+</script>
+<script id="50">
+<item slot="1" text="slice bread ." />
+<item slot="2" text="put a slice in the toaster ." />
+<item slot="3" text="turn on the toaster ." />
+<item slot="4" text="wait ." />
+<item slot="5" text="remove the slice ." />
+</script>
+<script id="51">
+<item slot="1" text="take slice of bread out of bread bag ." />
+<item slot="2" text="tie shut bread bag ." />
+<item slot="3" text="put bread in toaster ." />
+<item slot="4" text="push button on toaster ." />
+<item slot="5" text="wait till it pops up ." />
+<item slot="6" text="take out of toaster ." />
+<item slot="7" text="butter toast ." />
+</script>
+<script id="52">
+<item slot="1" text="open bread packet ." />
+<item slot="2" text="remove 2 slices of bread ." />
+<item slot="3" text="put slices in toaster ." />
+<item slot="4" text="push down the button ." />
+<item slot="5" text="wait until tost pops up ." />
+<item slot="6" text="remove toast ." />
+<item slot="7" text="spread butter on toast ." />
+</script>
+<script id="53">
+<item slot="1" text="get bread ." />
+<item slot="2" text="turn on toaster ." />
+<item slot="3" text="put bread in ." />
+<item slot="4" text="turn on ." />
+<item slot="5" text="close door ." />
+</script>
+<script id="54">
+<item slot="1" text="remove a slice of bread from the loaf ." />
+<item slot="2" text="place the bread in the toaster slot ." />
+<item slot="3" text="depress the toaster lever ." />
+<item slot="4" text="wait for toast to pop up then remove and eat ." />
+</script>
+<script id="55">
+<item slot="1" text="open the bag ." />
+<item slot="2" text="remove a slice of bread ." />
+<item slot="3" text="place in slot in toaster ." />
+</script>
+<script id="56">
+<item slot="1" text="open the bag ." />
+<item slot="2" text="remove a slice of bread ." />
+<item slot="3" text="place in slot in toaster ." />
+</script>
+<script id="57">
+<item slot="1" text="open the bag ." />
+<item slot="2" text="remove a slice of bread ." />
+<item slot="3" text="place in slot in toaster ." />
+</script>
+<script id="58">
+<item slot="1" text="open the bag ." />
+<item slot="2" text="remove a slice of bread ." />
+<item slot="3" text="place in slot in toaster ." />
+<item slot="4" text="set desired toasting level ." />
+<item slot="5" text="push lever down ." />
+<item slot="6" text="once the bread pops up remove ." />
+<item slot="7" text="spread butter ." />
+</script>
+<script id="59">
+<item slot="1" text="open the bag ." />
+<item slot="2" text="remove a slice of bread ." />
+<item slot="3" text="place in slot in toaster ." />
+<item slot="4" text="set desired toasting level ." />
+<item slot="5" text="push lever down ." />
+<item slot="6" text="once the bread pops up remove ." />
+<item slot="7" text="spread butter ." />
+</script>
+<script id="60">
+<item slot="1" text="open the bag ." />
+<item slot="2" text="remove a slice of bread ." />
+<item slot="3" text="place in slot in toaster ." />
+<item slot="4" text="set desired toasting level ." />
+<item slot="5" text="push lever down ." />
+<item slot="6" text="once the bread pops up remove ." />
+<item slot="7" text="spread butter ." />
+</script>
+<script id="61">
+<item slot="1" text="open the bag ." />
+<item slot="2" text="remove a slice of bread ." />
+<item slot="3" text="place in slot in toaster ." />
+</script>
+<script id="62">
+<item slot="1" text="open the bag ." />
+<item slot="2" text="remove a slice of bread ." />
+<item slot="3" text="place in slot in toaster ." />
+<item slot="4" text="set desired toasting level ." />
+<item slot="5" text="push lever down ." />
+<item slot="6" text="once the bread pops up remove ." />
+<item slot="7" text="spread butter ." />
+</script>
+<script id="63">
+<item slot="1" text="open the bag ." />
+<item slot="2" text="remove a slice of bread ." />
+<item slot="3" text="place in slot in toaster ." />
+</script>
+<script id="64">
+<item slot="1" text="open the bag ." />
+<item slot="2" text="remove a slice of bread ." />
+<item slot="3" text="place in slot in toaster ." />
+</script>
+<script id="65">
+<item slot="1" text="open the bag ." />
+<item slot="2" text="remove a slice of bread ." />
+<item slot="3" text="place in slot in toaster ." />
+<item slot="4" text="set desired toasting level ." />
+<item slot="5" text="push lever down ." />
+<item slot="6" text="once the bread pops up remove ." />
+<item slot="7" text="spread butter ." />
+</script>
+<script id="66">
+<item slot="1" text="open the bag ." />
+<item slot="2" text="remove a slice of bread ." />
+<item slot="3" text="place in slot in toaster ." />
+<item slot="4" text="set desired toasting level ." />
+<item slot="5" text="push lever down ." />
+<item slot="6" text="once the bread pops up remove ." />
+<item slot="7" text="spread butter ." />
+</script>
+<script id="67">
+<item slot="1" text="open the bag ." />
+<item slot="2" text="remove a slice of bread ." />
+<item slot="3" text="place in slot in toaster ." />
+</script>
+<script id="68">
+<item slot="1" text="open the bag ." />
+<item slot="2" text="remove a slice of bread ." />
+<item slot="3" text="place in slot in toaster ." />
+</script>
+<script id="69">
+<item slot="1" text="open the bag ." />
+<item slot="2" text="remove a slice of bread ." />
+<item slot="3" text="place in slot in toaster ." />
+</script>
+<script id="70">
+<item slot="1" text="open the bag ." />
+<item slot="2" text="remove a slice of bread ." />
+<item slot="3" text="place in slot in toaster ." />
+</script>
+<script id="71">
+<item slot="1" text="open the bag ." />
+<item slot="2" text="remove a slice of bread ." />
+<item slot="3" text="open the bag ." />
+<item slot="4" text="remove a slice of bread ." />
+<item slot="5" text="place in slot in toaster ." />
+<item slot="6" text="place in slot in toaster ." />
+</script>
+<script id="72">
+<item slot="1" text="open the bag ." />
+<item slot="2" text="remove a slice of bread ." />
+<item slot="3" text="place in slot in toaster ." />
+<item slot="4" text="set desired toasting level ." />
+<item slot="5" text="push lever down ." />
+<item slot="6" text="once the bread pops up remove ." />
+<item slot="7" text="spread butter ." />
+</script>
+<script id="73">
+<item slot="1" text="open the bag ." />
+<item slot="2" text="remove a slice of bread ." />
+<item slot="3" text="place in slot in toaster ." />
+<item slot="4" text="set desired toasting level ." />
+<item slot="5" text="push lever down ." />
+<item slot="6" text="once the bread pops up remove ." />
+<item slot="7" text="spread butter ." />
+</script>
+<script id="74">
+<item slot="1" text="open the bag ." />
+<item slot="2" text="remove a slice of bread ." />
+<item slot="3" text="place in slot in toaster ." />
+<item slot="4" text="set desired toasting level ." />
+<item slot="5" text="push lever down ." />
+<item slot="6" text="once the bread pops up remove ." />
+<item slot="7" text="spread butter ." />
+</script>
+<script id="75">
+<item slot="1" text="open the bag ." />
+<item slot="2" text="remove a slice of bread ." />
+<item slot="3" text="place in slot in toaster ." />
+<item slot="4" text="set desired toasting level ." />
+<item slot="5" text="push lever down ." />
+<item slot="6" text="once the bread pops up remove ." />
+<item slot="7" text="spread butter ." />
+</script>
+<script id="76">
+<item slot="1" text="open the bag ." />
+<item slot="2" text="remove a slice of bread ." />
+<item slot="3" text="place in slot in toaster ." />
+<item slot="4" text="set desired toasting level ." />
+<item slot="5" text="push lever down ." />
+<item slot="6" text="once the bread pops up remove ." />
+<item slot="7" text="spread butter ." />
+</script>
+<script id="77">
+<item slot="1" text="open the bag ." />
+<item slot="2" text="remove a slice of bread ." />
+<item slot="3" text="place in slot in toaster ." />
+<item slot="4" text="set desired toasting level ." />
+<item slot="5" text="push lever down ." />
+<item slot="6" text="once the bread pops up remove ." />
+<item slot="7" text="spread butter ." />
+</script>
+<script id="78">
+<item slot="1" text="open the bag ." />
+<item slot="2" text="remove a slice of bread ." />
+<item slot="3" text="place in slot in toaster ." />
+</script>
+<script id="79">
+<item slot="1" text="open the bag ." />
+<item slot="2" text="remove a slice of bread ." />
+<item slot="3" text="place in slot in toaster ." />
+<item slot="4" text="set desired toasting level ." />
+<item slot="5" text="push lever down ." />
+<item slot="6" text="once the bread pops up remove ." />
+<item slot="7" text="spread butter ." />
+</script>
+<script id="80">
+<item slot="1" text="cut bread ." />
+<item slot="2" text="insert in toaster ." />
+<item slot="3" text="start toaster ." />
+</script>
+<script id="81">
+<item slot="1" text="obtain bread ." />
+<item slot="2" text="place slice(s) in toaster ." />
+<item slot="3" text="start toaster ." />
+<item slot="4" text="remove bread when pops ." />
+</script>
+<script id="82">
+<item slot="1" text="open bread bag ." />
+<item slot="2" text="take out a slice ." />
+<item slot="3" text="put into the toaster ." />
+<item slot="4" text="press down toaster lever ." />
+<item slot="5" text="when it pops it s toasted ." />
+<item slot="6" text="spread butter jam or peanut butter on the toast ." />
+</script>
+<script id="83">
+<item slot="1" text="open bread bag ." />
+<item slot="2" text="take out a slice ." />
+<item slot="3" text="put into the toaster ." />
+<item slot="4" text="press down toaster lever ." />
+<item slot="5" text="when it pops it s toasted ." />
+<item slot="6" text="spread butter jam or peanut butter on the toast ." />
+</script>
+<script id="84">
+<item slot="1" text="open bread bag ." />
+<item slot="2" text="take out a slice ." />
+<item slot="3" text="put into the toaster ." />
+<item slot="4" text="press down toaster lever ." />
+<item slot="5" text="when it pops it s toasted ." />
+<item slot="6" text="spread butter jam or peanut butter on the toast ." />
+</script>
+<script id="85">
+<item slot="1" text="open bread bag ." />
+<item slot="2" text="take out a slice ." />
+<item slot="3" text="put into the toaster ." />
+<item slot="4" text="press down toaster lever ." />
+<item slot="5" text="when it pops it s toasted ." />
+<item slot="6" text="spread butter jam or peanut butter on the toast ." />
+</script>
+<script id="86">
+<item slot="1" text="open bread bag ." />
+<item slot="2" text="take out a slice ." />
+<item slot="3" text="put into the toaster ." />
+<item slot="4" text="press down toaster lever ." />
+<item slot="5" text="when it pops it s toasted ." />
+<item slot="6" text="spread butter jam or peanut butter on the toast ." />
+</script>
+<script id="87">
+<item slot="1" text="open bread bag ." />
+<item slot="2" text="take out a slice ." />
+<item slot="3" text="put into the toaster ." />
+<item slot="4" text="press down toaster lever ." />
+<item slot="5" text="when it pops it s toasted ." />
+<item slot="6" text="spread butter jam or peanut butter on the toast ." />
+</script>
+<script id="88">
+<item slot="1" text="slice bread from loaf ." />
+<item slot="2" text="place slice in toaster ." />
+<item slot="3" text="depress toaster lever ." />
+<item slot="4" text="when lever pops up remove toast ." />
+</script>
+<script id="89">
+<item slot="1" text="slice bread from loaf ." />
+<item slot="2" text="place slice in toaster ." />
+<item slot="3" text="depress toaster lever ." />
+<item slot="4" text="when lever pops up remove toast ." />
+</script>
+<script id="90">
+<item slot="1" text="slice bread from loaf ." />
+<item slot="2" text="place slice in toaster ." />
+<item slot="3" text="depress toaster lever ." />
+<item slot="4" text="when lever pops up remove toast ." />
+</script>
+<script id="91">
+<item slot="1" text="slice bread from loaf ." />
+<item slot="2" text="place slice in toaster ." />
+<item slot="3" text="depress toaster lever ." />
+<item slot="4" text="when lever pops up remove toast ." />
+</script>
+<script id="92">
+<item slot="1" text="slice bread from loaf ." />
+<item slot="2" text="place slice in toaster ." />
+<item slot="3" text="depress toaster lever ." />
+<item slot="4" text="when lever pops up remove toast ." />
+</script>
+<script id="93">
+<item slot="1" text="slice bread from loaf ." />
+<item slot="2" text="place slice in toaster ." />
+<item slot="3" text="depress toaster lever ." />
+<item slot="4" text="when lever pops up remove toast ." />
+</script>
+<script id="94">
+<item slot="1" text="toast bread ." />
+</script>
+<script id="95">
+<item slot="1" text="put bread into toaster ." />
+<item slot="2" text="turn on toaster ." />
+<item slot="3" text="wait until bread is toasted ." />
+</script>
+<script id="96">
+<item slot="1" text="retrieve bread ." />
+<item slot="2" text="locate toaster and make sure it is plugged in ." />
+<item slot="3" text="place bread into toaster slots ." />
+<item slot="4" text="push down button or turn toaster on ." />
+<item slot="5" text="remove toast when prompted ." />
+</script>
+<script id="97">
+<item slot="1" text="retrieve bread ." />
+<item slot="2" text="locate toaster and make sure it is plugged in ." />
+<item slot="3" text="place bread into toaster slots ." />
+<item slot="4" text="push down button or turn toaster on ." />
+<item slot="5" text="remove toast when prompted ." />
+</script>
+<script id="98">
+<item slot="1" text="retrieve bread ." />
+<item slot="2" text="locate toaster and make sure it is plugged in ." />
+<item slot="3" text="place bread into toaster slots ." />
+<item slot="4" text="push down button or turn toaster on ." />
+<item slot="5" text="remove toast when prompted ." />
+</script>
+<script id="99">
+<item slot="1" text="locate bread ." />
+<item slot="2" text="locate toaster ." />
+<item slot="3" text="plug in toaster ." />
+<item slot="4" text="place bread in toaster ." />
+<item slot="5" text="turn toaster on ." />
+<item slot="6" text="select intended settings ." />
+<item slot="7" text="press button to start ." />
+</script>
+<script id="100">
+<item slot="1" text="locate bread ." />
+<item slot="2" text="locate toaster ." />
+<item slot="3" text="plug in toaster ." />
+<item slot="4" text="place bread in toaster ." />
+<item slot="5" text="turn toaster on ." />
+<item slot="6" text="select intended settings ." />
+<item slot="7" text="press button to start ." />
+</script>
+<script id="101">
+<item slot="1" text="go to the kitchen ." />
+<item slot="2" text="get loaf of bread ." />
+<item slot="3" text="take out slice of bread ." />
+<item slot="4" text="put away loaf of bread ." />
+<item slot="5" text="put slice in toaster ." />
+<item slot="6" text="turn on ." />
+<item slot="7" text="wait till toated ." />
+</script>
+<script id="102">
+<item slot="1" text="get bread ." />
+<item slot="2" text="open bag ." />
+<item slot="3" text="place pieces of bread in toaster ." />
+<item slot="4" text="push bread down ." />
+<item slot="5" text="wait until desired toastiness is acquired ." />
+<item slot="6" text="pop up ." />
+<item slot="7" text="eat ." />
+</script>
+<script id="103">
+<item slot="1" text="get bread ." />
+<item slot="2" text="put bread in toaster ." />
+<item slot="3" text="press down start lever ." />
+<item slot="4" text="take out toast when it pops up ." />
+</script>
+<script id="104">
+<item slot="1" text="get bread ." />
+<item slot="2" text="put bread in toaster ." />
+<item slot="3" text="push down lever ." />
+<item slot="4" text="wait for it to toast ." />
+<item slot="5" text="when it pops up take out toast ." />
+</script>
+<script id="105">
+<item slot="1" text="get bread ." />
+<item slot="2" text="put bread in toaster ." />
+<item slot="3" text="push down lever ." />
+<item slot="4" text="wait for it to toast ." />
+<item slot="5" text="when it pops up take out toast ." />
+</script>
+<script id="106">
+<item slot="1" text="get bread ." />
+<item slot="2" text="put bread in toaster ." />
+<item slot="3" text="push down lever ." />
+<item slot="4" text="wait for it to toast ." />
+<item slot="5" text="when it pops up take out toast ." />
+</script>
+<script id="107">
+<item slot="1" text="get bread ." />
+<item slot="2" text="put bread in toaster ." />
+<item slot="3" text="push down lever ." />
+<item slot="4" text="wait for it to toast ." />
+<item slot="5" text="when it pops up take out toast ." />
+</script>
+<script id="108">
+<item slot="1" text="plug in the toaster ." />
+<item slot="2" text="cut two slices of bread ." />
+<item slot="3" text="insert in toaster ." />
+<item slot="4" text="adjust toaster settings ." />
+<item slot="5" text="push down the button ." />
+<item slot="6" text="wait for toast to pop ." />
+<item slot="7" text="remove toast from toaster ." />
+</script>
+<script id="109">
+<item slot="1" text="get bread ." />
+<item slot="2" text="put bread in toaster ." />
+<item slot="3" text="toast bread ." />
+</script>
+<script id="110">
+<item slot="1" text="get bread ." />
+<item slot="2" text="put bread in toaster ." />
+<item slot="3" text="toast bread ." />
+</script>
+<script id="111">
+<item slot="1" text="get bread ." />
+<item slot="2" text="put bread in toaster ." />
+<item slot="3" text="toast bread ." />
+</script>
+<script id="112">
+<item slot="1" text="remove 1-2 slices of bread from bag ." />
+<item slot="2" text="insert bread into toaster ." />
+<item slot="3" text="adjust toaster for light or dark toast ." />
+<item slot="4" text="pull handle down ." />
+<item slot="5" text="wait for toast to pop up ." />
+</script>
+<script id="113">
+<item slot="1" text="remove 1-2 slices of bread from bag ." />
+<item slot="2" text="insert bread into toaster ." />
+<item slot="3" text="adjust toaster for light or dark toast ." />
+<item slot="4" text="pull handle down ." />
+<item slot="5" text="wait for toast to pop up ." />
+</script>
+<script id="114">
+<item slot="1" text="remove 1-2 slices of bread from bag ." />
+<item slot="2" text="insert bread into toaster ." />
+<item slot="3" text="adjust toaster for light or dark toast ." />
+<item slot="4" text="pull handle down ." />
+<item slot="5" text="wait for toast to pop up ." />
+</script>
+<script id="115">
+<item slot="1" text="remove 1-2 slices of bread from bag ." />
+<item slot="2" text="insert bread into toaster ." />
+<item slot="3" text="adjust toaster for light or dark toast ." />
+<item slot="4" text="pull handle down ." />
+<item slot="5" text="wait for toast to pop up ." />
+</script>
+<script id="116">
+<item slot="1" text="obtain slice of bread ." />
+<item slot="2" text="place slice of bread into toaster ." />
+<item slot="3" text="activate toaster ." />
+<item slot="4" text="wait for toast to pop up ." />
+<item slot="5" text="take slice out of toaster when finished ." />
+<item slot="6" text="butter toast ." />
+</script>
+<script id="117">
+<item slot="1" text="obtain slice of bread ." />
+<item slot="2" text="place slice of bread into toaster ." />
+<item slot="3" text="activate toaster ." />
+<item slot="4" text="wait for toast to pop up ." />
+<item slot="5" text="take slice out of toaster when finished ." />
+<item slot="6" text="butter toast ." />
+</script>
+<script id="118">
+<item slot="1" text="take out desired number of slices of bread ." />
+<item slot="2" text="plug in toaster ." />
+<item slot="3" text="place bread in toaster ." />
+<item slot="4" text="press down the trigger ." />
+<item slot="5" text="wait until the toast pops up ." />
+</script>
+<script id="119">
+<item slot="1" text="take out desired number of slices of bread ." />
+<item slot="2" text="plug in toaster ." />
+<item slot="3" text="place bread in toaster ." />
+<item slot="4" text="press down the trigger ." />
+<item slot="5" text="wait until the toast pops up ." />
+</script>
+<script id="120">
+<item slot="1" text="take out desired number of slices of bread ." />
+<item slot="2" text="plug in toaster ." />
+<item slot="3" text="place bread in toaster ." />
+<item slot="4" text="press down the trigger ." />
+<item slot="5" text="wait until the toast pops up ." />
+</script>
+<script id="121">
+<item slot="1" text="take out desired number of slices of bread ." />
+<item slot="2" text="plug in toaster ." />
+<item slot="3" text="place bread in toaster ." />
+<item slot="4" text="press down the trigger ." />
+<item slot="5" text="wait until the toast pops up ." />
+</script>
+<script id="122">
+<item slot="1" text="put bread in toaster ." />
+<item slot="2" text="select how toasted you want it ." />
+<item slot="3" text="push lever down ." />
+<item slot="4" text="wait for toast ." />
+</script>
+</scripts>

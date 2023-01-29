@@ -1,0 +1,9 @@
+<scripts><script id="27">
+<item slot="1" text="get object description ."/>
+<item slot="2" text="query when object last seen ."/>
+<item slot="3" text="query where seen ."/>
+<item slot="4" text="query how object handled ."/>
+<item slot="5" text="narrow down 1st location possiblilites ."/>
+<item slot="6" text="query possible precise locations ."/>
+<item slot="7" text="look hard until found ."/>
+</script></scripts>

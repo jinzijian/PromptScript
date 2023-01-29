@@ -1,0 +1,107 @@
+<scripts>
+<script id="1">
+<item slot="1" text="getting the eycyclopedia ." />
+<item slot="2" text="looking up the subject ." />
+</script>
+<script id="2">
+<item slot="1" text="study the problem you want to learn about ." />
+<item slot="2" text="look on the internet or on television or in books for more information about the problem ." />
+</script>
+<script id="3">
+<item slot="1" text="locate someone who has the information you need ." />
+<item slot="2" text="ask the person for the information ." />
+</script>
+<script id="4">
+<item slot="1" text="research on the internet ." />
+<item slot="2" text="ask a friend ." />
+</script>
+<script id="5">
+<item slot="1" text="guessing where more information can be found ." />
+<item slot="2" text="going to a source of information ." />
+<item slot="3" text="search for the desired information ." />
+<item slot="4" text="if the information can not be found by searching ask people for help ." />
+</script>
+<script id="6">
+<item slot="1" text="determine the information to gather ." />
+<item slot="2" text="utilize various sources to serach for information ." />
+<item slot="3" text="record information in a readable format ." />
+</script>
+<script id="7">
+<item slot="1" text="identify required information ." />
+<item slot="2" text="determine how information is to be used ." />
+<item slot="3" text="research subject ." />
+</script>
+<script id="8">
+<item slot="1" text="figure out what you need to know ." />
+<item slot="2" text="find sources ." />
+<item slot="3" text="look through sources ." />
+</script>
+<script id="9">
+<item slot="1" text="ask experts ." />
+<item slot="2" text="read books ." />
+</script>
+<script id="10">
+<item slot="1" text="details ." />
+</script>
+<script id="11">
+<item slot="1" text="details ." />
+</script>
+<script id="12">
+<item slot="1" text="details ." />
+</script>
+<script id="13">
+<item slot="1" text="details ." />
+</script>
+<script id="14">
+<item slot="1" text="details ." />
+</script>
+<script id="15">
+<item slot="1" text="details ." />
+</script>
+<script id="16">
+<item slot="1" text="go to computer ." />
+<item slot="2" text="connect to internet ." />
+<item slot="3" text="open web browser ." />
+<item slot="4" text="go to search engine ." />
+<item slot="5" text="search for more information ." />
+<item slot="6" text="read information ." />
+</script>
+<script id="17">
+<item slot="1" text="call a friend ." />
+<item slot="2" text="google it ." />
+<item slot="3" text="look it up in a newspaper ." />
+</script>
+<script id="18">
+<item slot="1" text="turn on computer ." />
+<item slot="2" text="connect to internet ." />
+<item slot="3" text="go to a search engine ." />
+<item slot="4" text="type in the information you want ." />
+<item slot="5" text="click 'search' ." />
+<item slot="6" text="scroll down the list of websites ." />
+<item slot="7" text="click on the most relevant website ." />
+</script>
+<script id="19">
+<item slot="1" text="call 411 ." />
+<item slot="2" text="ask your question ." />
+</script>
+<script id="20">
+<item slot="1" text="call 411 ." />
+<item slot="2" text="ask your question ." />
+</script>
+<script id="21">
+<item slot="1" text="call 411 ." />
+<item slot="2" text="ask your question ." />
+</script>
+<script id="22">
+<item slot="1" text="call 411 ." />
+<item slot="2" text="ask your question ." />
+</script>
+<script id="23">
+<item slot="1" text="ask nearby people ." />
+<item slot="2" text="gather the facts ." />
+</script>
+<script id="24">
+<item slot="1" text="call 411 ." />
+<item slot="2" text="ask the operator your question ." />
+</script>
+</scripts>

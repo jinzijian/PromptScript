@@ -1,0 +1,365 @@
+<?xml version="1.0"?>
+<scripts>
+	<script id="1">
+		<item slot="1" text="pick up a letter ."/>
+		<item slot="2" text="find a mailbox ."/>
+		<item slot="3" text="put the letter in the mailbox ."/>
+	</script>
+	<script id="2">
+		<item slot="1" text="place the letter in an envelope ."/>
+		<item slot="2" text="properly address the envelope ."/>
+		<item slot="3" text="affix proper postage to the envelope ."/>
+		<item slot="4" text="locate a mailbox ."/>
+		<item slot="5" text="move to the mailbox ."/>
+		<item slot="6" text="place the letter in the mailbox ."/>
+	</script>
+	<script id="3">
+		<item slot="1" text="locate the letter to be sent ."/>
+		<item slot="2" text="locate an evelope ."/>
+		<item slot="3" text="place the letter in the envelope ."/>
+		<item slot="4" text="properly address the envelope to the recipient ."/>
+		<item slot="5" text="place proper postage on the envelope ."/>
+		<item slot="6" text="place the envelope in a mailbox ."/>
+	</script>
+	<script id="4">
+		<item slot="1" text="write letter ."/>
+		<item slot="2" text="seal letter ."/>
+		<item slot="3" text="affix stamp ."/>
+		<item slot="4" text="move to post box ."/>
+		<item slot="5" text="drop letter into post box ."/>
+	</script>
+	<script id="5">
+		<item slot="1" text="find an envelope ."/>
+		<item slot="2" text="fold letter to fit inside envelope ."/>
+		<item slot="3" text="put letter in envelope and seal envelope ."/>
+		<item slot="4" text="place proper postage on envelope ."/>
+		<item slot="5" text="write destination address on envelope ."/>
+		<item slot="6" text="find a mailbox ."/>
+		<item slot="7" text="place letter in mailbox ."/>
+	</script>
+	<script id="6">
+		<item slot="1" text="write to address ."/>
+		<item slot="2" text="write return address ."/>
+		<item slot="3" text="stamp ."/>
+		<item slot="4" text="drop in a mailbox ."/>
+	</script>
+	<script id="7">
+		<item slot="1" text="seal the letter in an envelope ."/>
+		<item slot="2" text="write the delivery address on the envelope ."/>
+		<item slot="3" text="write the return address on the envelope ."/>
+		<item slot="4" text="place postage stamp on the envelope ."/>
+		<item slot="5" text="place the envelope into a mailbox ."/>
+	</script>
+	<script id="8">
+		<item slot="1" text="write the address on the letter ."/>
+		<item slot="2" text="write the return address on the letter in the upper left-hand corner ."/>
+		<item slot="3" text="place a stamp on the letter in the upper-right-hand corner ."/>
+		<item slot="4" text="place the letter in a mailbox ."/>
+	</script>
+	<script id="9">
+		<item slot="1" text="put completed letter in envelope ."/>
+		<item slot="2" text="seal envelope ."/>
+		<item slot="3" text="put stamp on envelope ."/>
+		<item slot="4" text="go to mailbox ."/>
+		<item slot="5" text="put letter in mailbox ."/>
+	</script>
+	<script id="10">
+		<item slot="1" text="get envelope and stamps ready ."/>
+		<item slot="2" text="insert letter into envelope ."/>
+		<item slot="3" text="seal envelope by licking the adhesive strip or remove the protection over the adhesive ."/>
+		<item slot="4" text="close envelope ."/>
+		<item slot="5" text="put letter in mailbox ."/>
+	</script>
+	<script id="11">
+		<item slot="1" text="put the letter into an envelope ."/>
+		<item slot="2" text="put the mailing address on the envelope ."/>
+		<item slot="3" text="weigh the letter ."/>
+		<item slot="4" text="put enough postage on the envelope ."/>
+		<item slot="5" text="get the letter to the next mailbox ."/>
+	</script>
+	<script id="12">
+		<item slot="1" text="put letter in envelope ."/>
+		<item slot="2" text="seal envelope ."/>
+		<item slot="3" text="write address on envelope ."/>
+		<item slot="4" text="stamp letter ."/>
+		<item slot="5" text="drop letter in mailbox ."/>
+	</script>
+	<script id="13">
+		<item slot="1" text="put the letter in an envelope ."/>
+		<item slot="2" text="address the envelope ."/>
+		<item slot="3" text="put postage on the envelope ."/>
+		<item slot="4" text="drop the envelope in a mailbox ."/>
+	</script>
+	<script id="14">
+		<item slot="1" text="place letter in envelope ."/>
+		<item slot="2" text="seal envelope ."/>
+		<item slot="3" text="write to address on envelope ."/>
+		<item slot="4" text="write return address on evelope ."/>
+		<item slot="5" text="stamp envelope ."/>
+		<item slot="6" text="drop envelope in mailbox ."/>
+	</script>
+	<script id="15">
+		<item slot="1" text="place letter in envelope ."/>
+		<item slot="2" text="seal envelope ."/>
+		<item slot="3" text="write to address on envelope ."/>
+		<item slot="4" text="write return address on envelope ."/>
+		<item slot="5" text="stamp envelope ."/>
+		<item slot="6" text="place envelope in outgoing mailbox ."/>
+	</script>
+	<script id="16">
+		<item slot="1" text="writing a letter ."/>
+		<item slot="2" text="sign the letter ."/>
+		<item slot="3" text="put letter in envelope ."/>
+		<item slot="4" text="stick stamp on envelope ."/>
+		<item slot="5" text="write adress on envelope ."/>
+		<item slot="6" text="bring envelope to postbox ."/>
+		<item slot="7" text="put envelope in postbox ."/>
+	</script>
+	<script id="17">
+		<item slot="1" text="put letter in envelope ."/>
+		<item slot="2" text="write adresson envelope ."/>
+		<item slot="3" text="stick stamp on envelope ."/>
+		<item slot="4" text="walk with envelope to post box ."/>
+		<item slot="5" text="put envelope in post box ."/>
+	</script>
+	<script id="18">
+		<item slot="1" text="address the letter ."/>
+		<item slot="2" text="put stamp ."/>
+		<item slot="3" text="put in postbox ."/>
+	</script>
+	<script id="19">
+		<item slot="1" text="drop the letter into a postal dropbox ."/>
+	</script>
+	<script id="20">
+		<item slot="1" text="address envelope ."/>
+		<item slot="2" text="place letter in envelope ."/>
+		<item slot="3" text="stamp envelope ."/>
+		<item slot="4" text="place envelope in outgoing mailbox ."/>
+	</script>
+	<script id="21">
+		<item slot="1" text="take letter ."/>
+		<item slot="2" text="place stamp on letter ."/>
+		<item slot="3" text="take letter to post office ."/>
+		<item slot="4" text="put letter in mailbox ."/>
+	</script>
+	<script id="22">
+		<item slot="1" text="take letter to mail box ."/>
+		<item slot="2" text="open mailbox ."/>
+	</script>
+	<script id="23">
+		<item slot="1" text="take letter to mail box ."/>
+		<item slot="2" text="open mailbox ."/>
+		<item slot="3" text="drop letter in mailbox ."/>
+	</script>
+	<script id="26">
+		<item slot="1" text="discern need for letter ."/>
+		<item slot="2" text="find paper ."/>
+		<item slot="3" text="find pencil or pen ."/>
+		<item slot="4" text="decide what to write ."/>
+		<item slot="5" text="write ."/>
+		<item slot="6" text="fold and place in envelope ."/>
+		<item slot="7" text="mail letter ."/>
+	</script>
+	<script id="27">
+		<item slot="1" text="put the letter into an envelope ."/>
+		<item slot="2" text="write the address on the envelope ."/>
+		<item slot="3" text="stick a postage stamp on the envelope ."/>
+		<item slot="4" text="seal the envelope ."/>
+		<item slot="5" text="put the letter in a mailbox ."/>
+	</script>
+	<script id="28">
+		<item slot="1" text="write letter ."/>
+	</script>
+	<script id="29">
+		<item slot="1" text="write letter ."/>
+		<item slot="2" text="place letter in envelope ."/>
+		<item slot="3" text="address envelope ."/>
+		<item slot="4" text="put stamp on envelope ."/>
+		<item slot="5" text="put envelope in mail box ."/>
+	</script>
+	<script id="44">
+		<item slot="1" text="address envelope ."/>
+		<item slot="2" text="put stamp on envelope ."/>
+		<item slot="3" text="put return address on envelope ."/>
+		<item slot="4" text="put envelope in mail box ."/>
+	</script>
+	<script id="53">
+		<item slot="1" text="put letter in envelope ."/>
+		<item slot="2" text="seal envelope ."/>
+		<item slot="3" text="put the sender s and recipient s name on the envelope ."/>
+		<item slot="4" text="put sufficient stamps on the envelope ."/>
+		<item slot="5" text="drop envelope in mail box ."/>
+	</script>
+	<script id="56">
+		<item slot="1" text="write letter ."/>
+		<item slot="2" text="address envelope ."/>
+		<item slot="3" text="insert letter in envelope ."/>
+		<item slot="4" text="seal envelope ."/>
+		<item slot="5" text="affix stamp ."/>
+		<item slot="6" text="take letter to postbox ."/>
+		<item slot="7" text="insert letter in postbox slot ."/>
+	</script>
+	<script id="58">
+		<item slot="1" text="open the mailbox ."/>
+		<item slot="2" text="put the letter in a mailbox ."/>
+		<item slot="3" text="close the mailbox ."/>
+	</script>
+	<script id="59">
+		<item slot="1" text="write letter ."/>
+		<item slot="2" text="put letter in envelope ."/>
+		<item slot="3" text="address envelope ."/>
+		<item slot="4" text="stamp envelope ."/>
+		<item slot="5" text="post at box or post office ."/>
+	</script>
+	<script id="60">
+		<item slot="1" text="write letter ."/>
+		<item slot="2" text="put stamp on letter ."/>
+		<item slot="3" text="drop letter in mailbox ."/>
+	</script>
+	<script id="61">
+		<item slot="1" text="write letter ."/>
+		<item slot="2" text="put letter in envelope ."/>
+		<item slot="3" text="put address and stamp on the front of the envelope ."/>
+		<item slot="4" text="wet the edges on the back to close envelope ."/>
+		<item slot="5" text="drive or walk to the mail box ."/>
+		<item slot="6" text="put the letter in the mail box ."/>
+	</script>
+	<script id="62">
+		<item slot="1" text="write address on envelope ."/>
+		<item slot="2" text="put letter in envelope ."/>
+		<item slot="3" text="seal envelope ."/>
+		<item slot="4" text="buy stamp ."/>
+		<item slot="5" text="put stamp on envelope ."/>
+		<item slot="6" text="put letter in letter box ."/>
+	</script>
+	<script id="63">
+		<item slot="1" text="place postage on the letter ."/>
+		<item slot="2" text="place letter in mail pickup box ."/>
+	</script>
+	<script id="64">
+		<item slot="1" text="place letter in envelope ."/>
+		<item slot="2" text="seal envelope ."/>
+		<item slot="3" text="address envelope ."/>
+		<item slot="4" text="apply postage ."/>
+		<item slot="5" text="put in mailbox ."/>
+		<item slot="6" text="raise flag on mailbox ."/>
+	</script>
+	<script id="65">
+		<item slot="1" text="fold letter into thirds ."/>
+		<item slot="2" text="place letter in envelope ."/>
+		<item slot="3" text="address the envelope ."/>
+		<item slot="4" text="seal the envelope ."/>
+		<item slot="5" text="place a stamp on the envelope ."/>
+		<item slot="6" text="place the envelope in the outgoing mail box ."/>
+	</script>
+	<script id="68">
+		<item slot="1" text="put letter in envilope ."/>
+		<item slot="2" text="seal envilope ."/>
+		<item slot="3" text="affix postage stamp ."/>
+		<item slot="4" text="post letter in red post box ."/>
+	</script>
+	<script id="69">
+		<item slot="1" text="get paper and pen sit down ."/>
+		<item slot="2" text="write information sign at the bottom ."/>
+		<item slot="3" text="fold and place in envelope with a stamp ."/>
+		<item slot="4" text="find mailing place ."/>
+		<item slot="5" text="mail letter ."/>
+	</script>
+	<script id="70">
+		<item slot="1" text="get paper ."/>
+		<item slot="2" text="get pen ."/>
+		<item slot="3" text="write letter ."/>
+		<item slot="4" text="fold paper ."/>
+		<item slot="5" text="put in envelope ."/>
+		<item slot="6" text="seal and put a stamp on it ."/>
+		<item slot="7" text="place in a mail box ."/>
+	</script>
+	<script id="71">
+		<item slot="1" text="write letter ."/>
+		<item slot="2" text="print letter if possible ."/>
+		<item slot="3" text="sign letter ."/>
+		<item slot="4" text="put letter in envelope ."/>
+		<item slot="5" text="lick end of envelope ."/>
+		<item slot="6" text="write address ."/>
+		<item slot="7" text="put letter in mailbox ."/>
+	</script>
+	<script id="72">
+		<item slot="1" text="put letter into envelope ."/>
+		<item slot="2" text="seal envelope ."/>
+		<item slot="3" text="write return address ."/>
+		<item slot="4" text="write forwarding address ."/>
+		<item slot="5" text="put stamp ."/>
+		<item slot="6" text="go to post box ."/>
+		<item slot="7" text="put letter in mailbox ."/>
+	</script>
+	<script id="73">
+		<item slot="1" text="insert letter in envelope ."/>
+	</script>
+	<script id="75">
+		<item slot="1" text="insert letter in envelope ."/>
+		<item slot="2" text="adress envelope ."/>
+		<item slot="3" text="add stamp ."/>
+		<item slot="4" text="make sure envelope is sealed ."/>
+		<item slot="5" text="put letter in postal mail box ."/>
+	</script>
+	<script id="77">
+		<item slot="1" text="write a letter ."/>
+		<item slot="2" text="seal the letter in an envelope ."/>
+		<item slot="3" text="put the letter in the mailbox ."/>
+	</script>
+	<script id="79">
+		<item slot="1" text="put letter in envelope ."/>
+		<item slot="2" text="seal and address envelope ."/>
+		<item slot="3" text="add postage ."/>
+		<item slot="4" text="put in outgoing mailbox ."/>
+	</script>
+	<script id="82">
+		<item slot="1" text="seal envelope ."/>
+		<item slot="2" text="write address on envelope ."/>
+		<item slot="3" text="apply postage stamp ."/>
+		<item slot="4" text="walk to mail box ."/>
+		<item slot="5" text="drop in mailbox ."/>
+	</script>
+	<script id="84">
+		<item slot="1" text="put letter in envelope ."/>
+		<item slot="2" text="lick flap ."/>
+		<item slot="3" text="seal letter ."/>
+		<item slot="4" text="attatch stamp ."/>
+		<item slot="5" text="drive to mail box ."/>
+		<item slot="6" text="put letter into mail box ."/>
+		<item slot="7" text="wait ."/>
+	</script>
+	<script id="85">
+		<item slot="1" text="write letter ."/>
+		<item slot="2" text="put stamp on evelope ."/>
+		<item slot="3" text="put letter in mailbox ."/>
+		<item slot="4" text="walk away ."/>
+	</script>
+	<script id="90">
+		<item slot="1" text="seal letter in envelope ."/>
+		<item slot="2" text="address envelope in front middle of envelope ."/>
+		<item slot="3" text="write return address in top left corner ."/>
+		<item slot="4" text="stick appropriate stamp in top right corner ."/>
+		<item slot="5" text="bring letter to mailbox ."/>
+		<item slot="6" text="drop letter in mailbox ."/>
+	</script>
+	<script id="93">
+		<item slot="1" text="write the letter ."/>
+		<item slot="2" text="put it in an envelope ."/>
+		<item slot="3" text="put a stamp on the envelope ."/>
+		<item slot="4" text="write the address to send it to ."/>
+		<item slot="5" text="bring it to a mail box ."/>
+		<item slot="6" text="put it in the mail box ."/>
+		<item slot="7" text="it will be sent out to the address ."/>
+	</script>
+	<script id="94">
+		<item slot="1" text="get letter ."/>
+		<item slot="2" text="put stamp on letter ."/>
+		<item slot="3" text="take letter to mailbox ."/>
+		<item slot="4" text="drop letter into mailbox ."/>
+	</script>
+	<script id="95">
+		<item slot="1" text="affix stamp on front right hand corner ."/>
+		<item slot="2" text="put letter in mailbox ."/>
+	</script>
+</scripts>

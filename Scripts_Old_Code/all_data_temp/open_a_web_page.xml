@@ -1,0 +1,171 @@
+<scripts>
+<script id="1">
+<item slot="1" text="turn on the computer ." />
+<item slot="2" text="run the browser ." />
+<item slot="3" text="enter the url of the web page ." />
+</script>
+<script id="2">
+<item slot="1" text="enter the url into the browser ." />
+<item slot="2" text="hit the enter key ." />
+</script>
+<script id="3">
+<item slot="1" text="select website from bookmarks ." />
+<item slot="2" text="click on website bookmark ." />
+</script>
+<script id="4">
+<item slot="1" text="enter desired url into the address bar of the web browser ." />
+<item slot="2" text="press enter ." />
+</script>
+<script id="5">
+<item slot="1" text="turn on the computer ." />
+<item slot="2" text="open internet explorer ." />
+<item slot="3" text="type the website address in the address bar ." />
+<item slot="4" text="press enter ." />
+</script>
+<script id="6">
+<item slot="1" text="start web browser ." />
+<item slot="2" text="enter in web address ." />
+<item slot="3" text="click load button ." />
+</script>
+<script id="7">
+<item slot="1" text="open the browser ." />
+<item slot="2" text="type in the address ." />
+<item slot="3" text="open the page ." />
+</script>
+<script id="8">
+<item slot="1" text="open the browser ." />
+<item slot="2" text="type in the address ." />
+<item slot="3" text="open the page ." />
+</script>
+<script id="9">
+<item slot="1" text="turn on the computer ." />
+<item slot="2" text="click on internet explorer ." />
+<item slot="3" text="my google homepage will automatically open ." />
+</script>
+<script id="10">
+<item slot="1" text="clink on web link ." />
+</script>
+<script id="11">
+<item slot="1" text="open the internet browser ." />
+<item slot="2" text="type the web address on the address field ." />
+<item slot="3" text="press enter ." />
+</script>
+<script id="12">
+<item slot="1" text="open the internet browser ." />
+<item slot="2" text="type the address of the web page on the address field ." />
+<item slot="3" text="click enter button ." />
+</script>
+<script id="13">
+<item slot="1" text="open the internet browser ." />
+<item slot="2" text="type the web address on the address field ." />
+<item slot="3" text="press enter key ." />
+</script>
+<script id="14">
+<item slot="1" text="click on the browser icon ." />
+<item slot="2" text="click bookmarks on the menu ." />
+<item slot="3" text="select a bookmark from the drop down list ." />
+<item slot="4" text="wait for the web page to connect and open ." />
+</script>
+<script id="15">
+<item slot="1" text="open explorer ." />
+<item slot="2" text="type in url ." />
+<item slot="3" text="click go ." />
+</script>
+<script id="16">
+<item slot="1" text="find the computer to use ." />
+<item slot="2" text="open a web browser ." />
+<item slot="3" text="enter the web address into the web browser ." />
+</script>
+<script id="17">
+<item slot="1" text="find the computer to use ." />
+<item slot="2" text="open a web browser ." />
+<item slot="3" text="enter the web address into the web browser ." />
+</script>
+<script id="18">
+<item slot="1" text="open the web browser ." />
+<item slot="2" text="click in the address bar ." />
+<item slot="3" text="type the address ." />
+<item slot="4" text="press enter ." />
+</script>
+<script id="19">
+<item slot="1" text="use a computer to open a web page ." />
+</script>
+<script id="20">
+<item slot="1" text="switch on the computer ." />
+<item slot="2" text="open the internet browser ." />
+<item slot="3" text="open the web page ." />
+</script>
+<script id="21">
+<item slot="1" text="open a browser ." />
+<item slot="2" text="load a web page ." />
+</script>
+<script id="22">
+<item slot="1" text="ensure that internet connection is available ." />
+<item slot="2" text="identify the browser s icon ." />
+<item slot="3" text="open program by double clicking on icon ." />
+<item slot="4" text="enter website s address into the url bar ." />
+<item slot="5" text="allow site to load ." />
+</script>
+<script id="23">
+<item slot="1" text="clik on broswer ." />
+</script>
+<script id="24">
+<item slot="1" text="click on broswer ." />
+</script>
+<script id="25">
+<item slot="1" text="turn on computer ." />
+<item slot="2" text="start browser ." />
+<item slot="3" text="enter web page address or ." />
+<item slot="4" text="select web page bookmark ." />
+</script>
+<script id="26">
+<item slot="1" text="turn on computer ." />
+<item slot="2" text="select web browser ." />
+<item slot="3" text="click on desired link ." />
+</script>
+<script id="27">
+<item slot="1" text="turn on computer ." />
+<item slot="2" text="select web browser ." />
+<item slot="3" text="click on desired link ." />
+</script>
+<script id="28">
+<item slot="1" text="turn on computer ." />
+<item slot="2" text="select web browser ." />
+<item slot="3" text="click on desired link ." />
+</script>
+<script id="29">
+<item slot="1" text="make sure internet is connected ." />
+<item slot="2" text="locate browser s icon ." />
+<item slot="3" text="double right click on icon ." />
+</script>
+<script id="30">
+<item slot="1" text="make sure internet is connected ." />
+<item slot="2" text="locate browser s icon ." />
+<item slot="3" text="double right click on icon ." />
+</script>
+<script id="31">
+<item slot="1" text="click internet explorer ." />
+</script>
+<script id="32">
+<item slot="1" text="click internet explorer ." />
+</script>
+<script id="33">
+<item slot="1" text="click internet explorer ." />
+</script>
+<script id="34">
+<item slot="1" text="click internet explorer ." />
+</script>
+<script id="35">
+<item slot="1" text="click internet explorer ." />
+</script>
+<script id="36">
+<item slot="1" text="click internet explorer ." />
+</script>
+<script id="37">
+<item slot="1" text="open web browser ." />
+<item slot="2" text="type in web address ." />
+</script>
+<script id="38">
+<item slot="1" text="click on internet explorer ." />
+</script>
+</scripts>

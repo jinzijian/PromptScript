@@ -1,0 +1,355 @@
+<scripts>
+<script id="1">
+<item slot="1" text="locate tv off switch ." />
+<item slot="2" text="press off switch ." />
+</script>
+<script id="2">
+<item slot="1" text="locate off switch ." />
+<item slot="2" text="toggle off switch ." />
+</script>
+<script id="3">
+<item slot="1" text="press off button ." />
+</script>
+<script id="4">
+<item slot="1" text="find the remote control ." />
+<item slot="2" text="find the on/off button ." />
+<item slot="3" text="push it ." />
+</script>
+<script id="5">
+<item slot="1" text="find the power switch for the tv ." />
+<item slot="2" text="turn the switch to the off position ." />
+</script>
+<script id="6">
+<item slot="1" text="find the tv power switch ." />
+<item slot="2" text="turn the switch to the off position ." />
+</script>
+<script id="7">
+<item slot="1" text="find the tv s power switch ." />
+<item slot="2" text="turn the switch to the off position ." />
+</script>
+<script id="8">
+<item slot="1" text="grab remote control ." />
+<item slot="2" text="point remote at tv ." />
+<item slot="3" text="press off button ." />
+</script>
+<script id="9">
+<item slot="1" text="find tv s power switch ." />
+<item slot="2" text="turn the switch to the off position ." />
+</script>
+<script id="10">
+<item slot="1" text="find remote ." />
+<item slot="2" text="find off button ." />
+<item slot="3" text="push it ." />
+<item slot="4" text="put down remote ." />
+</script>
+<script id="11">
+<item slot="1" text="locate remote ." />
+<item slot="2" text="locate tv ." />
+<item slot="3" text="push off button ." />
+</script>
+<script id="12">
+<item slot="1" text="locate tv ." />
+<item slot="2" text="locate remote ." />
+<item slot="3" text="press power button on remote ." />
+</script>
+<script id="13">
+<item slot="1" text="find the remote control ." />
+<item slot="2" text="pick up the remote control ." />
+<item slot="3" text="point the remote control at the tv ." />
+<item slot="4" text="push the power button on the remote control ." />
+<item slot="5" text="put down the remote control ." />
+</script>
+<script id="14">
+<item slot="1" text="locate the tv remote ." />
+<item slot="2" text="press the off button on the remote ." />
+</script>
+<script id="15">
+<item slot="1" text="visually inspect the tv ." />
+<item slot="2" text="locate the button on the tv labeled as power ." />
+<item slot="3" text="push the button ." />
+</script>
+<script id="16">
+<item slot="1" text="approach the tv ." />
+<item slot="2" text="press the off button ." />
+</script>
+<script id="17">
+<item slot="1" text="find the remote control ." />
+<item slot="2" text="point the remote control towards the tv ." />
+<item slot="3" text="push the power button ." />
+<item slot="4" text="or ." />
+<item slot="5" text="walk over to the tv ." />
+<item slot="6" text="push the power button ." />
+</script>
+<script id="18">
+<item slot="1" text="locating the power button on the remote or tv ." />
+<item slot="2" text="pressing the power button on the remote or tv ." />
+<item slot="3" text="releasing the power button on the remote or tv ." />
+</script>
+<script id="19">
+<item slot="1" text="find remote control ." />
+<item slot="2" text="push power button on remote control ." />
+<item slot="3" text="place remote control on table ." />
+</script>
+<script id="20">
+<item slot="1" text="get remote ." />
+<item slot="2" text="press off button ." />
+</script>
+<script id="21">
+<item slot="1" text="locate tv remote ." />
+<item slot="2" text="locate power button on remote ." />
+<item slot="3" text="press power button ." />
+</script>
+<script id="22">
+<item slot="1" text="if tv is on push power button ." />
+</script>
+<script id="23">
+<item slot="1" text="grab remote ." />
+<item slot="2" text="aim remote at tv ." />
+<item slot="3" text="press power button ." />
+</script>
+<script id="24">
+<item slot="1" text="go over to the tv ." />
+<item slot="2" text="pick up the tv remote control ." />
+<item slot="3" text="point the tv remote control at the tv ." />
+<item slot="4" text="press the off button on the remote control ." />
+</script>
+<script id="25">
+<item slot="1" text="plug in the tv into a clapper device ." />
+<item slot="2" text="get in front of the tv ." />
+<item slot="3" text="clap your hands ." />
+<item slot="4" text="wait for the tv to shut off ." />
+</script>
+<script id="26">
+<item slot="1" text="locate tv ." />
+<item slot="2" text="locate off switch ." />
+<item slot="3" text="press off switch ." />
+</script>
+<script id="27">
+<item slot="1" text="walk to front of tv ." />
+<item slot="2" text="locate on/off switch ." />
+<item slot="3" text="push on/off switch ." />
+</script>
+<script id="28">
+<item slot="1" text="locate power switch ." />
+<item slot="2" text="press power switch ." />
+</script>
+<script id="29">
+<item slot="1" text="stand up ." />
+<item slot="2" text="walk to tv ." />
+<item slot="3" text="push button in ." />
+<item slot="4" text="release button ." />
+</script>
+<script id="30">
+<item slot="1" text="find the switch of the tv ." />
+<item slot="2" text="press the switch off ." />
+</script>
+<script id="31">
+<item slot="1" text="get tv remote ." />
+<item slot="2" text="locate and push the power button ." />
+</script>
+<script id="32">
+<item slot="1" text="check if anyone else is watching ." />
+<item slot="2" text="find the remote control ." />
+<item slot="3" text="press the power button ." />
+<item slot="4" text="turn off any other peripheral equipment ." />
+</script>
+<script id="33">
+<item slot="1" text="picking up the remote ." />
+<item slot="2" text="press power off ." />
+</script>
+<script id="34">
+<item slot="1" text="picking up the remote ." />
+<item slot="2" text="press power off ." />
+</script>
+<script id="35">
+<item slot="1" text="picking up the remote ." />
+<item slot="2" text="press power off ." />
+</script>
+<script id="36">
+<item slot="1" text="picking up the remote ." />
+<item slot="2" text="press power off ." />
+</script>
+<script id="37">
+<item slot="1" text="picking up the remote ." />
+<item slot="2" text="press power off ." />
+</script>
+<script id="38">
+<item slot="1" text="picking up the remote ." />
+<item slot="2" text="press power off ." />
+</script>
+<script id="39">
+<item slot="1" text="picking up the remote ." />
+<item slot="2" text="press power off ." />
+</script>
+<script id="40">
+<item slot="1" text="picking up the remote ." />
+<item slot="2" text="press power off ." />
+</script>
+<script id="41">
+<item slot="1" text="picking up the remote ." />
+<item slot="2" text="press power off ." />
+</script>
+<script id="42">
+<item slot="1" text="reach for the remote ." />
+<item slot="2" text="take remote in hand ." />
+<item slot="3" text="point the remote with the bulb pointed towards the television ." />
+<item slot="4" text="find the off button on the remote ." />
+<item slot="5" text="press the off button ." />
+</script>
+<script id="43">
+<item slot="1" text="reach for the remote ." />
+<item slot="2" text="take remote in hand ." />
+<item slot="3" text="point the remote with the bulb pointed towards the television ." />
+<item slot="4" text="find the off button on the remote ." />
+<item slot="5" text="press the off button ." />
+</script>
+<script id="44">
+<item slot="1" text="press power button on remote or tv ." />
+</script>
+<script id="45">
+<item slot="1" text="press power button on remote or tv ." />
+</script>
+<script id="46">
+<item slot="1" text="find remote control ." />
+<item slot="2" text="locate power button ." />
+<item slot="3" text="press power button ." />
+<item slot="4" text="if no remote walk over to television ." />
+<item slot="5" text="locate power button ." />
+<item slot="6" text="press power button ." />
+</script>
+<script id="47">
+<item slot="1" text="point remote at tv ." />
+<item slot="2" text="press power button on remote ." />
+<item slot="3" text="turn off socket power ." />
+</script>
+<script id="48">
+<item slot="1" text="get remote ." />
+<item slot="2" text="press power button ." />
+</script>
+<script id="49">
+<item slot="1" text="pick up remote control ." />
+<item slot="2" text="press off button ." />
+</script>
+<script id="50">
+<item slot="1" text="pickup remote control ." />
+<item slot="2" text="point remote at tv ." />
+<item slot="3" text="press off button ." />
+</script>
+<script id="51">
+<item slot="1" text="pick up remote control ." />
+<item slot="2" text="depress 'tv off' button ." />
+</script>
+<script id="52">
+<item slot="1" text="find the remote ." />
+<item slot="2" text="find the power button ." />
+<item slot="3" text="push power button off ." />
+</script>
+<script id="53">
+<item slot="1" text="find 'on/off' switch on tv or on remote ." />
+<item slot="2" text="press it ." />
+</script>
+<script id="54">
+<item slot="1" text="find 'on/off' switch on tv or on remote ." />
+<item slot="2" text="press it ." />
+</script>
+<script id="55">
+<item slot="1" text="find 'on/off' switch on tv or on remote ." />
+<item slot="2" text="press it ." />
+</script>
+<script id="56">
+<item slot="1" text="find 'on/off' switch on tv or on remote ." />
+<item slot="2" text="press it ." />
+</script>
+<script id="57">
+<item slot="1" text="find 'on/off' switch on tv or on remote ." />
+<item slot="2" text="press it ." />
+</script>
+<script id="58">
+<item slot="1" text="find 'on/off' switch on tv or on remote ." />
+<item slot="2" text="press it ." />
+</script>
+<script id="59">
+<item slot="1" text="walk ." />
+<item slot="2" text="turn tv off ." />
+</script>
+<script id="60">
+<item slot="1" text="walk ." />
+<item slot="2" text="turn tv off ." />
+</script>
+<script id="61">
+<item slot="1" text="walk ." />
+<item slot="2" text="turn tv off ." />
+</script>
+<script id="62">
+<item slot="1" text="walk ." />
+<item slot="2" text="turn tv off ." />
+</script>
+<script id="63">
+<item slot="1" text="walk ." />
+<item slot="2" text="turn tv off ." />
+</script>
+<script id="64">
+<item slot="1" text="walk ." />
+<item slot="2" text="turn tv off ." />
+</script>
+<script id="65">
+<item slot="1" text="go to tv ." />
+<item slot="2" text="find power button ." />
+<item slot="3" text="push ." />
+</script>
+<script id="66">
+<item slot="1" text="grab the remote control ." />
+<item slot="2" text="push the power button ." />
+</script>
+<script id="67">
+<item slot="1" text="pick up remote control ." />
+<item slot="2" text="point remote control at tv ." />
+<item slot="3" text="press 'off' button ." />
+<item slot="4" text="if tv is off put remote control down ." />
+<item slot="5" text="if tv is still on reaim remote and try again ." />
+</script>
+<script id="68">
+<item slot="1" text="pick up remote control ." />
+<item slot="2" text="point remote control at tv ." />
+<item slot="3" text="press 'off' button ." />
+<item slot="4" text="if tv is off put remote control down ." />
+<item slot="5" text="if tv is still on reaim remote and try again ." />
+</script>
+<script id="69">
+<item slot="1" text="pick up remote control ." />
+<item slot="2" text="point remote control at tv ." />
+<item slot="3" text="press 'off' button ." />
+<item slot="4" text="if tv is off put remote control down ." />
+<item slot="5" text="if tv is still on reaim remote and try again ." />
+</script>
+<script id="70">
+<item slot="1" text="pick up remote control ." />
+<item slot="2" text="point remote control at tv ." />
+<item slot="3" text="press 'off' button ." />
+<item slot="4" text="if tv is off put remote control down ." />
+<item slot="5" text="if tv is still on reaim remote and try again ." />
+</script>
+<script id="71">
+<item slot="1" text="go to tv ." />
+<item slot="2" text="find power button ." />
+<item slot="3" text="push power button ." />
+</script>
+<script id="72">
+<item slot="1" text="go to tv ." />
+<item slot="2" text="find power button ." />
+<item slot="3" text="push power button ." />
+</script>
+<script id="73">
+<item slot="1" text="go to tv ." />
+<item slot="2" text="find power button ." />
+<item slot="3" text="push power button ." />
+</script>
+<script id="74">
+<item slot="1" text="take remote ." />
+<item slot="2" text="press power button ." />
+</script>
+<script id="75">
+<item slot="1" text="pick up remote ." />
+<item slot="2" text="press power button ." />
+</script>
+</scripts>

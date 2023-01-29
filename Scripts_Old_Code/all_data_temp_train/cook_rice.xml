@@ -1,0 +1,442 @@
+<scripts>
+<script id="1">
+<item slot="1" text="get rice ." />
+<item slot="2" text="get pot ." />
+<item slot="3" text="fill pot with water ." />
+<item slot="4" text="cook water ." />
+<item slot="5" text="put rice into water ." />
+<item slot="6" text="wait ." />
+<item slot="7" text="take rice out of water ." />
+</script>
+<script id="2">
+<item slot="1" text="put rice in rice cooker ." />
+<item slot="2" text="add water ." />
+<item slot="3" text="turn on cooker ." />
+<item slot="4" text="wait for rice too cook ." />
+<item slot="5" text="remove rice from cooker ." />
+</script>
+<script id="3">
+<item slot="1" text="put rice in rice cooker ." />
+<item slot="2" text="add water ." />
+<item slot="3" text="select cooking speed (low or high) ." />
+<item slot="4" text="wait for rice to cook ." />
+<item slot="5" text="remove rice from cooker ." />
+</script>
+<script id="4">
+<item slot="1" text="place rice in rice cooker ." />
+<item slot="2" text="add water ." />
+<item slot="3" text="select cooking speed ." />
+<item slot="4" text="turn on cooker ." />
+<item slot="5" text="wait for rice to cook ." />
+<item slot="6" text="turn cooker off ." />
+<item slot="7" text="remove rice from cooker ." />
+</script>
+<script id="5">
+<item slot="1" text="open rice box ." />
+<item slot="2" text="pour amount of rice needed into measuring cup ." />
+<item slot="3" text="boil a pot of water ." />
+<item slot="4" text="pour the needed amount of rice into the pot ." />
+<item slot="5" text="boil the rice until cooked ." />
+<item slot="6" text="allow the rice to soak up all the water ." />
+</script>
+<script id="6">
+<item slot="1" text="fill pot with water ." />
+<item slot="2" text="put pot on stove ." />
+<item slot="3" text="heat pot ." />
+<item slot="4" text="put rice in pot ." />
+<item slot="5" text="cook for predetermined length of time ." />
+<item slot="6" text="put rice on plate ." />
+<item slot="7" text="allow rice to cool before serving ." />
+</script>
+<script id="7">
+<item slot="1" text="buying rice ." />
+<item slot="2" text="opening package ." />
+<item slot="3" text="put rice in pot of water ." />
+<item slot="4" text="cover ." />
+<item slot="5" text="boil it for 20 minutes ." />
+<item slot="6" text="remove from heat ." />
+</script>
+<script id="8">
+<item slot="1" text="put water in kettle ." />
+<item slot="2" text="boil water ." />
+<item slot="3" text="add rice ." />
+<item slot="4" text="boil rice for 7 minutes ." />
+<item slot="5" text="remove water ." />
+<item slot="6" text="leave rice for 5 minutes ." />
+<item slot="7" text="serve rice ." />
+</script>
+<script id="9">
+<item slot="1" text="boil water ." />
+<item slot="2" text="measure correct amount of rice ." />
+<item slot="3" text="put rice in boiling water ." />
+<item slot="4" text="wait correct boiling time ." />
+<item slot="5" text="drain water ." />
+<item slot="6" text="put rice in bowl ." />
+</script>
+<script id="10">
+<item slot="1" text="wash required amount of raw rice ." />
+<item slot="2" text="place rice in cooker ." />
+<item slot="3" text="place required amount of water in same container as rice ." />
+<item slot="4" text="plug in rice cooker and switch on plug ." />
+<item slot="5" text="rice is ready when cooker beeps (or other indication) ." />
+</script>
+<script id="11">
+<item slot="1" text="put rice in rice cooker ." />
+<item slot="2" text="put 2/3 cup of water in rice cooker for each cup of rice ." />
+<item slot="3" text="close rice cooker ." />
+<item slot="4" text="turn on rice cooker ." />
+</script>
+<script id="12">
+<item slot="1" text="fill a pan with water ." />
+<item slot="2" text="turn on the stove ." />
+<item slot="3" text="put the pan on the stove ." />
+<item slot="4" text="wait for the water to boil ." />
+<item slot="5" text="put some rice in the water ." />
+<item slot="6" text="turn the heat down low ." />
+<item slot="7" text="cover the pan ." />
+</script>
+<script id="13">
+<item slot="1" text="measure out rice ." />
+<item slot="2" text="wash rice ." />
+<item slot="3" text="measure water ." />
+<item slot="4" text="turn on rice cooker ." />
+</script>
+<script id="14">
+<item slot="1" text="place container of rice mixture in/on heat source ." />
+</script>
+<script id="15">
+<item slot="1" text="get pan ." />
+<item slot="2" text="measure water ." />
+<item slot="3" text="put water in pan ." />
+<item slot="4" text="boil water ." />
+<item slot="5" text="add rice ." />
+<item slot="6" text="cover pan ." />
+<item slot="7" text="wait for rice to be done ." />
+</script>
+<script id="16">
+<item slot="1" text="measure rice ." />
+<item slot="2" text="pour rice into pot ." />
+<item slot="3" text="measure water ." />
+<item slot="4" text="pour water into pot ." />
+<item slot="5" text="cover pot ." />
+<item slot="6" text="turn on stove ." />
+<item slot="7" text="set timer ." />
+</script>
+<script id="17">
+<item slot="1" text="measure rice ." />
+</script>
+<script id="18">
+<item slot="1" text="measure rice ." />
+</script>
+<script id="19">
+<item slot="1" text="measure rice ." />
+<item slot="2" text="add water ." />
+<item slot="3" text="wash rice ." />
+<item slot="4" text="add water ." />
+<item slot="5" text="cover rice cooker ." />
+<item slot="6" text="turn rice cooker on ." />
+</script>
+<script id="20">
+<item slot="1" text="measure rice ." />
+<item slot="2" text="add water ." />
+<item slot="3" text="wash rice ." />
+<item slot="4" text="add water ." />
+<item slot="5" text="cover rice cooker ." />
+<item slot="6" text="turn rice cooker on ." />
+</script>
+<script id="21">
+<item slot="1" text="measure rice into strainer ." />
+<item slot="2" text="rinse rice ." />
+<item slot="3" text="measure water into pot ." />
+<item slot="4" text="heat water until boiling ." />
+<item slot="5" text="pour rinsed rice into pot ." />
+<item slot="6" text="cover pot with lid ." />
+<item slot="7" text="simmer until rice is cooked ." />
+</script>
+<script id="22">
+<item slot="1" text="measure rice into strainer ." />
+<item slot="2" text="rinse rice ." />
+<item slot="3" text="measure water into pot ." />
+<item slot="4" text="heat water until boiling ." />
+<item slot="5" text="pour rinsed rice into pot ." />
+<item slot="6" text="cover pot with lid ." />
+<item slot="7" text="simmer until rice is cooked ." />
+</script>
+<script id="23">
+<item slot="1" text="measure rice into strainer ." />
+<item slot="2" text="rinse rice ." />
+<item slot="3" text="measure water into pot ." />
+<item slot="4" text="heat water until boiling ." />
+<item slot="5" text="pour rinsed rice into pot ." />
+<item slot="6" text="cover pot with lid ." />
+<item slot="7" text="simmer until rice is cooked ." />
+</script>
+<script id="24">
+<item slot="1" text="measure rice into strainer ." />
+<item slot="2" text="rinse rice ." />
+<item slot="3" text="measure water into pot ." />
+<item slot="4" text="heat water until boiling ." />
+<item slot="5" text="pour rinsed rice into pot ." />
+<item slot="6" text="cover pot with lid ." />
+<item slot="7" text="simmer until rice is cooked ." />
+</script>
+<script id="25">
+<item slot="1" text="measure rice into strainer ." />
+</script>
+<script id="26">
+<item slot="1" text="measure rice into strainer ." />
+</script>
+<script id="27">
+<item slot="1" text="rinse rice ." />
+<item slot="2" text="measure water into pot ." />
+<item slot="3" text="heat water until boiling ." />
+<item slot="4" text="pour rinsed rice into pot ." />
+<item slot="5" text="cover pot with lid ." />
+<item slot="6" text="simmer until rice is cooked ." />
+</script>
+<script id="28">
+<item slot="1" text="rinse rice ." />
+<item slot="2" text="measure water into pot ." />
+<item slot="3" text="heat water until boiling ." />
+<item slot="4" text="pour rinsed rice into pot ." />
+<item slot="5" text="cover pot with lid ." />
+<item slot="6" text="simmer until rice is cooked ." />
+</script>
+<script id="29">
+<item slot="1" text="measure rice into strainer ." />
+<item slot="2" text="rinse rice ." />
+<item slot="3" text="measure water into pot ." />
+<item slot="4" text="heat water until boiling ." />
+<item slot="5" text="pour rinsed rice into pot ." />
+<item slot="6" text="cover pot with lid ." />
+<item slot="7" text="simmer until rice is cooked ." />
+</script>
+<script id="30">
+<item slot="1" text="rinse rice ." />
+<item slot="2" text="place rice in rice cooker ." />
+<item slot="3" text="add water ." />
+<item slot="4" text="turn on rice cooker ." />
+<item slot="5" text="wait until rice is cooked ." />
+<item slot="6" text="serve ." />
+</script>
+<script id="31">
+<item slot="1" text="measure 1 cup rice ." />
+<item slot="2" text="wash until runs clear ." />
+<item slot="3" text="put in pot with 2 cups water ." />
+<item slot="4" text="turn on burner to medium ." />
+<item slot="5" text="place pot on burner with the lid off ." />
+<item slot="6" text="wait 20 minutes ." />
+<item slot="7" text="rice is done ." />
+</script>
+<script id="32">
+<item slot="1" text="measure rice ." />
+<item slot="2" text="wash rice ." />
+<item slot="3" text="place in rice cooker ." />
+<item slot="4" text="close lid ." />
+<item slot="5" text="turn on rice cooker ." />
+</script>
+<script id="33">
+<item slot="1" text="boil water in a pot ." />
+<item slot="2" text="remove from heat ." />
+<item slot="3" text="pour in rice ." />
+<item slot="4" text="cover pot ." />
+<item slot="5" text="let stand 5 minutes ." />
+<item slot="6" text="fluff rice with a fork ." />
+<item slot="7" text="serve ." />
+</script>
+<script id="34">
+<item slot="1" text="boil water in a pot ." />
+<item slot="2" text="remove from heat ." />
+<item slot="3" text="pour in rice ." />
+<item slot="4" text="cover pot ." />
+<item slot="5" text="let stand 5 minutes ." />
+<item slot="6" text="fluff rice with a fork ." />
+<item slot="7" text="serve ." />
+</script>
+<script id="35">
+<item slot="1" text="boil water in a pot ." />
+<item slot="2" text="remove from heat ." />
+<item slot="3" text="pour in rice ." />
+<item slot="4" text="cover pot ." />
+<item slot="5" text="let stand 5 minutes ." />
+<item slot="6" text="fluff rice with a fork ." />
+<item slot="7" text="serve ." />
+</script>
+<script id="36">
+<item slot="1" text="boil water in a pot ." />
+<item slot="2" text="remove from heat ." />
+<item slot="3" text="pour in rice ." />
+<item slot="4" text="cover pot ." />
+<item slot="5" text="let stand 5 minutes ." />
+<item slot="6" text="fluff rice with a fork ." />
+<item slot="7" text="serve ." />
+</script>
+<script id="37">
+<item slot="1" text="boil water in a pot ." />
+<item slot="2" text="remove from heat ." />
+<item slot="3" text="pour in rice ." />
+<item slot="4" text="cover pot ." />
+<item slot="5" text="let stand 5 minutes ." />
+<item slot="6" text="fluff rice with a fork ." />
+<item slot="7" text="serve ." />
+</script>
+<script id="38">
+<item slot="1" text="add rice to bowl ." />
+<item slot="2" text="add water ." />
+<item slot="3" text="cook rice ." />
+</script>
+<script id="39">
+<item slot="1" text="add rice to bowl ." />
+<item slot="2" text="add water ." />
+<item slot="3" text="cook rice ." />
+</script>
+<script id="40">
+<item slot="1" text="add rice to bowl ." />
+<item slot="2" text="add water ." />
+<item slot="3" text="cook rice ." />
+</script>
+<script id="41">
+<item slot="1" text="add rice to bowl ." />
+<item slot="2" text="add water ." />
+<item slot="3" text="cook rice ." />
+</script>
+<script id="42">
+<item slot="1" text="add rice to bowl ." />
+<item slot="2" text="add water ." />
+<item slot="3" text="cook rice ." />
+</script>
+<script id="43">
+<item slot="1" text="add rice to bowl ." />
+<item slot="2" text="add water ." />
+<item slot="3" text="cook rice ." />
+</script>
+<script id="44">
+<item slot="1" text="add water to rice ." />
+</script>
+<script id="45">
+<item slot="1" text="get rice ." />
+<item slot="2" text="get water ." />
+<item slot="3" text="clean rice ." />
+<item slot="4" text="put pot on stove ." />
+<item slot="5" text="turn on stove ." />
+<item slot="6" text="close lid ." />
+<item slot="7" text="let it cook ." />
+</script>
+<script id="46">
+<item slot="1" text="get rice ." />
+<item slot="2" text="get water ." />
+<item slot="3" text="clean rice ." />
+<item slot="4" text="put pot on stove ." />
+<item slot="5" text="turn on stove ." />
+<item slot="6" text="close lid ." />
+<item slot="7" text="let it cook ." />
+</script>
+<script id="47">
+<item slot="1" text="wash rice ." />
+<item slot="2" text="place rice in rice-cooker ." />
+<item slot="3" text="add water ." />
+<item slot="4" text="close the lid ." />
+<item slot="5" text="turn on the rice cooker ." />
+</script>
+<script id="48">
+<item slot="1" text="remove rice from pantry ." />
+<item slot="2" text="determine how many cups of rice you are going to need ." />
+<item slot="3" text="measure out the number of cups of rice you are going to need ." />
+</script>
+<script id="49">
+<item slot="1" text="remove rice from pantry ." />
+<item slot="2" text="determine how many cups of rice you are going to need ." />
+<item slot="3" text="measure out the number of cups of rice you are going to need ." />
+</script>
+<script id="50">
+<item slot="1" text="remove rice from pantry ." />
+<item slot="2" text="determine how many cups of rice you are going to need ." />
+<item slot="3" text="measure out the number of cups of rice you are going to need ." />
+</script>
+<script id="51">
+<item slot="1" text="remove rice from pantry ." />
+<item slot="2" text="determine how many cups of rice you are going to need ." />
+<item slot="3" text="measure out the number of cups of rice you are going to need ." />
+</script>
+<script id="52">
+<item slot="1" text="get rice cooker ." />
+<item slot="2" text="plug in rice cooker ." />
+<item slot="3" text="fill cooker with water and put in rice ." />
+<item slot="4" text="put on lid ." />
+<item slot="5" text="press start ." />
+</script>
+<script id="53">
+<item slot="1" text="get rice cooker ." />
+<item slot="2" text="plug in rice cooker ." />
+<item slot="3" text="fill cooker with water and put in rice ." />
+<item slot="4" text="put on lid ." />
+<item slot="5" text="press start ." />
+</script>
+<script id="54">
+<item slot="1" text="put water and rice in rice  maker ." />
+<item slot="2" text="plug in rice maker ." />
+<item slot="3" text="cover rice maker ." />
+<item slot="4" text="press start ." />
+</script>
+<script id="55">
+<item slot="1" text="put water and rice in rice  maker ." />
+<item slot="2" text="plug in rice maker ." />
+<item slot="3" text="cover rice maker ." />
+<item slot="4" text="press start ." />
+</script>
+<script id="56">
+<item slot="1" text="put water and rice in rice  maker ." />
+<item slot="2" text="plug in rice maker ." />
+<item slot="3" text="cover rice maker ." />
+<item slot="4" text="press start ." />
+</script>
+<script id="57">
+<item slot="1" text="put water and rice in rice  maker ." />
+<item slot="2" text="plug in rice maker ." />
+<item slot="3" text="cover rice maker ." />
+<item slot="4" text="press start ." />
+</script>
+<script id="58">
+<item slot="1" text="measure out desired amount of rice ." />
+<item slot="2" text="wash rice with water ." />
+<item slot="3" text="place rice in rice cooker ." />
+<item slot="4" text="start rice cooker ." />
+</script>
+<script id="59">
+<item slot="1" text="measure out desired amount of rice ." />
+<item slot="2" text="wash rice with water ." />
+<item slot="3" text="place rice in rice cooker ." />
+<item slot="4" text="start rice cooker ." />
+</script>
+<script id="60">
+<item slot="1" text="measure out desired amount of rice ." />
+<item slot="2" text="wash rice with water ." />
+<item slot="3" text="place rice in rice cooker ." />
+<item slot="4" text="start rice cooker ." />
+</script>
+<script id="61">
+<item slot="1" text="measure out desired amount of rice ." />
+<item slot="2" text="wash rice with water ." />
+<item slot="3" text="place rice in rice cooker ." />
+<item slot="4" text="start rice cooker ." />
+</script>
+<script id="62">
+<item slot="1" text="measure out desired amount of rice ." />
+<item slot="2" text="wash rice with water ." />
+<item slot="3" text="place rice in rice cooker ." />
+<item slot="4" text="start rice cooker ." />
+</script>
+<script id="63">
+<item slot="1" text="measure out desired amount of rice ." />
+<item slot="2" text="wash rice with water ." />
+<item slot="3" text="place rice in rice cooker ." />
+<item slot="4" text="start rice cooker ." />
+</script>
+<script id="64">
+<item slot="1" text="get rice maker ." />
+<item slot="2" text="plug in rice maker ." />
+<item slot="3" text="put water and rice in rice maker ." />
+<item slot="4" text="cover rice maker ." />
+<item slot="5" text="start rice maker ." />
+</script>
+</scripts>

@@ -1,0 +1,304 @@
+<scripts>
+<script id="1">
+<item slot="1" text="fetch ladder ." />
+<item slot="2" text="move ladder to desired location ." />
+</script>
+<script id="2">
+<item slot="1" text="get ladder ." />
+<item slot="2" text="lift up ladder ." />
+<item slot="3" text="move ladder next to wall ." />
+<item slot="4" text="spread ladder legs so that ladder stable ." />
+</script>
+<script id="3">
+<item slot="1" text="pick up  ladder ." />
+<item slot="2" text="walk over to near the wall ." />
+<item slot="3" text="put down ladder ." />
+</script>
+<script id="4">
+<item slot="1" text="locate the wall ." />
+<item slot="2" text="take a ladder ." />
+<item slot="3" text="put the ladder close to the wall ." />
+<item slot="4" text="make sure the ladder is leaning to the wall ." />
+</script>
+<script id="5">
+<item slot="1" text="grab ladder ." />
+<item slot="2" text="move ladder near wall ." />
+<item slot="3" text="spread ladder legs so that it stands on its own ." />
+</script>
+<script id="6">
+<item slot="1" text="take the ladder ." />
+<item slot="2" text="decide where you want to place it ." />
+<item slot="3" text="walk toward where you want to place the ladder ." />
+</script>
+<script id="7">
+<item slot="1" text="take the ladder ." />
+<item slot="2" text="decide where you want to place it ." />
+<item slot="3" text="walk toward where you want to place the ladder ." />
+<item slot="4" text="place the ladder in the location that you chose ." />
+</script>
+<script id="8">
+<item slot="1" text="grab ladder by an end ." />
+<item slot="2" text="put it in vertical position ." />
+<item slot="3" text="drag it up to the wall ." />
+<item slot="4" text="put it against the wall ." />
+</script>
+<script id="9">
+<item slot="1" text="go and get the ladder from the garage ." />
+<item slot="2" text="carry the ladder out of the garage ." />
+<item slot="3" text="lead the ladder on the desired wall ." />
+</script>
+<script id="10">
+<item slot="1" text="locate a ladder ." />
+<item slot="2" text="place the ladder base securely on the ground ." />
+<item slot="3" text="lean the ladder against a wall ." />
+</script>
+<script id="11">
+<item slot="1" text="go to the ladder ." />
+<item slot="2" text="pick up the ladder ." />
+<item slot="3" text="go near the wall ." />
+<item slot="4" text="release the ladder ." />
+</script>
+<script id="12">
+<item slot="1" text="getting the ladder ." />
+<item slot="2" text="place the ladder near the wall ." />
+<item slot="3" text="standing the ladder up ." />
+<item slot="4" text="securing the ladder ." />
+</script>
+<script id="13">
+<item slot="1" text="getting the ladder ." />
+<item slot="2" text="place the ladder near the wall ." />
+<item slot="3" text="standing the ladder up ." />
+<item slot="4" text="securing the ladder s legs ." />
+<item slot="5" text="checking the condition of the ladder ." />
+<item slot="6" text="climb the ladder ." />
+<item slot="7" text="replace the ladder in its original place ." />
+</script>
+<script id="14">
+<item slot="1" text="identify ladder ." />
+<item slot="2" text="pick up ladder ." />
+<item slot="3" text="identify wall ." />
+<item slot="4" text="place near wall ." />
+</script>
+<script id="15">
+<item slot="1" text="pick up ladder ." />
+<item slot="2" text="go over to wall ." />
+<item slot="3" text="place ladder against wall ." />
+</script>
+<script id="16">
+<item slot="1" text="find the ladder ." />
+<item slot="2" text="bring it near the wall ." />
+<item slot="3" text="make it stand vertical supporting on the wall ." />
+</script>
+<script id="17">
+<item slot="1" text="get ladder ." />
+<item slot="2" text="check that ground near wall is level ." />
+<item slot="3" text="open ladder ." />
+<item slot="4" text="push metal support beams into place ." />
+<item slot="5" text="move ladder toward wall ." />
+<item slot="6" text="check sturdiness of ladder ." />
+</script>
+<script id="18">
+<item slot="1" text="take the ladder out ." />
+<item slot="2" text="lean it against the wall ." />
+</script>
+<script id="19">
+<item slot="1" text="pick the ladder up ." />
+<item slot="2" text="take the ladder where you want it ." />
+<item slot="3" text="put the ladder down ." />
+</script>
+<script id="20">
+<item slot="1" text="get ladder ." />
+<item slot="2" text="carry ladder over to wall ." />
+<item slot="3" text="put ladder down next to wall ." />
+</script>
+<script id="21">
+<item slot="1" text="determing level spot for ladder ." />
+<item slot="2" text="locate ladder ." />
+<item slot="3" text="retrieve ladder ." />
+<item slot="4" text="carry ladder to spot ." />
+<item slot="5" text="open legs of ladder ." />
+<item slot="6" text="set ladder in spot ." />
+<item slot="7" text="wiggle ladder to determine steadiness ." />
+</script>
+<script id="22">
+<item slot="1" text="comprehend need for ladder ." />
+<item slot="2" text="decide which wall to place it near ." />
+<item slot="3" text="remember where ladder is located ." />
+<item slot="4" text="walk to area ladder is at ." />
+<item slot="5" text="retrieve ladder ." />
+<item slot="6" text="carry ladder to wall area ." />
+<item slot="7" text="place ladder near wall ." />
+</script>
+<script id="23">
+<item slot="1" text="pick up ladder ." />
+<item slot="2" text="walk to wall ." />
+<item slot="3" text="place end of ladder on the ground ." />
+<item slot="4" text="lean ladder against wall ." />
+<item slot="5" text="let go of ladder ." />
+</script>
+<script id="24">
+<item slot="1" text="make sure ladder has proper side facing down ." />
+<item slot="2" text="place bottom of ladder about 12 inches from wall ." />
+<item slot="3" text="top of ladder should rest against wall ." />
+<item slot="4" text="make sure when you get on ladder than it is stable ." />
+</script>
+<script id="25">
+<item slot="1" text="get ladder from garage ." />
+<item slot="2" text="place ladder close to wall ." />
+<item slot="3" text="place it at a gentle angle ." />
+<item slot="4" text="test the ladder make sure it is steady ." />
+</script>
+<script id="26">
+<item slot="1" text="choose the wall ." />
+<item slot="2" text="take the ladder ." />
+<item slot="3" text="place the ladder near the wall ." />
+</script>
+<script id="27">
+<item slot="1" text="find the wall ." />
+<item slot="2" text="find the ladder ." />
+<item slot="3" text="go to the ladder ." />
+<item slot="4" text="pick up the ladder ." />
+</script>
+<script id="28">
+<item slot="1" text="find the wall ." />
+<item slot="2" text="find the ladder ." />
+<item slot="3" text="go to the ladder ." />
+<item slot="4" text="pick up the ladder ." />
+<item slot="5" text="go to the wall ." />
+<item slot="6" text="set down ladder ." />
+</script>
+<script id="29">
+<item slot="1" text="pick up ladder ." />
+<item slot="2" text="carry it over to the wall ." />
+<item slot="3" text="put ladder down near the wall ." />
+</script>
+<script id="30">
+<item slot="1" text="take out ladder ." />
+<item slot="2" text="place feet on the ground ." />
+<item slot="3" text="lean ladder against wall ." />
+</script>
+<script id="31">
+<item slot="1" text="take out ladder ." />
+<item slot="2" text="place feet on the ground ." />
+<item slot="3" text="lean ladder against wall ." />
+</script>
+<script id="32">
+<item slot="1" text="extend ladder ." />
+<item slot="2" text="lean ladder on wall ." />
+</script>
+<script id="33">
+<item slot="1" text="pick up ladder ." />
+<item slot="2" text="carry ladder to wall ." />
+<item slot="3" text="place ladder near wall ." />
+</script>
+<script id="34">
+<item slot="1" text="pick up ladder ." />
+<item slot="2" text="carry ladder to wall ." />
+<item slot="3" text="place ladder near wall ." />
+</script>
+<script id="35">
+<item slot="1" text="pick up ladder ." />
+<item slot="2" text="carry ladder to wall ." />
+<item slot="3" text="place ladder near wall ." />
+</script>
+<script id="36">
+<item slot="1" text="pick up ladder ." />
+<item slot="2" text="carry ladder to wall ." />
+<item slot="3" text="place ladder near wall ." />
+</script>
+<script id="37">
+<item slot="1" text="pick up ladder ." />
+<item slot="2" text="carry ladder to wall ." />
+<item slot="3" text="place ladder near wall ." />
+</script>
+<script id="38">
+<item slot="1" text="pick up ladder ." />
+<item slot="2" text="carry ladder to wall ." />
+<item slot="3" text="place ladder near wall ." />
+</script>
+<script id="39">
+<item slot="1" text="pick up ladder ." />
+<item slot="2" text="carry ladder to wall ." />
+<item slot="3" text="set ladder down ." />
+</script>
+<script id="40">
+<item slot="1" text="pick up ladder ." />
+<item slot="2" text="carry ladder to wall ." />
+<item slot="3" text="set ladder down ." />
+</script>
+<script id="41">
+<item slot="1" text="pick up ladder ." />
+<item slot="2" text="carry ladder to wall ." />
+<item slot="3" text="set ladder down ." />
+</script>
+<script id="42">
+<item slot="1" text="get the ladder ." />
+<item slot="2" text="carry the ladder to the wall ." />
+<item slot="3" text="lean the ladder up against the wall ." />
+</script>
+<script id="43">
+<item slot="1" text="carry the ladder ." />
+<item slot="2" text="bring it to the wall ." />
+<item slot="3" text="rest it on the wall ." />
+</script>
+<script id="44">
+<item slot="1" text="carry the ladder ." />
+<item slot="2" text="bring it to the wall ." />
+<item slot="3" text="rest it on the wall ." />
+</script>
+<script id="45">
+<item slot="1" text="pick up ladder ." />
+<item slot="2" text="bring to location ." />
+<item slot="3" text="stand ladder up ." />
+<item slot="4" text="spread out legs and secure ." />
+</script>
+<script id="46">
+<item slot="1" text="bring the ladder ." />
+<item slot="2" text="place is close to the wall ." />
+</script>
+<script id="47">
+<item slot="1" text="pick up ladder ." />
+<item slot="2" text="balance it against the wall ." />
+</script>
+<script id="48">
+<item slot="1" text="pick up ladder ." />
+<item slot="2" text="balance it against the wall ." />
+</script>
+<script id="49">
+<item slot="1" text="pick up ladder ." />
+<item slot="2" text="walk to wall ." />
+<item slot="3" text="set ladder down ." />
+<item slot="4" text="lean ladder against wall ." />
+</script>
+<script id="50">
+<item slot="1" text="getting a ladder ." />
+<item slot="2" text="putting said ladder near a wall ." />
+<item slot="3" text="leaning the ladder against the wall at an angle ." />
+</script>
+<script id="51">
+<item slot="1" text="getting a ladder ." />
+<item slot="2" text="putting said ladder near a wall ." />
+<item slot="3" text="leaning the ladder against the wall at an angle ." />
+</script>
+<script id="52">
+<item slot="1" text="getting a ladder ." />
+<item slot="2" text="putting said ladder near a wall ." />
+<item slot="3" text="leaning the ladder against the wall at an angle ." />
+</script>
+<script id="53">
+<item slot="1" text="getting a ladder ." />
+<item slot="2" text="putting said ladder near a wall ." />
+<item slot="3" text="leaning the ladder against the wall at an angle ." />
+</script>
+<script id="54">
+<item slot="1" text="getting a ladder ." />
+<item slot="2" text="putting said ladder near a wall ." />
+<item slot="3" text="leaning the ladder against the wall at an angle ." />
+</script>
+<script id="55">
+<item slot="1" text="get ladder ." />
+<item slot="2" text="set ladder upright ." />
+<item slot="3" text="lean ladder against wall ." />
+<item slot="4" text="secure the bottom ." />
+</script>
+</scripts>

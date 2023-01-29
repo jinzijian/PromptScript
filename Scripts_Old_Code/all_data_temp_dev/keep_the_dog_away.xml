@@ -1,0 +1,286 @@
+<scripts>
+<script id="1">
+<item slot="1" text="tell the dog 'no' ." />
+<item slot="2" text="push the dog away with your hands ." />
+</script>
+<script id="2">
+<item slot="1" text="place dog on leash ." />
+<item slot="2" text="restrain dog ." />
+</script>
+<script id="3">
+<item slot="1" text="leash the dog ." />
+<item slot="2" text="secure the leash ." />
+</script>
+<script id="4">
+<item slot="1" text="watch dog ." />
+<item slot="2" text="when dog get close tell to move away ." />
+</script>
+<script id="5">
+<item slot="1" text="if dog comes close ." />
+<item slot="2" text="scream at it ." />
+</script>
+<script id="6">
+<item slot="1" text="don t be afraid ." />
+<item slot="2" text="protect yourself ." />
+<item slot="3" text="go for it ." />
+</script>
+<script id="7">
+<item slot="1" text="track dog visually ." />
+<item slot="2" text="if dog comes close scare it away ." />
+<item slot="3" text="if dog at safe distance don t do anything ." />
+</script>
+<script id="8">
+<item slot="1" text="watch for dog ." />
+<item slot="2" text="if dog comes near scare it away ." />
+</script>
+<script id="9">
+<item slot="1" text="watch dog ." />
+<item slot="2" text="if dog comes near scare it away ." />
+</script>
+<script id="10">
+<item slot="1" text="shout at the dog to stay back ." />
+<item slot="2" text="remain aggressive towards the dog ." />
+<item slot="3" text="shoo the dog away with your hands ." />
+<item slot="4" text="attempt to relocate yourself away from the dog ." />
+</script>
+<script id="11">
+<item slot="1" text="get the dog ." />
+<item slot="2" text="get a leash ." />
+<item slot="3" text="put the leash on the dog ." />
+<item slot="4" text="choose a tree that is far away from you ." />
+<item slot="5" text="tie the dog s leash to the tree tightly ." />
+<item slot="6" text="walk away from the dog ." />
+<item slot="7" text="leave the dog there ." />
+</script>
+<script id="12">
+<item slot="1" text="get leash ." />
+<item slot="2" text="attach leash to dog ." />
+<item slot="3" text="grab leash firmly ." />
+<item slot="4" text="move away ." />
+</script>
+<script id="13">
+<item slot="1" text="put leash on dog ." />
+<item slot="2" text="hold leash tightly ." />
+<item slot="3" text="walk away pulling the leash ." />
+</script>
+<script id="14">
+<item slot="1" text="take the dog away ." />
+</script>
+<script id="15">
+<item slot="1" text="get a cat ." />
+<item slot="2" text="set cat loose ." />
+<item slot="3" text="take dog off lease ." />
+<item slot="4" text="see dog chase cat ." />
+<item slot="5" text="run cat run ." />
+<item slot="6" text="see dog eat cat ." />
+<item slot="7" text="see dog get fat ." />
+</script>
+<script id="16">
+<item slot="1" text="find dog ." />
+<item slot="2" text="corral dog ." />
+<item slot="3" text="pen dog ." />
+</script>
+<script id="17">
+<item slot="1" text="get in front of dog ." />
+<item slot="2" text="yell at dog ." />
+<item slot="3" text="hit dogs nose ." />
+<item slot="4" text="chase the dog ." />
+</script>
+<script id="18">
+<item slot="1" text="get in front of dog ." />
+<item slot="2" text="yell at dog ." />
+<item slot="3" text="hit dogs nose ." />
+<item slot="4" text="chase the dog ." />
+</script>
+<script id="19">
+<item slot="1" text="tighte the grasp on the leash ." />
+<item slot="2" text="pull the leash toward you ." />
+</script>
+<script id="20">
+<item slot="1" text="grab dogs collar ." />
+<item slot="2" text="hold firmly and walk dog to the door ." />
+<item slot="3" text="open the door ." />
+<item slot="4" text="walk the dog outside ." />
+<item slot="5" text="close the door ." />
+</script>
+<script id="21">
+<item slot="1" text="catch the dog ." />
+<item slot="2" text="tie the dog to a place ." />
+<item slot="3" text="keep the dog away ." />
+</script>
+<script id="22">
+<item slot="1" text="stopping all activities ." />
+<item slot="2" text="relax ." />
+<item slot="3" text="watch dogs action ." />
+<item slot="4" text="point and look to a distant place ." />
+<item slot="5" text="say something sharply ." />
+<item slot="6" text="insist ." />
+<item slot="7" text="if dog carries out action say 'good boy' ." />
+</script>
+<script id="23">
+<item slot="1" text="stopping all activities ." />
+<item slot="2" text="relax ." />
+<item slot="3" text="watch dogs action ." />
+<item slot="4" text="point and look to a distant place ." />
+<item slot="5" text="say something sharply ." />
+<item slot="6" text="insist ." />
+<item slot="7" text="if dog carries out action say 'good boy' ." />
+</script>
+<script id="24">
+<item slot="1" text="run after dog ." />
+<item slot="2" text="sscare dog by shouting ." />
+</script>
+<script id="25">
+<item slot="1" text="approach dog ." />
+<item slot="2" text="place hand on dog ." />
+<item slot="3" text="tell dog to stay ." />
+<item slot="4" text="remain in position as needed ." />
+<item slot="5" text="entertain dog if necessary ." />
+<item slot="6" text="give dog a treat for effort ." />
+<item slot="7" text="release dog ." />
+</script>
+<script id="26">
+<item slot="1" text="approach dog ." />
+<item slot="2" text="place hand on dog ." />
+<item slot="3" text="tell dog to stay ." />
+<item slot="4" text="remain in position as needed ." />
+<item slot="5" text="entertain dog if necessary ." />
+<item slot="6" text="give dog a treat for effort ." />
+<item slot="7" text="release dog ." />
+</script>
+<script id="27">
+<item slot="1" text="approach dog ." />
+<item slot="2" text="place hand on dog ." />
+<item slot="3" text="tell dog to stay ." />
+<item slot="4" text="remain in position as needed ." />
+<item slot="5" text="entertain dog if necessary ." />
+<item slot="6" text="give dog a treat for effort ." />
+<item slot="7" text="release dog ." />
+</script>
+<script id="28">
+<item slot="1" text="approach dog ." />
+<item slot="2" text="place hand on dog ." />
+<item slot="3" text="tell dog to stay ." />
+<item slot="4" text="remain in position as needed ." />
+<item slot="5" text="entertain dog if necessary ." />
+<item slot="6" text="give dog a treat for effort ." />
+<item slot="7" text="release dog ." />
+</script>
+<script id="29">
+<item slot="1" text="approach dog ." />
+<item slot="2" text="place hand on dog ." />
+<item slot="3" text="tell dog to stay ." />
+<item slot="4" text="remain in position as needed ." />
+<item slot="5" text="entertain dog if necessary ." />
+<item slot="6" text="give dog a treat for effort ." />
+<item slot="7" text="release dog ." />
+</script>
+<script id="30">
+<item slot="1" text="approach dog ." />
+<item slot="2" text="place hand on dog ." />
+</script>
+<script id="31">
+<item slot="1" text="approach dog ." />
+<item slot="2" text="place hand on dog ." />
+</script>
+<script id="32">
+<item slot="1" text="tell dog to stay ." />
+</script>
+<script id="33">
+<item slot="1" text="tell dog to stay ." />
+<item slot="2" text="remain in position as needed ." />
+</script>
+<script id="34">
+<item slot="1" text="remain in position as needed ." />
+<item slot="2" text="entertain dog if necessary ." />
+</script>
+<script id="35">
+<item slot="1" text="entertain dog if necessary ." />
+</script>
+<script id="36">
+<item slot="1" text="give dog a treat for effort ." />
+<item slot="2" text="release dog ." />
+</script>
+<script id="37">
+<item slot="1" text="give dog a treat for effort ." />
+<item slot="2" text="release dog ." />
+</script>
+<script id="38">
+<item slot="1" text="approach dog ." />
+<item slot="2" text="place hand on dog ." />
+<item slot="3" text="tell dog to stay ." />
+<item slot="4" text="remain in position as needed ." />
+<item slot="5" text="entertain dog if necessary ." />
+<item slot="6" text="give dog a treat for effort ." />
+<item slot="7" text="release dog ." />
+</script>
+<script id="39">
+<item slot="1" text="approach dog ." />
+<item slot="2" text="place hand on dog ." />
+<item slot="3" text="tell dog to stay ." />
+<item slot="4" text="remain in position as needed ." />
+<item slot="5" text="entertain dog if necessary ." />
+<item slot="6" text="give dog a treat for effort ." />
+<item slot="7" text="release dog ." />
+</script>
+<script id="40">
+<item slot="1" text="approach dog ." />
+<item slot="2" text="place hand on dog ." />
+<item slot="3" text="tell dog to stay ." />
+<item slot="4" text="remain in position as needed ." />
+<item slot="5" text="entertain dog if necessary ." />
+<item slot="6" text="give dog a treat for effort ." />
+<item slot="7" text="release dog ." />
+</script>
+<script id="41">
+<item slot="1" text="don t be afraid ." />
+<item slot="2" text="don t look into eyes ." />
+<item slot="3" text="don t run ." />
+<item slot="4" text="stand still ." />
+<item slot="5" text="yell loud ." />
+<item slot="6" text="say go away ." />
+<item slot="7" text="walk towards dog ." />
+</script>
+<script id="42">
+<item slot="1" text="find child you can trust ." />
+<item slot="2" text="bring child to dog ." />
+<item slot="3" text="send child and dog outside to play ." />
+</script>
+<script id="43">
+<item slot="1" text="find child you can trust ." />
+<item slot="2" text="bring child to dog ." />
+<item slot="3" text="send child and dog outside to play ." />
+</script>
+<script id="44">
+<item slot="1" text="find child you can trust ." />
+<item slot="2" text="bring child to dog ." />
+<item slot="3" text="send child and dog outside to play ." />
+</script>
+<script id="45">
+<item slot="1" text="find child you can trust ." />
+<item slot="2" text="bring child to dog ." />
+<item slot="3" text="send child and dog outside to play ." />
+</script>
+<script id="46">
+<item slot="1" text="hold the dog gently by the collar ." />
+</script>
+<script id="47">
+<item slot="1" text="hold the dog gently by the collar ." />
+</script>
+<script id="48">
+<item slot="1" text="hold the dog gently by the collar ." />
+</script>
+<script id="49">
+<item slot="1" text="hold the dog gently by the collar ." />
+</script>
+<script id="50">
+<item slot="1" text="grab dog ." />
+<item slot="2" text="put leash on dog ." />
+<item slot="3" text="tie leash to something heavy ." />
+</script>
+<script id="51">
+<item slot="1" text="grab dog ." />
+<item slot="2" text="put leash on dog ." />
+<item slot="3" text="tie leash to something heavy ." />
+</script>
+</scripts>

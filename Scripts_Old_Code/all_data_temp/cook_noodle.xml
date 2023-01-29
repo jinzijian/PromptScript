@@ -1,0 +1,309 @@
+<scripts>
+<script id="1">
+<item slot="1" text="get a package of noodles ." />
+<item slot="2" text="put the noodles in a pot of water ." />
+<item slot="3" text="put the pot on the stove ." />
+<item slot="4" text="turn the stove to medium heat ." />
+<item slot="5" text="take the pot off when noodles are done ." />
+</script>
+<script id="2">
+<item slot="1" text="put water in pan ." />
+<item slot="2" text="boil water in pan ." />
+<item slot="3" text="put noodles in boiling water ." />
+<item slot="4" text="let noodles cook until soft ." />
+<item slot="5" text="drain water from pan ." />
+<item slot="6" text="put noodles in bowl ." />
+</script>
+<script id="3">
+<item slot="1" text="locate cooker ." />
+<item slot="2" text="locate pan ." />
+<item slot="3" text="locate noodle ." />
+<item slot="4" text="put noodle in pan ." />
+<item slot="5" text="put water in pan ." />
+<item slot="6" text="boil noodle in pan of water on the cooker ." />
+</script>
+<script id="4">
+<item slot="1" text="place noodle in pan ." />
+<item slot="2" text="put pan on stove ." />
+<item slot="3" text="heat stove ." />
+</script>
+<script id="5">
+<item slot="1" text="open a pack of noodles ." />
+<item slot="2" text="read the instructions on the pack ." />
+<item slot="3" text="follow the instructions ." />
+</script>
+<script id="6">
+<item slot="1" text="get a pot from cabinet ." />
+<item slot="2" text="fill pot with water ." />
+<item slot="3" text="place pot on stove ." />
+<item slot="4" text="turn on stove to desired heat ." />
+<item slot="5" text="place noodles inside pot ." />
+<item slot="6" text="place lid on pot ." />
+</script>
+<script id="7">
+<item slot="1" text="bring water to a boil ." />
+<item slot="2" text="add salt and oil ." />
+<item slot="3" text="add the noodles ." />
+<item slot="4" text="stir occasionally ." />
+<item slot="5" text="cook until noodles are tender ." />
+<item slot="6" text="drain off the water ." />
+</script>
+<script id="8">
+<item slot="1" text="get pan ." />
+<item slot="2" text="fill pan with water ." />
+<item slot="3" text="allow water to boil ." />
+<item slot="4" text="pour in noodles ." />
+<item slot="5" text="boil until done ." />
+</script>
+<script id="9">
+<item slot="1" text="boil water in a pan ." />
+<item slot="2" text="open noodle package ." />
+<item slot="3" text="put noodles in pan of water ." />
+<item slot="4" text="boil for one minute ." />
+<item slot="5" text="strain noodles ." />
+</script>
+<script id="10">
+<item slot="1" text="get a pot ." />
+<item slot="2" text="fill pot with water ." />
+<item slot="3" text="put noodles in pot ." />
+<item slot="4" text="put pot on stove ." />
+<item slot="5" text="turn on stove ." />
+<item slot="6" text="boil pot ." />
+<item slot="7" text="strain noodles ." />
+</script>
+<script id="11">
+<item slot="1" text="get a pot ." />
+<item slot="2" text="fill pot with water ." />
+<item slot="3" text="put noodles in pot ." />
+<item slot="4" text="put pot on stove ." />
+<item slot="5" text="turn on stove ." />
+<item slot="6" text="boil pot ." />
+<item slot="7" text="strain noodles ." />
+</script>
+<script id="12">
+<item slot="1" text="put water in pan ." />
+<item slot="2" text="put pan on stove burner ." />
+<item slot="3" text="turn on burner under pan ." />
+<item slot="4" text="wait for water to come to boil ." />
+<item slot="5" text="add noodles to boiling water ." />
+<item slot="6" text="cook noodles until soft ." />
+<item slot="7" text="pour cooked noodles into strainer ." />
+</script>
+<script id="13">
+<item slot="1" text="boil a pot of water ." />
+<item slot="2" text="merasure the correct amount of noodles and pour in ." />
+<item slot="3" text="check box for cooking time ." />
+<item slot="4" text="boilfor the correct amount of time ." />
+</script>
+<script id="14">
+<item slot="1" text="put water in a pot ." />
+<item slot="2" text="turn on stove ." />
+<item slot="3" text="put the pot on the stove ." />
+<item slot="4" text="when water boils add noodles ." />
+<item slot="5" text="test noodles every minute ." />
+<item slot="6" text="when noodles are soft take pot off of stove ." />
+<item slot="7" text="drain contents of pot using strainer ." />
+</script>
+<script id="15">
+<item slot="1" text="put water in pot ." />
+<item slot="2" text="put pot on burner ." />
+<item slot="3" text="turn burner on high ." />
+<item slot="4" text="put lid on pot ." />
+<item slot="5" text="bring water to a boil ." />
+<item slot="6" text="remove lid ." />
+<item slot="7" text="add noodles ." />
+</script>
+<script id="16">
+<item slot="1" text="fill pot with water ." />
+<item slot="2" text="place pot on stove ." />
+<item slot="3" text="turn stove on high ." />
+<item slot="4" text="wait for water to boil ." />
+<item slot="5" text="add noodles to boiling water ." />
+<item slot="6" text="stir noodles ." />
+<item slot="7" text="remove when noodles are tender but firm ." />
+</script>
+<script id="17">
+<item slot="1" text="fill large pot with water ." />
+<item slot="2" text="set pot on burner ." />
+<item slot="3" text="turn burner to high ." />
+<item slot="4" text="wait for water to boil ." />
+<item slot="5" text="open noodle package ." />
+<item slot="6" text="empty noodles into boiling water ." />
+<item slot="7" text="let cook for 11 minutes ." />
+</script>
+<script id="18">
+<item slot="1" text="boil water ." />
+<item slot="2" text="add noodles ." />
+<item slot="3" text="cook for 15 minutes ." />
+<item slot="4" text="drain noodles ." />
+</script>
+<script id="19">
+<item slot="1" text="boil water ." />
+<item slot="2" text="add noodles ." />
+<item slot="3" text="cook for 15 minutes ." />
+<item slot="4" text="drain noodles ." />
+</script>
+<script id="20">
+<item slot="1" text="boil water ." />
+<item slot="2" text="add noodles ." />
+<item slot="3" text="cook for 15 minutes ." />
+<item slot="4" text="drain noodles ." />
+</script>
+<script id="21">
+<item slot="1" text="buy noodles ." />
+<item slot="2" text="boil water ." />
+<item slot="3" text="open noodle package ." />
+<item slot="4" text="place noodles in water ." />
+<item slot="5" text="cook noodles until tender ." />
+</script>
+<script id="22">
+<item slot="1" text="boil water ." />
+<item slot="2" text="cook noodles ." />
+<item slot="3" text="strain noodles ." />
+<item slot="4" text="serve noodles ." />
+</script>
+<script id="23">
+<item slot="1" text="boil water ." />
+<item slot="2" text="add noodles ." />
+<item slot="3" text="boil for 5 min ." />
+<item slot="4" text="drain water ." />
+</script>
+<script id="24">
+<item slot="1" text="putting water into pot ." />
+<item slot="2" text="turning on stove ." />
+<item slot="3" text="putting the pot on the stove ." />
+<item slot="4" text="waiting until the water is boiling ." />
+<item slot="5" text="boil noodles ." />
+<item slot="6" text="let them rest ." />
+<item slot="7" text="drain noodles ." />
+</script>
+<script id="25">
+<item slot="1" text="put water in a pan ." />
+<item slot="2" text="put noodle in the water ." />
+<item slot="3" text="put pan on the stove ." />
+<item slot="4" text="put heat on the burner under the pan ." />
+<item slot="5" text="wait til water boils for seven minutes then rinse and serve ." />
+</script>
+<script id="26">
+<item slot="1" text="put water in a pan ." />
+<item slot="2" text="put noodle in the water ." />
+<item slot="3" text="put pan on the stove ." />
+<item slot="4" text="put heat on the burner under the pan ." />
+<item slot="5" text="wait til water boils for seven minutes then rinse and serve ." />
+</script>
+<script id="27">
+<item slot="1" text="put water in a pan ." />
+<item slot="2" text="put noodle in the water ." />
+<item slot="3" text="put pan on the stove ." />
+<item slot="4" text="put heat on the burner under the pan ." />
+<item slot="5" text="wait til water boils for seven minutes then rinse and serve ." />
+</script>
+<script id="28">
+<item slot="1" text="put water in a pan ." />
+<item slot="2" text="put noodle in the water ." />
+<item slot="3" text="put pan on the stove ." />
+<item slot="4" text="put heat on the burner under the pan ." />
+<item slot="5" text="wait til water boils for seven minutes then rinse and serve ." />
+</script>
+<script id="29">
+<item slot="1" text="put water in a pan ." />
+<item slot="2" text="put noodle in the water ." />
+<item slot="3" text="put pan on the stove ." />
+<item slot="4" text="put heat on the burner under the pan ." />
+<item slot="5" text="wait til water boils for seven minutes then rinse and serve ." />
+</script>
+<script id="30">
+<item slot="1" text="put water in a pan ." />
+<item slot="2" text="put noodle in the water ." />
+<item slot="3" text="put pan on the stove ." />
+<item slot="4" text="put heat on the burner under the pan ." />
+<item slot="5" text="wait til water boils for seven minutes then rinse and serve ." />
+</script>
+<script id="31">
+<item slot="1" text="put water in pot ." />
+<item slot="2" text="place pot on element ." />
+<item slot="3" text="turn on element ." />
+<item slot="4" text="let water boil ." />
+<item slot="5" text="add noodles to water ." />
+<item slot="6" text="cook until tender ." />
+<item slot="7" text="remove from element and drain ." />
+</script>
+<script id="32">
+<item slot="1" text="put water in pot ." />
+<item slot="2" text="place pot on element ." />
+<item slot="3" text="turn on element ." />
+<item slot="4" text="let water boil ." />
+<item slot="5" text="add noodles to water ." />
+<item slot="6" text="cook until tender ." />
+<item slot="7" text="remove from element and drain ." />
+</script>
+<script id="33">
+<item slot="1" text="obtain noodle ." />
+<item slot="2" text="obtain pot ." />
+<item slot="3" text="fill pot with water ." />
+<item slot="4" text="place noodle in pot ." />
+<item slot="5" text="boil noodle until tender ." />
+</script>
+<script id="34">
+<item slot="1" text="obtain noodle ." />
+<item slot="2" text="obtain pot ." />
+<item slot="3" text="fill pot with water ." />
+<item slot="4" text="place noodle in pot ." />
+<item slot="5" text="boil noodle until tender ." />
+</script>
+<script id="35">
+<item slot="1" text="put water in pot ." />
+<item slot="2" text="place pot on stove ." />
+<item slot="3" text="turn on element ." />
+<item slot="4" text="let water boil ." />
+<item slot="5" text="add noodles ." />
+<item slot="6" text="cook until tender ." />
+<item slot="7" text="drain ." />
+</script>
+<script id="36">
+<item slot="1" text="put water in pot ." />
+<item slot="2" text="place pot on stove ." />
+<item slot="3" text="turn on element ." />
+<item slot="4" text="let water boil ." />
+<item slot="5" text="add noodles ." />
+<item slot="6" text="cook until tender ." />
+<item slot="7" text="drain ." />
+</script>
+<script id="37">
+<item slot="1" text="put water in pot ." />
+<item slot="2" text="place pot on stove ." />
+<item slot="3" text="turn on element ." />
+<item slot="4" text="let water boil ." />
+<item slot="5" text="add noodles ." />
+<item slot="6" text="cook until tender ." />
+<item slot="7" text="drain ." />
+</script>
+<script id="38">
+<item slot="1" text="get noodle ." />
+<item slot="2" text="get pot ." />
+<item slot="3" text="get water in pot ." />
+<item slot="4" text="heat water to boil ." />
+<item slot="5" text="put noodle in water ." />
+</script>
+<script id="39">
+<item slot="1" text="fill pot with water ." />
+<item slot="2" text="put pot on stove ." />
+<item slot="3" text="turn on stove ." />
+<item slot="4" text="when water boils put in noodles ." />
+<item slot="5" text="cook for 5 minutes ." />
+<item slot="6" text="after 5 minutes turn off stove ." />
+</script>
+<script id="40">
+<item slot="1" text="fill pot with water ." />
+<item slot="2" text="put pot on stove ." />
+<item slot="3" text="turn on stove ." />
+<item slot="4" text="when water boils put in noodles ." />
+<item slot="5" text="cook for 5 minutes ." />
+<item slot="6" text="after 5 minutes turn off stove ." />
+</script>
+<script id="41">
+<item slot="1" text="take noodle ." />
+<item slot="2" text="place noodle in pot ." />
+<item slot="3" text="heat pot on stove ." />
+</script>
+</scripts>

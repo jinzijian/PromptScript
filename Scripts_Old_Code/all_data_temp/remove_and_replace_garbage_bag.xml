@@ -1,0 +1,260 @@
+<scripts>
+<script id="1">
+<item slot="1" text="pull out garbage bag ." />
+<item slot="2" text="tie up bag ." />
+<item slot="3" text="put bag on the floor ." />
+<item slot="4" text="put new bag in trash can ." />
+</script>
+<script id="2">
+<item slot="1" text="go to the garbage can ." />
+<item slot="2" text="take the old garbage bag from the garbage can ." />
+<item slot="3" text="tie up the old garbage bag ." />
+<item slot="4" text="take a new garbage bag ." />
+<item slot="5" text="place it into the garbage can ." />
+</script>
+<script id="3">
+<item slot="1" text="locate garbage bag ." />
+<item slot="2" text="walk to garbage bag ." />
+</script>
+<script id="4">
+<item slot="1" text="locate garbage bag ." />
+<item slot="2" text="walk to garbage bag ." />
+<item slot="3" text="remove old garbage bag ." />
+<item slot="4" text="place new garbage bag ." />
+</script>
+<script id="5">
+<item slot="1" text="open garbage container ." />
+<item slot="2" text="take out old garbage bag ." />
+<item slot="3" text="get new garbage bag ." />
+<item slot="4" text="put new garbage bag in garbage container ." />
+<item slot="5" text="close garbage container ." />
+</script>
+<script id="6">
+<item slot="1" text="close the garbage bag ." />
+<item slot="2" text="pull the garbage bag out of the garbage receptacle ." />
+<item slot="3" text="find a new garbage bag ." />
+<item slot="4" text="open the new garbage bag ." />
+<item slot="5" text="place the new garbage bag into the garbage receptacle ." />
+</script>
+<script id="7">
+<item slot="1" text="go to the garbage bin ." />
+<item slot="2" text="remove the garbage bag from the garbage bin ." />
+<item slot="3" text="put the garbage bag in the garbage can outside ." />
+<item slot="4" text="go back inside the house ." />
+<item slot="5" text="put a new garbage bag into the garbage bin ." />
+</script>
+<script id="8">
+<item slot="1" text="locate garbage can ." />
+<item slot="2" text="pick up garbage bag from can ." />
+<item slot="3" text="move to garbage dump location ." />
+<item slot="4" text="place bag into dump ." />
+</script>
+<script id="9">
+<item slot="1" text="remove full garbage bag ." />
+<item slot="2" text="tie up full garbage bag ." />
+<item slot="3" text="dispose of fulll garbage bag ." />
+<item slot="4" text="line garbage can with clean empty garbage bag ." />
+</script>
+<script id="10">
+<item slot="1" text="remove full garbage bag ." />
+<item slot="2" text="replace new garbage bag ." />
+</script>
+<script id="11">
+<item slot="1" text="tie the garbage bag ." />
+<item slot="2" text="remove from the trash can ." />
+</script>
+<script id="12">
+<item slot="1" text="open garbage can ." />
+<item slot="2" text="lift up garbage bag ." />
+<item slot="3" text="tie off garbage bag ." />
+<item slot="4" text="remove garbage bag from can ." />
+<item slot="5" text="open new garbage bag ." />
+<item slot="6" text="place new garbage bag in trash can ." />
+<item slot="7" text="close trash can ." />
+</script>
+<script id="13">
+<item slot="1" text="open garbage can ." />
+<item slot="2" text="lift up garbage bag ." />
+<item slot="3" text="tie off garbage bag ." />
+<item slot="4" text="remove garbage bag from can ." />
+<item slot="5" text="open new garbage bag ." />
+<item slot="6" text="place new garbage bag in trash can ." />
+<item slot="7" text="close trash can ." />
+</script>
+<script id="14">
+<item slot="1" text="pull out garbage bag ." />
+<item slot="2" text="tie off garbage bag ." />
+<item slot="3" text="replace with new garbage bag ." />
+<item slot="4" text="take filled garbage bag out to trash ." />
+</script>
+<script id="15">
+<item slot="1" text="remove bag ." />
+<item slot="2" text="tie bag ." />
+<item slot="3" text="take bag to outdoor trash can ." />
+<item slot="4" text="get new bag ." />
+<item slot="5" text="install new bag ." />
+</script>
+<script id="16">
+<item slot="1" text="take the old garbage bag out of garbage can ." />
+<item slot="2" text="throw away ." />
+<item slot="3" text="replace new garbage bag into garbage can ." />
+</script>
+<script id="17">
+<item slot="1" text="remove full garbage bag from trash can ." />
+<item slot="2" text="tie off full garbage bag ." />
+<item slot="3" text="place full garbace bag in outdoor trash receptical ." />
+<item slot="4" text="put new empty garbage bag into trash can ." />
+</script>
+<script id="18">
+<item slot="1" text="open garbage container ." />
+<item slot="2" text="remove garbage bag ." />
+<item slot="3" text="tie garbage bag shut ." />
+<item slot="4" text="place new garbage bag in container ." />
+<item slot="5" text="close garbage container ." />
+<item slot="6" text="dispose of old garbage bag ." />
+</script>
+<script id="19">
+<item slot="1" text="open garbage container ." />
+<item slot="2" text="remove garbage bag ." />
+<item slot="3" text="tie bag shut ." />
+<item slot="4" text="dispose of bag ." />
+<item slot="5" text="place new bag in container ." />
+<item slot="6" text="shut garbage container ." />
+</script>
+<script id="20">
+<item slot="1" text="open garbage can ." />
+<item slot="2" text="pull garbage bag out of can being careful not to spill contents ." />
+<item slot="3" text="tie opening of bag shut using excess plastic ." />
+<item slot="4" text="carry full bag to the curb or dumpster ." />
+</script>
+<script id="21">
+<item slot="1" text="take bag out of garbage can and tie it shut ." />
+<item slot="2" text="take garbage bags to curb ." />
+<item slot="3" text="take a new clean bag and insert in can ." />
+<item slot="4" text="replace lid on can ." />
+</script>
+<script id="22">
+<item slot="1" text="take bag out of garbage can and tie it shut ." />
+<item slot="2" text="take garbage bags to curb ." />
+<item slot="3" text="take a new clean bag and insert in can ." />
+<item slot="4" text="replace lid on can ." />
+</script>
+<script id="23">
+<item slot="1" text="take bag out of garbage can and tie it shut ." />
+<item slot="2" text="take garbage bags to curb ." />
+<item slot="3" text="take a new clean bag and insert in can ." />
+<item slot="4" text="replace lid on can ." />
+</script>
+<script id="24">
+<item slot="1" text="take bag out of garbage can and tie it shut ." />
+<item slot="2" text="take garbage bags to curb ." />
+<item slot="3" text="take a new clean bag and insert in can ." />
+<item slot="4" text="replace lid on can ." />
+</script>
+<script id="25">
+<item slot="1" text="take bag out of garbage can and tie it shut ." />
+<item slot="2" text="take garbage bags to curb ." />
+<item slot="3" text="take a new clean bag and insert in can ." />
+<item slot="4" text="replace lid on can ." />
+</script>
+<script id="26">
+<item slot="1" text="take bag out of garbage can and tie it shut ." />
+<item slot="2" text="take garbage bags to curb ." />
+<item slot="3" text="take a new clean bag and insert in can ." />
+<item slot="4" text="replace lid on can ." />
+</script>
+<script id="27">
+<item slot="1" text="find garbage bin ." />
+<item slot="2" text="open garbage bin ." />
+<item slot="3" text="take out garbage bag ." />
+<item slot="4" text="tie garbage bag ." />
+<item slot="5" text="grab a new garbage bag ." />
+<item slot="6" text="put new bag in garbage bin ." />
+<item slot="7" text="close bin ." />
+</script>
+<script id="28">
+<item slot="1" text="find garbage bin ." />
+<item slot="2" text="open garbage bin ." />
+<item slot="3" text="take out garbage bag ." />
+<item slot="4" text="tie garbage bag ." />
+<item slot="5" text="grab a new garbage bag ." />
+<item slot="6" text="put new bag in garbage bin ." />
+<item slot="7" text="close bin ." />
+</script>
+<script id="29">
+<item slot="1" text="find garbage bin ." />
+<item slot="2" text="open garbage bin ." />
+<item slot="3" text="take out garbage bag ." />
+<item slot="4" text="tie garbage bag ." />
+<item slot="5" text="grab a new garbage bag ." />
+<item slot="6" text="put new bag in garbage bin ." />
+<item slot="7" text="close bin ." />
+</script>
+<script id="30">
+<item slot="1" text="open garbage can ." />
+<item slot="2" text="remove garbage bag ." />
+<item slot="3" text="tie up garbage bag ." />
+<item slot="4" text="take trash outside ." />
+<item slot="5" text="place new garbage bag in can ." />
+</script>
+<script id="31">
+<item slot="1" text="walk to garbage can ." />
+<item slot="2" text="remove bag that is full ." />
+<item slot="3" text="tie full bag ." />
+<item slot="4" text="place new bag into garbage can ." />
+<item slot="5" text="take full bag of garbage outside ." />
+</script>
+<script id="32">
+<item slot="1" text="walk to garbage can ." />
+<item slot="2" text="remove bag that is full ." />
+<item slot="3" text="tie full bag ." />
+<item slot="4" text="place new bag into garbage can ." />
+<item slot="5" text="take full bag of garbage outside ." />
+</script>
+<script id="33">
+<item slot="1" text="tie top of garbage bag to seal contents ." />
+<item slot="2" text="remove from garbage can ." />
+<item slot="3" text="get new garbage bag ." />
+<item slot="4" text="open bag ." />
+<item slot="5" text="fit evenly around top edge of garbage can ." />
+<item slot="6" text="close garbage can ." />
+<item slot="7" text="dispose of filled garbage bag ." />
+</script>
+<script id="34">
+<item slot="1" text="tie top of garbage bag to seal contents ." />
+<item slot="2" text="remove from garbage can ." />
+<item slot="3" text="get new garbage bag ." />
+<item slot="4" text="open bag ." />
+<item slot="5" text="fit evenly around top edge of garbage can ." />
+<item slot="6" text="close garbage can ." />
+<item slot="7" text="dispose of filled garbage bag ." />
+</script>
+<script id="35">
+<item slot="1" text="tie top of garbage bag to seal contents ." />
+<item slot="2" text="remove from garbage can ." />
+<item slot="3" text="get new garbage bag ." />
+<item slot="4" text="open bag ." />
+<item slot="5" text="fit evenly around top edge of garbage can ." />
+<item slot="6" text="close garbage can ." />
+<item slot="7" text="dispose of filled garbage bag ." />
+</script>
+<script id="36">
+<item slot="1" text="tie top of garbage bag to seal contents ." />
+<item slot="2" text="remove from garbage can ." />
+<item slot="3" text="get new garbage bag ." />
+<item slot="4" text="open bag ." />
+<item slot="5" text="fit evenly around top edge of garbage can ." />
+<item slot="6" text="close garbage can ." />
+<item slot="7" text="dispose of filled garbage bag ." />
+</script>
+<script id="37">
+<item slot="1" text="take garbage bag ." />
+<item slot="2" text="remove bad ." />
+<item slot="3" text="place new bag ." />
+</script>
+<script id="38">
+<item slot="1" text="take garbage bag ." />
+<item slot="2" text="remove bad ." />
+<item slot="3" text="place new bag ." />
+</script>
+</scripts>

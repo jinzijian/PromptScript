@@ -1,0 +1,257 @@
+<scripts>
+<script id="1">
+<item slot="1" text="get knife or scissors ." />
+<item slot="2" text="cut along edges ." />
+<item slot="3" text="open box ." />
+</script>
+<script id="2">
+<item slot="1" text="get package ." />
+<item slot="2" text="locate tape ." />
+<item slot="3" text="remove tape ." />
+<item slot="4" text="remove wrapping ." />
+</script>
+<script id="3">
+<item slot="1" text="get package ." />
+<item slot="2" text="determine top of package ." />
+<item slot="3" text="get knife ." />
+<item slot="4" text="carefully cut tape ." />
+<item slot="5" text="move back lid ." />
+</script>
+<script id="4">
+<item slot="1" text="get package ." />
+<item slot="2" text="cut tape ." />
+<item slot="3" text="fold back flaps ." />
+<item slot="4" text="remove contents from package ." />
+</script>
+<script id="5">
+<item slot="1" text="get a knife ." />
+<item slot="2" text="tear the tape ." />
+<item slot="3" text="then open the package ." />
+</script>
+<script id="6">
+<item slot="1" text="use sharp object to open the package ." />
+</script>
+<script id="7">
+<item slot="1" text="get sissors ." />
+<item slot="2" text="place package on flat surface ." />
+<item slot="3" text="use sissors to cut tape on package ." />
+<item slot="4" text="lift flap on package ." />
+</script>
+<script id="8">
+<item slot="1" text="pick up the package ." />
+<item slot="2" text="pick up a knife ." />
+<item slot="3" text="run the knife blade along the package seal ." />
+</script>
+<script id="9">
+<item slot="1" text="decide most effecient manner to open package ." />
+<item slot="2" text="get tools needed to open package ." />
+<item slot="3" text="use tools ." />
+</script>
+<script id="10">
+<item slot="1" text="place package on counter ." />
+<item slot="2" text="retrieve cutter ." />
+<item slot="3" text="use cutter to carefully slice packing tape ." />
+<item slot="4" text="open box flaps ." />
+<item slot="5" text="take out packing materials ." />
+<item slot="6" text="take out shipped contents ." />
+<item slot="7" text="recycle packing materials ." />
+</script>
+<script id="11">
+<item slot="1" text="tear package ." />
+<item slot="2" text="repeat step 1 until fully open ." />
+</script>
+<script id="12">
+<item slot="1" text="tear package ." />
+<item slot="2" text="repeat step 1 until fully open ." />
+</script>
+<script id="13">
+<item slot="1" text="get package in hand ." />
+<item slot="2" text="select one end to open ." />
+<item slot="3" text="rip open the packaging ." />
+<item slot="4" text="widen the rip until the contents are revealed ." />
+</script>
+<script id="14">
+<item slot="1" text="pick up package ." />
+<item slot="2" text="look for package opening ." />
+<item slot="3" text="tear package opening ." />
+<item slot="4" text="look in package ." />
+<item slot="5" text="then do a little dance ." />
+</script>
+<script id="15">
+<item slot="1" text="cut string and peel tape off package ." />
+<item slot="2" text="tear paper off package ." />
+<item slot="3" text="open the box that the item is in ." />
+</script>
+<script id="16">
+<item slot="1" text="cut string and peel tape off package ." />
+<item slot="2" text="tear paper off package ." />
+<item slot="3" text="open the box that the item is in ." />
+</script>
+<script id="17">
+<item slot="1" text="cut string and peel tape off package ." />
+<item slot="2" text="tear paper off package ." />
+<item slot="3" text="open the box that the item is in ." />
+</script>
+<script id="18">
+<item slot="1" text="cut string and peel tape off package ." />
+<item slot="2" text="tear paper off package ." />
+<item slot="3" text="open the box that the item is in ." />
+</script>
+<script id="19">
+<item slot="1" text="cut string and peel tape off package ." />
+<item slot="2" text="tear paper off package ." />
+<item slot="3" text="open the box that the item is in ." />
+</script>
+<script id="20">
+<item slot="1" text="cut string and peel tape off package ." />
+<item slot="2" text="tear paper off package ." />
+<item slot="3" text="open the box that the item is in ." />
+</script>
+<script id="21">
+<item slot="1" text="cut string and peel tape off package ." />
+<item slot="2" text="tear paper off package ." />
+<item slot="3" text="open the box that the item is in ." />
+</script>
+<script id="22">
+<item slot="1" text="cut string and peel tape off package ." />
+<item slot="2" text="tear paper off package ." />
+<item slot="3" text="open the box that the item is in ." />
+</script>
+<script id="23">
+<item slot="1" text="cut string and peel tape off package ." />
+<item slot="2" text="tear paper off package ." />
+<item slot="3" text="open the box that the item is in ." />
+</script>
+<script id="24">
+<item slot="1" text="cut string and peel tape off package ." />
+<item slot="2" text="tear paper off package ." />
+<item slot="3" text="open the box that the item is in ." />
+</script>
+<script id="25">
+<item slot="1" text="cut string and peel tape off package ." />
+<item slot="2" text="tear paper off package ." />
+<item slot="3" text="open the box that the item is in ." />
+</script>
+<script id="26">
+<item slot="1" text="cut string and peel tape off package ." />
+<item slot="2" text="tear paper off package ." />
+<item slot="3" text="open the box that the item is in ." />
+</script>
+<script id="27">
+<item slot="1" text="unwrap box ." />
+</script>
+<script id="28">
+<item slot="1" text="unwrap box ." />
+</script>
+<script id="29">
+<item slot="1" text="unwrap box ." />
+</script>
+<script id="30">
+<item slot="1" text="unwrap box ." />
+</script>
+<script id="31">
+<item slot="1" text="unwrap box ." />
+</script>
+<script id="32">
+<item slot="1" text="unwrap box ." />
+</script>
+<script id="33">
+<item slot="1" text="unwrap box ." />
+</script>
+<script id="34">
+<item slot="1" text="unwrap box ." />
+</script>
+<script id="35">
+<item slot="1" text="unwrap box ." />
+</script>
+<script id="36">
+<item slot="1" text="unwrap box ." />
+</script>
+<script id="37">
+<item slot="1" text="unwrap box ." />
+</script>
+<script id="38">
+<item slot="1" text="unwrap box ." />
+</script>
+<script id="39">
+<item slot="1" text="unwrap box ." />
+</script>
+<script id="40">
+<item slot="1" text="unwrap box ." />
+</script>
+<script id="41">
+<item slot="1" text="unwrap box ." />
+</script>
+<script id="42">
+<item slot="1" text="find suitable place to open ." />
+<item slot="2" text="asess flaps or edges for best way to open ." />
+<item slot="3" text="proceed to open ." />
+<item slot="4" text="put away utensils ." />
+<item slot="5" text="enjoy package contents ." />
+</script>
+<script id="43">
+<item slot="1" text="put the package on the table ." />
+<item slot="2" text="get a knife ." />
+<item slot="3" text="cut the tape ." />
+<item slot="4" text="open the lid of the box ." />
+</script>
+<script id="44">
+<item slot="1" text="put the package on the table ." />
+<item slot="2" text="get a knife ." />
+<item slot="3" text="cut the tape ." />
+<item slot="4" text="open the lid of the box ." />
+</script>
+<script id="45">
+<item slot="1" text="take the package into the kitchen ." />
+<item slot="2" text="get out a knife/scissors ." />
+<item slot="3" text="cut open one end of the package ." />
+<item slot="4" text="pull out the contents of the package ." />
+</script>
+<script id="46">
+<item slot="1" text="get package ." />
+<item slot="2" text="cut tape ." />
+</script>
+<script id="47">
+<item slot="1" text="pick up package ." />
+<item slot="2" text="pick up scissors ." />
+<item slot="3" text="use scissors to cut package ." />
+</script>
+<script id="48">
+<item slot="1" text="pick up package ." />
+<item slot="2" text="pick up scissors ." />
+<item slot="3" text="use scissors to cut package ." />
+</script>
+<script id="49">
+<item slot="1" text="pick up package ." />
+<item slot="2" text="pick up scissors ." />
+<item slot="3" text="use scissors to cut package ." />
+</script>
+<script id="50">
+<item slot="1" text="pick up the package with both hands ." />
+<item slot="2" text="take one hand and tear open the paper ." />
+<item slot="3" text="remove the contents ." />
+<item slot="4" text="hold the contents in your hands ." />
+<item slot="5" text="recycle the paper ." />
+</script>
+<script id="51">
+<item slot="1" text="pick up the package with both hands ." />
+<item slot="2" text="take one hand and tear open the paper ." />
+<item slot="3" text="remove the contents ." />
+<item slot="4" text="hold the contents in your hands ." />
+<item slot="5" text="recycle the paper ." />
+</script>
+<script id="52">
+<item slot="1" text="pick up the package with both hands ." />
+<item slot="2" text="take one hand and tear open the paper ." />
+<item slot="3" text="remove the contents ." />
+<item slot="4" text="hold the contents in your hands ." />
+<item slot="5" text="recycle the paper ." />
+</script>
+<script id="53">
+<item slot="1" text="pick up the package with both hands ." />
+<item slot="2" text="take one hand and tear open the paper ." />
+<item slot="3" text="remove the contents ." />
+<item slot="4" text="hold the contents in your hands ." />
+<item slot="5" text="recycle the paper ." />
+</script>
+</scripts>

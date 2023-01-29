@@ -1,0 +1,469 @@
+<scripts>
+<script id="1">
+<item slot="1" text="pick a restaurant ." />
+<item slot="2" text="call the restaurant ." />
+<item slot="3" text="make the reservation ." />
+<item slot="4" text="hang up ." />
+</script>
+<script id="2">
+<item slot="1" text="call a restaurant ." />
+<item slot="2" text="ask to make a reservation ." />
+<item slot="3" text="give a time for the reservation ." />
+<item slot="4" text="give the number of people to reserve for ." />
+</script>
+<script id="3">
+<item slot="1" text="determine a restaurant for dinner ." />
+<item slot="2" text="telephone the restaurant ." />
+<item slot="3" text="ask the operator if the business has any open time slots ." />
+<item slot="4" text="confirm a time and date for a reservation ." />
+<item slot="5" text="hang up the phone ." />
+</script>
+<script id="4">
+<item slot="1" text="call the restaurant ." />
+<item slot="2" text="decide on time ." />
+<item slot="3" text="decide on group name ." />
+<item slot="4" text="ask for availability ." />
+<item slot="5" text="if not available pick another time ." />
+<item slot="6" text="once available time is agreed on say thanks and hang up ." />
+</script>
+<script id="5">
+<item slot="1" text="decide where you would like to eat ." />
+<item slot="2" text="decide when you would to eat ." />
+<item slot="3" text="call the restaurant and ask for a reservation ." />
+</script>
+<script id="6">
+<item slot="1" text="find a restaurant ." />
+<item slot="2" text="find the phone number of the restaurant ." />
+<item slot="3" text="call the restaurant ." />
+<item slot="4" text="tell them the date ." />
+<item slot="5" text="tell them the time ." />
+<item slot="6" text="tell them the number of people in your group ." />
+<item slot="7" text="hang up the phone ." />
+</script>
+<script id="7">
+<item slot="1" text="call the restaurant desired ." />
+<item slot="2" text="give the information about time and number of people ." />
+<item slot="3" text="confirm that they have space ." />
+<item slot="4" text="if not ask what times are available and make a choice between those ." />
+</script>
+<script id="8">
+<item slot="1" text="call dinner place ." />
+<item slot="2" text="ask for reservation ." />
+<item slot="3" text="give name ." />
+<item slot="4" text="hang up ." />
+</script>
+<script id="9">
+<item slot="1" text="choose a restaurant to eat at ." />
+<item slot="2" text="choose a time at which to eat ." />
+<item slot="3" text="find the phone number of the restaurant ." />
+<item slot="4" text="call the restaurant ." />
+<item slot="5" text="tell the host what time you wish to eat ." />
+</script>
+<script id="10">
+<item slot="1" text="call the restaurant ." />
+<item slot="2" text="tell them when you want the reservation for ." />
+</script>
+<script id="11">
+<item slot="1" text="decide on restaurant and time ." />
+<item slot="2" text="call restaurant ." />
+<item slot="3" text="ask for reservation giving name time and number of guests ." />
+</script>
+<script id="12">
+<item slot="1" text="call dinner place ." />
+<item slot="2" text="ask to make reservation giving time and number of persons ." />
+<item slot="3" text="hang up ." />
+</script>
+<script id="13">
+<item slot="1" text="choose a restaurant ." />
+<item slot="2" text="choose a time and date for the dinner ." />
+<item slot="3" text="search for the phone number of that restaurant ." />
+<item slot="4" text="call to the restaurant ." />
+<item slot="5" text="ask for a reservation ." />
+<item slot="6" text="supply the info ." />
+</script>
+<script id="14">
+<item slot="1" text="call a restaurant ." />
+<item slot="2" text="ask for a reservation ." />
+<item slot="3" text="state the date and time ." />
+<item slot="4" text="state the number of people ." />
+</script>
+<script id="15">
+<item slot="1" text="decide on time ." />
+<item slot="2" text="count people ." />
+<item slot="3" text="call restaurant ." />
+<item slot="4" text="reserve time ." />
+</script>
+<script id="16">
+<item slot="1" text="call restaurant ." />
+<item slot="2" text="ask to make a reservation ." />
+<item slot="3" text="answer questions of host ." />
+<item slot="4" text="end call ." />
+</script>
+<script id="17">
+<item slot="1" text="decide where to go ." />
+<item slot="2" text="find the phone number for the place ." />
+<item slot="3" text="call the palce ." />
+<item slot="4" text="reserve a tabla ." />
+</script>
+<script id="18">
+<item slot="1" text="pick up phone ." />
+<item slot="2" text="dial number ." />
+<item slot="3" text="tell date and time ." />
+<item slot="4" text="confirm avalible ." />
+<item slot="5" text="thank booker ." />
+<item slot="6" text="hang up phone ." />
+</script>
+<script id="19">
+<item slot="1" text="look up telephone number of the restaurant ." />
+<item slot="2" text="dial the telephone number ." />
+<item slot="3" text="ask for availability for required number of persons ." />
+<item slot="4" text="validate reservation ." />
+</script>
+<script id="20">
+<item slot="1" text="decide time ." />
+<item slot="2" text="decide number of people ." />
+<item slot="3" text="call restuarant ." />
+<item slot="4" text="tell information ." />
+<item slot="5" text="hang up ." />
+</script>
+<script id="21">
+<item slot="1" text="look up the restaurants phone number ." />
+<item slot="2" text="call the restaurant ." />
+<item slot="3" text="ask for reservation ." />
+</script>
+<script id="22">
+<item slot="1" text="get phone number for restaurant ." />
+<item slot="2" text="use phone to call restaurant ." />
+<item slot="3" text="ask to make reservation ." />
+<item slot="4" text="provide hostess with number of seats and smoking preference ." />
+<item slot="5" text="confirm reservation ." />
+</script>
+<script id="23">
+<item slot="1" text="identify restaurant ." />
+<item slot="2" text="identify phone number ." />
+<item slot="3" text="identify preferred date/time ." />
+<item slot="4" text="identify number of diners ." />
+<item slot="5" text="call restaurant ." />
+<item slot="6" text="request reservation ." />
+</script>
+<script id="24">
+<item slot="1" text="choose a restaurant ." />
+<item slot="2" text="find the restaurant s phone number ." />
+<item slot="3" text="dial the phone number ." />
+<item slot="4" text="ask for a table ." />
+<item slot="5" text="say how many people will be dining ." />
+<item slot="6" text="say what time you will be dining ." />
+<item slot="7" text="say 'thank you' ." />
+</script>
+<script id="25">
+<item slot="1" text="call resturant ." />
+<item slot="2" text="choose a time ." />
+<item slot="3" text="confirm time ." />
+</script>
+<script id="26">
+<item slot="1" text="call resturant ." />
+<item slot="2" text="choose a time ." />
+<item slot="3" text="confirm time ." />
+</script>
+<script id="27">
+<item slot="1" text="call resturant ." />
+<item slot="2" text="choose a time ." />
+<item slot="3" text="confirm time ." />
+</script>
+<script id="28">
+<item slot="1" text="call resturant ." />
+<item slot="2" text="choose a time ." />
+<item slot="3" text="confirm time ." />
+</script>
+<script id="29">
+<item slot="1" text="call resturant ." />
+<item slot="2" text="choose a time ." />
+<item slot="3" text="confirm time ." />
+</script>
+<script id="30">
+<item slot="1" text="call resturant ." />
+<item slot="2" text="choose a time ." />
+<item slot="3" text="confirm time ." />
+</script>
+<script id="31">
+<item slot="1" text="choose resaurant ." />
+<item slot="2" text="call restaurant ." />
+</script>
+<script id="32">
+<item slot="1" text="phone call to the restaurant ." />
+<item slot="2" text="check availability of table seating ." />
+<item slot="3" text="check arrival time ." />
+<item slot="4" text="check number of people attending ." />
+<item slot="5" text="confirm the reservation ." />
+<item slot="6" text="end the phone call ." />
+</script>
+<script id="33">
+<item slot="1" text="find restaurant phone ." />
+<item slot="2" text="dial the number ." />
+<item slot="3" text="request the time and day you want ." />
+</script>
+<script id="34">
+<item slot="1" text="contact resaurant ." />
+<item slot="2" text="schedule dinner ." />
+</script>
+<script id="35">
+<item slot="1" text="choose restaurant ." />
+<item slot="2" text="locate phone number of restaurant ." />
+<item slot="3" text="call restaurant ." />
+<item slot="4" text="request reservation ." />
+<item slot="5" text="give name of party ." />
+<item slot="6" text="give number of people in party ." />
+<item slot="7" text="give desired time ." />
+</script>
+<script id="36">
+<item slot="1" text="choose restaurant ." />
+<item slot="2" text="locate phone number of restaurant ." />
+<item slot="3" text="call restaurant ." />
+<item slot="4" text="request reservation ." />
+<item slot="5" text="give name of party ." />
+<item slot="6" text="give number of people in party ." />
+<item slot="7" text="give desired time ." />
+</script>
+<script id="37">
+<item slot="1" text="choose restaurant ." />
+<item slot="2" text="locate phone number of restaurant ." />
+<item slot="3" text="call restaurant ." />
+<item slot="4" text="request reservation ." />
+<item slot="5" text="give name of party ." />
+<item slot="6" text="give number of people in party ." />
+<item slot="7" text="give desired time ." />
+</script>
+<script id="38">
+<item slot="1" text="choose restaurant ." />
+<item slot="2" text="locate phone number of restaurant ." />
+<item slot="3" text="call restaurant ." />
+<item slot="4" text="request reservation ." />
+<item slot="5" text="give name of party ." />
+<item slot="6" text="give number of people in party ." />
+<item slot="7" text="give desired time ." />
+</script>
+<script id="39">
+<item slot="1" text="choose restaurant ." />
+<item slot="2" text="locate phone number of restaurant ." />
+<item slot="3" text="call restaurant ." />
+<item slot="4" text="request reservation ." />
+<item slot="5" text="give name of party ." />
+<item slot="6" text="give number of people in party ." />
+<item slot="7" text="give desired time ." />
+</script>
+<script id="40">
+<item slot="1" text="choose restaurant ." />
+<item slot="2" text="locate phone number of restaurant ." />
+<item slot="3" text="call restaurant ." />
+<item slot="4" text="request reservation ." />
+<item slot="5" text="give name of party ." />
+<item slot="6" text="give number of people in party ." />
+<item slot="7" text="give desired time ." />
+</script>
+<script id="41">
+<item slot="1" text="choose restaurant ." />
+<item slot="2" text="locate phone number of restaurant ." />
+<item slot="3" text="call restaurant ." />
+<item slot="4" text="request reservation ." />
+<item slot="5" text="give name of party ." />
+<item slot="6" text="give number of people in party ." />
+<item slot="7" text="give desired time ." />
+</script>
+<script id="42">
+<item slot="1" text="locate a restaurant ." />
+<item slot="2" text="locate telephone number ." />
+<item slot="3" text="telephone restaurant ." />
+<item slot="4" text="request a reservation ." />
+<item slot="5" text="confirm details ." />
+<item slot="6" text="write them down ." />
+<item slot="7" text="hang up phone ." />
+</script>
+<script id="43">
+<item slot="1" text="locate a restaurant ." />
+<item slot="2" text="locate telephone number ." />
+<item slot="3" text="telephone restaurant ." />
+<item slot="4" text="request a reservation ." />
+<item slot="5" text="confirm details ." />
+<item slot="6" text="write them down ." />
+<item slot="7" text="hang up phone ." />
+</script>
+<script id="44">
+<item slot="1" text="decide where to go ." />
+<item slot="2" text="pick up phone book ." />
+<item slot="3" text="pick up phone ." />
+<item slot="4" text="push in the phone number ." />
+<item slot="5" text="wait for them to pick up ." />
+<item slot="6" text="make the reservation ." />
+</script>
+<script id="45">
+<item slot="1" text="ask friend who wants to go with you ." />
+<item slot="2" text="figure out which resturant ." />
+</script>
+<script id="46">
+<item slot="1" text="call restaurant ." />
+<item slot="2" text="request reservation ." />
+<item slot="3" text="make a deposit ." />
+<item slot="4" text="show up at restaurant ." />
+</script>
+<script id="47">
+<item slot="1" text="call restaurant ." />
+<item slot="2" text="request reservation ." />
+<item slot="3" text="make a deposit ." />
+<item slot="4" text="show up at restaurant ." />
+</script>
+<script id="48">
+<item slot="1" text="locate restaurant ." />
+<item slot="2" text="book a reservation ." />
+<item slot="3" text="arrive on time ." />
+</script>
+<script id="49">
+<item slot="1" text="locate restaurant ." />
+<item slot="2" text="book a reservation ." />
+<item slot="3" text="arrive on time ." />
+</script>
+<script id="50">
+<item slot="1" text="locate restaurant ." />
+<item slot="2" text="book a reservation ." />
+<item slot="3" text="arrive on time ." />
+</script>
+<script id="51">
+<item slot="1" text="locate restaurant ." />
+<item slot="2" text="book a reservation ." />
+<item slot="3" text="arrive on time ." />
+</script>
+<script id="52">
+<item slot="1" text="locate restaurant ." />
+<item slot="2" text="book a reservation ." />
+<item slot="3" text="arrive on time ." />
+</script>
+<script id="53">
+<item slot="1" text="locate restaurant ." />
+<item slot="2" text="book a reservation ." />
+<item slot="3" text="arrive on time ." />
+</script>
+<script id="54">
+<item slot="1" text="call the restaurant ." />
+<item slot="2" text="ask for a reservation ." />
+</script>
+<script id="55">
+<item slot="1" text="call the restaurant ." />
+<item slot="2" text="ask for a reservation ." />
+</script>
+<script id="56">
+<item slot="1" text="call the restaurant ." />
+<item slot="2" text="ask for a reservation ." />
+</script>
+<script id="57">
+<item slot="1" text="call the restaurant ." />
+<item slot="2" text="ask for a reservation ." />
+</script>
+<script id="58">
+<item slot="1" text="call the restaurant ." />
+<item slot="2" text="ask for a reservation ." />
+</script>
+<script id="59">
+<item slot="1" text="call the restaurant ." />
+<item slot="2" text="ask for a reservation ." />
+</script>
+<script id="60">
+<item slot="1" text="find phone number ." />
+<item slot="2" text="call restaurant ." />
+</script>
+<script id="61">
+<item slot="1" text="find out what restaurant ." />
+</script>
+<script id="62">
+<item slot="1" text="call restaurant ." />
+<item slot="2" text="give reservation time ." />
+<item slot="3" text="give number of people ." />
+<item slot="4" text="give name for reservation ." />
+</script>
+<script id="63">
+<item slot="1" text="call restaurant ." />
+<item slot="2" text="give reservation time ." />
+<item slot="3" text="give number of people ." />
+<item slot="4" text="give name for reservation ." />
+</script>
+<script id="64">
+<item slot="1" text="pick a restaurant ." />
+<item slot="2" text="call the restaurant ." />
+<item slot="3" text="request a table for a certain amount of quests at a certain time ." />
+<item slot="4" text="call to confirm closer to date ." />
+</script>
+<script id="65">
+<item slot="1" text="find restaurant phone number ." />
+<item slot="2" text="go to phone ." />
+<item slot="3" text="dial restaurant number ." />
+<item slot="4" text="speak to host and make reservation ." />
+<item slot="5" text="hang up phone ." />
+</script>
+<script id="66">
+<item slot="1" text="find restaurant phone number ." />
+<item slot="2" text="go to phone ." />
+<item slot="3" text="dial restaurant number ." />
+<item slot="4" text="speak to host and make reservation ." />
+<item slot="5" text="hang up phone ." />
+</script>
+<script id="67">
+<item slot="1" text="call the restaurant ." />
+<item slot="2" text="ask to reserve time ." />
+<item slot="3" text="leave name and number ." />
+</script>
+<script id="68">
+<item slot="1" text="call the restaurant ." />
+<item slot="2" text="ask to reserve time ." />
+<item slot="3" text="leave name and number ." />
+</script>
+<script id="69">
+<item slot="1" text="call the restaurant ." />
+<item slot="2" text="ask to reserve time ." />
+<item slot="3" text="leave name and number ." />
+</script>
+<script id="70">
+<item slot="1" text="call the restaurant ." />
+<item slot="2" text="ask to reserve time ." />
+<item slot="3" text="leave name and number ." />
+</script>
+<script id="71">
+<item slot="1" text="call the restaurant ." />
+<item slot="2" text="ask to reserve time ." />
+<item slot="3" text="leave name and number ." />
+</script>
+<script id="72">
+<item slot="1" text="call the restaurant ." />
+<item slot="2" text="ask to reserve time ." />
+<item slot="3" text="leave name and number ." />
+</script>
+<script id="73">
+<item slot="1" text="call restaurant ." />
+<item slot="2" text="book a table and time to eat ." />
+</script>
+<script id="74">
+<item slot="1" text="call restaurant ." />
+<item slot="2" text="book a table and time to eat ." />
+</script>
+<script id="75">
+<item slot="1" text="call restaurant ." />
+<item slot="2" text="book a table and time to eat ." />
+</script>
+<script id="76">
+<item slot="1" text="call restaurant ." />
+<item slot="2" text="book a table and time to eat ." />
+</script>
+<script id="77">
+<item slot="1" text="call restaurant ." />
+<item slot="2" text="book a table and time to eat ." />
+</script>
+<script id="78">
+<item slot="1" text="call restaurant ." />
+<item slot="2" text="book a table and time to eat ." />
+</script>
+<script id="79">
+<item slot="1" text="call resturant ." />
+<item slot="2" text="provide name and contact ." />
+</script>
+<script id="80">
+<item slot="1" text="phone the restaurant ." />
+<item slot="2" text="give them time and name ." />
+</script>
+</scripts>

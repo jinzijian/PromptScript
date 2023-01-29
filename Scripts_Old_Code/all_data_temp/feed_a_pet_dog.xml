@@ -1,0 +1,253 @@
+<?xml version="1.0"?>
+<scripts>
+	<script id="1">
+		<item slot="1" text="call dog ."/>
+		<item slot="2" text="get food ."/>
+		<item slot="3" text="put food in dog s bowl ."/>
+	</script>
+	<script id="2">
+		<item slot="1" text="take out the dog food ."/>
+		<item slot="2" text="put the dog food into the dog bowl ."/>
+		<item slot="3" text="call the dog ."/>
+	</script>
+	<script id="3">
+		<item slot="1" text="place dog food dish on the floor ."/>
+		<item slot="2" text="remove dog food from it s storage area ."/>
+		<item slot="3" text="carry the dog food to the dish ."/>
+		<item slot="4" text="pour dog food into the dish until it is full ."/>
+		<item slot="5" text="ensure pet dog has access to the dish ."/>
+	</script>
+	<script id="4">
+		<item slot="1" text="open dog food can ."/>
+		<item slot="2" text="put dog food into dog food dish ."/>
+		<item slot="3" text="alert dog that food is in dish ."/>
+	</script>
+	<script id="5">
+		<item slot="1" text="find the dog s food ."/>
+		<item slot="2" text="find the dog s food bowl ."/>
+		<item slot="3" text="place some food into the food bowl ."/>
+		<item slot="4" text="find the dog s water bowl ."/>
+		<item slot="5" text="add water to the water bowl if it is not almost full ."/>
+	</script>
+	<script id="6">
+		<item slot="1" text="get a tin opener ."/>
+		<item slot="2" text="get a tin of dog food ."/>
+		<item slot="3" text="open the tin ."/>
+		<item slot="4" text="pour it in the dog bowl ."/>
+		<item slot="5" text="put the tin in the bin ."/>
+		<item slot="6" text="put the tin opener away ."/>
+	</script>
+	<script id="7">
+		<item slot="1" text="get the dog s food dish ."/>
+		<item slot="2" text="open the dog food bag ."/>
+		<item slot="3" text="pour some dog food into the dish from the bag ."/>
+		<item slot="4" text="put the full food dish in front fo the dog ."/>
+	</script>
+	<script id="8">
+		<item slot="1" text="find the dog s food bowl ."/>
+		<item slot="2" text="find dog food ."/>
+		<item slot="3" text="put some dog food into the food bowl ."/>
+		<item slot="4" text="call the dog to come and eat ."/>
+	</script>
+	<script id="9">
+		<item slot="1" text="open a bag of dog food ."/>
+		<item slot="2" text="put the dog food on a plate ."/>
+		<item slot="3" text="call the dog to where the plate is ."/>
+	</script>
+	<script id="10">
+		<item slot="1" text="get dog food ."/>
+		<item slot="2" text="put dog food in bowl ."/>
+		<item slot="3" text="call dog to bowl ."/>
+	</script>
+	<script id="12">
+		<item slot="1" text="wait for the dog s meal time ."/>
+		<item slot="2" text="put dog food into the dog s food bowl ."/>
+		<item slot="3" text="put water into the dog s water bowl ."/>
+		<item slot="4" text="place bowls in the dog s usual meal spot ."/>
+		<item slot="5" text="call the dog ."/>
+	</script>
+	<script id="13">
+		<item slot="1" text="get can of petfood ."/>
+		<item slot="2" text="open can of petfood ."/>
+		<item slot="3" text="put petfood in bowl ."/>
+		<item slot="4" text="give bowl to pet ."/>
+		<item slot="5" text="dispose of empty can ."/>
+	</script>
+	<script id="16">
+		<item slot="1" text="locate food ."/>
+		<item slot="2" text="locate dog ."/>
+		<item slot="3" text="locate dogs bowl ."/>
+		<item slot="4" text="open dog food ."/>
+		<item slot="5" text="put dog food in dogs bowl ."/>
+		<item slot="6" text="notify dog of food availability ."/>
+		<item slot="7" text="encourage dog to eat food ."/>
+	</script>
+	<script id="17">
+		<item slot="1" text="scoop food ."/>
+		<item slot="2" text="place in bowl ."/>
+	</script>
+	<script id="18">
+		<item slot="1" text="get a bowl ."/>
+		<item slot="2" text="put the pet foods in a bowl ."/>
+		<item slot="3" text="give water ."/>
+	</script>
+	<script id="19">
+		<item slot="1" text="give food to the dog ."/>
+	</script>
+	<script id="20">
+		<item slot="1" text="identify dog dish ."/>
+		<item slot="2" text="identify dog food ."/>
+		<item slot="3" text="pour specified quantity of dog food into dog dish ."/>
+	</script>
+	<script id="21">
+		<item slot="1" text="measure the food ."/>
+		<item slot="2" text="put food in bowl ."/>
+	</script>
+	<script id="22">
+		<item slot="1" text="remove food from  pantry ."/>
+		<item slot="2" text="pour food into dog s bowl ."/>
+		<item slot="3" text="give bowl to dog ."/>
+	</script>
+	<script id="23">
+		<item slot="1" text="take the food ."/>
+		<item slot="2" text="give food for the dog ."/>
+	</script>
+	<script id="24">
+		<item slot="1" text="look into pitiful hungry eyes ."/>
+		<item slot="2" text="find dog dish ."/>
+		<item slot="3" text="clean dog dish ."/>
+		<item slot="4" text="open dog food ."/>
+		<item slot="5" text="find measuring cup ."/>
+		<item slot="6" text="measure out food into dish ."/>
+		<item slot="7" text="feed dogs ."/>
+	</script>
+	<script id="25">
+		<item slot="1" text="get dog food ."/>
+		<item slot="2" text="go to dog bowl ."/>
+		<item slot="3" text="put food in bowl ."/>
+	</script>
+	<script id="26">
+		<item slot="1" text="get dog food ."/>
+		<item slot="2" text="go to dog bowl ."/>
+		<item slot="3" text="put food in bowl ."/>
+		<item slot="4" text="put bowl back ."/>
+	</script>
+	<script id="27">
+		<item slot="1" text="pet the dog ."/>
+		<item slot="2" text="find the dry food ."/>
+		<item slot="3" text="pour the dry food into the dog dish ."/>
+		<item slot="4" text="find the canned food ."/>
+		<item slot="5" text="use the can opener to open the can ."/>
+		<item slot="6" text="pour the contents into the bowl ."/>
+		<item slot="7" text="pour water into the water bowl ."/>
+	</script>
+	<script id="28">
+		<item slot="1" text="open the dog food bag ."/>
+		<item slot="2" text="scoop out the food ."/>
+		<item slot="3" text="pour it into the dog dish ."/>
+		<item slot="4" text="place the dish on the floor ."/>
+	</script>
+	<script id="29">
+		<item slot="1" text="open the dog food bag ."/>
+		<item slot="2" text="scoop out the food ."/>
+		<item slot="3" text="pour it into the dog dish ."/>
+		<item slot="4" text="place the dish on the floor ."/>
+	</script>
+	<script id="31">
+		<item slot="1" text="get food from cupboard ."/>
+		<item slot="2" text="open food ."/>
+		<item slot="3" text="put food in pet dish ."/>
+	</script>
+	<script id="32">
+		<item slot="1" text="measure the food ."/>
+		<item slot="2" text="put the food in the dog dish ."/>
+		<item slot="3" text="call the dag ."/>
+	</script>
+	<script id="33">
+		<item slot="1" text="measure the correct amount of dog food ."/>
+		<item slot="2" text="put measured dog food in dog food bowl ."/>
+	</script>
+	<script id="34">
+		<item slot="1" text="put dog food in a bowl ."/>
+		<item slot="2" text="put water in bowl ."/>
+	</script>
+	<script id="35">
+		<item slot="1" text="catch the pet dog ."/>
+		<item slot="2" text="prepare the food ."/>
+		<item slot="3" text="feed the dog ."/>
+	</script>
+	<script id="36">
+		<item slot="1" text="get dogs bowl ."/>
+		<item slot="2" text="get dog food ."/>
+		<item slot="3" text="open dogs food ."/>
+		<item slot="4" text="put dogs food in bowl ."/>
+		<item slot="5" text="place bowl on the floor ."/>
+		<item slot="6" text="call the dog ."/>
+		<item slot="7" text="put food tin in the bin ."/>
+	</script>
+	<script id="43">
+		<item slot="1" text="first you find the dog food ."/>
+		<item slot="2" text="than you get it bowl ."/>
+		<item slot="3" text="than you poor it in the bowl ."/>
+		<item slot="4" text="and than you walk to the dog ."/>
+		<item slot="5" text="feed dpog ."/>
+	</script>
+	<script id="44">
+		<item slot="1" text="get the dog food ."/>
+		<item slot="2" text="open the bag ."/>
+		<item slot="3" text="carry it to the bowl ."/>
+		<item slot="4" text="tip the bag over ."/>
+		<item slot="5" text="pour food into bowl ."/>
+		<item slot="6" text="put bag of food away ."/>
+	</script>
+	<script id="45">
+		<item slot="1" text="place a bowl on the ground ."/>
+		<item slot="2" text="open up the dog food bag ."/>
+		<item slot="3" text="pour food in the bowl ."/>
+		<item slot="4" text="call the dog over ."/>
+		<item slot="5" text="place the bowl near the dog ."/>
+	</script>
+	<script id="47">
+		<item slot="1" text="take out food ."/>
+		<item slot="2" text="put the food in container ."/>
+		<item slot="3" text="feed the dog ."/>
+	</script>
+	<script id="51">
+		<item slot="1" text="get bowl ."/>
+		<item slot="2" text="get food ."/>
+		<item slot="3" text="put food in bowl ."/>
+		<item slot="4" text="call dog ."/>
+		<item slot="5" text="dog eats ."/>
+		<item slot="6" text="put food bag away ."/>
+		<item slot="7" text="sweep up crumbs ."/>
+	</script>
+	<script id="52">
+		<item slot="1" text="get bowl ."/>
+		<item slot="2" text="get food ."/>
+		<item slot="3" text="put food in bowl ."/>
+		<item slot="4" text="call dog ."/>
+		<item slot="5" text="dog eats ."/>
+		<item slot="6" text="put food bag away ."/>
+		<item slot="7" text="sweep up crumbs ."/>
+	</script>
+	<script id="53">
+		<item slot="1" text="open the dog food bag ."/>
+		<item slot="2" text="pour some into the dish ."/>
+		<item slot="3" text="call the dog over ."/>
+	</script>
+	<script id="56">
+		<item slot="1" text="take out food dish ."/>
+		<item slot="2" text="take out dog food ."/>
+		<item slot="3" text="fill food dish with dog food ."/>
+	</script>
+	<script id="60">
+		<item slot="1" text="take pet food ."/>
+		<item slot="2" text="pour food into bowel ."/>
+		<item slot="3" text="feed the dog ."/>
+	</script>
+	<script id="61">
+		<item slot="1" text="buy food ."/>
+		<item slot="2" text="place food in dish ."/>
+		<item slot="3" text="call dog ."/>
+	</script>
+</scripts>

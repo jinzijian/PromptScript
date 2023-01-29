@@ -1,0 +1,232 @@
+<scripts>
+<script id="1">
+<item slot="1" text="buy replacement filter ." />
+<item slot="2" text="find heater ." />
+<item slot="3" text="remove cover ." />
+<item slot="4" text="remove old filter ." />
+<item slot="5" text="insert new filter ." />
+<item slot="6" text="replace filter ." />
+</script>
+<script id="2">
+<item slot="1" text="find heater ." />
+<item slot="2" text="open heater ." />
+<item slot="3" text="remove filter ." />
+<item slot="4" text="put in new filter ." />
+<item slot="5" text="close heater ." />
+</script>
+<script id="3">
+<item slot="1" text="locate the heater filter ." />
+<item slot="2" text="remove the heater filter ." />
+<item slot="3" text="place a new heater filter into the heater ." />
+<item slot="4" text="discard the old heater filter ." />
+</script>
+<script id="4">
+<item slot="1" text="turn off heater ." />
+<item slot="2" text="wait for heater to cool down ." />
+<item slot="3" text="open heater casing ." />
+<item slot="4" text="remove old heater ." />
+<item slot="5" text="put in new heater ." />
+<item slot="6" text="place casing back ." />
+</script>
+<script id="5">
+<item slot="1" text="remove casing ." />
+<item slot="2" text="take out old filter ." />
+<item slot="3" text="put in new filter ." />
+<item slot="4" text="place back casing ." />
+</script>
+<script id="6">
+<item slot="1" text="open heater ." />
+<item slot="2" text="take out old filter ." />
+<item slot="3" text="put in new filter ." />
+<item slot="4" text="close heater ." />
+</script>
+<script id="7">
+<item slot="1" text="find a new heater filter ." />
+<item slot="2" text="find the heater ." />
+<item slot="3" text="remove the dirty heater filter from the heater ." />
+<item slot="4" text="place the new heater filter into the heater ." />
+</script>
+<script id="8">
+<item slot="1" text="determine model of heater filter ." />
+<item slot="2" text="purchase new heater filter of same model ." />
+<item slot="3" text="replace old heater filter with new one ." />
+<item slot="4" text="discard old heater filter ." />
+</script>
+<script id="9">
+<item slot="1" text="get filter ." />
+<item slot="2" text="open heater panel where the filter goes ." />
+<item slot="3" text="take out old filter ." />
+<item slot="4" text="put in new filter ." />
+<item slot="5" text="close heater panel ." />
+</script>
+<script id="10">
+<item slot="1" text="open the heater ." />
+<item slot="2" text="pull out the old filter ." />
+<item slot="3" text="dispose of it ." />
+<item slot="4" text="unwrap the new filter ." />
+<item slot="5" text="put the new filter in the old filter s place ." />
+<item slot="6" text="close the heater ." />
+</script>
+<script id="11">
+<item slot="1" text="open heater ." />
+<item slot="2" text="remove old filter ." />
+<item slot="3" text="insert new filter ." />
+<item slot="4" text="close heater ." />
+</script>
+<script id="12">
+<item slot="1" text="ensure heater is off ." />
+<item slot="2" text="ensure heater is cold ." />
+<item slot="3" text="open heater filter ." />
+<item slot="4" text="remove heater filter ." />
+</script>
+<script id="13">
+<item slot="1" text="ensure heater is off ." />
+<item slot="2" text="ensure heater is cold ." />
+<item slot="3" text="open heater filter ." />
+<item slot="4" text="remove heater filter ." />
+<item slot="5" text="replace filter ." />
+<item slot="6" text="close filter ." />
+<item slot="7" text="switch heater on ." />
+</script>
+<script id="14">
+<item slot="1" text="remove old filter ." />
+<item slot="2" text="locate new filter ." />
+<item slot="3" text="put new filter in heater ." />
+</script>
+<script id="15">
+<item slot="1" text="remove heater cover ." />
+<item slot="2" text="remove old filter ." />
+<item slot="3" text="discard old filter ." />
+<item slot="4" text="place new filter in heater ." />
+<item slot="5" text="replace heater cover ." />
+</script>
+<script id="16">
+<item slot="1" text="go to furnace room ." />
+<item slot="2" text="locate filter ." />
+<item slot="3" text="remove old filter ." />
+<item slot="4" text="throw old filter away ." />
+<item slot="5" text="locate new filter ." />
+<item slot="6" text="get new filter ." />
+<item slot="7" text="insert new filter into furnace ." />
+</script>
+<script id="17">
+<item slot="1" text="get the old filter ." />
+<item slot="2" text="change to new heater filter ." />
+</script>
+<script id="18">
+<item slot="1" text="go to the heater ." />
+<item slot="2" text="open the filter cover ." />
+<item slot="3" text="remove the old filter ." />
+<item slot="4" text="insert the new filter ." />
+<item slot="5" text="close the filter cover ." />
+</script>
+<script id="19">
+<item slot="1" text="open heater filter door ." />
+<item slot="2" text="take out old heater filter ." />
+<item slot="3" text="replace new heater filter ." />
+<item slot="4" text="close heater filter door ." />
+<item slot="5" text="trash old heater filter ." />
+</script>
+<script id="20">
+<item slot="1" text="open cover ." />
+<item slot="2" text="take out old filter ." />
+<item slot="3" text="put in new filter ." />
+<item slot="4" text="close cover ." />
+</script>
+<script id="21">
+<item slot="1" text="turn off heater ." />
+<item slot="2" text="open filter compartment ." />
+<item slot="3" text="remove old filter ." />
+<item slot="4" text="insert new filter ." />
+<item slot="5" text="close filter compartment ." />
+<item slot="6" text="turn on heater ." />
+<item slot="7" text="discard old filter ." />
+</script>
+<script id="22">
+<item slot="1" text="turn off heater ." />
+<item slot="2" text="locate heater filter ." />
+<item slot="3" text="remove old filter ." />
+<item slot="4" text="insert new filter ." />
+<item slot="5" text="turn on heater ." />
+</script>
+<script id="23">
+<item slot="1" text="remove filter ." />
+<item slot="2" text="buy new filter ." />
+<item slot="3" text="insert new filter ." />
+<item slot="4" text="run heater to see filter s proper installment ." />
+</script>
+<script id="24">
+<item slot="1" text="take out old filter ." />
+<item slot="2" text="go buy replacement ." />
+<item slot="3" text="insert new filter ." />
+<item slot="4" text="discard old filter ." />
+</script>
+<script id="25">
+<item slot="1" text="take out old filter ." />
+<item slot="2" text="go buy replacement ." />
+<item slot="3" text="insert new filter ." />
+<item slot="4" text="discard old filter ." />
+</script>
+<script id="26">
+<item slot="1" text="take out old filter ." />
+<item slot="2" text="go buy replacement ." />
+<item slot="3" text="insert new filter ." />
+<item slot="4" text="discard old filter ." />
+</script>
+<script id="27">
+<item slot="1" text="take out old filter ." />
+<item slot="2" text="go buy replacement ." />
+<item slot="3" text="insert new filter ." />
+<item slot="4" text="discard old filter ." />
+</script>
+<script id="28">
+<item slot="1" text="take out old filter ." />
+<item slot="2" text="go buy replacement ." />
+<item slot="3" text="insert new filter ." />
+<item slot="4" text="discard old filter ." />
+</script>
+<script id="29">
+<item slot="1" text="take out old filter ." />
+<item slot="2" text="go buy replacement ." />
+<item slot="3" text="insert new filter ." />
+<item slot="4" text="discard old filter ." />
+</script>
+<script id="30">
+<item slot="1" text="take out old filter ." />
+<item slot="2" text="go buy replacement ." />
+<item slot="3" text="insert new filter ." />
+<item slot="4" text="discard old filter ." />
+</script>
+<script id="31">
+<item slot="1" text="take out old filter ." />
+<item slot="2" text="go buy replacement ." />
+<item slot="3" text="insert new filter ." />
+<item slot="4" text="discard old filter ." />
+</script>
+<script id="32">
+<item slot="1" text="take out old filter ." />
+<item slot="2" text="go buy replacement ." />
+<item slot="3" text="insert new filter ." />
+<item slot="4" text="discard old filter ." />
+</script>
+<script id="33">
+<item slot="1" text="take out old filter ." />
+<item slot="2" text="go buy replacement ." />
+<item slot="3" text="insert new filter ." />
+<item slot="4" text="discard old filter ." />
+</script>
+<script id="34">
+<item slot="1" text="turn off heat ." />
+<item slot="2" text="remove panel ." />
+<item slot="3" text="remove old filter ." />
+<item slot="4" text="vacuum inside ." />
+<item slot="5" text="put in new filter ." />
+<item slot="6" text="close back up ." />
+<item slot="7" text="start up heater ." />
+</script>
+<script id="35">
+<item slot="1" text="remove old filter ." />
+<item slot="2" text="throw old filter away ." />
+<item slot="3" text="put in new filter ." />
+</script>
+</scripts>

@@ -1,0 +1,216 @@
+<?xml version="1.0"?>
+<scripts>
+	<script id="1">
+		<item slot="1" text="identify problem ."/>
+		<item slot="2" text="read about relevant research in the area ."/>
+		<item slot="3" text="plan course of action ."/>
+		<item slot="4" text="review progress ."/>
+	</script>
+	<script id="2">
+		<item slot="1" text="go to the library ."/>
+		<item slot="2" text="ask the librarian where to find books on the topic ."/>
+		<item slot="3" text="peruse the section of books ."/>
+		<item slot="4" text="select the most relevant books ."/>
+		<item slot="5" text="check the books out of the library ."/>
+	</script>
+	<script id="3">
+		<item slot="1" text="identify keywords for topic ."/>
+		<item slot="2" text="enter keywords into search engine ."/>
+		<item slot="3" text="return search engine results ."/>
+	</script>
+	<script id="4">
+		<item slot="1" text="find relevant papers on topic ."/>
+		<item slot="2" text="summarize papers ."/>
+		<item slot="3" text="find problems not solved by previous research ."/>
+		<item slot="4" text="find solution for problem ."/>
+		<item slot="5" text="summarize findings in paper ."/>
+	</script>
+	<script id="5">
+		<item slot="1" text="make a literature search for the topic ."/>
+		<item slot="2" text="review the literature ."/>
+		<item slot="3" text="answer questions within the topic that haven t been answered before ."/>
+		<item slot="4" text="write report of your findings ."/>
+	</script>
+	<script id="6">
+		<item slot="1" text="go to the library ."/>
+		<item slot="2" text="choose media to research by ."/>
+		<item slot="3" text="thoroughly read the chosen media ."/>
+		<item slot="4" text="pick out the important information ."/>
+		<item slot="5" text="write important information down for notes ."/>
+	</script>
+	<script id="7">
+		<item slot="1" text="look for a book about the specified topic ."/>
+		<item slot="2" text="study the pages of the book to learn more about the topic ."/>
+		<item slot="3" text="repeat until you have found all books about the topic ."/>
+	</script>
+	<script id="8">
+		<item slot="1" text="call someone you know on the telephone ."/>
+		<item slot="2" text="ask them about the specified topic ."/>
+		<item slot="3" text="repeat until you learn more about the topic from someone ."/>
+	</script>
+	<script id="9">
+		<item slot="1" text="identify topic ."/>
+		<item slot="2" text="identify relevant material ."/>
+		<item slot="3" text="read relevant material ."/>
+	</script>
+	<script id="10">
+		<item slot="1" text="identify topic ."/>
+		<item slot="2" text="search for topic in library or internet ."/>
+		<item slot="3" text="retrieve infomation ."/>
+		<item slot="4" text="present information ."/>
+	</script>
+	<script id="11">
+		<item slot="1" text="open google com ."/>
+		<item slot="2" text="search for the specific topic ."/>
+	</script>
+	<script id="12">
+		<item slot="1" text="receive topic ."/>
+		<item slot="2" text="go to library ."/>
+		<item slot="3" text="look in card catalogue ."/>
+		<item slot="4" text="find books in relation to topic ."/>
+		<item slot="5" text="open books ."/>
+		<item slot="6" text="search in index for topic ."/>
+		<item slot="7" text="read book ."/>
+	</script>
+	<script id="13">
+		<item slot="1" text="pose query ."/>
+		<item slot="2" text="find resources ."/>
+		<item slot="3" text="seek pertaining data ."/>
+		<item slot="4" text="follow relevent threads ."/>
+		<item slot="5" text="isolate useful data ."/>
+		<item slot="6" text="transcribe precise answers ."/>
+		<item slot="7" text="compile concluding report ."/>
+	</script>
+	<script id="14">
+		<item slot="1" text="determine topic ."/>
+		<item slot="2" text="determine scope of work ."/>
+		<item slot="3" text="outline need and focus ."/>
+		<item slot="4" text="gather resources ."/>
+		<item slot="5" text="perform research ."/>
+		<item slot="6" text="record research ."/>
+		<item slot="7" text="record conclusion ."/>
+	</script>
+	<script id="15">
+		<item slot="1" text="read papers ."/>
+		<item slot="2" text="syntesis ."/>
+		<item slot="3" text="add contribution ."/>
+		<item slot="4" text="publich contribution ."/>
+	</script>
+	<script id="16">
+		<item slot="1" text="choose the topic ."/>
+		<item slot="2" text="find the relevant documents review ."/>
+		<item slot="3" text="analyze the reviews ."/>
+		<item slot="4" text="perform the research ."/>
+	</script>
+	<script id="17">
+		<item slot="1" text="find the research topic ."/>
+		<item slot="2" text="research it ."/>
+	</script>
+	<script id="18">
+		<item slot="1" text="identify the topic ."/>
+		<item slot="2" text="find subtopics and related research/incidents ."/>
+		<item slot="3" text="record information ."/>
+		<item slot="4" text="summarize and correlate information ."/>
+	</script>
+	<script id="19">
+		<item slot="1" text="look in a book ."/>
+		<item slot="2" text="go on the internet ."/>
+		<item slot="3" text="google it ."/>
+		<item slot="4" text="go to wikipedia ."/>
+		<item slot="5" text="go to the library ."/>
+		<item slot="6" text="ask someone ."/>
+		<item slot="7" text="include a bibliography ."/>
+	</script>
+	<script id="20">
+		<item slot="1" text="pick topic ."/>
+		<item slot="2" text="choose research method ."/>
+		<item slot="3" text="research ."/>
+	</script>
+	<script id="21">
+		<item slot="1" text="pick topic ."/>
+		<item slot="2" text="choose research method ."/>
+		<item slot="3" text="research ."/>
+	</script>
+	<script id="22">
+		<item slot="1" text="find your interest ."/>
+		<item slot="2" text="do research ."/>
+		<item slot="3" text="find partner ."/>
+		<item slot="4" text="search for information ."/>
+		<item slot="5" text="go to library ."/>
+		<item slot="6" text="prepare presentation ."/>
+		<item slot="7" text="finish presentation ."/>
+	</script>
+	<script id="23">
+		<item slot="1" text="find your interest ."/>
+		<item slot="2" text="do research ."/>
+		<item slot="3" text="find partner ."/>
+		<item slot="4" text="search for information ."/>
+		<item slot="5" text="go to library ."/>
+		<item slot="6" text="prepare presentation ."/>
+		<item slot="7" text="finish presentation ."/>
+	</script>
+	<script id="24">
+		<item slot="1" text="choose topic ."/>
+		<item slot="2" text="research online ."/>
+		<item slot="3" text="research at library ."/>
+		<item slot="4" text="print required data ."/>
+		<item slot="5" text="compose rough draft of report ."/>
+		<item slot="6" text="proofread rough copy ."/>
+		<item slot="7" text="edit/make changes ."/>
+	</script>
+	<script id="25">
+		<item slot="1" text="choose topic ."/>
+		<item slot="2" text="research online ."/>
+		<item slot="3" text="research at library ."/>
+		<item slot="4" text="print required data ."/>
+		<item slot="5" text="compose rough draft of report ."/>
+		<item slot="6" text="proofread rough copy ."/>
+		<item slot="7" text="edit/make changes ."/>
+	</script>
+	<script id="26">
+		<item slot="1" text="choose topic ."/>
+		<item slot="2" text="research online ."/>
+		<item slot="3" text="research at library ."/>
+		<item slot="4" text="print required data ."/>
+		<item slot="5" text="compose rough draft of report ."/>
+		<item slot="6" text="proofread rough copy ."/>
+		<item slot="7" text="edit/make changes ."/>
+	</script>
+	<script id="27">
+		<item slot="1" text="idetify the topic ."/>
+		<item slot="2" text="do research ."/>
+	</script>
+	<script id="28">
+		<item slot="1" text="access information source ."/>
+		<item slot="2" text="search for specified topic ."/>
+		<item slot="3" text="save or print related information ."/>
+		<item slot="4" text="search for related terms ."/>
+		<item slot="5" text="save or print related information ."/>
+	</script>
+	<script id="29">
+		<item slot="1" text="go to library ."/>
+		<item slot="2" text="get books related to the topic ."/>
+		<item slot="3" text="read books ."/>
+	</script>
+	<script id="30">
+		<item slot="1" text="go to library ."/>
+		<item slot="2" text="get books related to the topic ."/>
+		<item slot="3" text="read books ."/>
+	</script>
+	<script id="31">
+		<item slot="1" text="go to library ."/>
+		<item slot="2" text="get books related to the topic ."/>
+		<item slot="3" text="read books ."/>
+	</script>
+	<script id="32">
+		<item slot="1" text="go to library ."/>
+		<item slot="2" text="get books related to the topic ."/>
+		<item slot="3" text="read books ."/>
+	</script>
+	<script id="33">
+		<item slot="1" text="pick a topic ."/>
+		<item slot="2" text="look up information in encyclopedia ."/>
+		<item slot="3" text="look in dictionary ."/>
+		<item slot="4" text="look online ."/>
+	</script>
+</scripts>

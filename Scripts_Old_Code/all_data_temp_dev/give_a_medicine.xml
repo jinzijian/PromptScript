@@ -1,0 +1,338 @@
+<scripts>
+<script id="1">
+<item slot="1" text="go to the place where medicine is kept ." />
+<item slot="2" text="identify the appropriate medicine ." />
+<item slot="3" text="if it is in a container open the container ." />
+<item slot="4" text="dispense the appropriate amount ." />
+</script>
+<script id="2">
+<item slot="1" text="determine what medicine is needed ." />
+<item slot="2" text="determine how much medicine is needed ." />
+<item slot="3" text="get the medicine from the bottle ." />
+<item slot="4" text="have the person take the medicine ." />
+</script>
+<script id="3">
+<item slot="1" text="acquiring the medicine ." />
+<item slot="2" text="determining the proper dosage ." />
+<item slot="3" text="administering the dose ." />
+</script>
+<script id="4">
+<item slot="1" text="find a medicine ." />
+<item slot="2" text="find a person ." />
+<item slot="3" text="measure a dose of the medicine into a spoon ." />
+<item slot="4" text="pour the medicine from the spoon into the person s mouth ." />
+</script>
+<script id="5">
+<item slot="1" text="read the instructions on the medicine ." />
+<item slot="2" text="remove the correct dosage from the bottle or box ." />
+<item slot="3" text="give the dose to the patient ." />
+<item slot="4" text="put away the medicine ." />
+</script>
+<script id="6">
+<item slot="1" text="read instructions for dosage ." />
+<item slot="2" text="open medicine container ." />
+<item slot="3" text="take out the right amount of medicine ." />
+<item slot="4" text="give it to the person taking the medicine ." />
+<item slot="5" text="make sure the person takes the medicine ." />
+</script>
+<script id="7">
+<item slot="1" text="get medicine ." />
+<item slot="2" text="get water ." />
+<item slot="3" text="give them to person ." />
+</script>
+<script id="8">
+<item slot="1" text="get glass of water ." />
+<item slot="2" text="get medicine ." />
+<item slot="3" text="give water and medicine to person ." />
+</script>
+<script id="9">
+<item slot="1" text="get medicine ." />
+<item slot="2" text="get glass of water ." />
+<item slot="3" text="take medicine out of container ." />
+<item slot="4" text="give medicine and water to person ." />
+</script>
+<script id="10">
+<item slot="1" text="get medicine ." />
+<item slot="2" text="pour water in cup ." />
+<item slot="3" text="bring medicine and water to person ." />
+</script>
+<script id="11">
+<item slot="1" text="go to medicine cabinet ." />
+<item slot="2" text="remove medicine ." />
+<item slot="3" text="get cup of water ." />
+<item slot="4" text="take medicine and water to person ." />
+</script>
+<script id="12">
+<item slot="1" text="read the label ." />
+<item slot="2" text="measure the correct dose ." />
+<item slot="3" text="administer the dose ." />
+<item slot="4" text="put the medicine away in a child proof place ." />
+</script>
+<script id="13">
+<item slot="1" text="go to medicine cabinet ." />
+<item slot="2" text="remove medicine from cabinet ." />
+<item slot="3" text="get medicine dose from medicine bottle ." />
+<item slot="4" text="get water ." />
+<item slot="5" text="give water and pills to person ." />
+</script>
+<script id="14">
+<item slot="1" text="find out what medicine ." />
+<item slot="2" text="aquire medicine ." />
+<item slot="3" text="bring to individual ." />
+</script>
+<script id="15">
+<item slot="1" text="reading label on medicine to get directions ." />
+<item slot="2" text="open medicine ." />
+<item slot="3" text="dispense amount necessary ." />
+<item slot="4" text="give medicine to recipient ." />
+<item slot="5" text="close medicine ." />
+<item slot="6" text="put medicine away ." />
+</script>
+<script id="16">
+<item slot="1" text="find medicine ." />
+<item slot="2" text="give medicine to correct person ." />
+<item slot="3" text="watch while person takes medicine ." />
+</script>
+<script id="17">
+<item slot="1" text="take out medicine ." />
+<item slot="2" text="open medicine container ." />
+<item slot="3" text="follow directions for proper dose ." />
+</script>
+<script id="18">
+<item slot="1" text="find medicine to be given ." />
+<item slot="2" text="pick up medicine container ." />
+<item slot="3" text="open medicine container ." />
+<item slot="4" text="remove appropriate amount of medicine ." />
+<item slot="5" text="close medicine container ." />
+<item slot="6" text="put down medicine container ." />
+<item slot="7" text="give medicine to appropriate person ." />
+</script>
+<script id="19">
+<item slot="1" text="pour out correct dosage ." />
+<item slot="2" text="administer dosage to patient ." />
+</script>
+<script id="20">
+<item slot="1" text="identify medicine ." />
+<item slot="2" text="remove medicine from container ." />
+<item slot="3" text="obtain a cup of water ." />
+<item slot="4" text="give medicine and water to patient ." />
+</script>
+<script id="21">
+<item slot="1" text="measure out medicine ." />
+<item slot="2" text="give to patient ." />
+</script>
+<script id="22">
+<item slot="1" text="read label ." />
+<item slot="2" text="open bottle ." />
+<item slot="3" text="measure dosage ." />
+</script>
+<script id="23">
+<item slot="1" text="read directions on medicine container ." />
+<item slot="2" text="measure or count appropriate dose for the patient ." />
+<item slot="3" text="give as directed on container ." />
+</script>
+<script id="24">
+<item slot="1" text="read directions on medicine container ." />
+<item slot="2" text="measure or count appropriate dose for the patient ." />
+<item slot="3" text="give as directed on container ." />
+</script>
+<script id="25">
+<item slot="1" text="read directions on medicine container ." />
+<item slot="2" text="measure or count appropriate dose for the patient ." />
+<item slot="3" text="give as directed on container ." />
+</script>
+<script id="26">
+<item slot="1" text="look for correct medicine ." />
+<item slot="2" text="check dosage on bottle ." />
+<item slot="3" text="take out correct number of pills per dosage ." />
+<item slot="4" text="get a glass of water ." />
+<item slot="5" text="give pills and glass of water to patient ." />
+<item slot="6" text="ask patient to use water to swallow pills ." />
+</script>
+<script id="27">
+<item slot="1" text="push down and turn the cap ." />
+<item slot="2" text="take off the cap ." />
+<item slot="3" text="read the bottle for the required dosage ." />
+<item slot="4" text="remove the required number of pills ." />
+<item slot="5" text="give the pills to the person ." />
+<item slot="6" text="put the cap back on ." />
+</script>
+<script id="28">
+<item slot="1" text="get medicine ." />
+<item slot="2" text="open medicine ." />
+<item slot="3" text="give medcine ." />
+</script>
+<script id="29">
+<item slot="1" text="locate medicine ." />
+<item slot="2" text="pick up medicine ." />
+<item slot="3" text="give medicine to person ." />
+</script>
+<script id="30">
+<item slot="1" text="locate medicine ." />
+<item slot="2" text="pick up medicine ." />
+<item slot="3" text="give medicine to person ." />
+</script>
+<script id="31">
+<item slot="1" text="determine proper dosage ." />
+<item slot="2" text="measure medicine ." />
+<item slot="3" text="give medicine to patient ." />
+</script>
+<script id="32">
+<item slot="1" text="read instructions ." />
+<item slot="2" text="measure proper amount ." />
+<item slot="3" text="give to person ." />
+<item slot="4" text="give person water ." />
+</script>
+<script id="33">
+<item slot="1" text="read instructions ." />
+<item slot="2" text="open container ." />
+<item slot="3" text="measure out doses ." />
+<item slot="4" text="take medicine ." />
+</script>
+<script id="34">
+<item slot="1" text="read instructions ." />
+<item slot="2" text="open container ." />
+<item slot="3" text="measure out doses ." />
+<item slot="4" text="take medicine ." />
+</script>
+<script id="35">
+<item slot="1" text="read instructions ." />
+<item slot="2" text="open container ." />
+<item slot="3" text="measure out doses ." />
+<item slot="4" text="take medicine ." />
+</script>
+<script id="36">
+<item slot="1" text="read instructions ." />
+<item slot="2" text="open container ." />
+<item slot="3" text="measure out doses ." />
+<item slot="4" text="take medicine ." />
+</script>
+<script id="37">
+<item slot="1" text="read instructions ." />
+<item slot="2" text="read instructions ." />
+<item slot="3" text="open container ." />
+<item slot="4" text="measure out doses ." />
+<item slot="5" text="take medicine ." />
+<item slot="6" text="open container ." />
+<item slot="7" text="measure out doses ." />
+<item slot="8" text="take medicine ." />
+</script>
+<script id="38">
+<item slot="1" text="read instructions ." />
+<item slot="2" text="open container ." />
+<item slot="3" text="measure out doses ." />
+<item slot="4" text="take medicine ." />
+</script>
+<script id="39">
+<item slot="1" text="read instructions ." />
+<item slot="2" text="open container ." />
+<item slot="3" text="measure out doses ." />
+<item slot="4" text="take medicine ." />
+</script>
+<script id="40">
+<item slot="1" text="read instructions ." />
+<item slot="2" text="open container ." />
+<item slot="3" text="measure out doses ." />
+<item slot="4" text="take medicine ." />
+</script>
+<script id="41">
+<item slot="1" text="read bottle to determine proper dosage ." />
+<item slot="2" text="open bottle and remove that amount ." />
+<item slot="3" text="place medication in person s mouth ." />
+<item slot="4" text="have them wash it down with a drink of water ." />
+<item slot="5" text="replace the lid on the medication ." />
+</script>
+<script id="42">
+<item slot="1" text="walk ." />
+<item slot="2" text="find ." />
+<item slot="3" text="read ." />
+<item slot="4" text="give medicine ." />
+</script>
+<script id="43">
+<item slot="1" text="walk ." />
+<item slot="2" text="find ." />
+<item slot="3" text="read ." />
+<item slot="4" text="give medicine ." />
+</script>
+<script id="44">
+<item slot="1" text="walk ." />
+<item slot="2" text="find ." />
+<item slot="3" text="read ." />
+<item slot="4" text="give medicine ." />
+</script>
+<script id="45">
+<item slot="1" text="walk ." />
+<item slot="2" text="find ." />
+<item slot="3" text="read ." />
+<item slot="4" text="give medicine ." />
+</script>
+<script id="46">
+<item slot="1" text="walk ." />
+<item slot="2" text="find ." />
+<item slot="3" text="read ." />
+<item slot="4" text="give medicine ." />
+</script>
+<script id="47">
+<item slot="1" text="walk ." />
+<item slot="2" text="find ." />
+<item slot="3" text="read ." />
+<item slot="4" text="give medicine ." />
+</script>
+<script id="48">
+<item slot="1" text="giove medicine ." />
+</script>
+<script id="49">
+<item slot="1" text="walk towards medicine cabinet ." />
+<item slot="2" text="open cabinet door ." />
+<item slot="3" text="take the medicine ." />
+<item slot="4" text="open medicine cap ." />
+<item slot="5" text="take medicine ." />
+<item slot="6" text="done ." />
+</script>
+<script id="50">
+<item slot="1" text="open the medicine ." />
+<item slot="2" text="take what is needed ." />
+</script>
+<script id="51">
+<item slot="1" text="tale the medicine ." />
+<item slot="2" text="hand the mdecine ." />
+</script>
+<script id="52">
+<item slot="1" text="tale the medicine ." />
+<item slot="2" text="hand the mdecine ." />
+</script>
+<script id="53">
+<item slot="1" text="tale the medicine ." />
+<item slot="2" text="hand the mdecine ." />
+</script>
+<script id="54">
+<item slot="1" text="tale the medicine ." />
+<item slot="2" text="hand the mdecine ." />
+</script>
+<script id="55">
+<item slot="1" text="obtain medicine ." />
+<item slot="2" text="dispense proper dosage ." />
+</script>
+<script id="56">
+<item slot="1" text="obtain medicine ." />
+<item slot="2" text="dispense proper dosage ." />
+</script>
+<script id="57">
+<item slot="1" text="open medicine container ." />
+<item slot="2" text="read directions on container ." />
+<item slot="3" text="give patient medicine as directed ." />
+<item slot="4" text="give patient a glass of water ." />
+<item slot="5" text="close medicine ." />
+</script>
+<script id="58">
+<item slot="1" text="go to medicine cabinet ." />
+<item slot="2" text="get medicine ." />
+<item slot="3" text="take out a pill ." />
+<item slot="4" text="give pill to patient ." />
+</script>
+<script id="59">
+<item slot="1" text="take bottle ." />
+<item slot="2" text="open bottle ." />
+<item slot="3" text="give the medicine ." />
+</script>
+</scripts>

@@ -1,0 +1,9 @@
+<scripts><script id="44">
+<item slot="1" text="locate container which can hold liquids ."/>
+<item slot="2" text="decide which container to fill ."/>
+<item slot="3" text="select container ."/>
+<item slot="4" text="find water source ."/>
+<item slot="5" text="get water from water source ."/>
+<item slot="6" text="pour water into container ."/>
+<item slot="7" text="fill water to desired level ."/>
+</script></scripts>

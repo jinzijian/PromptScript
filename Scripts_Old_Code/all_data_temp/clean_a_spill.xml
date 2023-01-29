@@ -1,0 +1,356 @@
+<?xml version="1.0"?>
+<scripts>
+	<script id="1">
+		<item slot="1" text="get paper towels ."/>
+		<item slot="2" text="wipe up spill until it is absorbed ."/>
+	</script>
+	<script id="2">
+		<item slot="1" text="soak liquid by paper towel ."/>
+		<item slot="2" text="spray some cleaner ."/>
+		<item slot="3" text="wipe the cleaner ."/>
+	</script>
+	<script id="3">
+		<item slot="1" text="take a paper towel ."/>
+		<item slot="2" text="wipe the spilled area with the paper towel ."/>
+		<item slot="3" text="moisten another paper towel ."/>
+		<item slot="4" text="wipe the spilled area with the wet paper towel again ."/>
+	</script>
+	<script id="4">
+		<item slot="1" text="assess size and type of spill ."/>
+		<item slot="2" text="get paper towels mop or broom ."/>
+		<item slot="3" text="collect spill with paper towels mop or broom ."/>
+		<item slot="4" text="dispose of collected spill ."/>
+		<item slot="5" text="repeat to clean residue ."/>
+	</script>
+	<script id="5">
+		<item slot="1" text="walk to store room ."/>
+		<item slot="2" text="take a cloth ."/>
+		<item slot="3" text="walk to spill ."/>
+		<item slot="4" text="put cloth on spill ."/>
+		<item slot="5" text="wait till spill is dried ."/>
+	</script>
+	<script id="6">
+		<item slot="1" text="get a clean up cloth ."/>
+		<item slot="2" text="wipe spill with clean up cloth ."/>
+		<item slot="3" text="repeat until spill is gone ."/>
+	</script>
+	<script id="7">
+		<item slot="1" text="getting a mop paper towel or sponge ."/>
+		<item slot="2" text="rubbing the mop paper towel or sponge over the spill untill all of the liquid has been absorbed ."/>
+	</script>
+	<script id="8">
+		<item slot="1" text="find a cleaning sponge or towel ."/>
+		<item slot="2" text="wet the sponge or towel in a sink ."/>
+		<item slot="3" text="move to the spill ."/>
+		<item slot="4" text="move the sponge or towel in a circular motion on the spill ."/>
+		<item slot="5" text="repeat until the sill is cleaned ."/>
+	</script>
+	<script id="9">
+		<item slot="1" text="get cloth ."/>
+		<item slot="2" text="wipe spill with cloth ."/>
+	</script>
+	<script id="10">
+		<item slot="1" text="locate the spill ."/>
+		<item slot="2" text="fetch a towel or rag ."/>
+		<item slot="3" text="wipe the towel or rag over the location of the spill ."/>
+		<item slot="4" text="clean or dispose of the towel or rag ."/>
+	</script>
+	<script id="11">
+		<item slot="1" text="determine what is spilled ."/>
+		<item slot="2" text="determine what the spill is on ."/>
+		<item slot="3" text="use an absorbant towel or sponge on the spill ."/>
+		<item slot="4" text="wash towel or discard sponge ."/>
+		<item slot="5" text="dry the area where spill took place ."/>
+	</script>
+	<script id="12">
+		<item slot="1" text="find mop ."/>
+		<item slot="2" text="wipe up spill with mop ."/>
+		<item slot="3" text="put mop away ."/>
+	</script>
+	<script id="13">
+		<item slot="1" text="get a cloth ."/>
+		<item slot="2" text="place cloth on spill ."/>
+		<item slot="3" text="move cloth around to absorb liquic ."/>
+		<item slot="4" text="rinse cloth ."/>
+		<item slot="5" text="repeat previous steps until spill is clean ."/>
+	</script>
+	<script id="14">
+		<item slot="1" text="wipe a spill with a dry cloth ."/>
+	</script>
+	<script id="15">
+		<item slot="1" text="wipe up the spill ."/>
+		<item slot="2" text="clean the wiping rag ."/>
+	</script>
+	<script id="16">
+		<item slot="1" text="fill bucket with warm water ."/>
+		<item slot="2" text="add liquid cleaner to bucket ."/>
+		<item slot="3" text="get cloth ."/>
+		<item slot="4" text="use cloth to clean up spill ."/>
+		<item slot="5" text="rinse cloth in prepared bucket of water ."/>
+		<item slot="6" text="wipe area again with cloth ."/>
+		<item slot="7" text="rinse and wipe one more time dry area ."/>
+	</script>
+	<script id="17">
+		<item slot="1" text="get a towel ."/>
+		<item slot="2" text="place on spill ."/>
+		<item slot="3" text="push down to absorb ."/>
+		<item slot="4" text="wash towel ."/>
+	</script>
+	<script id="18">
+		<item slot="1" text="grab a towel ."/>
+		<item slot="2" text="start blotting at the edges pushing towards center ."/>
+		<item slot="3" text="wring out towel ."/>
+		<item slot="4" text="wipe up remaining spill ."/>
+	</script>
+	<script id="19">
+		<item slot="1" text="get a rag ."/>
+		<item slot="2" text="wipe it up ."/>
+		<item slot="3" text="throw the rag in the dirty bin ."/>
+	</script>
+	<script id="20">
+		<item slot="1" text="determine material spilled ."/>
+		<item slot="2" text="determine cleaning method ."/>
+		<item slot="3" text="gather cleaning materials ."/>
+		<item slot="4" text="wipe up spill ."/>
+		<item slot="5" text="throw away or wash towels ."/>
+	</script>
+	<script id="21">
+		<item slot="1" text="get a rag ."/>
+		<item slot="2" text="wipe the spill with the rag until dry ."/>
+		<item slot="3" text="clean spill residue with a wet rag ."/>
+	</script>
+	<script id="22">
+		<item slot="1" text="find a rag ."/>
+		<item slot="2" text="put rag on spill ."/>
+		<item slot="3" text="wipe rag around the spill area ."/>
+		<item slot="4" text="rinse rag ."/>
+		<item slot="5" text="wipe rag around the spill area ."/>
+		<item slot="6" text="rinse rag ."/>
+		<item slot="7" text="put rag in laundry ."/>
+	</script>
+	<script id="23">
+		<item slot="1" text="find a rag ."/>
+		<item slot="2" text="put rag on spill ."/>
+		<item slot="3" text="wipe rag around the spill area ."/>
+		<item slot="4" text="rinse rag ."/>
+		<item slot="5" text="wipe rag around the spill area ."/>
+		<item slot="6" text="rinse rag ."/>
+		<item slot="7" text="put rag in laundry ."/>
+	</script>
+	<script id="24">
+		<item slot="1" text="grab paper towel ."/>
+		<item slot="2" text="wipe spill with paper towel ."/>
+		<item slot="3" text="check to see if spill is cleaned ."/>
+		<item slot="4" text="if spill is cleaned toss paper towel in trash ."/>
+		<item slot="5" text="if spill is not cleaned wipe area again with paper towel ."/>
+		<item slot="6" text="toss paper towel ."/>
+	</script>
+	<script id="25">
+		<item slot="1" text="grab a paper towel ."/>
+		<item slot="2" text="put the paper towel over the spill ."/>
+		<item slot="3" text="let liquid absorb into paper towel ."/>
+		<item slot="4" text="wipe area with paper towel ."/>
+		<item slot="5" text="dispose of dirty paper towel ."/>
+	</script>
+	<script id="26">
+		<item slot="1" text="grab paper towels ."/>
+		<item slot="2" text="lay paper towel over spill to absorn liquid ."/>
+		<item slot="3" text="wipe the area with paper towel to ensure it s dry ."/>
+	</script>
+	<script id="27">
+		<item slot="1" text="grab paper towels ."/>
+		<item slot="2" text="lay paper towel over spill to absorn liquid ."/>
+		<item slot="3" text="wipe the area with paper towel to ensure it s dry ."/>
+	</script>
+	<script id="28">
+		<item slot="1" text="grab paper towels ."/>
+		<item slot="2" text="lay paper towel over spill to absorn liquid ."/>
+		<item slot="3" text="wipe the area with paper towel to ensure it s dry ."/>
+	</script>
+	<script id="29">
+		<item slot="1" text="take a mop ."/>
+		<item slot="2" text="take a cleaner ."/>
+		<item slot="3" text="take adry cloth ."/>
+		<item slot="4" text="soak the exxcessi ."/>
+	</script>
+	<script id="30">
+		<item slot="1" text="obtain sponge ."/>
+		<item slot="2" text="wipe up spill ."/>
+		<item slot="3" text="squeeze sponge over sink ."/>
+		<item slot="4" text="repeat step 2 and 3 until spill cleaned ."/>
+	</script>
+	<script id="31">
+		<item slot="1" text="locate spill ."/>
+		<item slot="2" text="get mop ."/>
+		<item slot="3" text="mop up spill ."/>
+	</script>
+	<script id="32">
+		<item slot="1" text="get paper towel ."/>
+		<item slot="2" text="wipe up spill ."/>
+		<item slot="3" text="dampen new paper towel ."/>
+		<item slot="4" text="re-wipe area to remove any sticky remainders ."/>
+	</script>
+	<script id="33">
+		<item slot="1" text="get paper towel ."/>
+		<item slot="2" text="wipe up spill ."/>
+		<item slot="3" text="dampen new paper towel ."/>
+		<item slot="4" text="re-wipe area to remove any sticky remainders ."/>
+	</script>
+	<script id="34">
+		<item slot="1" text="get paper towels ."/>
+		<item slot="2" text="pull off two sheets of paper towel ."/>
+		<item slot="3" text="mop up spill with paper towels ."/>
+		<item slot="4" text="repeat steps 1-3 until spill is completely gone ."/>
+		<item slot="5" text="discard paper towels in garbage ."/>
+	</script>
+	<script id="35">
+		<item slot="1" text="get paper towels ."/>
+		<item slot="2" text="pull off two sheets of paper towel ."/>
+		<item slot="3" text="mop up spill with paper towels ."/>
+		<item slot="4" text="repeat steps 1-3 until spill is completely gone ."/>
+		<item slot="5" text="discard paper towels in garbage ."/>
+	</script>
+	<script id="36">
+		<item slot="1" text="get paper towels ."/>
+		<item slot="2" text="pull off two sheets of paper towel ."/>
+		<item slot="3" text="mop up spill with paper towels ."/>
+		<item slot="4" text="repeat steps 1-3 until spill is completely gone ."/>
+		<item slot="5" text="discard paper towels in garbage ."/>
+	</script>
+	<script id="37">
+		<item slot="1" text="get paper towels ."/>
+		<item slot="2" text="pull off two sheets of paper towel ."/>
+		<item slot="3" text="mop up spill with paper towels ."/>
+		<item slot="4" text="repeat steps 1-3 until spill is completely gone ."/>
+		<item slot="5" text="discard paper towels in garbage ."/>
+	</script>
+	<script id="38">
+		<item slot="1" text="locate spill ."/>
+		<item slot="2" text="get paper towel ."/>
+		<item slot="3" text="wipe up spill ."/>
+		<item slot="4" text="throw away paper towel ."/>
+	</script>
+	<script id="39">
+		<item slot="1" text="locate spill ."/>
+		<item slot="2" text="get paper towel ."/>
+		<item slot="3" text="wipe up spill ."/>
+		<item slot="4" text="throw away paper towel ."/>
+	</script>
+	<script id="40">
+		<item slot="1" text="locate spill ."/>
+		<item slot="2" text="get paper towel ."/>
+		<item slot="3" text="wipe up spill ."/>
+		<item slot="4" text="throw away paper towel ."/>
+	</script>
+	<script id="41">
+		<item slot="1" text="get towel ."/>
+		<item slot="2" text="put towel over liquid ."/>
+		<item slot="3" text="soak up liquid ."/>
+		<item slot="4" text="wipe floor dry ."/>
+	</script>
+	<script id="42">
+		<item slot="1" text="get towel ."/>
+		<item slot="2" text="put towel over liquid ."/>
+		<item slot="3" text="soak up liquid ."/>
+		<item slot="4" text="wipe floor dry ."/>
+	</script>
+	<script id="43">
+		<item slot="1" text="get towel ."/>
+		<item slot="2" text="put towel over liquid ."/>
+		<item slot="3" text="soak up liquid ."/>
+		<item slot="4" text="wipe floor dry ."/>
+	</script>
+	<script id="44">
+		<item slot="1" text="get towel ."/>
+		<item slot="2" text="put towel over liquid ."/>
+		<item slot="3" text="soak up liquid ."/>
+		<item slot="4" text="wipe floor dry ."/>
+	</script>
+	<script id="45">
+		<item slot="1" text="get a cloth ."/>
+		<item slot="2" text="mop up spill with cloth ."/>
+		<item slot="3" text="rinse cloth and ring out water ."/>
+		<item slot="4" text="get a spray cleaner ."/>
+		<item slot="5" text="spray area where spill was with cleaner ."/>
+		<item slot="6" text="wipe away spray with cloth ."/>
+		<item slot="7" text="repeat with spray until spill is cleaned ."/>
+	</script>
+	<script id="46">
+		<item slot="1" text="get a cloth ."/>
+		<item slot="2" text="mop up spill with cloth ."/>
+		<item slot="3" text="rinse cloth and ring out water ."/>
+		<item slot="4" text="get a spray cleaner ."/>
+		<item slot="5" text="spray area where spill was with cleaner ."/>
+		<item slot="6" text="wipe away spray with cloth ."/>
+		<item slot="7" text="repeat with spray until spill is cleaned ."/>
+	</script>
+	<script id="47">
+		<item slot="1" text="get a cloth ."/>
+		<item slot="2" text="mop up spill with cloth ."/>
+		<item slot="3" text="rinse cloth and ring out water ."/>
+		<item slot="4" text="get a spray cleaner ."/>
+		<item slot="5" text="spray area where spill was with cleaner ."/>
+		<item slot="6" text="wipe away spray with cloth ."/>
+		<item slot="7" text="repeat with spray until spill is cleaned ."/>
+	</script>
+	<script id="48">
+		<item slot="1" text="find spill ."/>
+		<item slot="2" text="get paper towel ."/>
+		<item slot="3" text="wipe up spill with towel ."/>
+		<item slot="4" text="throw away towel ."/>
+	</script>
+	<script id="49">
+		<item slot="1" text="find spill ."/>
+		<item slot="2" text="get paper towel ."/>
+		<item slot="3" text="wipe up spill with towel ."/>
+		<item slot="4" text="throw away towel ."/>
+	</script>
+	<script id="50">
+		<item slot="1" text="find spill ."/>
+		<item slot="2" text="get paper towel ."/>
+		<item slot="3" text="wipe up spill with towel ."/>
+		<item slot="4" text="throw away towel ."/>
+	</script>
+	<script id="51">
+		<item slot="1" text="find spill ."/>
+		<item slot="2" text="get paper towel ."/>
+		<item slot="3" text="wipe up spill with towel ."/>
+		<item slot="4" text="throw away towel ."/>
+	</script>
+	<script id="52">
+		<item slot="1" text="find spill ."/>
+		<item slot="2" text="get paper towel ."/>
+		<item slot="3" text="wipe up spill with towel ."/>
+		<item slot="4" text="throw away towel ."/>
+	</script>
+	<script id="53">
+		<item slot="1" text="find spill ."/>
+		<item slot="2" text="get paper towel ."/>
+		<item slot="3" text="wipe up spill with towel ."/>
+		<item slot="4" text="throw away towel ."/>
+	</script>
+	<script id="54">
+		<item slot="1" text="locate spill ."/>
+		<item slot="2" text="get towel ."/>
+		<item slot="3" text="place towel on the liquid ."/>
+		<item slot="4" text="soak up liquid ."/>
+	</script>
+	<script id="55">
+		<item slot="1" text="locate spill ."/>
+		<item slot="2" text="get towel ."/>
+		<item slot="3" text="place towel on the liquid ."/>
+		<item slot="4" text="soak up liquid ."/>
+	</script>
+	<script id="56">
+		<item slot="1" text="locate spill ."/>
+		<item slot="2" text="get towel ."/>
+		<item slot="3" text="place towel on the liquid ."/>
+		<item slot="4" text="soak up liquid ."/>
+	</script>
+	<script id="57">
+		<item slot="1" text="determine what you will need to clean it ."/>
+		<item slot="2" text="grab cloths ."/>
+		<item slot="3" text="wipe spill ."/>
+		<item slot="4" text="mop up spill ."/>
+	</script>
+</scripts>

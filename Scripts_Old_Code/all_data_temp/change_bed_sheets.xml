@@ -1,0 +1,204 @@
+<scripts>
+<script id="1">
+<item slot="1" text="find replacement bedsheets ." />
+<item slot="2" text="take out existing bedsheet ." />
+<item slot="3" text="put existing bedsheet with dirty clothes ." />
+<item slot="4" text="put replacement bedsheet ." />
+</script>
+<script id="2">
+<item slot="1" text="remove old sheets ." />
+<item slot="2" text="get new sheets ." />
+<item slot="3" text="place new sheets on bed ." />
+</script>
+<script id="3">
+<item slot="1" text="take old sheets off bed ." />
+<item slot="2" text="get new sheets ." />
+<item slot="3" text="put new sheets on bed ." />
+</script>
+<script id="4">
+<item slot="1" text="take off the old sheets ." />
+</script>
+<script id="5">
+<item slot="1" text="take off the old sheets ." />
+<item slot="2" text="put on the new sheets ." />
+<item slot="3" text="put the old sheets in the wash ." />
+</script>
+<script id="6">
+<item slot="1" text="getting new sheets ." />
+<item slot="2" text="going next to bed ." />
+<item slot="3" text="removing old sheets from bed ." />
+<item slot="4" text="putting new sheets on bed ." />
+<item slot="5" text="taking removed bed sheets to washing machine ." />
+</script>
+<script id="7">
+<item slot="1" text="remove soiled bedsheets ." />
+<item slot="2" text="place clean bedsheets on bed ." />
+</script>
+<script id="8">
+<item slot="1" text="take off the old sheets ." />
+<item slot="2" text="put them in the laundry ." />
+<item slot="3" text="get the new sheets ." />
+<item slot="4" text="put them on the bed ." />
+</script>
+<script id="9">
+<item slot="1" text="remove previous sheets from bed ." />
+<item slot="2" text="lay new sheet spread out on bed ." />
+<item slot="3" text="tuck the sheet under the mattress ." />
+<item slot="4" text="make sure the sheet is facing the proper direction ." />
+</script>
+<script id="10">
+<item slot="1" text="remove old bed sheets from bed ." />
+<item slot="2" text="locate new bed sheets ." />
+<item slot="3" text="place new bed sheets on bed ." />
+<item slot="4" text="clean and store old bed sheets ." />
+</script>
+<script id="11">
+<item slot="1" text="remove old besheets ." />
+<item slot="2" text="put on new bed sheets ." />
+</script>
+<script id="12">
+<item slot="1" text="remove the top sheet from the bed ." />
+</script>
+<script id="13">
+<item slot="1" text="remove old sheets ." />
+<item slot="2" text="place them in dirty laundry basket ." />
+<item slot="3" text="place new sheets on bed ." />
+</script>
+<script id="14">
+<item slot="1" text="remove bed sheets ." />
+<item slot="2" text="place new bed sheets on bed ." />
+</script>
+<script id="15">
+<item slot="1" text="removing the current bed sheets ." />
+<item slot="2" text="putting clean bed sheets on the bed ." />
+</script>
+<script id="16">
+<item slot="1" text="go to bed ." />
+<item slot="2" text="remove old beed sheets ." />
+<item slot="3" text="put on new bed sheets ." />
+<item slot="4" text="put old sheets with dirty laundry ." />
+</script>
+<script id="17">
+<item slot="1" text="go to the bed ." />
+<item slot="2" text="remove the blanket from the bed ." />
+<item slot="3" text="remove the sheets from the bed ." />
+<item slot="4" text="put the sheets in a pile ." />
+<item slot="5" text="replace the old sheets with new ones ." />
+</script>
+<script id="18">
+<item slot="1" text="take dirty bed sheets off of bed ." />
+<item slot="2" text="replace them with clean bed sheets ." />
+<item slot="3" text="take dirty bed sheets to laundry area ." />
+</script>
+<script id="19">
+<item slot="1" text="get clean sheets ." />
+<item slot="2" text="remove sheets from bed ." />
+<item slot="3" text="put clean sheets on bed ." />
+<item slot="4" text="put old sheets in washingbin ." />
+</script>
+<script id="20">
+<item slot="1" text="take off dirty bed sheets ." />
+</script>
+<script id="21">
+<item slot="1" text="remove soiled sheets ." />
+<item slot="2" text="locate clean sheets ." />
+<item slot="3" text="place clean sheets on bed ." />
+</script>
+<script id="22">
+<item slot="1" text="locate bed with dirty sheets ." />
+<item slot="2" text="remove dirty sheets ." />
+<item slot="3" text="put clean sheets on bed ." />
+<item slot="4" text="place dirty sheets into clothes hamper ." />
+</script>
+<script id="23">
+<item slot="1" text="remove sheets ." />
+<item slot="2" text="get clean sheet ." />
+<item slot="3" text="spread sheet over bed ." />
+<item slot="4" text="fold corners under ." />
+<item slot="5" text="tuck sides under ." />
+</script>
+<script id="24">
+<item slot="1" text="take dirty sheets of of bed ." />
+<item slot="2" text="take dirty pillow cases off of pillows ." />
+<item slot="3" text="put clean sheets on bed ." />
+<item slot="4" text="put clean pillow cases on pillows ." />
+</script>
+<script id="25">
+<item slot="1" text="identify bed sheets ." />
+<item slot="2" text="remove bed sheets ." />
+<item slot="3" text="place new bed sheets on bed ." />
+</script>
+<script id="26">
+<item slot="1" text="remove bedspread and old bed sheets ." />
+<item slot="2" text="put new fitted sheet on bed ." />
+<item slot="3" text="put new flat sheet on bed ." />
+<item slot="4" text="replace bedspread ." />
+</script>
+<script id="27">
+<item slot="1" text="remove sheets from bed ." />
+<item slot="2" text="put used sheets in hamper ." />
+<item slot="3" text="remove clean sheets from linen closet ." />
+<item slot="4" text="spread fitted sheet on bed ." />
+<item slot="5" text="tuck corners of fitted sheet around mattress ." />
+<item slot="6" text="spread flat sheet on bed ." />
+<item slot="7" text="smooth sheet ." />
+</script>
+<script id="28">
+<item slot="1" text="remove dirty sheets ." />
+<item slot="2" text="put clean sheets on mattress ." />
+</script>
+<script id="29">
+<item slot="1" text="remove dirty sheets ." />
+<item slot="2" text="put clean sheets on mattress ." />
+</script>
+<script id="30">
+<item slot="1" text="remove dirty sheets ." />
+<item slot="2" text="put clean sheets on mattress ." />
+</script>
+<script id="31">
+<item slot="1" text="remove old sheets ." />
+<item slot="2" text="put old sheets into laundry hamper ." />
+<item slot="3" text="dust and clean the bed ." />
+<item slot="4" text="spray on fabic freshener ." />
+<item slot="5" text="let dry ." />
+<item slot="6" text="get new sheets ." />
+<item slot="7" text="put on bed ." />
+</script>
+<script id="32">
+<item slot="1" text="remove old or dirty bed sheets ." />
+<item slot="2" text="put on clean or new bed sheets ." />
+</script>
+<script id="33">
+<item slot="1" text="take out old sheet ." />
+<item slot="2" text="replace new sheet on bed ." />
+</script>
+<script id="34">
+<item slot="1" text="remove old bedding ." />
+<item slot="2" text="put fitted sheet on mattress ." />
+<item slot="3" text="put flat sheet on mattress ." />
+<item slot="4" text="replace blankets and tuck everything in at the foot of the bed ." />
+<item slot="5" text="put quilt on mattress ." />
+<item slot="6" text="replace pillows ." />
+</script>
+<script id="35">
+<item slot="1" text="take off used sheets ." />
+<item slot="2" text="get new sheets ." />
+<item slot="3" text="put new sheets on bed ." />
+</script>
+<script id="36">
+<item slot="1" text="take off used sheets ." />
+<item slot="2" text="get new sheets ." />
+<item slot="3" text="put new sheets on bed ." />
+</script>
+<script id="37">
+<item slot="1" text="take off used sheets ." />
+<item slot="2" text="get new sheets ." />
+<item slot="3" text="put new sheets on bed ." />
+</script>
+<script id="38">
+<item slot="1" text="get clean sheets from closet ." />
+<item slot="2" text="take off old sheets from bed ." />
+<item slot="3" text="put new ones on ." />
+<item slot="4" text="wash old sheets ." />
+</script>
+</scripts>

@@ -1,0 +1,366 @@
+<scripts>
+<script id="1">
+<item slot="1" text="get a bowl ." />
+<item slot="2" text="put cereal in bowl ." />
+<item slot="3" text="put fruit on top ." />
+<item slot="4" text="pour milk over cereal and fruit ." />
+<item slot="5" text="get a spoon ." />
+</script>
+<script id="2">
+<item slot="1" text="find breakfast foods in the refrigerator ." />
+<item slot="2" text="prepare breakfast foods for eating ." />
+<item slot="3" text="place breakfast foods on plates and in bowls ." />
+<item slot="4" text="serve breakfast foods to people at a dining table ." />
+</script>
+<script id="3">
+<item slot="1" text="toast bread ." />
+<item slot="2" text="cook water ." />
+<item slot="3" text="make tea ." />
+<item slot="4" text="cook egg ." />
+<item slot="5" text="make orange juice ." />
+</script>
+<script id="4">
+<item slot="1" text="identify food to be made ." />
+<item slot="2" text="prepare food in appropriate manner ." />
+<item slot="3" text="place food on table ." />
+</script>
+<script id="5">
+<item slot="1" text="determine what you want to eat ." />
+<item slot="2" text="determine what ingredients you have ." />
+<item slot="3" text="go shopping for missing ingrediants ." />
+<item slot="4" text="use all ingredients to prepare the desired meal ." />
+</script>
+<script id="6">
+<item slot="1" text="get bowl ." />
+<item slot="2" text="get cereal ." />
+<item slot="3" text="get milk ." />
+<item slot="4" text="put cereal in bowl ." />
+<item slot="5" text="pour milk into bowl ." />
+<item slot="6" text="get spoon ." />
+</script>
+<script id="7">
+<item slot="1" text="get a bowl ." />
+<item slot="2" text="get cereal ." />
+<item slot="3" text="get milk ." />
+<item slot="4" text="put cereal in bowl ." />
+<item slot="5" text="pour milk into bowl ." />
+<item slot="6" text="get spoon ." />
+</script>
+<script id="8">
+<item slot="1" text="get a bowl ." />
+<item slot="2" text="get cereal ." />
+<item slot="3" text="get milk ." />
+<item slot="4" text="put cereal in bowl ." />
+<item slot="5" text="put milk in bowl ." />
+</script>
+<script id="9">
+<item slot="1" text="wake up early ." />
+<item slot="2" text="make coffee ." />
+<item slot="3" text="toast bread ." />
+</script>
+<script id="10">
+<item slot="1" text="turning on the stove ." />
+<item slot="2" text="breaking the eggs ." />
+<item slot="3" text="cooking the eggs ." />
+<item slot="4" text="cooking the bacon on the stove ." />
+<item slot="5" text="toasting the toast ." />
+<item slot="6" text="washing the dishes afterwards ." />
+</script>
+<script id="11">
+<item slot="1" text="make coffee ." />
+<item slot="2" text="toast bread ." />
+<item slot="3" text="pour orange juice ." />
+</script>
+<script id="12">
+<item slot="1" text="toast bread ." />
+<item slot="2" text="fry eggs ." />
+<item slot="3" text="fry sausage ." />
+<item slot="4" text="pour milk ." />
+<item slot="5" text="make coffee ." />
+<item slot="6" text="set table ." />
+<item slot="7" text="serve food ." />
+</script>
+<script id="13">
+<item slot="1" text="prepare ingredients ." />
+<item slot="2" text="cook ingredients ." />
+<item slot="3" text="set table ." />
+<item slot="4" text="put food on dishes ." />
+</script>
+<script id="14">
+<item slot="1" text="prepare ingredients ." />
+<item slot="2" text="cook ingredients ." />
+<item slot="3" text="set table ." />
+<item slot="4" text="put food on dishes ." />
+</script>
+<script id="15">
+<item slot="1" text="deciding what you want ." />
+</script>
+<script id="16">
+<item slot="1" text="decide what you want ." />
+<item slot="2" text="get the ingredients ." />
+<item slot="3" text="read the recipie ." />
+<item slot="4" text="follow the instructions ." />
+</script>
+<script id="17">
+<item slot="1" text="deciding what you want ." />
+</script>
+<script id="18">
+<item slot="1" text="decide what you want ." />
+<item slot="2" text="get the ingredients ." />
+<item slot="3" text="read the recipie ." />
+<item slot="4" text="follow the instructions ." />
+</script>
+<script id="19">
+<item slot="1" text="deciding what you want ." />
+</script>
+<script id="20">
+<item slot="1" text="decide what you want ." />
+<item slot="2" text="get the ingredients ." />
+<item slot="3" text="read the recipie ." />
+<item slot="4" text="follow the instructions ." />
+</script>
+<script id="21">
+<item slot="1" text="deciding what you want ." />
+</script>
+<script id="22">
+<item slot="1" text="decide what you want ." />
+<item slot="2" text="get the ingredients ." />
+<item slot="3" text="read the recipie ." />
+<item slot="4" text="follow the instructions ." />
+</script>
+<script id="23">
+<item slot="1" text="deciding what you want ." />
+</script>
+<script id="24">
+<item slot="1" text="decide what you want ." />
+<item slot="2" text="get the ingredients ." />
+<item slot="3" text="read the recipie ." />
+<item slot="4" text="follow the instructions ." />
+</script>
+<script id="25">
+<item slot="1" text="deciding what you want ." />
+</script>
+<script id="26">
+<item slot="1" text="decide what you want ." />
+<item slot="2" text="get the ingredients ." />
+<item slot="3" text="read the recipie ." />
+<item slot="4" text="follow the instructions ." />
+</script>
+<script id="27">
+<item slot="1" text="deciding what you want ." />
+</script>
+<script id="28">
+<item slot="1" text="decide what you want ." />
+<item slot="2" text="get the ingredients ." />
+<item slot="3" text="read the recipie ." />
+<item slot="4" text="follow the instructions ." />
+</script>
+<script id="29">
+<item slot="1" text="deciding what you want ." />
+</script>
+<script id="30">
+<item slot="1" text="decide what you want ." />
+<item slot="2" text="get the ingredients ." />
+<item slot="3" text="read the recipie ." />
+<item slot="4" text="follow the instructions ." />
+</script>
+<script id="31">
+<item slot="1" text="deciding what you want ." />
+</script>
+<script id="32">
+<item slot="1" text="decide what you want ." />
+<item slot="2" text="get the ingredients ." />
+<item slot="3" text="read the recipie ." />
+<item slot="4" text="follow the instructions ." />
+</script>
+<script id="33">
+<item slot="1" text="get pots and pans ." />
+<item slot="2" text="get food ." />
+<item slot="3" text="start cooking food ." />
+<item slot="4" text="watch over food ." />
+<item slot="5" text="get eating utensils and serve meal ." />
+</script>
+<script id="34">
+<item slot="1" text="cracking the eggs ." />
+<item slot="2" text="frying the eggs ." />
+<item slot="3" text="opening the bacon ." />
+<item slot="4" text="frying the bacon ." />
+<item slot="5" text="putting bread in the toaster ." />
+<item slot="6" text="buttering the bread ." />
+<item slot="7" text="and serving ." />
+</script>
+<script id="35">
+<item slot="1" text="cracking the eggs ." />
+<item slot="2" text="frying the eggs ." />
+<item slot="3" text="opening the bacon ." />
+<item slot="4" text="frying the bacon ." />
+<item slot="5" text="putting bread in the toaster ." />
+<item slot="6" text="buttering the bread ." />
+<item slot="7" text="and serving ." />
+</script>
+<script id="36">
+<item slot="1" text="get ingredients ." />
+<item slot="2" text="mix ingredients ." />
+</script>
+<script id="37">
+<item slot="1" text="get ingredients ." />
+<item slot="2" text="mix ingredients ." />
+</script>
+<script id="38">
+<item slot="1" text="select the menu item ." />
+<item slot="2" text="see the making procedure ." />
+<item slot="3" text="make breakfast ." />
+</script>
+<script id="39">
+<item slot="1" text="get milk from fridge ." />
+<item slot="2" text="get box of cereal from cabinate ." />
+<item slot="3" text="get bowl from dish washer ." />
+<item slot="4" text="pour cereal into bowl ." />
+<item slot="5" text="pour milk on to cereal ." />
+</script>
+<script id="40">
+<item slot="1" text="turn on stove ." />
+<item slot="2" text="oil the pan ." />
+<item slot="3" text="break two eggs into pan ." />
+<item slot="4" text="cook the eggs until done ." />
+<item slot="5" text="pour milk into a glass ." />
+<item slot="6" text="drink the milk and eat the eggs ." />
+<item slot="7" text="wash the dishes and the pan ." />
+</script>
+<script id="41">
+<item slot="1" text="remove 2 slices of bread from bag ." />
+<item slot="2" text="place bread in toaster and toast ." />
+<item slot="3" text="remove from toaster ." />
+<item slot="4" text="place toast on plate ." />
+<item slot="5" text="spread butter on toast ." />
+<item slot="6" text="spread jam on toast ." />
+<item slot="7" text="place plate on table ." />
+</script>
+<script id="42">
+<item slot="1" text="take cereal box from cupboard ." />
+<item slot="2" text="take bowl from cupboard ." />
+<item slot="3" text="pour cereal into bowl ." />
+<item slot="4" text="take spoon out of drawer ." />
+<item slot="5" text="take milk out of fridge ." />
+<item slot="6" text="pour milk over cereal ." />
+<item slot="7" text="cereal is ready to eat ." />
+</script>
+<script id="43">
+<item slot="1" text="fry bacon ." />
+<item slot="2" text="fry eggs ." />
+<item slot="3" text="fry hashbrowns ." />
+<item slot="4" text="toast bread ." />
+<item slot="5" text="plate all food items when done ." />
+<item slot="6" text="pour juice ." />
+</script>
+<script id="44">
+<item slot="1" text="warm up the toaster ." />
+<item slot="2" text="take out the waffles ." />
+<item slot="3" text="put waffles in the toaster ." />
+<item slot="4" text="wait a couple of minutes ." />
+<item slot="5" text="take waffles out ." />
+<item slot="6" text="put waffles on a plate ." />
+<item slot="7" text="pour syrup and eat ." />
+</script>
+<script id="45">
+<item slot="1" text="choose a recipe ." />
+<item slot="2" text="verify ingredient availability ." />
+<item slot="3" text="follow recipe ." />
+<item slot="4" text="clean up as food cooks (if cooking is a step) ." />
+<item slot="5" text="serve ." />
+</script>
+<script id="46">
+<item slot="1" text="make coffee or tea ." />
+<item slot="2" text="pour juice ." />
+<item slot="3" text="make eggs ." />
+<item slot="4" text="fried sausage or ham ." />
+<item slot="5" text="toast bread ." />
+<item slot="6" text="butter the bread ." />
+<item slot="7" text="eat ." />
+</script>
+<script id="47">
+<item slot="1" text="make toast ." />
+<item slot="2" text="pour milk ." />
+<item slot="3" text="pour juice ." />
+<item slot="4" text="make eggs ." />
+<item slot="5" text="make beacon ." />
+<item slot="6" text="have fruit on side ." />
+<item slot="7" text="serve ." />
+</script>
+<script id="48">
+<item slot="1" text="get a bowl ." />
+<item slot="2" text="get the cereal ." />
+<item slot="3" text="put the cereal in the bowl ." />
+<item slot="4" text="get the milk ." />
+<item slot="5" text="put the milk in the bowl ." />
+<item slot="6" text="get a spoon ." />
+<item slot="7" text="eat the cereal ." />
+</script>
+<script id="49">
+<item slot="1" text="get a bowl ." />
+<item slot="2" text="get the cereal ." />
+<item slot="3" text="put the cereal in the bowl ." />
+<item slot="4" text="get the milk ." />
+<item slot="5" text="put the milk in the bowl ." />
+<item slot="6" text="get a spoon ." />
+<item slot="7" text="eat the cereal ." />
+</script>
+<script id="50">
+<item slot="1" text="put bread in toaster ." />
+<item slot="2" text="toast bread ." />
+<item slot="3" text="butter bread ." />
+<item slot="4" text="spread jam on bread ." />
+<item slot="5" text="eat ." />
+</script>
+<script id="51">
+<item slot="1" text="put bread in toaster ." />
+<item slot="2" text="toast bread ." />
+<item slot="3" text="butter bread ." />
+<item slot="4" text="spread jam on bread ." />
+<item slot="5" text="eat ." />
+</script>
+<script id="52">
+<item slot="1" text="put bread in toaster ." />
+<item slot="2" text="toast bread ." />
+<item slot="3" text="butter bread ." />
+<item slot="4" text="spread jam on bread ." />
+<item slot="5" text="eat ." />
+</script>
+<script id="53">
+<item slot="1" text="put bread in toaster ." />
+<item slot="2" text="toast bread ." />
+<item slot="3" text="butter bread ." />
+<item slot="4" text="spread jam on bread ." />
+<item slot="5" text="eat ." />
+</script>
+<script id="54">
+<item slot="1" text="get bread ." />
+<item slot="2" text="put slice of bread in toaster ." />
+<item slot="3" text="toast bread ." />
+<item slot="4" text="butter bread ." />
+<item slot="5" text="eat toast ." />
+</script>
+<script id="55">
+<item slot="1" text="get bread ." />
+<item slot="2" text="put slice of bread in toaster ." />
+<item slot="3" text="toast bread ." />
+<item slot="4" text="butter bread ." />
+<item slot="5" text="eat toast ." />
+</script>
+<script id="56">
+<item slot="1" text="get bread ." />
+<item slot="2" text="put slice of bread in toaster ." />
+<item slot="3" text="toast bread ." />
+<item slot="4" text="butter bread ." />
+<item slot="5" text="eat toast ." />
+</script>
+<script id="57">
+<item slot="1" text="take food ." />
+<item slot="2" text="cook food ." />
+</script>
+<script id="58">
+<item slot="1" text="break eggs into pan ." />
+<item slot="2" text="scramble eggs until cooked ." />
+<item slot="3" text="serve scrambled eggs ." />
+</script>
+</scripts>

@@ -1,0 +1,346 @@
+<scripts>
+<script id="1">
+<item slot="1" text="wash cut ." />
+<item slot="2" text="open band aid ." />
+<item slot="3" text="place band aid over cut ." />
+</script>
+<script id="2">
+<item slot="1" text="locate a package of band aids ." />
+<item slot="2" text="remove a band aid from the package ." />
+<item slot="3" text="remove a band aid from its protective covering ." />
+<item slot="4" text="peel off the backing of the band aid ." />
+<item slot="5" text="apply the band aid to the skin ." />
+</script>
+<script id="3">
+<item slot="1" text="open a band aid ." />
+<item slot="2" text="stick band aid to wound ." />
+</script>
+<script id="4">
+<item slot="1" text="find a band aid ." />
+<item slot="2" text="open the band aid ." />
+<item slot="3" text="find the cut ." />
+<item slot="4" text="put the band aid on the cut ." />
+<item slot="5" text="tear off the protection paper ." />
+<item slot="6" text="affix the band aid on the skin ." />
+</script>
+<script id="5">
+<item slot="1" text="remove band aid from wrap ." />
+<item slot="2" text="apply band aid ." />
+</script>
+<script id="6">
+<item slot="1" text="find a band aid ." />
+<item slot="2" text="remove band aid from packaging ." />
+<item slot="3" text="remove non-stick backing from band aid ." />
+<item slot="4" text="press band aid lightly onto a person s wound ." />
+</script>
+<script id="7">
+<item slot="1" text="find the injury ." />
+<item slot="2" text="select an appropriate band aid ." />
+<item slot="3" text="remove wrapper from band aid ." />
+<item slot="4" text="remove cover for band aid adhesives ." />
+<item slot="5" text="press band aid against the injury ." />
+</script>
+<script id="8">
+<item slot="1" text="take a band aid out of the box ." />
+<item slot="2" text="unpack the band aid ." />
+<item slot="3" text="take the white strips off the band aid (making sure not to touch the part that will touch the wound) ." />
+<item slot="4" text="put band aid  on the wound ." />
+</script>
+<script id="9">
+<item slot="1" text="get band aid ." />
+<item slot="2" text="remove cover ." />
+<item slot="3" text="place band aid on wound ." />
+<item slot="4" text="press band aid to attach to skin ." />
+</script>
+<script id="10">
+<item slot="1" text="inspect the wound ." />
+<item slot="2" text="clean the wound ." />
+<item slot="3" text="open the bandaid package ." />
+<item slot="4" text="place the bandaid on the wound ." />
+<item slot="5" text="throw away the packaging ." />
+</script>
+<script id="11">
+<item slot="1" text="clean affected area ." />
+<item slot="2" text="get band aid ." />
+<item slot="3" text="remove band aid packaging ." />
+<item slot="4" text="put on band aid so that it covers affected area ." />
+</script>
+<script id="12">
+<item slot="1" text="get plasters ." />
+<item slot="2" text="clean wound ." />
+<item slot="3" text="put on plaster ." />
+</script>
+<script id="13">
+<item slot="1" text="locate a band aid ." />
+<item slot="2" text="locate the location for the band aid to be placed ." />
+<item slot="3" text="remove protective paper from back of band aid ." />
+<item slot="4" text="apply adhesive of band aid to skin ." />
+</script>
+<script id="14">
+<item slot="1" text="go to the aid kit ." />
+<item slot="2" text="pick a band aid ." />
+<item slot="3" text="choose place to put it ." />
+<item slot="4" text="apply the band aid ." />
+</script>
+<script id="15">
+<item slot="1" text="aquire band-aid ." />
+<item slot="2" text="locate wound ." />
+<item slot="3" text="remove adhesive strips ." />
+<item slot="4" text="press band-aid on wound ." />
+</script>
+<script id="16">
+<item slot="1" text="locate band aid ." />
+<item slot="2" text="remove packaging around band aid ." />
+<item slot="3" text="place band aid over wound ." />
+<item slot="4" text="apply pressure to band aid ." />
+</script>
+<script id="17">
+<item slot="1" text="buy a band aid ." />
+<item slot="2" text="take it out of the cover ." />
+<item slot="3" text="peel the strips covering the adhesive portion ." />
+<item slot="4" text="put it on the wound ." />
+</script>
+<script id="18">
+<item slot="1" text="remove bandaid wrapper ." />
+<item slot="2" text="remove adhesive strips ." />
+<item slot="3" text="apply bandaid to wound ." />
+</script>
+<script id="19">
+<item slot="1" text="cry over injury ." />
+<item slot="2" text="find antibacterial medicines ." />
+<item slot="3" text="apply medicines ." />
+<item slot="4" text="discern need to cover wound ." />
+<item slot="5" text="find bandaids ." />
+<item slot="6" text="remove bandaid from packet ." />
+<item slot="7" text="apply bandaid ." />
+</script>
+<script id="20">
+<item slot="1" text="rip open package ." />
+<item slot="2" text="peel off adhesive paper ." />
+<item slot="3" text="apply band aid ." />
+</script>
+<script id="21">
+<item slot="1" text="remove protective wrapper ." />
+<item slot="2" text="remove protective plastic ." />
+<item slot="3" text="apply band aid ." />
+</script>
+<script id="22">
+<item slot="1" text="remove protective wrapper ." />
+<item slot="2" text="remove protective plastic ." />
+<item slot="3" text="apply band aid ." />
+</script>
+<script id="23">
+<item slot="1" text="remove protective wrapper ." />
+<item slot="2" text="remove protective plastic ." />
+<item slot="3" text="apply band aid ." />
+</script>
+<script id="24">
+<item slot="1" text="remove protective wrapper ." />
+<item slot="2" text="remove protective plastic ." />
+<item slot="3" text="apply band aid ." />
+</script>
+<script id="25">
+<item slot="1" text="remove protective wrapper ." />
+<item slot="2" text="remove protective plastic ." />
+<item slot="3" text="apply band aid ." />
+</script>
+<script id="26">
+<item slot="1" text="remove protective wrapper ." />
+<item slot="2" text="remove protective plastic ." />
+<item slot="3" text="apply band aid ." />
+</script>
+<script id="27">
+<item slot="1" text="remove protective wrapper ." />
+<item slot="2" text="remove protective plastic ." />
+<item slot="3" text="apply band aid ." />
+</script>
+<script id="28">
+<item slot="1" text="remove protective wrapper ." />
+<item slot="2" text="remove protective plastic ." />
+<item slot="3" text="apply band aid ." />
+</script>
+<script id="29">
+<item slot="1" text="clean wound ." />
+<item slot="2" text="dry wound ." />
+<item slot="3" text="unwrap band aid ." />
+<item slot="4" text="place on wound ." />
+</script>
+<script id="30">
+<item slot="1" text="take band aid from wrapper ." />
+<item slot="2" text="place band aid on wound ." />
+</script>
+<script id="31">
+<item slot="1" text="take band aid from wrapper ." />
+<item slot="2" text="place band aid on wound ." />
+</script>
+<script id="32">
+<item slot="1" text="taking band aid from box ." />
+<item slot="2" text="cleaning the are you put the bandaid ." />
+<item slot="3" text="taking wraper of of bandaid ." />
+<item slot="4" text="apply to area you want it ." />
+</script>
+<script id="33">
+<item slot="1" text="find wound ." />
+<item slot="2" text="wash out the wound and dry it ." />
+<item slot="3" text="or wipe with alcohol ." />
+<item slot="4" text="unwrap bandaid ." />
+<item slot="5" text="remove flaps ." />
+<item slot="6" text="place gauzy part over wound ." />
+<item slot="7" text="gently press sticky part to hold band aid in place ." />
+</script>
+<script id="34">
+<item slot="1" text="open band aid box ." />
+<item slot="2" text="remove band aid ." />
+<item slot="3" text="take wrapper off band aid ." />
+<item slot="4" text="remove strips on sticky part ." />
+<item slot="5" text="place band aid on wound ." />
+</script>
+<script id="35">
+<item slot="1" text="open band aid box ." />
+<item slot="2" text="remove band aid ." />
+<item slot="3" text="take wrapper off band aid ." />
+<item slot="4" text="remove strips on sticky part ." />
+<item slot="5" text="place band aid on wound ." />
+</script>
+<script id="36">
+<item slot="1" text="clean the wound ." />
+<item slot="2" text="take the wax paper on one side off ." />
+<item slot="3" text="place the piece of fabric from the band aid over the wound and stick the one revealed side down ." />
+<item slot="4" text="take off wax paper on the other side off ." />
+<item slot="5" text="stick ban aid down ." />
+</script>
+<script id="37">
+<item slot="1" text="clean area where bandaid will be applied ." />
+<item slot="2" text="dry the area ." />
+<item slot="3" text="open bandage package ." />
+<item slot="4" text="take plastic off sticky tabs ." />
+<item slot="5" text="place bandage over cut and press onto skin ." />
+</script>
+<script id="38">
+<item slot="1" text="clean area where bandaid will be applied ." />
+<item slot="2" text="dry the area ." />
+<item slot="3" text="open bandage package ." />
+<item slot="4" text="take plastic off sticky tabs ." />
+<item slot="5" text="place bandage over cut and press onto skin ." />
+</script>
+<script id="39">
+<item slot="1" text="clean area where bandaid will be applied ." />
+<item slot="2" text="dry the area ." />
+<item slot="3" text="open bandage package ." />
+<item slot="4" text="take plastic off sticky tabs ." />
+<item slot="5" text="place bandage over cut and press onto skin ." />
+</script>
+<script id="40">
+<item slot="1" text="clean area where bandaid will be applied ." />
+<item slot="2" text="dry the area ." />
+<item slot="3" text="open bandage package ." />
+<item slot="4" text="take plastic off sticky tabs ." />
+<item slot="5" text="place bandage over cut and press onto skin ." />
+</script>
+<script id="41">
+<item slot="1" text="clean area where bandaid will be applied ." />
+<item slot="2" text="dry the area ." />
+<item slot="3" text="open bandage package ." />
+<item slot="4" text="take plastic off sticky tabs ." />
+<item slot="5" text="place bandage over cut and press onto skin ." />
+</script>
+<script id="42">
+<item slot="1" text="clean area where bandaid will be applied ." />
+<item slot="2" text="dry the area ." />
+<item slot="3" text="open bandage package ." />
+<item slot="4" text="take plastic off sticky tabs ." />
+<item slot="5" text="place bandage over cut and press onto skin ." />
+</script>
+<script id="43">
+<item slot="1" text="remove band aid from package ." />
+</script>
+<script id="44">
+<item slot="1" text="wash wound ." />
+<item slot="2" text="apply disinfectant ." />
+<item slot="3" text="open bandaid ." />
+<item slot="4" text="pull paper of tape ." />
+<item slot="5" text="apply to finger with the cotton part over the wound ." />
+</script>
+<script id="45">
+<item slot="1" text="peel open band aid ." />
+<item slot="2" text="gently place over cut ." />
+<item slot="3" text="apply pressure to make sure bandaid is stuck onto skin ." />
+</script>
+<script id="46">
+<item slot="1" text="clean wound ." />
+<item slot="2" text="dry wound ." />
+<item slot="3" text="get band aid ." />
+<item slot="4" text="open band aid ." />
+<item slot="5" text="put band aid on wound ." />
+</script>
+<script id="47">
+<item slot="1" text="clean wound ." />
+<item slot="2" text="dry wound ." />
+<item slot="3" text="get band aid ." />
+<item slot="4" text="open band aid ." />
+<item slot="5" text="put band aid on wound ." />
+</script>
+<script id="48">
+<item slot="1" text="rinse the wound ." />
+<item slot="2" text="clean the wound with alcohol swab ." />
+<item slot="3" text="find a proper size bandaid ." />
+<item slot="4" text="open bandaid wrapper ." />
+<item slot="5" text="apply bandaid ." />
+<item slot="6" text="press down ." />
+<item slot="7" text="keep bandaid dry ." />
+</script>
+<script id="49">
+<item slot="1" text="clean cut ." />
+<item slot="2" text="get banaid ." />
+<item slot="3" text="open bandaid ." />
+<item slot="4" text="put bandaid on cut ." />
+</script>
+<script id="50">
+<item slot="1" text="clean cut ." />
+<item slot="2" text="get banaid ." />
+<item slot="3" text="open bandaid ." />
+<item slot="4" text="put bandaid on cut ." />
+</script>
+<script id="51">
+<item slot="1" text="clean cut ." />
+<item slot="2" text="get banaid ." />
+<item slot="3" text="open bandaid ." />
+<item slot="4" text="put bandaid on cut ." />
+</script>
+<script id="52">
+<item slot="1" text="find a bandaid ." />
+<item slot="2" text="get correct size ." />
+<item slot="3" text="apply to area ." />
+</script>
+<script id="53">
+<item slot="1" text="find a bandaid ." />
+<item slot="2" text="get correct size ." />
+<item slot="3" text="apply to area ." />
+</script>
+<script id="54">
+<item slot="1" text="clean wound ." />
+<item slot="2" text="get bandaid ." />
+<item slot="3" text="open wrapper ." />
+<item slot="4" text="open bandaid ." />
+<item slot="5" text="put bandaid on cut ." />
+</script>
+<script id="55">
+<item slot="1" text="clean wound ." />
+<item slot="2" text="get bandaid ." />
+<item slot="3" text="open wrapper ." />
+<item slot="4" text="open bandaid ." />
+<item slot="5" text="put bandaid on cut ." />
+</script>
+<script id="56">
+<item slot="1" text="clean wound ." />
+<item slot="2" text="get bandaid ." />
+<item slot="3" text="open wrapper ." />
+<item slot="4" text="open bandaid ." />
+<item slot="5" text="put bandaid on cut ." />
+</script>
+<script id="57">
+<item slot="1" text="remove bandaid from box ." />
+<item slot="2" text="open wrapper ." />
+<item slot="3" text="place band aid on wound ." />
+</script>
+</scripts>

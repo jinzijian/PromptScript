@@ -1,0 +1,229 @@
+<scripts>
+<script id="1">
+<item slot="1" text="remove dirty dishes ." />
+<item slot="2" text="clean sink ." />
+</script>
+<script id="2">
+<item slot="1" text="remove each item from the kitchen sink ." />
+</script>
+<script id="3">
+<item slot="1" text="washing the items in the sink ." />
+<item slot="2" text="moving the items in the sink to somewhere else ." />
+<item slot="3" text="draining the water from the sink ." />
+</script>
+<script id="4">
+<item slot="1" text="remove all dishes from sink ." />
+<item slot="2" text="allow water to drain ." />
+</script>
+<script id="5">
+<item slot="1" text="take all the pots and pans out the sink ." />
+<item slot="2" text="take dishcloth out the sink ." />
+<item slot="3" text="pull the plug out ." />
+</script>
+<script id="6">
+<item slot="1" text="determine what is in sink ." />
+<item slot="2" text="remove objects ." />
+<item slot="3" text="inpspect objects ." />
+<item slot="4" text="clean as necessary ." />
+</script>
+<script id="7">
+<item slot="1" text="roll up sleeve ." />
+<item slot="2" text="put hand in water ." />
+<item slot="3" text="pull plug ." />
+<item slot="4" text="let water run out of sink ." />
+</script>
+<script id="8">
+<item slot="1" text="pick up an item in the sink ." />
+<item slot="2" text="store the item where it belongs ." />
+<item slot="3" text="repeat until the sink is empty ." />
+</script>
+<script id="9">
+<item slot="1" text="go to the kitchen ." />
+<item slot="2" text="take contents out of the kitchen sink ." />
+<item slot="3" text="pull the plug out of the sink ." />
+</script>
+<script id="10">
+<item slot="1" text="get out the object inside the sink ." />
+</script>
+<script id="11">
+<item slot="1" text="take away all the stuff from the kitchen sink ." />
+<item slot="2" text="clean the kitchen sink ." />
+</script>
+<script id="12">
+<item slot="1" text="wash all bowls and dishes in the kitchen sink ." />
+<item slot="2" text="put small amounts of food into the garbarge ." />
+<item slot="3" text="rinse sink with hot water ." />
+</script>
+<script id="13">
+<item slot="1" text="place hand in sink ." />
+<item slot="2" text="find the drain plug ." />
+<item slot="3" text="remove drain plug from drain ." />
+<item slot="4" text="wait until water is no longer in the sink ." />
+</script>
+<script id="14">
+<item slot="1" text="pull the stopper up ." />
+</script>
+<script id="15">
+<item slot="1" text="wash the dishes ." />
+<item slot="2" text="drythem ." />
+<item slot="3" text="put them away ." />
+</script>
+<script id="16">
+<item slot="1" text="wash the dishes ." />
+<item slot="2" text="drythem ." />
+<item slot="3" text="put them away ." />
+</script>
+<script id="17">
+<item slot="1" text="remove all the object inside the kitchen sink ." />
+</script>
+<script id="18">
+<item slot="1" text="open the dishwasher ." />
+<item slot="2" text="pick up an item from the sink ." />
+<item slot="3" text="put the item in the dishwasher ." />
+<item slot="4" text="repeat 2-3 until sink is empty ." />
+<item slot="5" text="close the dishwasher ." />
+</script>
+<script id="19">
+<item slot="1" text="clean the dishes in the sink ." />
+<item slot="2" text="dry the dishes ." />
+<item slot="3" text="put them away ." />
+</script>
+<script id="20">
+<item slot="1" text="turn on the water ." />
+<item slot="2" text="put dish soap on a dish cloth ." />
+<item slot="3" text="wash the dishes in the sink ." />
+<item slot="4" text="put dishes in dish strainer ." />
+<item slot="5" text="when dishes finished rinse the sink ." />
+</script>
+<script id="21">
+<item slot="1" text="empty dishes from sink ." />
+</script>
+<script id="22">
+<item slot="1" text="pull drain slightly up and turn so it becomes a strainer ." />
+<item slot="2" text="once all the water has left the sink ." />
+<item slot="3" text="rinse the sink ." />
+<item slot="4" text="empty the drain ." />
+</script>
+<script id="23">
+<item slot="1" text="pull drain slightly up and turn so it becomes a strainer ." />
+<item slot="2" text="once all the water has left the sink ." />
+<item slot="3" text="rinse the sink ." />
+<item slot="4" text="empty the drain ." />
+</script>
+<script id="24">
+<item slot="1" text="pull drain slightly up and turn so it becomes a strainer ." />
+<item slot="2" text="once all the water has left the sink ." />
+<item slot="3" text="rinse the sink ." />
+<item slot="4" text="empty the drain ." />
+</script>
+<script id="25">
+<item slot="1" text="pull drain slightly up and turn so it becomes a strainer ." />
+<item slot="2" text="once all the water has left the sink ." />
+<item slot="3" text="rinse the sink ." />
+<item slot="4" text="empty the drain ." />
+</script>
+<script id="26">
+<item slot="1" text="pull drain slightly up and turn so it becomes a strainer ." />
+<item slot="2" text="once all the water has left the sink ." />
+<item slot="3" text="rinse the sink ." />
+<item slot="4" text="empty the drain ." />
+</script>
+<script id="27">
+<item slot="1" text="pull drain slightly up and turn so it becomes a strainer ." />
+<item slot="2" text="once all the water has left the sink ." />
+<item slot="3" text="rinse the sink ." />
+<item slot="4" text="empty the drain ." />
+</script>
+<script id="28">
+<item slot="1" text="put detergent on sponge ." />
+<item slot="2" text="wash pots first ." />
+<item slot="3" text="then wash large plates ." />
+<item slot="4" text="wash knifes and forks ." />
+<item slot="5" text="wash cup last ." />
+<item slot="6" text="put washed in cupboard ." />
+<item slot="7" text="rinse sink ." />
+</script>
+<script id="29">
+<item slot="1" text="go to the sink ." />
+<item slot="2" text="open the sink outlet ." />
+<item slot="3" text="empty the sink ." />
+</script>
+<script id="30">
+<item slot="1" text="go to the sink ." />
+<item slot="2" text="open the sink outlet ." />
+<item slot="3" text="empty the sink ." />
+</script>
+<script id="31">
+<item slot="1" text="gather the contents of the sink ." />
+<item slot="2" text="take a rag ." />
+<item slot="3" text="wet the rag ." />
+<item slot="4" text="apply soap ." />
+<item slot="5" text="scrub the dishes ." />
+<item slot="6" text="wash off the dishes ." />
+<item slot="7" text="remove dishes and dry them ." />
+</script>
+<script id="32">
+<item slot="1" text="gather the contents of the sink ." />
+<item slot="2" text="take a rag ." />
+<item slot="3" text="wet the rag ." />
+<item slot="4" text="apply soap ." />
+<item slot="5" text="scrub the dishes ." />
+<item slot="6" text="wash off the dishes ." />
+<item slot="7" text="remove dishes and dry them ." />
+</script>
+<script id="33">
+<item slot="1" text="gather the contents of the sink ." />
+<item slot="2" text="take a rag ." />
+<item slot="3" text="wet the rag ." />
+<item slot="4" text="apply soap ." />
+<item slot="5" text="scrub the dishes ." />
+<item slot="6" text="wash off the dishes ." />
+<item slot="7" text="remove dishes and dry them ." />
+</script>
+<script id="34">
+<item slot="1" text="gather the contents of the sink ." />
+<item slot="2" text="take a rag ." />
+<item slot="3" text="wet the rag ." />
+<item slot="4" text="apply soap ." />
+<item slot="5" text="scrub the dishes ." />
+<item slot="6" text="wash off the dishes ." />
+<item slot="7" text="remove dishes and dry them ." />
+</script>
+<script id="35">
+<item slot="1" text="remove dishes from the sink ." />
+<item slot="2" text="rinse the sink down til it looks clean ." />
+<item slot="3" text="with water still running turn on the garbage disposal ." />
+<item slot="4" text="turn off disposal and water ." />
+</script>
+<script id="36">
+<item slot="1" text="set up dishrack ." />
+</script>
+<script id="37">
+<item slot="1" text="set up dishrack ." />
+<item slot="2" text="pick up an item from the sink ." />
+<item slot="3" text="wash the item ." />
+<item slot="4" text="dry with tea towel ." />
+<item slot="5" text="find place it will fit in dishrack ." />
+<item slot="6" text="place it there ." />
+<item slot="7" text="repeat until sink is empty ." />
+</script>
+<script id="38">
+<item slot="1" text="remove dishes from sink ." />
+<item slot="2" text="open drain ." />
+<item slot="3" text="let water drain ." />
+</script>
+<script id="39">
+<item slot="1" text="remove dishes from sink ." />
+<item slot="2" text="open drain ." />
+<item slot="3" text="let water drain ." />
+</script>
+<script id="40">
+<item slot="1" text="remove dishes from sink ." />
+<item slot="2" text="open drain ." />
+<item slot="3" text="let water drain ." />
+</script>
+<script id="41">
+<item slot="1" text="wash dishes ." />
+<item slot="2" text="place on dish rack ." />
+</script>
+</scripts>

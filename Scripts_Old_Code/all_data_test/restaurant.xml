@@ -1,0 +1,25 @@
+<scripts><script id="16">
+<item slot="1" text="Enter restaurant"/>
+<item slot="2" text="See hostess for seating"/>
+<item slot="3" text="Sit at table"/>
+<item slot="4" text="Review menu options"/>
+<item slot="5" text="Greet server"/>
+<item slot="6" text="Order beverage with server"/>
+<item slot="7" text="Receive beverage from server"/>
+<item slot="8" text="Order meal option with server"/>
+<item slot="9" text="Receive meal from server"/>
+<item slot="10" text="Eat meal"/>
+<item slot="11" text="Server brings check"/>
+<item slot="12" text="Pay with credit card or cash"/>
+<item slot="13" text="Place payment in check holder"/>
+<item slot="14" text="Server will pick up payment"/>
+<item slot="15" text="Server bring change or receipt"/>
+<item slot="16" text="Leave tip"/>
+<item slot="17" text="Leave restaurant"/>
+<!-- Corrections:
+	Recieve  -> Receive
+	checkholder -> check holder
+	reciept -> receipt
+	separated tip and restaurant (MR)
+-->
+</script></scripts>

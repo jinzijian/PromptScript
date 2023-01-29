@@ -1,0 +1,337 @@
+<scripts>
+<script id="1">
+<item slot="1" text="get plunger ." />
+<item slot="2" text="use plunger ." />
+<item slot="3" text="flush ." />
+</script>
+<script id="2">
+<item slot="1" text="get a plunger ." />
+<item slot="2" text="stick the business end of the plunger into the clogged toilet ." />
+<item slot="3" text="use the plunger to suck out the clogging matter ." />
+<item slot="4" text="flush the toilet ." />
+<item slot="5" text="rinse off the plunger ." />
+<item slot="6" text="replace the plunger ." />
+</script>
+<script id="3">
+<item slot="1" text="get plunger ." />
+<item slot="2" text="put plunger in toilet bowl ." />
+<item slot="3" text="move plunger up and down ." />
+<item slot="4" text="remove plunger ." />
+<item slot="5" text="flush tiolet ." />
+</script>
+<script id="4">
+<item slot="1" text="take the plunger ." />
+<item slot="2" text="plunge the toilet ." />
+<item slot="3" text="flush the toilet ." />
+<item slot="4" text="put plunger away ." />
+</script>
+<script id="5">
+<item slot="1" text="find the clogged toilet ." />
+<item slot="2" text="find a toilet plunger ." />
+<item slot="3" text="place the bottom of the toilet plunger inside the toilet over the drain ." />
+<item slot="4" text="push the plunger downward quickly ." />
+<item slot="5" text="repeat until the toilet is unclogged ." />
+</script>
+<script id="6">
+<item slot="1" text="get a toilet plunger ." />
+<item slot="2" text="insert the plunger into the toilet ." />
+<item slot="3" text="move the plunger s handle up and down ." />
+<item slot="4" text="stop when the toilet is unclogged ." />
+</script>
+<script id="7">
+<item slot="1" text="open toilet lid ." />
+<item slot="2" text="get plunger ." />
+<item slot="3" text="plunge toilet until clog is opened ." />
+</script>
+<script id="8">
+<item slot="1" text="remove solid waste ." />
+<item slot="2" text="insert plunger ." />
+<item slot="3" text="pump water in pipe until pipe is clear ." />
+<item slot="4" text="clean up ." />
+</script>
+<script id="9">
+<item slot="1" text="pump the toilet to unclog ." />
+</script>
+<script id="10">
+<item slot="1" text="push the plunger into the clogged toilet ." />
+<item slot="2" text="flush the toilet ." />
+<item slot="3" text="repeatedly push the plunger ." />
+</script>
+<script id="11">
+<item slot="1" text="place plunger in toilet ." />
+<item slot="2" text="push plunger in and out ." />
+</script>
+<script id="12">
+<item slot="1" text="get the plunger ." />
+<item slot="2" text="put it in the toilet ." />
+<item slot="3" text="move it up and down ." />
+</script>
+<script id="13">
+<item slot="1" text="get the plunger ." />
+<item slot="2" text="put it in the toilet ." />
+<item slot="3" text="move it up and down ." />
+</script>
+<script id="14">
+<item slot="1" text="get the plunger ." />
+<item slot="2" text="put it in the toilet ." />
+<item slot="3" text="move it up and down ." />
+</script>
+<script id="15">
+<item slot="1" text="get the plunger ." />
+<item slot="2" text="put it in the toilet ." />
+<item slot="3" text="move it up and down ." />
+</script>
+<script id="16">
+<item slot="1" text="get the plunger ." />
+<item slot="2" text="put it in the toilet ." />
+<item slot="3" text="move it up and down ." />
+</script>
+<script id="17">
+<item slot="1" text="use hand or plunger to move the blockin material in farther of remove ." />
+<item slot="2" text="flush toilet to clear ." />
+<item slot="3" text="mop up florr ." />
+</script>
+<script id="18">
+<item slot="1" text="buy toilet plunger ." />
+<item slot="2" text="point plunger large side down ." />
+<item slot="3" text="put plunger in toilet ." />
+<item slot="4" text="push up and down ." />
+<item slot="5" text="keep pushing until water seeps down drain ." />
+<item slot="6" text="flush toilet ." />
+<item slot="7" text="flush toilet again ." />
+</script>
+<script id="19">
+<item slot="1" text="get the plunger ." />
+<item slot="2" text="place plunger in toilet ." />
+<item slot="3" text="press down with plunger ." />
+<item slot="4" text="repeat until water drains from bowl ." />
+<item slot="5" text="flush toilet ." />
+<item slot="6" text="clean plunger ." />
+</script>
+<script id="20">
+<item slot="1" text="plung toilet ." />
+<item slot="2" text="flush toilet ." />
+</script>
+<script id="21">
+<item slot="1" text="lift seat ." />
+<item slot="2" text="place plunger in toilet bowl ." />
+<item slot="3" text="push down on plunger ." />
+<item slot="4" text="lift up on pluger ." />
+<item slot="5" text="repeat 4 and 5 until clog clears ." />
+</script>
+<script id="22">
+<item slot="1" text="clog the toilet ." />
+<item slot="2" text="get the plunger ." />
+<item slot="3" text="press the plunger in the hole ." />
+<item slot="4" text="flush the toilet ." />
+<item slot="5" text="if not unclogged repeat steps ." />
+</script>
+<script id="23">
+<item slot="1" text="clog the toilet ." />
+<item slot="2" text="get the plunger ." />
+<item slot="3" text="press the plunger in the hole ." />
+<item slot="4" text="flush the toilet ." />
+<item slot="5" text="if not unclogged repeat steps ." />
+</script>
+<script id="24">
+<item slot="1" text="goto toilet ." />
+<item slot="2" text="plung toilet until uncloggeed ." />
+</script>
+<script id="25">
+<item slot="1" text="use flexible rod ." />
+<item slot="2" text="poke rod down toilet repeatedly until blockage clears ." />
+<item slot="3" text="flush toilet to ensure blockage has gone ." />
+</script>
+<script id="26">
+<item slot="1" text="put plunger into toliet ." />
+<item slot="2" text="push down an plunger ." />
+<item slot="3" text="push down an pluger more ." />
+<item slot="4" text="try fushing toliet ." />
+<item slot="5" text="if toliet flushes rinse plunger ." />
+<item slot="6" text="wash up ." />
+</script>
+<script id="27">
+<item slot="1" text="go into bathroom ." />
+<item slot="2" text="pick up plunger ." />
+<item slot="3" text="place rubber end of plunger in toilet ." />
+<item slot="4" text="push plunger down ." />
+</script>
+<script id="28">
+<item slot="1" text="go into bathroom ." />
+<item slot="2" text="pick up plunger ." />
+<item slot="3" text="place rubber end of plunger in toilet ." />
+<item slot="4" text="push plunger down sharply ." />
+<item slot="5" text="pull plunger up ." />
+<item slot="6" text="repeat 45 ." />
+</script>
+<script id="29">
+<item slot="1" text="get plunger ." />
+<item slot="2" text="put into the toilet ." />
+<item slot="3" text="move plunger up and down ." />
+<item slot="4" text="until clog is removed ." />
+</script>
+<script id="30">
+<item slot="1" text="get plunger ." />
+<item slot="2" text="put into the toilet ." />
+<item slot="3" text="move plunger up and down ." />
+<item slot="4" text="until clog is removed ." />
+</script>
+<script id="31">
+<item slot="1" text="get plunger ." />
+<item slot="2" text="put into the toilet ." />
+<item slot="3" text="move plunger up and down ." />
+<item slot="4" text="until clog is removed ." />
+<item slot="5" text="flush toilet ." />
+</script>
+<script id="32">
+<item slot="1" text="find plunger ." />
+<item slot="2" text="move it up and down ." />
+<item slot="3" text="flush ." />
+</script>
+<script id="33">
+<item slot="1" text="use a clogger ." />
+</script>
+<script id="34">
+<item slot="1" text="use a clogger ." />
+</script>
+<script id="35">
+<item slot="1" text="use a clogger ." />
+</script>
+<script id="36">
+<item slot="1" text="use a clogger ." />
+</script>
+<script id="37">
+<item slot="1" text="use a clogger ." />
+</script>
+<script id="38">
+<item slot="1" text="use a clogger ." />
+</script>
+<script id="39">
+<item slot="1" text="find the plunger ." />
+<item slot="2" text="plunge the toilet until the water level starts to drop ." />
+<item slot="3" text="flush the toilet but be ready to: ." />
+<item slot="4" text="stop the water flow if toilet starts to overflow ." />
+</script>
+<script id="40">
+<item slot="1" text="find the plunger ." />
+<item slot="2" text="plunge the toilet until the water level starts to drop ." />
+<item slot="3" text="flush the toilet but be ready to: ." />
+<item slot="4" text="stop the water flow if toilet starts to overflow ." />
+</script>
+<script id="41">
+<item slot="1" text="find the plunger ." />
+<item slot="2" text="plunge the toilet until the water level starts to drop ." />
+<item slot="3" text="flush the toilet but be ready to: ." />
+<item slot="4" text="stop the water flow if toilet starts to overflow ." />
+</script>
+<script id="42">
+<item slot="1" text="find the plunger ." />
+<item slot="2" text="plunge the toilet until the water level starts to drop ." />
+<item slot="3" text="flush the toilet but be ready to: ." />
+<item slot="4" text="stop the water flow if toilet starts to overflow ." />
+</script>
+<script id="43">
+<item slot="1" text="find the plunger ." />
+<item slot="2" text="plunge the toilet until the water level starts to drop ." />
+<item slot="3" text="flush the toilet but be ready to: ." />
+<item slot="4" text="stop the water flow if toilet starts to overflow ." />
+</script>
+<script id="44">
+<item slot="1" text="find the plunger ." />
+<item slot="2" text="plunge the toilet until the water level starts to drop ." />
+<item slot="3" text="flush the toilet but be ready to: ." />
+<item slot="4" text="stop the water flow if toilet starts to overflow ." />
+</script>
+<script id="45">
+<item slot="1" text="walk ." />
+<item slot="2" text="find the plaming tool ." />
+<item slot="3" text="than put it in the toilet ." />
+<item slot="4" text="than flash one more time to make sure that it not cloged ." />
+</script>
+<script id="46">
+<item slot="1" text="find tools ." />
+<item slot="2" text="unclog toilet ." />
+</script>
+<script id="47">
+<item slot="1" text="use the plunger on the clog ." />
+<item slot="2" text="pour water into the bowl ." />
+<item slot="3" text="when water poured in appears to drain out try to flush the toilet again ." />
+<item slot="4" text="if it doesn t flush repeat steps 1-4 ." />
+<item slot="5" text="if it does flush the clog is gone ." />
+</script>
+<script id="48">
+<item slot="1" text="use plunger on clog ." />
+<item slot="2" text="pour water into bowl ." />
+<item slot="3" text="if water drains flush the toilet ." />
+<item slot="4" text="if not repeat steps 1-3 ." />
+</script>
+<script id="49">
+<item slot="1" text="use plunger on clog ." />
+<item slot="2" text="pour water into bowl ." />
+<item slot="3" text="if water drains flush the toilet ." />
+<item slot="4" text="if not repeat steps 1-3 ." />
+</script>
+<script id="50">
+<item slot="1" text="use plunger on clog ." />
+<item slot="2" text="pour water into bowl ." />
+<item slot="3" text="if water drains flush the toilet ." />
+<item slot="4" text="if not repeat steps 1-3 ." />
+</script>
+<script id="51">
+<item slot="1" text="get plunger ." />
+<item slot="2" text="plunge toilet ." />
+<item slot="3" text="flush toilet ." />
+<item slot="4" text="clean plunger ." />
+<item slot="5" text="put plunger away ." />
+</script>
+<script id="52">
+<item slot="1" text="get plunger ." />
+<item slot="2" text="put in toilet ." />
+<item slot="3" text="move up and down ." />
+<item slot="4" text="remove ." />
+</script>
+<script id="53">
+<item slot="1" text="get plunger ." />
+<item slot="2" text="put in toilet ." />
+<item slot="3" text="move up and down ." />
+<item slot="4" text="remove ." />
+</script>
+<script id="54">
+<item slot="1" text="get plunger ." />
+<item slot="2" text="put in toilet ." />
+<item slot="3" text="move up and down ." />
+<item slot="4" text="remove ." />
+</script>
+<script id="55">
+<item slot="1" text="get plunger ." />
+<item slot="2" text="plunge toilet ." />
+<item slot="3" text="flush toilet ." />
+<item slot="4" text="clean plunger ." />
+<item slot="5" text="put away plunger ." />
+</script>
+<script id="56">
+<item slot="1" text="get plunger ." />
+<item slot="2" text="plunge toilet ." />
+<item slot="3" text="flush toilet ." />
+<item slot="4" text="clean plunger ." />
+<item slot="5" text="put away plunger ." />
+</script>
+<script id="57">
+<item slot="1" text="plunge the toilet to break up the clog ." />
+<item slot="2" text="try pouring a bit of water down the toilet ." />
+<item slot="3" text="if water drains flush the toilet ." />
+<item slot="4" text="if it doesn t flush repeat steps 1-4 ." />
+</script>
+<script id="58">
+<item slot="1" text="plunge the toilet to break up the clog ." />
+<item slot="2" text="try pouring a bit of water down the toilet ." />
+<item slot="3" text="if water drains flush the toilet ." />
+<item slot="4" text="if it doesn t flush repeat steps 1-4 ." />
+</script>
+<script id="59">
+<item slot="1" text="plunge the toilet to break up the clog ." />
+<item slot="2" text="try pouring a bit of water down the toilet ." />
+<item slot="3" text="if water drains flush the toilet ." />
+<item slot="4" text="if it doesn t flush repeat steps 1-4 ." />
+</script>
+</scripts>

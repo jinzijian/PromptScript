@@ -1,0 +1,266 @@
+<scripts>
+<script id="1">
+<item slot="1" text="close the window ." />
+<item slot="2" text="lock the window ." />
+<item slot="3" text="move to next window ." />
+<item slot="4" text="repeat from step 1 until all windows are locked ." />
+</script>
+<script id="2">
+<item slot="1" text="go to each window ." />
+<item slot="2" text="turn lock ." />
+</script>
+<script id="3">
+<item slot="1" text="for each window ." />
+<item slot="2" text="go to window ." />
+<item slot="3" text="close if needed ." />
+<item slot="4" text="lock ." />
+<item slot="5" text="next window ." />
+</script>
+<script id="4">
+<item slot="1" text="locating the locking mechanism on the windows ." />
+<item slot="2" text="moving the locking mechanisms in such a way that the window cannot be opened from the outside ." />
+</script>
+<script id="5">
+<item slot="1" text="close windows ." />
+<item slot="2" text="press lock on each window ." />
+</script>
+<script id="6">
+<item slot="1" text="go to each window ." />
+<item slot="2" text="close windows if open ." />
+<item slot="3" text="turn lock to locked position ." />
+</script>
+<script id="7">
+<item slot="1" text="look for a window ." />
+<item slot="2" text="move to the window ." />
+<item slot="3" text="close the window ." />
+<item slot="4" text="turn the window s latch to the locked position ." />
+<item slot="5" text="repeat until all windows are locked ." />
+</script>
+<script id="8">
+<item slot="1" text="finding all windows in a structure ." />
+<item slot="2" text="securely closing each window ." />
+<item slot="3" text="engaging the locking mechanism on each window ." />
+</script>
+<script id="9">
+<item slot="1" text="get the window keys ." />
+<item slot="2" text="go to each window individually ." />
+<item slot="3" text="put the individual windows keys into the window locks ." />
+<item slot="4" text="turn the keys to lock the windows in the house ." />
+<item slot="5" text="remove the keys from the locks ." />
+</script>
+<script id="10">
+<item slot="1" text="close window ." />
+<item slot="2" text="locate locking mechanism ." />
+<item slot="3" text="activate locking mechanism ." />
+</script>
+<script id="11">
+<item slot="1" text="go to first window ." />
+<item slot="2" text="ensure the window is locked ." />
+<item slot="3" text="repeat for other windows ." />
+</script>
+<script id="12">
+<item slot="1" text="locate window key ." />
+<item slot="2" text="go to window ." />
+<item slot="3" text="insert key ." />
+<item slot="4" text="turn key ." />
+<item slot="5" text="remove key ." />
+</script>
+<script id="13">
+<item slot="1" text="locate windows ." />
+<item slot="2" text="locate key ." />
+<item slot="3" text="insert key in window lock ." />
+<item slot="4" text="turn key ." />
+<item slot="5" text="remove key ." />
+</script>
+<script id="14">
+<item slot="1" text="close the windows ." />
+<item slot="2" text="lock the windows ." />
+</script>
+<script id="15">
+<item slot="1" text="turn the locks on the windows ." />
+<item slot="2" text="test by trying to lift the windows to make sure the locks don t slip ." />
+<item slot="3" text="close the curtains drapes or blinds ." />
+</script>
+<script id="16">
+<item slot="1" text="walk to window ." />
+<item slot="2" text="close window ." />
+<item slot="3" text="close latch ." />
+<item slot="4" text="lock latch ." />
+<item slot="5" text="test that window is locked ." />
+</script>
+<script id="17">
+<item slot="1" text="realize windows are unlocked ." />
+<item slot="2" text="rise from position ." />
+<item slot="3" text="check all windows ." />
+<item slot="4" text="lower windows ." />
+<item slot="5" text="raise hand to latch ." />
+<item slot="6" text="move latch to closed position ." />
+<item slot="7" text="check security of closure ." />
+</script>
+<script id="18">
+<item slot="1" text="get list of all windows to lock ." />
+</script>
+<script id="19">
+<item slot="1" text="turn the latch on each window ." />
+</script>
+<script id="20">
+<item slot="1" text="pull the sash down ." />
+<item slot="2" text="turn the right latch to the right ." />
+<item slot="3" text="turn the left latch to the left ." />
+<item slot="4" text="repeat with each window ." />
+</script>
+<script id="21">
+<item slot="1" text="make sure window is completely closed ." />
+<item slot="2" text="latch window ." />
+</script>
+<script id="22">
+<item slot="1" text="walk to window ." />
+<item slot="2" text="turn the latch ." />
+<item slot="3" text="repeat with each window ." />
+</script>
+<script id="23">
+<item slot="1" text="go to windows ." />
+<item slot="2" text="losk windows ." />
+</script>
+<script id="24">
+<item slot="1" text="go to windows ." />
+<item slot="2" text="losk windows ." />
+</script>
+<script id="25">
+<item slot="1" text="close the window ." />
+<item slot="2" text="find the latch ." />
+<item slot="3" text="tunr the latch down ." />
+<item slot="4" text="check the window ." />
+</script>
+<script id="26">
+<item slot="1" text="close the window ." />
+<item slot="2" text="push up the lock ." />
+<item slot="3" text="check the window ." />
+</script>
+<script id="27">
+<item slot="1" text="close windows ." />
+<item slot="2" text="turn latch ." />
+</script>
+<script id="28">
+<item slot="1" text="close windows ." />
+<item slot="2" text="turn latch ." />
+</script>
+<script id="29">
+<item slot="1" text="close window ." />
+<item slot="2" text="turn lock down ." />
+<item slot="3" text="pull window to check if locked ." />
+<item slot="4" text="close curtain ." />
+</script>
+<script id="30">
+<item slot="1" text="close window ." />
+<item slot="2" text="turn lock down ." />
+<item slot="3" text="pull window to check if locked ." />
+<item slot="4" text="close curtain ." />
+</script>
+<script id="31">
+<item slot="1" text="close window ." />
+<item slot="2" text="turn lock ." />
+<item slot="3" text="try to open window to make sure it s locked ." />
+</script>
+<script id="32">
+<item slot="1" text="close window ." />
+<item slot="2" text="turn lock ." />
+</script>
+<script id="33">
+<item slot="1" text="close windows ." />
+<item slot="2" text="lock windows ." />
+</script>
+<script id="34">
+<item slot="1" text="walk over to window ." />
+<item slot="2" text="turn lock to locked position ." />
+</script>
+<script id="35">
+<item slot="1" text="walk over to window ." />
+<item slot="2" text="turn lock to locked position ." />
+</script>
+<script id="36">
+<item slot="1" text="walk over to window ." />
+<item slot="2" text="turn lock to locked position ." />
+</script>
+<script id="37">
+<item slot="1" text="walk over to window ." />
+<item slot="2" text="turn lock to locked position ." />
+</script>
+<script id="38">
+<item slot="1" text="close window ." />
+<item slot="2" text="snap lock to closed/locked  position ." />
+<item slot="3" text="check window to ensure it s secure ." />
+</script>
+<script id="39">
+<item slot="1" text="close window ." />
+<item slot="2" text="snap lock to closed/locked  position ." />
+<item slot="3" text="check window to ensure it s secure ." />
+</script>
+<script id="40">
+<item slot="1" text="close window ." />
+<item slot="2" text="snap lock to closed/locked  position ." />
+<item slot="3" text="check window to ensure it s secure ." />
+</script>
+<script id="41">
+<item slot="1" text="close window ." />
+<item slot="2" text="snap lock to closed/locked  position ." />
+<item slot="3" text="check window to ensure it s secure ." />
+</script>
+<script id="42">
+<item slot="1" text="close window ." />
+<item slot="2" text="snap lock to closed/locked  position ." />
+<item slot="3" text="check window to ensure it s secure ." />
+</script>
+<script id="43">
+<item slot="1" text="close windows ." />
+<item slot="2" text="push lock ." />
+</script>
+<script id="44">
+<item slot="1" text="close windows ." />
+<item slot="2" text="push lock ." />
+</script>
+<script id="45">
+<item slot="1" text="go to window ." />
+<item slot="2" text="push latch to the locked position ." />
+</script>
+<script id="46">
+<item slot="1" text="go to window ." />
+<item slot="2" text="push latch to the locked position ." />
+</script>
+<script id="47">
+<item slot="1" text="go to window ." />
+<item slot="2" text="push latch to the locked position ." />
+</script>
+<script id="48">
+<item slot="1" text="go to window ." />
+<item slot="2" text="push latch to the locked position ." />
+</script>
+<script id="49">
+<item slot="1" text="get up ." />
+<item slot="2" text="go to window ." />
+<item slot="3" text="push lever to lock position ." />
+</script>
+<script id="50">
+<item slot="1" text="get up ." />
+<item slot="2" text="go to window ." />
+<item slot="3" text="push lever to lock position ." />
+</script>
+<script id="51">
+<item slot="1" text="get up ." />
+<item slot="2" text="go to window ." />
+<item slot="3" text="push lever to lock position ." />
+</script>
+<script id="52">
+<item slot="1" text="get up ." />
+<item slot="2" text="go to window ." />
+<item slot="3" text="push lever to lock position ." />
+</script>
+<script id="53">
+<item slot="1" text="get up ." />
+<item slot="2" text="go to window ." />
+<item slot="3" text="push lever to lock position ." />
+</script>
+<script id="54">
+<item slot="1" text="turn the lock to secure clasp ." />
+</script>
+</scripts>

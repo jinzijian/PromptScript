@@ -1,0 +1,9 @@
+<scripts><script id="16">
+		<item slot="1" text="locate food ."/>
+		<item slot="2" text="locate dog ."/>
+		<item slot="3" text="locate dogs bowl ."/>
+		<item slot="4" text="open dog food ."/>
+		<item slot="5" text="put dog food in dogs bowl ."/>
+		<item slot="6" text="notify dog of food availability ."/>
+		<item slot="7" text="encourage dog to eat food ."/>
+	</script></scripts>

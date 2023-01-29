@@ -1,0 +1,116 @@
+<scripts>
+<script id="1">
+<item slot="1" text="move around the house ." />
+<item slot="2" text="in each room check if an unfamiliar face is seen ." />
+<item slot="3" text="turn on the lights as you go into a room ." />
+</script>
+<script id="2">
+<item slot="1" text="enter house ." />
+<item slot="2" text="move slowly through every room ." />
+<item slot="3" text="look for signs of intruders ." />
+</script>
+<script id="3">
+<item slot="1" text="turn on all lights ." />
+<item slot="2" text="search all rooms ." />
+</script>
+<script id="4">
+<item slot="1" text="listen for sounds ." />
+<item slot="2" text="get a weapon ." />
+<item slot="3" text="walk quietly around the house in the shadows ." />
+<item slot="4" text="look and listen for the intruders ." />
+</script>
+<script id="5">
+<item slot="1" text="go into house ." />
+<item slot="2" text="go into each room ." />
+<item slot="3" text="look for intruders ." />
+</script>
+<script id="6">
+<item slot="1" text="for each room ." />
+<item slot="2" text="look around for intruders ." />
+</script>
+<script id="7">
+<item slot="1" text="go to each room ." />
+<item slot="2" text="look around for sign of intruders ." />
+<item slot="3" text="go to next room ." />
+</script>
+<script id="8">
+<item slot="1" text="move to a room of the house ." />
+<item slot="2" text="look for intruders ." />
+<item slot="3" text="move to a different room ." />
+<item slot="4" text="repeat until you have checked all rooms ." />
+</script>
+<script id="9">
+<item slot="1" text="make sure doors are locked ." />
+<item slot="2" text="make sure windows are locked and not broken ." />
+<item slot="3" text="go to any room ." />
+<item slot="4" text="look for unrecognized people ." />
+<item slot="5" text="repeat in each other room of the house sequentially ." />
+</script>
+<script id="10">
+<item slot="1" text="go to the door of each room ." />
+<item slot="2" text="look into the room ." />
+<item slot="3" text="if you see an intruder call police ." />
+</script>
+<script id="11">
+<item slot="1" text="load gun; cock gun ." />
+</script>
+<script id="12">
+<item slot="1" text="load gun; cock gun ." />
+<item slot="2" text="call 911 ." />
+<item slot="3" text="walk through house and fire on anything suspicious ." />
+</script>
+<script id="13">
+<item slot="1" text="load gun; cock gun ." />
+<item slot="2" text="call 911 ." />
+<item slot="3" text="walk through house and fire on anything suspicious ." />
+</script>
+<script id="14">
+<item slot="1" text="enter house ." />
+<item slot="2" text="identify people or animals in house ." />
+<item slot="3" text="report results to police ." />
+</script>
+<script id="15">
+<item slot="1" text="listen carefully for funny noises or voices you do not recognize ." />
+<item slot="2" text="see if the alarm system has been tripped ." />
+</script>
+<script id="16">
+<item slot="1" text="turn on lights in house ." />
+<item slot="2" text="walk thru house ." />
+</script>
+<script id="17">
+<item slot="1" text="turn on a loud alarm ." />
+<item slot="2" text="wait ." />
+<item slot="3" text="wait ." />
+<item slot="4" text="wait ." />
+<item slot="5" text="turn on a game with guns ." />
+<item slot="6" text="turn in up loud ." />
+<item slot="7" text="shoot a few times and wait whether people run for it ." />
+</script>
+<script id="18">
+<item slot="1" text="listen to see where they are ." />
+<item slot="2" text="listen to see how many there might be ." />
+<item slot="3" text="check house room by room ." />
+<item slot="4" text="check all doors ." />
+<item slot="5" text="check all windows ." />
+<item slot="6" text="check basement ." />
+<item slot="7" text="listen as you go ." />
+</script>
+<script id="19">
+<item slot="1" text="check alarm system ." />
+<item slot="2" text="notice unusual activity ." />
+<item slot="3" text="go to a room ." />
+<item slot="4" text="check windows and doors ." />
+<item slot="5" text="check for forced entry ." />
+<item slot="6" text="make noise ." />
+<item slot="7" text="repeat in another room ." />
+</script>
+<script id="20">
+<item slot="1" text="check whether door is locked ." />
+<item slot="2" text="check for broken window ." />
+<item slot="3" text="check every room ." />
+</script>
+<script id="21">
+<item slot="1" text="check for unlocked doors ." />
+<item slot="2" text="check to see if anything is out of the ordinary ." />
+</script>
+</scripts>

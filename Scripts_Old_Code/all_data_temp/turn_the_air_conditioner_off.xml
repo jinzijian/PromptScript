@@ -1,0 +1,238 @@
+<scripts>
+<script id="1">
+<item slot="1" text="walk to the air conditioner ." />
+<item slot="2" text="locate the on/off switch ." />
+<item slot="3" text="turn the switch into off position ." />
+</script>
+<script id="2">
+<item slot="1" text="pick up the remote control ." />
+<item slot="2" text="push off button ." />
+</script>
+<script id="3">
+<item slot="1" text="approach the air conditioner ." />
+<item slot="2" text="move the power knob to the off position ." />
+</script>
+<script id="4">
+<item slot="1" text="go to air conditioner ." />
+<item slot="2" text="push button to off position ." />
+</script>
+<script id="5">
+<item slot="1" text="go to air conditioner ." />
+<item slot="2" text="push button to off position ." />
+</script>
+<script id="6">
+<item slot="1" text="locate the air conditioner ." />
+<item slot="2" text="locate the power switch/button ." />
+<item slot="3" text="turn the power switch to 'off' or press the 'power' button ." />
+</script>
+<script id="7">
+<item slot="1" text="go to the air conditioner control panel place ." />
+<item slot="2" text="grab hold of the switch that controls the air conditioner ." />
+<item slot="3" text="move the switch to the off position with your hand ." />
+</script>
+<script id="8">
+<item slot="1" text="move to the air conditioner ." />
+<item slot="2" text="find the air conditioner s power switch ." />
+<item slot="3" text="turn the switch to the off position ." />
+</script>
+<script id="9">
+<item slot="1" text="find thermostat ." />
+<item slot="2" text="turn thermostat to off position ." />
+</script>
+<script id="10">
+<item slot="1" text="locate the air conditioner remote control ." />
+<item slot="2" text="pick the air conditioner remote control ." />
+<item slot="3" text="push the off button ." />
+<item slot="4" text="release the air conditioner remote control ." />
+</script>
+<script id="11">
+<item slot="1" text="go to the thermostat ." />
+<item slot="2" text="identify the on-off switch ." />
+<item slot="3" text="turn the switch to off ." />
+</script>
+<script id="12">
+<item slot="1" text="locate air conditioner ." />
+<item slot="2" text="locate power switch ." />
+<item slot="3" text="press power switch to off position ." />
+</script>
+<script id="13">
+<item slot="1" text="go to air conditioner ." />
+<item slot="2" text="locate on/off switch ." />
+<item slot="3" text="set switch to off ." />
+</script>
+<script id="14">
+<item slot="1" text="press the off button ." />
+</script>
+<script id="15">
+<item slot="1" text="go to the thermostat ." />
+<item slot="2" text="set the thermostat to off to turn off the air conditioner and heat ." />
+</script>
+<script id="16">
+<item slot="1" text="locate air conditioner ." />
+<item slot="2" text="locate buttons ." />
+<item slot="3" text="press the off button ." />
+</script>
+<script id="17">
+<item slot="1" text="go to thermostat ." />
+<item slot="2" text="program to turn off ." />
+</script>
+<script id="18">
+<item slot="1" text="walk to immediate vicinity of air conditioner ." />
+<item slot="2" text="press off button or turn switch to off ." />
+</script>
+<script id="19">
+<item slot="1" text="locate air conditioner ." />
+<item slot="2" text="locate off switch ." />
+<item slot="3" text="press off switch ." />
+</script>
+<script id="20">
+<item slot="1" text="find the thermostat ." />
+<item slot="2" text="set the heat/off/cool switch to off ." />
+<item slot="3" text="find any window units ." />
+<item slot="4" text="turn the power switch on them to off ." />
+</script>
+<script id="21">
+<item slot="1" text="find the switch ." />
+<item slot="2" text="turn the switch off ." />
+</script>
+<script id="22">
+<item slot="1" text="identify air conditioner ." />
+<item slot="2" text="identify power button ." />
+<item slot="3" text="press power button ." />
+</script>
+<script id="23">
+<item slot="1" text="notice the temperature ." />
+<item slot="2" text="find the control panel ." />
+<item slot="3" text="decide on a setting ." />
+<item slot="4" text="turn the dial to desired setting ." />
+<item slot="5" text="adjust the fan ." />
+<item slot="6" text="monitor changes in temperature ." />
+<item slot="7" text="enjoy the comfort ." />
+</script>
+<script id="24">
+<item slot="1" text="go to the air conditioner ." />
+<item slot="2" text="locate the control panel ." />
+<item slot="3" text="locate the power button ." />
+<item slot="4" text="press the power button ." />
+</script>
+<script id="25">
+<item slot="1" text="find switch ." />
+<item slot="2" text="flip switch to off ." />
+</script>
+<script id="26">
+<item slot="1" text="find switch ." />
+<item slot="2" text="flip switch to off ." />
+</script>
+<script id="27">
+<item slot="1" text="walk to air conditioner ." />
+<item slot="2" text="push or turn knob ." />
+</script>
+<script id="28">
+<item slot="1" text="find on/off button ." />
+<item slot="2" text="press on/off button ." />
+<item slot="3" text="wait for unit to stop ." />
+</script>
+<script id="29">
+<item slot="1" text="locate the remote for the air conditioner ." />
+<item slot="2" text="push the off button on the remote ." />
+</script>
+<script id="30">
+<item slot="1" text="walk to the thermostat ." />
+<item slot="2" text="move switch to 'off ' ." />
+</script>
+<script id="31">
+<item slot="1" text="go to the thermostat ." />
+<item slot="2" text="move switch from 'cool' to 'off' ." />
+</script>
+<script id="32">
+<item slot="1" text="locate air conditioner ." />
+<item slot="2" text="locate on/off button or switch ." />
+<item slot="3" text="set to off position ." />
+</script>
+<script id="33">
+<item slot="1" text="locate air conditioner ." />
+<item slot="2" text="locate on/off button or switch ." />
+<item slot="3" text="set to off position ." />
+</script>
+<script id="34">
+<item slot="1" text="walk over to air conditioner ." />
+<item slot="2" text="press off button ." />
+</script>
+<script id="35">
+<item slot="1" text="press off button ." />
+</script>
+<script id="36">
+<item slot="1" text="walk to thermostat ." />
+<item slot="2" text="change air condition setting to off ." />
+</script>
+<script id="37">
+<item slot="1" text="turn off switch ." />
+</script>
+<script id="38">
+<item slot="1" text="goto air conditioner control panel ." />
+<item slot="2" text="find off button ." />
+<item slot="3" text="push button ." />
+</script>
+<script id="39">
+<item slot="1" text="get the ac remote controller ." />
+<item slot="2" text="point at the air conditioner ." />
+<item slot="3" text="press the off button ." />
+</script>
+<script id="40">
+<item slot="1" text="get the ac remote controller ." />
+<item slot="2" text="point at the air conditioner ." />
+<item slot="3" text="press the off button ." />
+</script>
+<script id="41">
+<item slot="1" text="get the ac remote controller ." />
+<item slot="2" text="point at the air conditioner ." />
+<item slot="3" text="press the off button ." />
+</script>
+<script id="42">
+<item slot="1" text="get the ac remote controller ." />
+<item slot="2" text="point at the air conditioner ." />
+<item slot="3" text="press the off button ." />
+</script>
+<script id="43">
+<item slot="1" text="get the ac remote controller ." />
+<item slot="2" text="point at the air conditioner ." />
+<item slot="3" text="press the off button ." />
+</script>
+<script id="44">
+<item slot="1" text="turn air conditioner knob to off ." />
+</script>
+<script id="45">
+<item slot="1" text="turn air conditioner knob to off ." />
+</script>
+<script id="46">
+<item slot="1" text="turn air off ." />
+</script>
+<script id="47">
+<item slot="1" text="turn air conditioner on ." />
+</script>
+<script id="48">
+<item slot="1" text="go to air conditioner ." />
+<item slot="2" text="look for off buton ." />
+<item slot="3" text="press off button ." />
+</script>
+<script id="49">
+<item slot="1" text="go to air conditioner ." />
+<item slot="2" text="turn knob counter clockwise ." />
+<item slot="3" text="select off ." />
+</script>
+<script id="50">
+<item slot="1" text="go to air conditioner ." />
+<item slot="2" text="turn knob counter clockwise ." />
+<item slot="3" text="select off ." />
+</script>
+<script id="51">
+<item slot="1" text="go to air conditioner ." />
+<item slot="2" text="turn knob counter clockwise ." />
+<item slot="3" text="select off ." />
+</script>
+<script id="52">
+<item slot="1" text="go to air conditioner ." />
+<item slot="2" text="turn knob counter clockwise ." />
+<item slot="3" text="select off ." />
+</script>
+</scripts>

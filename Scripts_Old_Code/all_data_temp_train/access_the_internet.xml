@@ -1,0 +1,293 @@
+<scripts>
+<script id="1">
+<item slot="1" text="turn on computer ." />
+<item slot="2" text="open browser ." />
+<item slot="3" text="connect to internet ." />
+</script>
+<script id="2">
+<item slot="1" text="turn on the computer ." />
+<item slot="2" text="connect to the internet ." />
+<item slot="3" text="open the browser ." />
+</script>
+<script id="3">
+<item slot="1" text="attach your computer to an internet connection ." />
+<item slot="2" text="turn on the computer ." />
+<item slot="3" text="use software which accesses the internet ." />
+</script>
+<script id="4">
+<item slot="1" text="move to computer ." />
+<item slot="2" text="turn on computer ." />
+<item slot="3" text="move mouse to icon ." />
+<item slot="4" text="click on connection icon ." />
+<item slot="5" text="wait to connect to dsl ." />
+</script>
+<script id="5">
+<item slot="1" text="connect an internet connection to a computing device ." />
+<item slot="2" text="turn on the computing device ." />
+<item slot="3" text="use software in the computing device to acess the internet ." />
+</script>
+<script id="6">
+<item slot="1" text="turn computer on ." />
+<item slot="2" text="use mouse to click on the icon for your internet service provider on the desktop ." />
+<item slot="3" text="sign on to your internet service provider ." />
+<item slot="4" text="begin choosing web sites to visit and explore ." />
+</script>
+<script id="7">
+<item slot="1" text="go to computer ." />
+<item slot="2" text="open web browser to activate modem ." />
+<item slot="3" text="wait for modem to connect ." />
+</script>
+<script id="8">
+<item slot="1" text="plug in the network cable ." />
+<item slot="2" text="turn on the computer ." />
+<item slot="3" text="open the web browser ." />
+<item slot="4" text="type in the url ." />
+</script>
+<script id="9">
+<item slot="1" text="turn the computer on ." />
+<item slot="2" text="open ie ." />
+</script>
+<script id="10">
+<item slot="1" text="plug in the network cable/card ." />
+<item slot="2" text="turn on the computer ." />
+<item slot="3" text="open the browser ." />
+<item slot="4" text="type the url in the browser ." />
+</script>
+<script id="11">
+<item slot="1" text="turn on computer ." />
+<item slot="2" text="start browser ." />
+<item slot="3" text="access website using browser ." />
+</script>
+<script id="12">
+<item slot="1" text="ensure computer is activated ." />
+<item slot="2" text="ensure user is logged onto computer ." />
+<item slot="3" text="ensure communication device is activated ." />
+<item slot="4" text="open internet enabled application ." />
+<item slot="5" text="log onto internet if necessary ." />
+<item slot="6" text="access internet ." />
+</script>
+<script id="13">
+<item slot="1" text="start computer ." />
+<item slot="2" text="start internet program ." />
+</script>
+<script id="14">
+<item slot="1" text="plug ethernet cable into modem ." />
+<item slot="2" text="set up connection on your computer ." />
+<item slot="3" text="start internet connection ." />
+</script>
+<script id="15">
+<item slot="1" text="check network (modem cable tv) cables ." />
+<item slot="2" text="turn on a computer ." />
+<item slot="3" text="run a proper software to establish connection ." />
+<item slot="4" text="run a browser or any other internet tool ." />
+</script>
+<script id="16">
+<item slot="1" text="turn on computer ." />
+<item slot="2" text="connect computer to internet ." />
+<item slot="3" text="launch internet access program ." />
+</script>
+<script id="17">
+<item slot="1" text="establish internet connection ." />
+<item slot="2" text="open browser to access address ." />
+</script>
+<script id="18">
+<item slot="1" text="find a computer ." />
+<item slot="2" text="check that computer has internet access ." />
+<item slot="3" text="click on internet explorer ." />
+<item slot="4" text="type in desired internet address ." />
+</script>
+<script id="19">
+<item slot="1" text="identify computer ." />
+<item slot="2" text="connect computer to modem ." />
+<item slot="3" text="connect modem phone jack ." />
+<item slot="4" text="turn on computer ." />
+<item slot="5" text="access internet explorer ." />
+</script>
+<script id="20">
+<item slot="1" text="switch on computer ." />
+<item slot="2" text="start connection icon ." />
+<item slot="3" text="enter username and password ." />
+<item slot="4" text="start internet explorer ." />
+</script>
+<script id="21">
+<item slot="1" text="buy a computer ." />
+<item slot="2" text="hook up the computer ." />
+<item slot="3" text="buy internet access ." />
+<item slot="4" text="follow the instructions ." />
+<item slot="5" text="open an internet browser ." />
+</script>
+<script id="22">
+<item slot="1" text="call telco to install dsl ." />
+<item slot="2" text="receive dsl modem ." />
+<item slot="3" text="connect phone line to modem ." />
+<item slot="4" text="connect ethernet cable to computer ." />
+<item slot="5" text="turn on dsl modem ." />
+<item slot="6" text="turn on computer ." />
+<item slot="7" text="check network settings ." />
+</script>
+<script id="23">
+<item slot="1" text="locate the shortcut for the isp connection ." />
+<item slot="2" text="double click the shortcut ." />
+<item slot="3" text="enter your username and password ." />
+<item slot="4" text="click the connect button ." />
+</script>
+<script id="24">
+<item slot="1" text="locate a computer that has internet access ." />
+<item slot="2" text="locate the icon for the internet browser i e  explorer or firefox ." />
+<item slot="3" text="click on the icon ." />
+</script>
+<script id="25">
+<item slot="1" text="locate a computer that has internet access ." />
+<item slot="2" text="locate the icon for the internet browser i e  explorer or firefox ." />
+<item slot="3" text="click on the icon ." />
+</script>
+<script id="26">
+<item slot="1" text="locate a computer that has internet access ." />
+<item slot="2" text="locate the icon for the internet browser i e  explorer or firefox ." />
+<item slot="3" text="click on the icon ." />
+</script>
+<script id="27">
+<item slot="1" text="turn on computer ." />
+<item slot="2" text="open internet explorer or firefox ." />
+</script>
+<script id="28">
+<item slot="1" text="open internet explorer ." />
+<item slot="2" text="type a web address in the address bar ." />
+</script>
+<script id="29">
+<item slot="1" text="turn computer on ." />
+<item slot="2" text="log on to computer with username and password ." />
+<item slot="3" text="open up web browser ." />
+<item slot="4" text="type in an address in the address bar ." />
+<item slot="5" text="hit enter ." />
+</script>
+<script id="30">
+<item slot="1" text="turn computer on ." />
+<item slot="2" text="log on to computer with username and password ." />
+<item slot="3" text="open up web browser ." />
+<item slot="4" text="type in an address in the address bar ." />
+<item slot="5" text="hit enter ." />
+</script>
+<script id="31">
+<item slot="1" text="turn computer on ." />
+<item slot="2" text="log on to computer with username and password ." />
+<item slot="3" text="open up web browser ." />
+<item slot="4" text="type in an address in the address bar ." />
+<item slot="5" text="hit enter ." />
+</script>
+<script id="32">
+<item slot="1" text="turn computer on ." />
+<item slot="2" text="log on to computer with username and password ." />
+<item slot="3" text="open up web browser ." />
+<item slot="4" text="type in an address in the address bar ." />
+<item slot="5" text="hit enter ." />
+</script>
+<script id="33">
+<item slot="1" text="turn computer on ." />
+<item slot="2" text="log on to computer with username and password ." />
+<item slot="3" text="open up web browser ." />
+<item slot="4" text="type in an address in the address bar ." />
+<item slot="5" text="hit enter ." />
+</script>
+<script id="34">
+<item slot="1" text="turn on pc ." />
+<item slot="2" text="click on the internet icon ." />
+<item slot="3" text="enter username and password at the prompt ." />
+<item slot="4" text="click 'okay' ." />
+</script>
+<script id="35">
+<item slot="1" text="turn on pc ." />
+<item slot="2" text="click on the internet icon ." />
+<item slot="3" text="enter username and password at the prompt ." />
+<item slot="4" text="click 'okay' ." />
+</script>
+<script id="36">
+<item slot="1" text="turn on pc ." />
+<item slot="2" text="click on the internet icon ." />
+<item slot="3" text="enter username and password at the prompt ." />
+<item slot="4" text="click 'okay' ." />
+</script>
+<script id="37">
+<item slot="1" text="turn on pc ." />
+<item slot="2" text="click on the internet icon ." />
+<item slot="3" text="enter username and password at the prompt ." />
+<item slot="4" text="click 'okay' ." />
+</script>
+<script id="38">
+<item slot="1" text="turn on pc ." />
+<item slot="2" text="click on the internet icon ." />
+<item slot="3" text="enter username and password at the prompt ." />
+<item slot="4" text="click 'okay' ." />
+</script>
+<script id="39">
+<item slot="1" text="turn on pc ." />
+<item slot="2" text="click on the internet icon ." />
+<item slot="3" text="enter username and password at the prompt ." />
+<item slot="4" text="click 'okay' ." />
+</script>
+<script id="40">
+<item slot="1" text="access internet ." />
+</script>
+<script id="41">
+<item slot="1" text="turn on internet ." />
+<item slot="2" text="turn on computer ." />
+</script>
+<script id="42">
+<item slot="1" text="locate on button on computer ." />
+<item slot="2" text="press the button to turn on computer ." />
+<item slot="3" text="locate the icon for dial-up internet ." />
+<item slot="4" text="double right click on icon ." />
+<item slot="5" text="wait for it to connect ." />
+<item slot="6" text="use internet ." />
+</script>
+<script id="43">
+<item slot="1" text="locate on button on computer ." />
+<item slot="2" text="press the button to turn on computer ." />
+<item slot="3" text="locate the icon for dial-up internet ." />
+<item slot="4" text="double right click on icon ." />
+<item slot="5" text="wait for it to connect ." />
+<item slot="6" text="use internet ." />
+</script>
+<script id="44">
+<item slot="1" text="make sure connection is strong ." />
+<item slot="2" text="click on the internet connection symbol ." />
+</script>
+<script id="45">
+<item slot="1" text="make sure connection is strong ." />
+<item slot="2" text="click on the internet connection symbol ." />
+</script>
+<script id="46">
+<item slot="1" text="make sure connection is strong ." />
+<item slot="2" text="click on the internet connection symbol ." />
+</script>
+<script id="47">
+<item slot="1" text="turn on pc ." />
+<item slot="2" text="click e ." />
+<item slot="3" text="wait ." />
+</script>
+<script id="48">
+<item slot="1" text="turn on pc ." />
+<item slot="2" text="click e ." />
+<item slot="3" text="wait ." />
+</script>
+<script id="49">
+<item slot="1" text="turn on pc ." />
+<item slot="2" text="click e ." />
+<item slot="3" text="wait ." />
+</script>
+<script id="50">
+<item slot="1" text="turn on pc ." />
+<item slot="2" text="click e ." />
+<item slot="3" text="wait ." />
+</script>
+<script id="51">
+<item slot="1" text="turn on pc ." />
+<item slot="2" text="click e ." />
+<item slot="3" text="wait ." />
+</script>
+<script id="52">
+<item slot="1" text="turn on pc ." />
+<item slot="2" text="click e ." />
+<item slot="3" text="wait ." />
+</script>
+</scripts>

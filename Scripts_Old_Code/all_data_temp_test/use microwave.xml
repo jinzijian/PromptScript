@@ -1,0 +1,418 @@
+<?xml version="1.0"?>
+<scripts>
+	<script id="1">
+		<item slot="1" text="get food ."/>
+		<item slot="2" text="put in microwave ."/>
+		<item slot="3" text="set timer according to food type ."/>
+		<item slot="4" text="press start ."/>
+		<item slot="5" text="wait for timer ."/>
+		<item slot="6" text="remove food ."/>
+	</script>
+	<script id="2">
+		<item slot="1" text="place food in microwave ."/>
+		<item slot="2" text="close door ."/>
+		<item slot="3" text="set timer for appropriate setting for food ."/>
+		<item slot="4" text="press start ."/>
+		<item slot="5" text="wait for timer ."/>
+		<item slot="6" text="remove food ."/>
+	</script>
+	<script id="3">
+		<item slot="1" text="put food in the microwave ."/>
+		<item slot="2" text="close the door ."/>
+		<item slot="3" text="set the timer ."/>
+		<item slot="4" text="set the power level ."/>
+		<item slot="5" text="push start ."/>
+		<item slot="6" text="when done open the door ."/>
+		<item slot="7" text="take food out of microwave ."/>
+	</script>
+	<script id="4">
+		<item slot="1" text="keep food in microwavable utensil ."/>
+		<item slot="2" text="press button to open microwave ."/>
+		<item slot="3" text="keep the utensil in microwave ."/>
+		<item slot="4" text="close the microwave ."/>
+		<item slot="5" text="set the timer ."/>
+		<item slot="6" text="press the start button and wait ."/>
+		<item slot="7" text="after the beep open microwave ."/>
+	</script>
+	<script id="5">
+		<item slot="1" text="put food in the microwave ."/>
+		<item slot="2" text="set time ."/>
+		<item slot="3" text="push start ."/>
+	</script>
+	<script id="6">
+		<item slot="1" text="put food into the microwave ."/>
+		<item slot="2" text="turn on the microwave ."/>
+		<item slot="3" text="wait until it s finished heating ."/>
+		<item slot="4" text="take out the food ."/>
+	</script>
+	<script id="7">
+		<item slot="1" text="locate food to heat ."/>
+		<item slot="2" text="place food in microwavable safe ware ."/>
+		<item slot="3" text="place food in microwave ."/>
+		<item slot="4" text="turn microwave on ."/>
+		<item slot="5" text="remove food from microwave ."/>
+	</script>
+	<script id="8">
+		<item slot="1" text="find food ."/>
+		<item slot="2" text="find microwave ."/>
+		<item slot="3" text="open microwave door ."/>
+		<item slot="4" text="put food in microwave ."/>
+		<item slot="5" text="close microwave door ."/>
+		<item slot="6" text="enter cooking time on microwave keypad ."/>
+		<item slot="7" text="press start button ."/>
+	</script>
+	<script id="9">
+		<item slot="1" text="take food ."/>
+		<item slot="2" text="walk to the microwave ."/>
+		<item slot="3" text="open microwave door ."/>
+		<item slot="4" text="put food in ."/>
+		<item slot="5" text="close microwave door ."/>
+		<item slot="6" text="set desired time on the microwave ."/>
+		<item slot="7" text="press start on the microwave ."/>
+	</script>
+	<script id="10">
+		<item slot="1" text="place food in microwave ."/>
+		<item slot="2" text="set time on microwave ."/>
+		<item slot="3" text="start microwave ."/>
+	</script>
+	<script id="11">
+		<item slot="1" text="open microwave ."/>
+		<item slot="2" text="put food on a microwave safe plate ."/>
+		<item slot="3" text="select power level and time ."/>
+		<item slot="4" text="turn on oven ."/>
+	</script>
+	<script id="12">
+		<item slot="1" text="put food in microwave ."/>
+		<item slot="2" text="set power level ."/>
+		<item slot="3" text="set timer ."/>
+		<item slot="4" text="turn on microwave ."/>
+	</script>
+	<script id="13">
+		<item slot="1" text="put the food in a microwave safe container ."/>
+		<item slot="2" text="open the microwave door ."/>
+		<item slot="3" text="put the food in the microwave ."/>
+		<item slot="4" text="close the microwave door ."/>
+		<item slot="5" text="set the timer for the appropriate time ."/>
+		<item slot="6" text="get food out when timer goes off ."/>
+	</script>
+	<script id="14">
+		<item slot="1" text="open the door of the microwave ."/>
+		<item slot="2" text="put the food into the microwave ."/>
+		<item slot="3" text="close the door of the microwave ."/>
+		<item slot="4" text="set up the time for heating ."/>
+		<item slot="5" text="press the 'start' button ."/>
+		<item slot="6" text="take out the food when time is up ."/>
+	</script>
+	<script id="15">
+		<item slot="1" text="put food in microwave safe container ."/>
+		<item slot="2" text="select power level and time ."/>
+		<item slot="3" text="turn on microwave ."/>
+		<item slot="4" text="wait ."/>
+		<item slot="5" text="remove food ."/>
+	</script>
+	<script id="16">
+		<item slot="1" text="place food in microwave safe container ."/>
+		<item slot="2" text="open microwave door ."/>
+		<item slot="3" text="put container inside microwave ."/>
+		<item slot="4" text="close microwave door ."/>
+		<item slot="5" text="select time and turn on microwave ."/>
+		<item slot="6" text="wait to finish ."/>
+		<item slot="7" text="remove food from microwave ."/>
+	</script>
+	<script id="17">
+		<item slot="1" text="put food in microwaveable dish ."/>
+		<item slot="2" text="put dish in microwave ."/>
+		<item slot="3" text="select power level and time ."/>
+		<item slot="4" text="press start ."/>
+		<item slot="5" text="wait for food to heat up ."/>
+		<item slot="6" text="remove dish from microwave ."/>
+	</script>
+	<script id="18">
+		<item slot="1" text="place food in microwave-safe container ."/>
+		<item slot="2" text="place container inside microwave oven ."/>
+		<item slot="3" text="select time and power level ."/>
+		<item slot="4" text="press start ."/>
+		<item slot="5" text="wait for food to heat up ."/>
+		<item slot="6" text="remove container from oven ."/>
+	</script>
+	<script id="19">
+		<item slot="1" text="put food on a microwaveable dish ."/>
+		<item slot="2" text="put in to microwave ."/>
+		<item slot="3" text="set timer ."/>
+		<item slot="4" text="set power ."/>
+		<item slot="5" text="press start ."/>
+		<item slot="6" text="wait for timer to finish ."/>
+		<item slot="7" text="remove hot food carefully ."/>
+	</script>
+	<script id="20">
+		<item slot="1" text="find food to heat ."/>
+		<item slot="2" text="remove protective cover from food ."/>
+		<item slot="3" text="place food in microwave ."/>
+		<item slot="4" text="press buttons on the microwave to heat the food ."/>
+	</script>
+	<script id="21">
+		<item slot="1" text="place food to be heated on a mcorwave saft plate ."/>
+		<item slot="2" text="open door to microwave ."/>
+		<item slot="3" text="place plate with food into microwave ."/>
+		<item slot="4" text="set the timer on the microwave ."/>
+		<item slot="5" text="press start ."/>
+		<item slot="6" text="when microwave buzzes remove food ."/>
+	</script>
+	<script id="22">
+		<item slot="1" text="locate microwave ."/>
+		<item slot="2" text="locate food ."/>
+		<item slot="3" text="place food in microwave ."/>
+		<item slot="4" text="turn on microwave ."/>
+	</script>
+	<script id="23">
+		<item slot="1" text="unwrap food ."/>
+		<item slot="2" text="put food on plate ."/>
+		<item slot="3" text="put plate in microwave ."/>
+		<item slot="4" text="set time ."/>
+		<item slot="5" text="start microwave ."/>
+		<item slot="6" text="wait for microwarve to finish ."/>
+		<item slot="7" text="take plate out of microwave ."/>
+	</script>
+	<script id="24">
+		<item slot="1" text="place food in microwave-safe container ."/>
+		<item slot="2" text="open microwave door ."/>
+		<item slot="3" text="place container with food in microwave ."/>
+		<item slot="4" text="shut microwave door ."/>
+		<item slot="5" text="set time on microwave ."/>
+		<item slot="6" text="start microwave ."/>
+	</script>
+	<script id="25">
+		<item slot="1" text="get food ."/>
+		<item slot="2" text="open food ."/>
+		<item slot="3" text="replace cover loosely on food ."/>
+		<item slot="4" text="enter cooking time ."/>
+		<item slot="5" text="start microwave ."/>
+		<item slot="6" text="when microwave beeps remove food ."/>
+		<item slot="7" text="serve food ."/>
+	</script>
+	<script id="26">
+		<item slot="1" text="put food in microwave dish ."/>
+		<item slot="2" text="cover dish ."/>
+		<item slot="3" text="put in microwave ."/>
+		<item slot="4" text="set timer ."/>
+		<item slot="5" text="push start ."/>
+	</script>
+	<script id="27">
+		<item slot="1" text="put the food inside the microwave ."/>
+		<item slot="2" text="set the timer ."/>
+		<item slot="3" text="close the microwave ."/>
+		<item slot="4" text="push start ."/>
+	</script>
+	<script id="28">
+		<item slot="1" text="open the microwave door ."/>
+		<item slot="2" text="place food inside ."/>
+		<item slot="3" text="close door ."/>
+		<item slot="4" text="enter the cooking time and power level ."/>
+		<item slot="5" text="press start ."/>
+	</script>
+	<script id="29">
+		<item slot="1" text="take plastic cover off ."/>
+		<item slot="2" text="place in microwave ."/>
+		<item slot="3" text="input in for designated time ."/>
+		<item slot="4" text="let cool ."/>
+		<item slot="5" text="enjoy ."/>
+	</script>
+	<script id="30">
+		<item slot="1" text="open microwave door ."/>
+		<item slot="2" text="place food inside microwave ."/>
+		<item slot="3" text="close microwave door ."/>
+		<item slot="4" text="set the time of how long food needs to be heated ."/>
+		<item slot="5" text="press start ."/>
+		<item slot="6" text="when time is up open microwave door ."/>
+		<item slot="7" text="take out food and eat ."/>
+	</script>
+	<script id="31">
+		<item slot="1" text="open microwave door ."/>
+		<item slot="2" text="place food inside ."/>
+		<item slot="3" text="close door ."/>
+	</script>
+	<script id="32">
+		<item slot="1" text="place the food in microwave ."/>
+		<item slot="2" text="turn on microwave oven for two minutes ."/>
+		<item slot="3" text="stir food ."/>
+		<item slot="4" text="check temperature ."/>
+		<item slot="5" text="repeat till desired temperature is acheived ."/>
+	</script>
+	<script id="33">
+		<item slot="1" text="put food in microwave safe dish ."/>
+		<item slot="2" text="place dish in microwave ."/>
+		<item slot="3" text="turn microwave on ."/>
+	</script>
+	<script id="34">
+		<item slot="1" text="take food out of wrapper ."/>
+		<item slot="2" text="put food in microwave ."/>
+		<item slot="3" text="select heating level for microwave ."/>
+		<item slot="4" text="select time ."/>
+		<item slot="5" text="press start button on microwave ."/>
+		<item slot="6" text="wait ."/>
+		<item slot="7" text="take food out of microwave ."/>
+	</script>
+	<script id="35">
+		<item slot="1" text="open microave ."/>
+		<item slot="2" text="place food in microwave ."/>
+		<item slot="3" text="close microwave ."/>
+		<item slot="4" text="set cooking temperature ."/>
+		<item slot="5" text="set cooking time ."/>
+		<item slot="6" text="press  cook ."/>
+	</script>
+	<script id="36">
+		<item slot="1" text="put food in microwave ."/>
+		<item slot="2" text="set timer ."/>
+		<item slot="3" text="wait for food to cook ."/>
+	</script>
+	<script id="37">
+		<item slot="1" text="get food ."/>
+		<item slot="2" text="put food in microwave ."/>
+		<item slot="3" text="turn on microwave ."/>
+	</script>
+	<script id="39">
+		<item slot="1" text="switch on the microwave ."/>
+		<item slot="2" text="open the door panel of the microwave ."/>
+		<item slot="3" text="put the food inside the microwave ."/>
+		<item slot="4" text="close the door panel ."/>
+		<item slot="5" text="set the setting for heating food ."/>
+		<item slot="6" text="push the start button ."/>
+	</script>
+	<script id="42">
+		<item slot="1" text="put food in a microwave suitable bowl ."/>
+		<item slot="2" text="place bowl with food in microwave ."/>
+		<item slot="3" text="choose the temperature needed ."/>
+		<item slot="4" text="choose the time required ."/>
+		<item slot="5" text="press start ."/>
+		<item slot="6" text="wait until the time is over ."/>
+		<item slot="7" text="take food out of microwave ."/>
+	</script>
+	<script id="43">
+		<item slot="1" text="put food on a plate ."/>
+		<item slot="2" text="cover plate ."/>
+		<item slot="3" text="open microwave door ."/>
+		<item slot="4" text="set the timer ."/>
+		<item slot="5" text="close the door ."/>
+		<item slot="6" text="press the start button ."/>
+	</script>
+	<script id="46">
+		<item slot="1" text="open microwave door ."/>
+		<item slot="2" text="place food inside microwave ."/>
+		<item slot="3" text="close door ."/>
+		<item slot="4" text="set timer ."/>
+		<item slot="5" text="push start button ."/>
+	</script>
+	<script id="50">
+		<item slot="1" text="enter food in microwave ."/>
+		<item slot="2" text="select desired length and temperature ."/>
+		<item slot="3" text="press 'start' ."/>
+		<item slot="4" text="remove when beeping ."/>
+	</script>
+	<script id="51">
+		<item slot="1" text="put food into microwave ."/>
+		<item slot="2" text="close the door ."/>
+		<item slot="3" text="set the timer ."/>
+		<item slot="4" text="press start ."/>
+		<item slot="5" text="remove food when time is up ."/>
+	</script>
+	<script id="52">
+		<item slot="1" text="open microwave ."/>
+		<item slot="2" text="place food in microwave ."/>
+		<item slot="3" text="select time ."/>
+		<item slot="4" text="close door ."/>
+		<item slot="5" text="start ."/>
+	</script>
+	<script id="53">
+		<item slot="1" text="put food in microwave ."/>
+		<item slot="2" text="press timer ."/>
+	</script>
+	<script id="54">
+		<item slot="1" text="place food on a microwave-safe container ."/>
+		<item slot="2" text="place food into the microwave ."/>
+		<item slot="3" text="set time and power on the microwave ."/>
+		<item slot="4" text="press start ."/>
+		<item slot="5" text="wait ."/>
+	</script>
+	<script id="55">
+		<item slot="1" text="place food in microwave ."/>
+		<item slot="2" text="select time ."/>
+		<item slot="3" text="remove food ."/>
+	</script>
+	<script id="61">
+		<item slot="1" text="place food in microwave ."/>
+		<item slot="2" text="press button to set time ."/>
+	</script>
+	<script id="62">
+		<item slot="1" text="put food into microwave ."/>
+		<item slot="2" text="close door ."/>
+		<item slot="3" text="set timer ."/>
+		<item slot="4" text="press start button ."/>
+		<item slot="5" text="wait for microwave to stop ."/>
+		<item slot="6" text="open door and remove food ."/>
+	</script>
+	<script id="63">
+		<item slot="1" text="open microwave door ."/>
+		<item slot="2" text="place food in mircrowave ."/>
+		<item slot="3" text="set timer to specific time ."/>
+	</script>
+	<script id="64">
+		<item slot="1" text="take the food ."/>
+		<item slot="2" text="keep it in microwave ."/>
+		<item slot="3" text="turn on the microwave ."/>
+	</script>
+	<script id="68">
+		<item slot="1" text="put food in container ."/>
+		<item slot="2" text="put in microwave ."/>
+		<item slot="3" text="select time ."/>
+		<item slot="4" text="press start ."/>
+		<item slot="5" text="when finish remove ."/>
+	</script>
+	<script id="69">
+		<item slot="1" text="put food on plate ."/>
+		<item slot="2" text="wrap in paper towel ."/>
+		<item slot="3" text="input time ."/>
+		<item slot="4" text="press start ."/>
+		<item slot="5" text="wait ."/>
+		<item slot="6" text="press stop and open microwave ."/>
+		<item slot="7" text="remove food ."/>
+	</script>
+	<script id="71">
+		<item slot="1" text="put food on/in microwave safe container ."/>
+		<item slot="2" text="put container in microwave ."/>
+		<item slot="3" text="set timer/power level as appropriate for the item being heated ."/>
+		<item slot="4" text="push the start button ."/>
+		<item slot="5" text="when the bell dings remove your food ."/>
+	</script>
+	<script id="72">
+		<item slot="1" text="open microwave door ."/>
+		<item slot="2" text="put food in microwave ."/>
+		<item slot="3" text="enter time to cook ."/>
+		<item slot="4" text="when time is up remove food ."/>
+		<item slot="5" text="close microwave door ."/>
+	</script>
+	<script id="77">
+		<item slot="1" text="get food ."/>
+		<item slot="2" text="open microwave door ."/>
+		<item slot="3" text="put food in microwave ."/>
+		<item slot="4" text="close door ."/>
+		<item slot="5" text="punch in cooking time ."/>
+		<item slot="6" text="press start ."/>
+	</script>
+	<script id="84">
+		<item slot="1" text="put food on plate ."/>
+		<item slot="2" text="put in microwave ."/>
+		<item slot="3" text="close door ."/>
+		<item slot="4" text="press in time ."/>
+		<item slot="5" text="press start ."/>
+	</script>
+	<script id="89">
+		<item slot="1" text="take food ."/>
+		<item slot="2" text="place in microwave ."/>
+		<item slot="3" text="start microwave ."/>
+	</script>
+	<script id="90">
+		<item slot="1" text="take plastic off the package ."/>
+		<item slot="2" text="put in microve ."/>
+		<item slot="3" text="enter time as indicated in instructions on box ."/>
+	</script>
+</scripts>

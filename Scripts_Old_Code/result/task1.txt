@@ -1,0 +1,12 @@
+ptuning dev accuracy is 0.00024619899612534686 dev evaluate 1425676 tp 130 tn 1418649 fp 132 fn 6765
+ptuning test accuracy is 0.00010662452719540585 test evaluate 2194617 tp 285 tn 2182276 fp 464 fn 11592
+ptuning dev accuracy is 0.0002469004177667296 dev evaluate 1425676 tp 1282 tn 1415783 fp 2998 fn 5613
+ptuning test accuracy is 0.00010662452719540585 test evaluate 2194617 tp 2484 tn 2177942 fp 4798 fn 9393
+ptuning dev accuracy is 0.1 dev evaluate 10 tp 0 tn 10 fp 0 fn 0
+ptuning dev accuracy is 0.1 dev evaluate 10 tp 0 tn 10 fp 0 fn 0
+ptuning dev accuracy is 0.1 dev evaluate 10 tp 0 tn 10 fp 0 fn 0
+test_ptuning test accuracy is 0.1 test evaluate 10 tp 0 tn 10 fp 0 fn 0
+ptuning dev accuracy is 0.1 dev evaluate 10 tp 0 tn 10 fp 0 fn 0
+test_ptuning test accuracy is 0.1 test evaluate 10 tp 0 tn 10 fp 0 fn 0
+ptuning dev accuracy is 0.1 dev evaluate 10 tp 0 tn 10 fp 0 fn 0
+test_ptuning test accuracy is 0.1 test evaluate 10 tp 0 tn 10 fp 0 fn 0

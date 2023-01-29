@@ -1,0 +1,296 @@
+<scripts>
+<script id="1">
+<item slot="1" text="find off switch ." />
+<item slot="2" text="press off switch ." />
+</script>
+<script id="2">
+<item slot="1" text="find off switch ." />
+<item slot="2" text="toggle off switch ." />
+</script>
+<script id="3">
+<item slot="1" text="locate off switch ." />
+<item slot="2" text="toggle off switch ." />
+</script>
+<script id="4">
+<item slot="1" text="walk to stereo ." />
+<item slot="2" text="turn power off ." />
+</script>
+<script id="5">
+<item slot="1" text="locate the remote control device ." />
+<item slot="2" text="position the remote properly ." />
+<item slot="3" text="press the off button ." />
+<item slot="4" text="keep the remote in position ." />
+</script>
+<script id="6">
+<item slot="1" text="locate the stereo ." />
+<item slot="2" text="locate the front of the stereo ." />
+<item slot="3" text="locate the power button ." />
+<item slot="4" text="depress the power button shortly ." />
+</script>
+<script id="7">
+<item slot="1" text="press the power button ." />
+</script>
+<script id="8">
+<item slot="1" text="locate off button on music system ." />
+<item slot="2" text="press off button ." />
+</script>
+<script id="9">
+<item slot="1" text="find the remote control ." />
+<item slot="2" text="find the 'on/off' button ." />
+<item slot="3" text="hit the 'on/off' button ." />
+</script>
+<script id="10">
+<item slot="1" text="find music system ." />
+<item slot="2" text="find power button ." />
+<item slot="3" text="adjust volume ." />
+<item slot="4" text="turn music system on ." />
+</script>
+<script id="11">
+<item slot="1" text="find music system ." />
+<item slot="2" text="find power button ." />
+<item slot="3" text="turn music system off ." />
+</script>
+<script id="12">
+<item slot="1" text="go to music system ." />
+<item slot="2" text="push off button ." />
+</script>
+<script id="13">
+<item slot="1" text="approach the music system ." />
+<item slot="2" text="locate the off button ." />
+<item slot="3" text="press the off button ." />
+</script>
+<script id="14">
+<item slot="1" text="find power knob ." />
+<item slot="2" text="push power knob ." />
+</script>
+<script id="15">
+<item slot="1" text="locate remote ." />
+<item slot="2" text="push button to off position ." />
+</script>
+<script id="16">
+<item slot="1" text="find remote ." />
+<item slot="2" text="push off button ." />
+</script>
+<script id="17">
+<item slot="1" text="find remote ." />
+<item slot="2" text="push off button ." />
+</script>
+<script id="18">
+<item slot="1" text="locate the music system ." />
+<item slot="2" text="locate the power button on the machine or on the remote control ." />
+<item slot="3" text="press the power button ." />
+</script>
+<script id="19">
+<item slot="1" text="locate music system ." />
+<item slot="2" text="locate remote ." />
+<item slot="3" text="fetch remote ." />
+<item slot="4" text="poitn remote towards music system ." />
+<item slot="5" text="press power button ." />
+</script>
+<script id="20">
+<item slot="1" text="locate music system ." />
+<item slot="2" text="locate remote ." />
+<item slot="3" text="press power button ." />
+</script>
+<script id="21">
+<item slot="1" text="locate music system remote ." />
+<item slot="2" text="locate power button on remote ." />
+</script>
+<script id="22">
+<item slot="1" text="locate music system remote ." />
+<item slot="2" text="locate power button on remote ." />
+<item slot="3" text="press power button ." />
+</script>
+<script id="23">
+<item slot="1" text="take the remote control ." />
+<item slot="2" text="press the 'off' button ." />
+</script>
+<script id="24">
+<item slot="1" text="go over to music system ." />
+<item slot="2" text="get the music system remote control ." />
+<item slot="3" text="point the music system remote control at the music system ." />
+<item slot="4" text="press the off button on the music system remote control ." />
+</script>
+<script id="25">
+<item slot="1" text="locate the music system ." />
+<item slot="2" text="search the control panel for a power or off button ." />
+<item slot="3" text="toggle the music system into the off position ." />
+</script>
+<script id="26">
+<item slot="1" text="go to the stereo ." />
+<item slot="2" text="switch off the music ." />
+</script>
+<script id="27">
+<item slot="1" text="go to music system ." />
+<item slot="2" text="locate power switch ." />
+<item slot="3" text="press power switch ." />
+</script>
+<script id="28">
+<item slot="1" text="find the power button ." />
+<item slot="2" text="press it ." />
+</script>
+<script id="29">
+<item slot="1" text="stop the music ." />
+<item slot="2" text="press power off button ." />
+<item slot="3" text="unplug ." />
+</script>
+<script id="30">
+<item slot="1" text="press power off button ." />
+</script>
+<script id="31">
+<item slot="1" text="press the off button ." />
+</script>
+<script id="32">
+<item slot="1" text="tire of listening to music ." />
+<item slot="2" text="get up from chair ." />
+<item slot="3" text="walk to sound system ." />
+<item slot="4" text="stop the music ." />
+<item slot="5" text="remove cd ." />
+<item slot="6" text="place in storage case ." />
+<item slot="7" text="turn off power to system ." />
+</script>
+<script id="33">
+<item slot="1" text="press power button ." />
+</script>
+<script id="34">
+<item slot="1" text="pick up remote ." />
+<item slot="2" text="push power button ." />
+</script>
+<script id="35">
+<item slot="1" text="locate the power switch on the music system ." />
+<item slot="2" text="push it to turn it off ." />
+</script>
+<script id="36">
+<item slot="1" text="press the off button ." />
+</script>
+<script id="37">
+<item slot="1" text="locate on/off switch ." />
+<item slot="2" text="push or turn switch ." />
+</script>
+<script id="38">
+<item slot="1" text="press the off button on the music system or all the electric components on the music system ." />
+</script>
+<script id="39">
+<item slot="1" text="walk to system ." />
+<item slot="2" text="push power ." />
+</script>
+<script id="40">
+<item slot="1" text="press the off button on the stereo ." />
+</script>
+<script id="41">
+<item slot="1" text="find remote ." />
+<item slot="2" text="press off button ." />
+</script>
+<script id="42">
+<item slot="1" text="find remote ." />
+<item slot="2" text="press off button ." />
+</script>
+<script id="43">
+<item slot="1" text="find remote ." />
+<item slot="2" text="press off button ." />
+</script>
+<script id="44">
+<item slot="1" text="find remote ." />
+<item slot="2" text="press off button ." />
+</script>
+<script id="45">
+<item slot="1" text="find remote ." />
+<item slot="2" text="press off button ." />
+</script>
+<script id="46">
+<item slot="1" text="find remote ." />
+<item slot="2" text="press off button ." />
+</script>
+<script id="47">
+<item slot="1" text="turn music off ." />
+</script>
+<script id="48">
+<item slot="1" text="turn off music ." />
+</script>
+<script id="49">
+<item slot="1" text="press the power button ." />
+<item slot="2" text="check to make sure the music is off ." />
+</script>
+<script id="50">
+<item slot="1" text="press the power button ." />
+<item slot="2" text="check to make sure the music is off ." />
+</script>
+<script id="51">
+<item slot="1" text="press the power button ." />
+<item slot="2" text="check to make sure the music is off ." />
+</script>
+<script id="52">
+<item slot="1" text="press the power button ." />
+<item slot="2" text="check to make sure the music is off ." />
+</script>
+<script id="53">
+<item slot="1" text="stop button is indicated by a square symbol ." />
+<item slot="2" text="locate the stop button ." />
+<item slot="3" text="press button to turn off music system ." />
+</script>
+<script id="54">
+<item slot="1" text="stop button is indicated by a square symbol ." />
+<item slot="2" text="locate the stop button ." />
+<item slot="3" text="press button to turn off music system ." />
+</script>
+<script id="55">
+<item slot="1" text="locate the power on/off button ." />
+<item slot="2" text="press the button ." />
+</script>
+<script id="56">
+<item slot="1" text="locate the power on/off button ." />
+<item slot="2" text="press the button ." />
+</script>
+<script id="57">
+<item slot="1" text="locate the power on/off button ." />
+<item slot="2" text="press the button ." />
+</script>
+<script id="58">
+<item slot="1" text="push stop button ." />
+<item slot="2" text="turn power button to off ." />
+</script>
+<script id="59">
+<item slot="1" text="get up ." />
+<item slot="2" text="press stop button on cd player ." />
+<item slot="3" text="press eject ." />
+<item slot="4" text="take cd out ." />
+<item slot="5" text="close cd tray ." />
+<item slot="6" text="press power button ." />
+</script>
+<script id="60">
+<item slot="1" text="get up ." />
+<item slot="2" text="press stop button on cd player ." />
+<item slot="3" text="press eject ." />
+<item slot="4" text="take cd out ." />
+<item slot="5" text="close cd tray ." />
+<item slot="6" text="press power button ." />
+</script>
+<script id="61">
+<item slot="1" text="get up ." />
+<item slot="2" text="press stop button on cd player ." />
+<item slot="3" text="press eject ." />
+<item slot="4" text="take cd out ." />
+<item slot="5" text="close cd tray ." />
+<item slot="6" text="press power button ." />
+</script>
+<script id="62">
+<item slot="1" text="get up ." />
+<item slot="2" text="press power button ." />
+</script>
+<script id="63">
+<item slot="1" text="get up ." />
+<item slot="2" text="press power button ." />
+</script>
+<script id="64">
+<item slot="1" text="get up ." />
+<item slot="2" text="press power button ." />
+</script>
+<script id="65">
+<item slot="1" text="get up ." />
+<item slot="2" text="press power button ." />
+</script>
+<script id="66">
+<item slot="1" text="get up ." />
+<item slot="2" text="press power button ." />
+</script>
+</scripts>

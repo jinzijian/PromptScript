@@ -1,0 +1,260 @@
+<scripts>
+<script id="1">
+<item slot="1" text="locate ball ." />
+<item slot="2" text="move to ball ." />
+<item slot="3" text="kick ball ." />
+</script>
+<script id="2">
+<item slot="1" text="approach ball ." />
+<item slot="2" text="position non-kicking foot near the ball ." />
+<item slot="3" text="pull kicking foot backwards ." />
+<item slot="4" text="push kicking foot forward through the ball ." />
+</script>
+<script id="3">
+<item slot="1" text="move foot towards ball ." />
+<item slot="2" text="make contact with ball ." />
+<item slot="3" text="continue moving foot ." />
+</script>
+<script id="4">
+<item slot="1" text="find a ball ." />
+<item slot="2" text="draw back your foot ." />
+<item slot="3" text="apply foot to ball forcefully ." />
+</script>
+<script id="5">
+<item slot="1" text="locate the ball ." />
+<item slot="2" text="go to the ball ." />
+<item slot="3" text="kick it ." />
+</script>
+<script id="6">
+<item slot="1" text="move up to the ball ." />
+<item slot="2" text="draw one leg back ." />
+<item slot="3" text="swing the leg forward ." />
+<item slot="4" text="ensure the foot strikes the ball ." />
+</script>
+<script id="7">
+<item slot="1" text="approach ball ." />
+<item slot="2" text="lift foot ." />
+<item slot="3" text="draw foot back ." />
+<item slot="4" text="push foot forward ." />
+</script>
+<script id="8">
+<item slot="1" text="track ball ." />
+<item slot="2" text="move close ot ball or wait for ball to be near ." />
+<item slot="3" text="pull back kicking foot ." />
+<item slot="4" text="psuh kicking foot forward so to make contact with ball ." />
+</script>
+<script id="9">
+<item slot="1" text="approach ball ." />
+<item slot="2" text="pull leg back ." />
+<item slot="3" text="push leg forward through ball ." />
+</script>
+<script id="10">
+<item slot="1" text="approach ball ." />
+<item slot="2" text="pull back kicking leg ." />
+<item slot="3" text="push leg forward ." />
+<item slot="4" text="make contact and follow through ." />
+</script>
+<script id="11">
+<item slot="1" text="get a ball ." />
+<item slot="2" text="stand on one leg ." />
+<item slot="3" text="swing the free leg towards the ball in a sharp movement ." />
+</script>
+<script id="12">
+<item slot="1" text="find a ball ." />
+<item slot="2" text="move one leg backward slightly ." />
+<item slot="3" text="quickly move leg forward toward the ball ." />
+<item slot="4" text="tap the ball with the foot on the moving leg ." />
+</script>
+<script id="13">
+<item slot="1" text="pick up the ball ." />
+<item slot="2" text="hold the ball in the air above one on your feet ." />
+<item slot="3" text="swing the foot up quickly to hit the ball ." />
+</script>
+<script id="14">
+<item slot="1" text="place a ball on the ground ." />
+<item slot="2" text="bring a foot back behind a person ." />
+<item slot="3" text="swing the foot forward and impact with the ball ." />
+</script>
+<script id="15">
+<item slot="1" text="get a ball ." />
+<item slot="2" text="put it on the floor ." />
+<item slot="3" text="swing your leg back ." />
+<item slot="4" text="swing your leg forward making contact with the ball ." />
+</script>
+<script id="16">
+<item slot="1" text="locate ball ." />
+<item slot="2" text="run towards ball ." />
+<item slot="3" text="kick ball when reaching ball ." />
+</script>
+<script id="17">
+<item slot="1" text="place the ball near leg ." />
+<item slot="2" text="lift the leg ." />
+<item slot="3" text="touch the ball with leg ." />
+<item slot="4" text="move leg a little backward ." />
+<item slot="5" text="give a kick ." />
+</script>
+<script id="18">
+<item slot="1" text="put the ball on the ground ." />
+<item slot="2" text="use your foot to kick the ball ." />
+</script>
+<script id="19">
+<item slot="1" text="kick a ball using your foot ." />
+</script>
+<script id="20">
+<item slot="1" text="go to the ball ." />
+<item slot="2" text="raise your foot backwards ." />
+<item slot="3" text="swing your foot forwards ." />
+</script>
+<script id="21">
+<item slot="1" text="place ball on the ground ." />
+<item slot="2" text="take 3 steps back from ball ." />
+<item slot="3" text="run towards ball ." />
+<item slot="4" text="swing leg toward ball ." />
+<item slot="5" text="end with foot hitting through ball ." />
+</script>
+<script id="22">
+<item slot="1" text="look at ball ." />
+<item slot="2" text="pull foot back ." />
+<item slot="3" text="aim foot at ball ." />
+<item slot="4" text="bring foot forward quickly ." />
+</script>
+<script id="23">
+<item slot="1" text="put ball on the ground ." />
+<item slot="2" text="take a step back ." />
+<item slot="3" text="stand with weight on left leg ." />
+<item slot="4" text="pull right leg back ." />
+<item slot="5" text="aim for ball ." />
+<item slot="6" text="quickly move right leg forward ." />
+<item slot="7" text="connect right foot with ball ." />
+</script>
+<script id="24">
+<item slot="1" text="place ball on ground ." />
+<item slot="2" text="move back ." />
+<item slot="3" text="run towards ball ." />
+<item slot="4" text="move leg back ." />
+<item slot="5" text="move leg forward ." />
+</script>
+<script id="25">
+<item slot="1" text="put ball in front of feet ." />
+<item slot="2" text="plant left foot next to ball ." />
+<item slot="3" text="swing right foot back ." />
+<item slot="4" text="swing right foot forward ." />
+<item slot="5" text="strike the ball ." />
+</script>
+<script id="26">
+<item slot="1" text="raise foot ." />
+<item slot="2" text="kick ball ." />
+</script>
+<script id="27">
+<item slot="1" text="raise foot ." />
+<item slot="2" text="kick ball ." />
+</script>
+<script id="28">
+<item slot="1" text="hold the ball ." />
+<item slot="2" text="place the ball ." />
+<item slot="3" text="apply the force in proper direction ." />
+<item slot="4" text="kick a ball ." />
+</script>
+<script id="29">
+<item slot="1" text="place the ball ." />
+<item slot="2" text="back up ." />
+<item slot="3" text="run forward ." />
+<item slot="4" text="kick the ball ." />
+</script>
+<script id="30">
+<item slot="1" text="place ball on ground ." />
+<item slot="2" text="line up behind ball ." />
+<item slot="3" text="strike ball with foot ." />
+</script>
+<script id="31">
+<item slot="1" text="find ball ." />
+<item slot="2" text="aim for ball ." />
+<item slot="3" text="kick ball ." />
+</script>
+<script id="32">
+<item slot="1" text="point toe at ball ." />
+<item slot="2" text="pull back foot ." />
+<item slot="3" text="swing foot forward hard and fast ." />
+<item slot="4" text="make contact with the ball ." />
+</script>
+<script id="33">
+<item slot="1" text="point toe at ball ." />
+<item slot="2" text="pull back foot ." />
+<item slot="3" text="swing foot forward hard and fast ." />
+<item slot="4" text="make contact with the ball ." />
+</script>
+<script id="34">
+<item slot="1" text="kick the ball ." />
+</script>
+<script id="35">
+<item slot="1" text="find a ball ." />
+<item slot="2" text="put it on the ground ." />
+<item slot="3" text="stand behind it ." />
+<item slot="4" text="run up to it ." />
+<item slot="5" text="swing your leg at the ball ." />
+<item slot="6" text="hit the ball with your foot ." />
+</script>
+<script id="36">
+<item slot="1" text="find a ball ." />
+<item slot="2" text="put it on the ground ." />
+<item slot="3" text="stand behind it ." />
+<item slot="4" text="run up to it ." />
+<item slot="5" text="swing your leg at the ball ." />
+<item slot="6" text="hit the ball with your foot ." />
+</script>
+<script id="37">
+<item slot="1" text="find a ball ." />
+<item slot="2" text="put it on the ground ." />
+<item slot="3" text="stand behind it ." />
+<item slot="4" text="run up to it ." />
+<item slot="5" text="swing your leg at the ball ." />
+<item slot="6" text="hit the ball with your foot ." />
+</script>
+<script id="38">
+<item slot="1" text="find a ball ." />
+<item slot="2" text="put it on the ground ." />
+<item slot="3" text="stand behind it ." />
+<item slot="4" text="run up to it ." />
+<item slot="5" text="swing your leg at the ball ." />
+<item slot="6" text="hit the ball with your foot ." />
+</script>
+<script id="39">
+<item slot="1" text="place ball in front of you ." />
+<item slot="2" text="pull leg back ." />
+<item slot="3" text="hit ball with foot ." />
+</script>
+<script id="40">
+<item slot="1" text="place ball in front of you ." />
+<item slot="2" text="pull leg back ." />
+<item slot="3" text="hit ball with foot ." />
+</script>
+<script id="41">
+<item slot="1" text="place ball in front of you ." />
+<item slot="2" text="pull leg back ." />
+<item slot="3" text="hit ball with foot ." />
+</script>
+<script id="42">
+<item slot="1" text="prepare the foot ." />
+<item slot="2" text="swing foot at ball ." />
+</script>
+<script id="43">
+<item slot="1" text="take ball ." />
+<item slot="2" text="swing foot ." />
+<item slot="3" text="hit ball ." />
+</script>
+<script id="44">
+<item slot="1" text="put ball on ground ." />
+<item slot="2" text="stand in front of ball ." />
+<item slot="3" text="lift foot off ground ." />
+<item slot="4" text="hit ball with foot ." />
+</script>
+<script id="45">
+<item slot="1" text="kicking ." />
+<item slot="2" text="lifting ." />
+<item slot="3" text="exercise ." />
+<item slot="4" text="motion ." />
+<item slot="5" text="running ." />
+<item slot="6" text="balance ." />
+<item slot="7" text="movement ." />
+</script>
+</scripts>

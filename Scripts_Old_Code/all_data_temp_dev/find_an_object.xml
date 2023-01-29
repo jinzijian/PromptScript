@@ -1,0 +1,215 @@
+<scripts>
+<script id="1">
+<item slot="1" text="think where the object is likely to be ." />
+<item slot="2" text="go to that location ." />
+<item slot="3" text="look for the object ." />
+</script>
+<script id="2">
+<item slot="1" text="look for object ." />
+<item slot="2" text="go to object ." />
+<item slot="3" text="announce object is found ." />
+</script>
+<script id="3">
+<item slot="1" text="look around you ." />
+<item slot="2" text="if not seen look in the table drawers ." />
+<item slot="3" text="if not seen look on the shelves ." />
+<item slot="4" text="if not seen look in the closet ." />
+<item slot="5" text="iif not seen look under the table ." />
+</script>
+<script id="4">
+<item slot="1" text="look for places in which an object might be located ." />
+<item slot="2" text="look for the object in proximity to other objects ." />
+</script>
+<script id="5">
+<item slot="1" text="determine the object to find ." />
+<item slot="2" text="carefully search all rooms for the object ." />
+<item slot="3" text="search outside around the house for the object ." />
+</script>
+<script id="6">
+<item slot="1" text="look around in the current room for the object ." />
+<item slot="2" text="if not found within a certain amount of time move to an unvisited room ." />
+</script>
+<script id="7">
+<item slot="1" text="look around for object ." />
+<item slot="2" text="if not found move to next room ." />
+</script>
+<script id="8">
+<item slot="1" text="determine if you can see the object ." />
+<item slot="2" text="change what you are looking at ." />
+<item slot="3" text="repeat ." />
+</script>
+<script id="9">
+<item slot="1" text="know what object you re looking for ." />
+<item slot="2" text="think about where it can be ." />
+<item slot="3" text="go to those places ." />
+<item slot="4" text="search for the object ." />
+<item slot="5" text="spot the object ." />
+</script>
+<script id="10">
+<item slot="1" text="look around room ." />
+<item slot="2" text="move to next room if not found ." />
+<item slot="3" text="if not found ask someone ." />
+</script>
+<script id="11">
+<item slot="1" text="search for the object ." />
+<item slot="2" text="think where else it could be ." />
+<item slot="3" text="search there ." />
+<item slot="4" text="repeat until object is found ." />
+</script>
+<script id="12">
+<item slot="1" text="determine the most probable place where the object might be ." />
+<item slot="2" text="search that place looking for object ." />
+</script>
+<script id="13">
+<item slot="1" text="look in the last place you had it ." />
+</script>
+<script id="14">
+<item slot="1" text="look for object ." />
+<item slot="2" text="see object ." />
+</script>
+<script id="15">
+<item slot="1" text="move to a location ." />
+<item slot="2" text="look for the object in the location ." />
+<item slot="3" text="if you find the object pick it up ." />
+<item slot="4" text="if you don t find the object move to a different location ." />
+<item slot="5" text="repeat until you find the object ." />
+</script>
+<script id="16">
+<item slot="1" text="search in the places where the object should normally be ." />
+<item slot="2" text="ask the people in the place if anyone seen (or moved) the object ." />
+<item slot="3" text="search for the object within the whole premisis ." />
+</script>
+<script id="17">
+<item slot="1" text="remember where object might be ." />
+<item slot="2" text="search area ." />
+<item slot="3" text="find object ." />
+</script>
+<script id="18">
+<item slot="1" text="choose an object to find ." />
+<item slot="2" text="look around the room ." />
+</script>
+<script id="19">
+<item slot="1" text="look in various places for object ." />
+</script>
+<script id="20">
+<item slot="1" text="look in various places for object ." />
+</script>
+<script id="21">
+<item slot="1" text="look in various places for object ." />
+</script>
+<script id="22">
+<item slot="1" text="look in various places for object ." />
+</script>
+<script id="23">
+<item slot="1" text="look in various places for object ." />
+</script>
+<script id="24">
+<item slot="1" text="look in various places for object ." />
+</script>
+<script id="25">
+<item slot="1" text="look in various places for object ." />
+</script>
+<script id="26">
+<item slot="1" text="look in various places for object ." />
+</script>
+<script id="27">
+<item slot="1" text="get object description ." />
+<item slot="2" text="query when object last seen ." />
+<item slot="3" text="query where seen ." />
+<item slot="4" text="query how object handled ." />
+<item slot="5" text="narrow down 1st location possiblilites ." />
+<item slot="6" text="query possible precise locations ." />
+<item slot="7" text="look hard until found ." />
+</script>
+<script id="28">
+<item slot="1" text="get object description ." />
+<item slot="2" text="query when object last seen ." />
+<item slot="3" text="query where seen ." />
+<item slot="4" text="query how object handled ." />
+<item slot="5" text="narrow down 1st location possiblilites ." />
+<item slot="6" text="query possible precise locations ." />
+<item slot="7" text="look hard until found ." />
+</script>
+<script id="29">
+<item slot="1" text="think where it might be ." />
+<item slot="2" text="look in all places nearby ." />
+<item slot="3" text="ask a friend for help ." />
+<item slot="4" text="look in different places ." />
+</script>
+<script id="30">
+<item slot="1" text="locate the objecty ." />
+</script>
+<script id="31">
+<item slot="1" text="look around ." />
+<item slot="2" text="pick up ." />
+</script>
+<script id="32">
+<item slot="1" text="look around ." />
+<item slot="2" text="pick up ." />
+</script>
+<script id="33">
+<item slot="1" text="know what you have to find ." />
+<item slot="2" text="think of possible locations for object ." />
+<item slot="3" text="search possible locations ." />
+<item slot="4" text="keep searching until object found ." />
+</script>
+<script id="34">
+<item slot="1" text="know what you have to find ." />
+<item slot="2" text="think of possible locations for object ." />
+<item slot="3" text="search possible locations ." />
+<item slot="4" text="keep searching until object found ." />
+</script>
+<script id="35">
+<item slot="1" text="know what you have to find ." />
+<item slot="2" text="think of possible locations for object ." />
+<item slot="3" text="search possible locations ." />
+<item slot="4" text="keep searching until object found ." />
+</script>
+<script id="36">
+<item slot="1" text="know what you have to find ." />
+<item slot="2" text="think of possible locations for object ." />
+<item slot="3" text="search possible locations ." />
+<item slot="4" text="keep searching until object found ." />
+</script>
+<script id="37">
+<item slot="1" text="know what you have to find ." />
+<item slot="2" text="think of possible locations for object ." />
+<item slot="3" text="search possible locations ." />
+<item slot="4" text="keep searching until object found ." />
+</script>
+<script id="38">
+<item slot="1" text="search for object ." />
+</script>
+<script id="39">
+<item slot="1" text="decide which object to find ." />
+<item slot="2" text="search everywhere until the object is found ." />
+</script>
+<script id="40">
+<item slot="1" text="look for object ." />
+<item slot="2" text="find object ." />
+<item slot="3" text="stop looking ." />
+</script>
+<script id="41">
+<item slot="1" text="look for it ." />
+</script>
+<script id="42">
+<item slot="1" text="look around ." />
+<item slot="2" text="spot the object ." />
+</script>
+<script id="43">
+<item slot="1" text="look around ." />
+<item slot="2" text="spot the object ." />
+</script>
+<script id="44">
+<item slot="1" text="think of object you need ." />
+<item slot="2" text="think where it could be ." />
+<item slot="3" text="go there ." />
+<item slot="4" text="look for it ." />
+</script>
+<script id="45">
+<item slot="1" text="have object in mind to find ." />
+<item slot="2" text="think of where it should be ." />
+<item slot="3" text="go there ." />
+<item slot="4" text="look for it ." />
+</script>
+</scripts>

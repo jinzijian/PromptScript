@@ -1,0 +1,151 @@
+<scripts>
+<script id="1">
+<item slot="1" text="go to person ." />
+<item slot="2" text="retrieve object ." />
+<item slot="3" text="follow person ." />
+</script>
+<script id="2">
+<item slot="1" text="get object ." />
+<item slot="2" text="follow person ." />
+</script>
+<script id="3">
+<item slot="1" text="hold box from one side ." />
+<item slot="2" text="carry box to destination ." />
+</script>
+<script id="4">
+<item slot="1" text="ask 'can i help you carry that?' ." />
+<item slot="2" text="if they say yes then ." />
+<item slot="3" text="grasp one end of the object ." />
+<item slot="4" text="move the object to the desired location ." />
+</script>
+<script id="5">
+<item slot="1" text="locate the person that needs help ." />
+<item slot="2" text="approach that person ." />
+<item slot="3" text="say 'may i help you carrying anything?' ." />
+<item slot="4" text="carry the thing(s) that person hands you ." />
+</script>
+<script id="6">
+<item slot="1" text="get some bags from person ." />
+</script>
+<script id="7">
+<item slot="1" text="pick up the item ." />
+<item slot="2" text="walk with the item to where the person needs it ." />
+</script>
+<script id="8">
+<item slot="1" text="go upto someone carrying something ." />
+<item slot="2" text="take hold of part of what they are carrying ." />
+</script>
+<script id="9">
+<item slot="1" text="go near person ." />
+<item slot="2" text="offer help ." />
+<item slot="3" text="take objects ." />
+<item slot="4" text="follow person ." />
+<item slot="5" text="put objects down ." />
+</script>
+<script id="10">
+<item slot="1" text="lift together ." />
+<item slot="2" text="decide who goes first ." />
+<item slot="3" text="synchronize movement ." />
+</script>
+<script id="11">
+<item slot="1" text="grasp where indicated ." />
+<item slot="2" text="lift appropriately ." />
+<item slot="3" text="carry to desired location ." />
+</script>
+<script id="12">
+<item slot="1" text="take the object from the person ." />
+<item slot="2" text="follow the person to their destination ." />
+<item slot="3" text="give the object back to them ." />
+</script>
+<script id="13">
+<item slot="1" text="see someone carrying a load ." />
+<item slot="2" text="discern that they need help ." />
+<item slot="3" text="rise to help ." />
+<item slot="4" text="offer to help ." />
+<item slot="5" text="if accepted take part of the load ." />
+<item slot="6" text="carry load to designated place ." />
+<item slot="7" text="sit down load carefully ." />
+</script>
+<script id="14">
+<item slot="1" text="see someone carrying a load ." />
+<item slot="2" text="discern that they need help ." />
+<item slot="3" text="rise to help ." />
+<item slot="4" text="offer to help ." />
+<item slot="5" text="if accepted take part of the load ." />
+<item slot="6" text="carry load to designated place ." />
+<item slot="7" text="sit down load carefully ." />
+</script>
+<script id="15">
+<item slot="1" text="ask them if they could use help ." />
+<item slot="2" text="carry something that they give you to carry ." />
+</script>
+<script id="16">
+<item slot="1" text="take the package from him ." />
+<item slot="2" text="carry it to his destination ." />
+</script>
+<script id="17">
+<item slot="1" text="lift item ." />
+<item slot="2" text="carry ." />
+<item slot="3" text="walk ." />
+</script>
+<script id="18">
+<item slot="1" text="ask them ." />
+<item slot="2" text="and grab it ." />
+</script>
+<script id="19">
+<item slot="1" text="ask them ." />
+<item slot="2" text="and grab it ." />
+</script>
+<script id="20">
+<item slot="1" text="be friendly ." />
+<item slot="2" text="help only when needed ." />
+<item slot="3" text="do what is needed ." />
+<item slot="4" text="carry the things ." />
+<item slot="5" text="go all the way ." />
+<item slot="6" text="open doors ." />
+<item slot="7" text="put on table ." />
+</script>
+<script id="21">
+<item slot="1" text="take the item ." />
+</script>
+<script id="22">
+<item slot="1" text="see the subject with things ." />
+<item slot="2" text="walk to the subject ." />
+</script>
+<script id="23">
+<item slot="1" text="see the subject with things ." />
+<item slot="2" text="walk to the subject ." />
+</script>
+<script id="24">
+<item slot="1" text="ask the person if they need help ." />
+<item slot="2" text="help them carry the object ." />
+</script>
+<script id="25">
+<item slot="1" text="approaching the person ." />
+<item slot="2" text="extending arms to recieve object ." />
+<item slot="3" text="grasping object carefully ." />
+<item slot="4" text="walking to destination ." />
+</script>
+<script id="26">
+<item slot="1" text="approach person carrying too much ." />
+<item slot="2" text="ask to carry something ." />
+<item slot="3" text="remove objects from person s hands ." />
+<item slot="4" text="walk beside person until destination reached ." />
+<item slot="5" text="place object down ." />
+</script>
+<script id="27">
+<item slot="1" text="approach person carrying too much ." />
+<item slot="2" text="ask to carry something ." />
+<item slot="3" text="remove objects from person s hands ." />
+<item slot="4" text="walk beside person until destination reached ." />
+<item slot="5" text="place object down ." />
+</script>
+<script id="28">
+<item slot="1" text="ask the person if they require help ." />
+<item slot="2" text="carry whatever it is they ask you to carry ." />
+</script>
+<script id="29">
+<item slot="1" text="ask the person if they require help ." />
+<item slot="2" text="carry whatever it is they ask you to carry ." />
+</script>
+</scripts>

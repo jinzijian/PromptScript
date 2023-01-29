@@ -1,0 +1,136 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<scripts>
+<script id="0">
+<item slot="1" text="call over server" />
+<item slot="2" text="explain whats wrong" />
+<item slot="3" text="hand dish back to server" />
+<item slot="4" text="wait for new dish" />
+<item slot="5" text="get refund" />
+</script>
+<script id="1">
+<item slot="1" text="Call the waiter" />
+<item slot="2" text="Explain problem" />
+<item slot="3" text="The waiter apologizes" />
+<item slot="4" text="Your food is taken back" />
+<item slot="5" text="You get a new plate of food" />
+</script>
+<script id="2">
+<item slot="1" text="taste the food" />
+<item slot="2" text="decide to complain" />
+<item slot="3" text="get waitress attention" />
+<item slot="4" text="explain the problem" />
+<item slot="5" text="show her the bad parts" />
+<item slot="6" text="ask her to take back the food" />
+<item slot="7" text="wait for replacement food" />
+<item slot="8" text="try out the replacement food" />
+</script>
+<script id="3">
+<item slot="1" text="call waiter" />
+<item slot="2" text="explain problem" />
+<item slot="3" text="waiter takes food back" />
+<item slot="4" text="you wait" />
+<item slot="5" text="cook prepares new dish" />
+<item slot="6" text="new plate of food is brought" />
+<item slot="7" text="you take new plate" />
+<item slot="8" text="thank waiter" />
+</script>
+<!-- prepairs = prepares -->
+<script id="4">
+<item slot="1" text="find something wrong with it" />
+<item slot="2" text="ask a server to examine it" />
+<item slot="3" text="wait for a new dish" />
+<item slot="4" text="enjoy" />
+<item slot="5" text="leave a good tip" />
+</script>
+<script id="5">
+<item slot="1" text="decide to say anything or not" />
+<item slot="2" text="call for waiter" />
+<item slot="3" text="tell waiter problem with food" />
+<item slot="4" text="apologize for complaining" />
+<item slot="5" text="kindly request money back" />
+</script>
+<script id="6">
+<item slot="1" text="notify wait staff of problem" />
+<item slot="2" text="food will be returned to chef" />
+<item slot="3" text="chef will correct issue" />
+<item slot="4" text="waitstaff will bring food back" />
+<item slot="5" text="thank waitstaff for correcting" />
+</script>
+<script id="7">
+<item slot="1" text="Get server's attention" />
+<item slot="2" text="Describe problem" />
+<item slot="3" text="Server takes food back" />
+<item slot="4" text="Problem is corrected" />
+<item slot="5" text="food is returned" />
+<item slot="6" text="hopefully everyone is happy" />
+</script>
+<script id="8">
+<item slot="1" text="taste food" />
+<item slot="2" text="dislike food" />
+<item slot="3" text="attract server's attention" />
+<item slot="4" text="complain to server" />
+<item slot="5" text="hand plate to server" />
+<item slot="6" text="wait for new food" />
+</script>
+<script id="9">
+<item slot="1" text="flag down waiter" />
+<item slot="2" text="tell him what's wrong" />
+<item slot="3" text="order something else" />
+<item slot="4" text="waiter takes dish away" />
+<item slot="5" text="continue eating other food" />
+<item slot="6" text="new dish arrives" />
+<item slot="7" text="eat" />
+</script>
+<script id="10">
+<item slot="1" text="Get server's attention" />
+<item slot="2" text="Tell what is wrong with food" />
+<item slot="3" text="Ask for a new plate of food" />
+<item slot="4" text="Wait for your new plate" />
+<item slot="5" text="Server brings a new meal" />
+<item slot="6" text="Eat meal" />
+</script>
+<script id="11">
+<item slot="1" text="Flag down the waiter" />
+<item slot="2" text="Explain why the food sucks" />
+<item slot="3" text="Ask him to have another made" />
+<item slot="4" text="Inspect the new plate" />
+<item slot="5" text="Send back the old one" />
+<!-- SEnd = Send -->
+</script>
+<!-- deleted #14 -->
+<!-- mostly unchronological, full-text story -->
+<script id="12">
+<item slot="1" text="call server to table" />
+<item slot="2" text="comment about food" />
+<item slot="3" text="server returns food to kitchen" />
+<item slot="4" text="tell chef complaint of food" />
+<item slot="5" text="chef prepares new food" />
+<item slot="6" text="food brought back to table" />
+</script>
+
+<!-- no. 18 was on lsd or sth. -->
+<script id="13">
+<item slot="1" text="be polite" />
+<item slot="2" text="explain to the waitress" />
+<item slot="3" text="request a replacement meal" />
+<item slot="4" text="thank the waitress" />
+<item slot="5" text="thank the chef" />
+<item slot="6" text="leave a higher tip" />
+</script>
+<!-- deleted #20 -->
+<!-- 21 was out with 18. -->
+<script id="14">
+<item slot="1" text="waiter asks me why?" />
+<item slot="2" text="I state the reason" />
+<item slot="3" text="waiter apologises" />
+<item slot="4" text="waiter takes back the food" />
+<item slot="5" text="i wait for the new order" />
+<item slot="6" text="waiter brings in the food" />
+</script>
+
+<!-- 'delete money'. hilarious. -->
+<!-- deleted #23 -->
+
+
+
+</scripts>

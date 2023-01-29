@@ -1,0 +1,301 @@
+<scripts>
+<script id="1">
+<item slot="1" text="find a bucket ." />
+<item slot="2" text="fill the buket with water ." />
+<item slot="3" text="find a mop ." />
+<item slot="4" text="dunk the mop in the bucket ." />
+<item slot="5" text="wipe the floor ." />
+</script>
+<script id="2">
+<item slot="1" text="get broom ." />
+<item slot="2" text="sweep floor ." />
+<item slot="3" text="put away broom ." />
+<item slot="4" text="get mop ." />
+<item slot="5" text="get water ." />
+<item slot="6" text="mop floor ." />
+<item slot="7" text="put away mop and water ." />
+</script>
+<script id="3">
+<item slot="1" text="make cleaning solvent using water and detergent ." />
+<item slot="2" text="place solvent in bucket ." />
+</script>
+<script id="4">
+<item slot="1" text="get cleaning chemicals ." />
+<item slot="2" text="get a bucket of water ." />
+<item slot="3" text="get a mop ." />
+<item slot="4" text="dip mop in water ." />
+<item slot="5" text="spray chemicals on floor ." />
+<item slot="6" text="move mop over the floor ." />
+</script>
+<script id="5">
+<item slot="1" text="take out the mop ." />
+<item slot="2" text="take out the mop bucket ." />
+<item slot="3" text="place water in the mop bucket ." />
+<item slot="4" text="dip the mop in the bucket ." />
+<item slot="5" text="run the mop over the floor ." />
+<item slot="6" text="put mop away when the floor is clean ." />
+</script>
+<script id="6">
+<item slot="1" text="get mop ." />
+<item slot="2" text="wet mop ." />
+<item slot="3" text="mop the floor ." />
+<item slot="4" text="dry mop ." />
+</script>
+<script id="7">
+<item slot="1" text="pick up any large objects ." />
+<item slot="2" text="sweep up any dust or small objects ." />
+<item slot="3" text="wash the floor with a mop and water ." />
+<item slot="4" text="let the floor dry ." />
+</script>
+<script id="8">
+<item slot="1" text="fill a bucket with water ." />
+<item slot="2" text="add pinesol ." />
+<item slot="3" text="dip a mop into the water ." />
+<item slot="4" text="squeeze excess water from the mop ." />
+<item slot="5" text="run the mop over the entire floor ." />
+<item slot="6" text="empty the bucket into the tub ." />
+<item slot="7" text="replace the bucket and mop ." />
+</script>
+<script id="9">
+<item slot="1" text="get mop and water ." />
+<item slot="2" text="wet mop removing excess water ." />
+<item slot="3" text="wipe floor with mop ." />
+<item slot="4" text="if mop get dirty go to step 2 until floor is clean ." />
+</script>
+<script id="10">
+<item slot="1" text="locate a mop ." />
+<item slot="2" text="locate a bucket ." />
+<item slot="3" text="locate soap ." />
+<item slot="4" text="fill the bucket with water ." />
+<item slot="5" text="add soap to the water in the bucket ." />
+<item slot="6" text="utilize mop to spread soapy water across floor ." />
+</script>
+<script id="11">
+<item slot="1" text="find broom and dustpan ." />
+<item slot="2" text="sweep dirt on floor into dustpan ." />
+<item slot="3" text="throw gathered dirt in the trash ." />
+</script>
+<script id="12">
+<item slot="1" text="get a mop ." />
+<item slot="2" text="get bucket of water with detergent ." />
+<item slot="3" text="put the mop in the bucket ." />
+<item slot="4" text="use the mop to clean the floor ." />
+<item slot="5" text="refresh the mop in the bucket ." />
+</script>
+<script id="13">
+<item slot="1" text="place mop into bucket ." />
+<item slot="2" text="place mop on floor ." />
+<item slot="3" text="mop floor ." />
+</script>
+<script id="14">
+<item slot="1" text="broom the floor ." />
+<item slot="2" text="mop the floor ." />
+<item slot="3" text="dry the floor ." />
+<item slot="4" text="apply wax to shine the floor ." />
+</script>
+<script id="15">
+<item slot="1" text="get mop ." />
+<item slot="2" text="wet the mop ." />
+<item slot="3" text="mop the floor ." />
+</script>
+<script id="16">
+<item slot="1" text="get mop ." />
+<item slot="2" text="wet the mop ." />
+<item slot="3" text="mop the floor ." />
+</script>
+<script id="17">
+<item slot="1" text="pick up the objects on the floor ." />
+<item slot="2" text="sweep the floor with a broom ." />
+<item slot="3" text="fill a mop bucket with water ." />
+<item slot="4" text="put the mop in the water ." />
+<item slot="5" text="squeeze out the mop ." />
+<item slot="6" text="run the mop over the floor ." />
+<item slot="7" text="wash the mop ." />
+</script>
+<script id="18">
+<item slot="1" text="get broom and dustpan ." />
+<item slot="2" text="place dustpan on floor ." />
+<item slot="3" text="sweep dirt into dustpan using broom ." />
+<item slot="4" text="empty dustpan into trashcan ." />
+<item slot="5" text="repeat 2 through 4 until floor is clean ." />
+</script>
+<script id="19">
+<item slot="1" text="clear the floor ." />
+<item slot="2" text="vacuum the floor ." />
+<item slot="3" text="wash the floor ." />
+<item slot="4" text="replace furniture ." />
+</script>
+<script id="20">
+<item slot="1" text="sweep floor ." />
+<item slot="2" text="vacuum floor ." />
+</script>
+<script id="21">
+<item slot="1" text="pick up objects ." />
+</script>
+<script id="22">
+<item slot="1" text="pick up objects ." />
+</script>
+<script id="23">
+<item slot="1" text="place washrag assigned for floor washing in a bucket of soapy water ." />
+<item slot="2" text="use assigned washrag to wash the dirty floor ." />
+<item slot="3" text="rinse washrag to remove dirt from it periodicly in bucket of water ." />
+</script>
+<script id="24">
+<item slot="1" text="place washrag assigned for floor washing in a bucket of soapy water ." />
+<item slot="2" text="use assigned washrag to wash the dirty floor ." />
+<item slot="3" text="rinse washrag to remove dirt from it periodicly in bucket of water ." />
+</script>
+<script id="25">
+<item slot="1" text="sweep the floor ." />
+<item slot="2" text="sweep crumbs into a dust pan ." />
+<item slot="3" text="toss crumbs in the trash ." />
+<item slot="4" text="take out mop ." />
+<item slot="5" text="put warm water and dime size amount of soap in bucket ." />
+<item slot="6" text="put mop in bucket ." />
+<item slot="7" text="put mop on floor clean in straight pattern ." />
+</script>
+<script id="26">
+<item slot="1" text="identify the floor type ." />
+<item slot="2" text="pick one of the following: ." />
+<item slot="3" text="vacuum dry messes on carpets ." />
+<item slot="4" text="mop up wet or hard to get off spills on solid floors with a mop ." />
+<item slot="5" text="sweep loose debris on solid floors with a broom ." />
+</script>
+<script id="27">
+<item slot="1" text="pick up large objects off the floor ." />
+<item slot="2" text="if the floor is carpeted vacuum it ." />
+<item slot="3" text="if the floor is a hard surface sweep it and then mop it ." />
+</script>
+<script id="28">
+<item slot="1" text="pick up large objects off the floor ." />
+<item slot="2" text="if the floor is carpeted vacuum it ." />
+<item slot="3" text="if the floor is a hard surface sweep it and then mop it ." />
+</script>
+<script id="29">
+<item slot="1" text="pick up large objects off the floor ." />
+<item slot="2" text="if the floor is carpeted vacuum it ." />
+<item slot="3" text="if the floor is a hard surface sweep it and then mop it ." />
+</script>
+<script id="30">
+<item slot="1" text="pick up large objects off the floor ." />
+<item slot="2" text="if the floor is carpeted vacuum it ." />
+<item slot="3" text="if the floor is a hard surface sweep it and then mop it ." />
+</script>
+<script id="31">
+<item slot="1" text="pick up large objects off the floor ." />
+<item slot="2" text="if the floor is carpeted vacuum it ." />
+<item slot="3" text="if the floor is a hard surface sweep it and then mop it ." />
+</script>
+<script id="32">
+<item slot="1" text="pick up large objects off the floor ." />
+<item slot="2" text="if the floor is carpeted vacuum it ." />
+<item slot="3" text="if the floor is a hard surface sweep it and then mop it ." />
+</script>
+<script id="33">
+<item slot="1" text="pick up large objects off the floor ." />
+<item slot="2" text="if the floor is carpeted vacuum it ." />
+<item slot="3" text="if the floor is a hard surface sweep it and then mop it ." />
+</script>
+<script id="34">
+<item slot="1" text="pick up large objects off the floor ." />
+<item slot="2" text="if the floor is carpeted vacuum it ." />
+<item slot="3" text="if the floor is a hard surface sweep it and then mop it ." />
+</script>
+<script id="35">
+<item slot="1" text="pick up large objects off the floor ." />
+<item slot="2" text="if the floor is carpeted vacuum it ." />
+<item slot="3" text="if the floor is a hard surface sweep it and then mop it ." />
+</script>
+<script id="36">
+<item slot="1" text="pick up large objects off the floor ." />
+<item slot="2" text="if the floor is carpeted vacuum it ." />
+<item slot="3" text="if the floor is a hard surface sweep it and then mop it ." />
+</script>
+<script id="37">
+<item slot="1" text="pick up large objects off the floor ." />
+<item slot="2" text="if the floor is carpeted vacuum it ." />
+<item slot="3" text="if the floor is a hard surface sweep it and then mop it ." />
+</script>
+<script id="38">
+<item slot="1" text="pick up large objects off the floor ." />
+<item slot="2" text="if the floor is carpeted vacuum it ." />
+<item slot="3" text="if the floor is a hard surface sweep it and then mop it ." />
+</script>
+<script id="39">
+<item slot="1" text="pick up large objects off the floor ." />
+<item slot="2" text="if the floor is carpeted vacuum it ." />
+<item slot="3" text="if the floor is a hard surface sweep it and then mop it ." />
+</script>
+<script id="40">
+<item slot="1" text="pick up large objects off the floor ." />
+<item slot="2" text="if the floor is carpeted vacuum it ." />
+<item slot="3" text="if the floor is a hard surface sweep it and then mop it ." />
+</script>
+<script id="41">
+<item slot="1" text="clean floor ." />
+</script>
+<script id="42">
+<item slot="1" text="sweep floor with broom ." />
+<item slot="2" text="gather dirt into dustbin ." />
+<item slot="3" text="dispose of dirt ." />
+<item slot="4" text="mop floor with soapy water ." />
+<item slot="5" text="let floor dry ." />
+</script>
+<script id="43">
+<item slot="1" text="sweep floor with broom ." />
+<item slot="2" text="gather dirt into dustbin ." />
+<item slot="3" text="dispose of dirt ." />
+<item slot="4" text="mop floor with soapy water ." />
+<item slot="5" text="let floor dry ." />
+</script>
+<script id="44">
+<item slot="1" text="get vacuum cleaner ." />
+<item slot="2" text="attach appropriate attachment ." />
+<item slot="3" text="pull cord out all the way ." />
+<item slot="4" text="plug cord into nearby outlet ." />
+<item slot="5" text="turn vacuum on ." />
+<item slot="6" text="run vacuum attachment over entire floor ." />
+<item slot="7" text="turn vacuum off unplug and put away ." />
+</script>
+<script id="45">
+<item slot="1" text="get vacuum cleaner ." />
+<item slot="2" text="attach appropriate attachment ." />
+<item slot="3" text="pull cord out all the way ." />
+<item slot="4" text="plug cord into nearby outlet ." />
+<item slot="5" text="turn vacuum on ." />
+<item slot="6" text="run vacuum attachment over entire floor ." />
+<item slot="7" text="turn vacuum off unplug and put away ." />
+</script>
+<script id="46">
+<item slot="1" text="get vacuum cleaner ." />
+<item slot="2" text="attach appropriate attachment ." />
+<item slot="3" text="pull cord out all the way ." />
+<item slot="4" text="plug cord into nearby outlet ." />
+<item slot="5" text="turn vacuum on ." />
+<item slot="6" text="run vacuum attachment over entire floor ." />
+<item slot="7" text="turn vacuum off unplug and put away ." />
+</script>
+<script id="47">
+<item slot="1" text="get vacuum cleaner ." />
+<item slot="2" text="attach appropriate attachment ." />
+<item slot="3" text="pull cord out all the way ." />
+<item slot="4" text="plug cord into nearby outlet ." />
+<item slot="5" text="turn vacuum on ." />
+<item slot="6" text="run vacuum attachment over entire floor ." />
+<item slot="7" text="turn vacuum off unplug and put away ." />
+</script>
+<script id="48">
+<item slot="1" text="wet mop ." />
+<item slot="2" text="swipe floor ." />
+<item slot="3" text="wash mop ." />
+</script>
+<script id="49">
+<item slot="1" text="take lysol ." />
+<item slot="2" text="spray it on floor ." />
+<item slot="3" text="mop the floor ." />
+</script>
+<script id="50">
+<item slot="1" text="vaccuum floor ." />
+<item slot="2" text="go over floor with wetjet ." />
+</script>
+</scripts>

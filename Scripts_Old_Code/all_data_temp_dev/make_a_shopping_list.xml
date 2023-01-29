@@ -1,0 +1,258 @@
+<scripts>
+<script id="1">
+<item slot="1" text="walk around kitchen noting what is in low supply ." />
+<item slot="2" text="write these items on shopping list ." />
+</script>
+<script id="2">
+<item slot="1" text="find pen ." />
+<item slot="2" text="find paper ." />
+<item slot="3" text="write items needed on paper ." />
+</script>
+<script id="3">
+<item slot="1" text="think about what you want to eat ." />
+<item slot="2" text="write down each ingredient ." />
+</script>
+<script id="4">
+<item slot="1" text="for each object to be bought ." />
+<item slot="2" text="write down the object on paper ." />
+</script>
+<script id="5">
+<item slot="1" text="check what you need ." />
+<item slot="2" text="write down each item you need ." />
+</script>
+<script id="6">
+<item slot="1" text="brainstorm on what it is you need from the store ." />
+<item slot="2" text="get a piece of paper/pad ." />
+<item slot="3" text="get a pencil/pen ." />
+<item slot="4" text="write down the items that you decided that you needed ." />
+</script>
+<script id="7">
+<item slot="1" text="take a pen ." />
+<item slot="2" text="take a piece of paper ." />
+<item slot="3" text="think about things you want to buy ." />
+<item slot="4" text="write down the name of those things on the paper ." />
+</script>
+<script id="8">
+<item slot="1" text="get paper ." />
+<item slot="2" text="get pencil ." />
+<item slot="3" text="write down items to buy ." />
+<item slot="4" text="until no more items ." />
+</script>
+<script id="9">
+<item slot="1" text="think of things you need to buy ." />
+<item slot="2" text="find a piece of paper ." />
+<item slot="3" text="find a writing instrument ." />
+<item slot="4" text="write the list of things to buy on the paper ." />
+</script>
+<script id="10">
+<item slot="1" text="find a pen ." />
+<item slot="2" text="find some paper ." />
+<item slot="3" text="think of things you need at the shops ." />
+<item slot="4" text="write all the things you thought of in a column down the page ." />
+</script>
+<script id="11">
+<item slot="1" text="find a piece of paper ." />
+<item slot="2" text="find a pen or pencil ." />
+<item slot="3" text="think of the things you need to buy ." />
+<item slot="4" text="write these things on the paper with the pen or pencil ." />
+</script>
+<script id="12">
+<item slot="1" text="determine what is needed in a household ." />
+<item slot="2" text="record all items that need purchased ." />
+<item slot="3" text="print list onto paper so it can be carried in the store ." />
+</script>
+<script id="13">
+<item slot="1" text="get a pen ." />
+<item slot="2" text="get some paper ." />
+<item slot="3" text="make a list of needed things on the paper ." />
+</script>
+<script id="14">
+<item slot="1" text="get a piece of paper ." />
+<item slot="2" text="write down food to buy ." />
+</script>
+<script id="15">
+<item slot="1" text="think of desired dinners ." />
+<item slot="2" text="find ingredients ." />
+<item slot="3" text="write down ingredients ." />
+<item slot="4" text="write down other desired goods ." />
+<item slot="5" text="sort all products ." />
+<item slot="6" text="write down final list ." />
+</script>
+<script id="16">
+<item slot="1" text="define meals for next period ." />
+<item slot="2" text="write down ingredients ." />
+<item slot="3" text="define out of stock items ." />
+<item slot="4" text="add items to the list ." />
+<item slot="5" text="sort items on type ." />
+</script>
+<script id="17">
+<item slot="1" text="determine what is needed ." />
+<item slot="2" text="determine what is on hand ." />
+<item slot="3" text="when what is needed is not on hand it goes on the shopping list ." />
+</script>
+<script id="18">
+<item slot="1" text="inventory groceries in house ." />
+<item slot="2" text="identify groceries that need to be purchased ." />
+<item slot="3" text="write down groceries that need to be purchased ." />
+</script>
+<script id="19">
+<item slot="1" text="inventory groceries in house ." />
+<item slot="2" text="identify groceries that need to be purchased ." />
+<item slot="3" text="write down groceries that need to be purchased ." />
+</script>
+<script id="20">
+<item slot="1" text="determine what you need ." />
+<item slot="2" text="write them on a shopping list ." />
+</script>
+<script id="21">
+<item slot="1" text="finding out what you need ." />
+<item slot="2" text="getting a pen ." />
+<item slot="3" text="getting paper ." />
+<item slot="4" text="writing it down ." />
+</script>
+<script id="22">
+<item slot="1" text="finding out what you need ." />
+<item slot="2" text="getting a pen ." />
+<item slot="3" text="getting paper ." />
+<item slot="4" text="writing it down ." />
+</script>
+<script id="23">
+<item slot="1" text="finding out what you need ." />
+<item slot="2" text="getting a pen ." />
+<item slot="3" text="getting paper ." />
+<item slot="4" text="writing it down ." />
+</script>
+<script id="24">
+<item slot="1" text="finding out what you need ." />
+<item slot="2" text="getting a pen ." />
+<item slot="3" text="getting paper ." />
+<item slot="4" text="writing it down ." />
+</script>
+<script id="25">
+<item slot="1" text="finding out what you need ." />
+<item slot="2" text="getting a pen ." />
+<item slot="3" text="getting paper ." />
+<item slot="4" text="writing it down ." />
+</script>
+<script id="26">
+<item slot="1" text="finding out what you need ." />
+<item slot="2" text="getting a pen ." />
+<item slot="3" text="getting paper ." />
+<item slot="4" text="writing it down ." />
+</script>
+<script id="27">
+<item slot="1" text="finding out what you need ." />
+<item slot="2" text="getting a pen ." />
+<item slot="3" text="getting paper ." />
+<item slot="4" text="writing it down ." />
+</script>
+<script id="28">
+<item slot="1" text="finding out what you need ." />
+<item slot="2" text="getting a pen ." />
+<item slot="3" text="getting paper ." />
+<item slot="4" text="writing it down ." />
+</script>
+<script id="29">
+<item slot="1" text="finding out what you need ." />
+<item slot="2" text="getting a pen ." />
+<item slot="3" text="getting paper ." />
+<item slot="4" text="writing it down ." />
+</script>
+<script id="30">
+<item slot="1" text="look through the cupboards ." />
+<item slot="2" text="look through the refrigerator ." />
+<item slot="3" text="make a list of what is needed ." />
+</script>
+<script id="31">
+<item slot="1" text="get paper ." />
+<item slot="2" text="get pen ." />
+<item slot="3" text="decide what you need to buy ." />
+<item slot="4" text="write down what you need to buy ." />
+</script>
+<script id="32">
+<item slot="1" text="take a piece of paper ." />
+<item slot="2" text="get a pencil or pen ." />
+<item slot="3" text="write down on the paper what you need from the store ." />
+</script>
+<script id="33">
+<item slot="1" text="think of what is missing ." />
+<item slot="2" text="write each item down on paper ." />
+</script>
+<script id="34">
+<item slot="1" text="identify what is needed ." />
+<item slot="2" text="write list on sheet of paper ." />
+</script>
+<script id="35">
+<item slot="1" text="get pen ." />
+<item slot="2" text="get paper ." />
+<item slot="3" text="look in cupboards / fridge / freezer ." />
+<item slot="4" text="write down required items ." />
+</script>
+<script id="36">
+<item slot="1" text="get pen ." />
+<item slot="2" text="get paper ." />
+<item slot="3" text="look in cupboards / fridge / freezer ." />
+<item slot="4" text="write down required items ." />
+</script>
+<script id="37">
+<item slot="1" text="take the paper ." />
+<item slot="2" text="take the pen ." />
+<item slot="3" text="write down everything you need ." />
+</script>
+<script id="38">
+<item slot="1" text="check what you need ." />
+<item slot="2" text="add items to list ." />
+</script>
+<script id="39">
+<item slot="1" text="get a paper and pen ." />
+<item slot="2" text="look in cupboards to see ehat is needed ." />
+<item slot="3" text="write names of items needed on paper ." />
+</script>
+<script id="40">
+<item slot="1" text="obtain paper pad ." />
+<item slot="2" text="determine items required ." />
+<item slot="3" text="write items on paper ." />
+</script>
+<script id="41">
+<item slot="1" text="obtain paper pad ." />
+<item slot="2" text="determine items required ." />
+<item slot="3" text="write items on paper ." />
+</script>
+<script id="42">
+<item slot="1" text="obtain paper pad ." />
+<item slot="2" text="determine items required ." />
+<item slot="3" text="write items on paper ." />
+</script>
+<script id="43">
+<item slot="1" text="note missing groceries ." />
+<item slot="2" text="right missing groceries on paper ." />
+</script>
+<script id="44">
+<item slot="1" text="note missing groceries ." />
+<item slot="2" text="right missing groceries on paper ." />
+</script>
+<script id="45">
+<item slot="1" text="note missing groceries ." />
+<item slot="2" text="right missing groceries on paper ." />
+</script>
+<script id="46">
+<item slot="1" text="think of what groceries i need ." />
+<item slot="2" text="write it down on paper ." />
+</script>
+<script id="47">
+<item slot="1" text="think of what groceries i need ." />
+<item slot="2" text="write it down on paper ." />
+</script>
+<script id="48">
+<item slot="1" text="think of what groceries i need ." />
+<item slot="2" text="write it down on paper ." />
+</script>
+<script id="49">
+<item slot="1" text="think of different items ." />
+<item slot="2" text="write items on paper ." />
+</script>
+<script id="50">
+<item slot="1" text="think of different items ." />
+<item slot="2" text="write items on paper ." />
+</script>
+</scripts>

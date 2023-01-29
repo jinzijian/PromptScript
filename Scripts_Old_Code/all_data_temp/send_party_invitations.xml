@@ -1,0 +1,258 @@
+<scripts>
+<script id="1">
+<item slot="1" text="select guests ." />
+<item slot="2" text="get their addresses ." />
+<item slot="3" text="write invitations ." />
+<item slot="4" text="mail invitations ." />
+</script>
+<script id="2">
+<item slot="1" text="gather addresses ." />
+<item slot="2" text="gather invitation cards ." />
+<item slot="3" text="write invitations ." />
+<item slot="4" text="put invitations in envelopes ." />
+<item slot="5" text="address envelopes ." />
+<item slot="6" text="post invitations ." />
+</script>
+<script id="3">
+<item slot="1" text="for each name on guests list ." />
+<item slot="2" text="write invitation ." />
+<item slot="3" text="write address on invitation ." />
+<item slot="4" text="next guest ." />
+<item slot="5" text="mail invitations ." />
+</script>
+<script id="4">
+<item slot="1" text="make list with guests ." />
+<item slot="2" text="get guests addresses ." />
+<item slot="3" text="for each guest ." />
+<item slot="4" text="write invitation ." />
+<item slot="5" text="write address on invitation ." />
+<item slot="6" text="mail invitation ." />
+</script>
+<script id="5">
+<item slot="1" text="decide who to invite ." />
+<item slot="2" text="write out invitations ." />
+<item slot="3" text="post them ." />
+</script>
+<script id="6">
+<item slot="1" text="make a guest list ." />
+<item slot="2" text="for each guest do ." />
+<item slot="3" text="write an invitation ." />
+<item slot="4" text="write address on envelope ." />
+<item slot="5" text="stamp envelope ." />
+<item slot="6" text="send envelope ." />
+</script>
+<script id="7">
+<item slot="1" text="write details on cards ." />
+<item slot="2" text="put in envelopes ." />
+<item slot="3" text="address envelopes ." />
+<item slot="4" text="put postage on envelopes ." />
+<item slot="5" text="put in mail box ." />
+</script>
+<script id="8">
+<item slot="1" text="make a list of people to invite ." />
+<item slot="2" text="write out the invitations ." />
+<item slot="3" text="put them in envelopes ." />
+<item slot="4" text="write on their addresses ." />
+<item slot="5" text="attach a stamp ." />
+<item slot="6" text="post them ." />
+</script>
+<script id="9">
+<item slot="1" text="create party invitations ." />
+<item slot="2" text="put each invitation in an envelope ." />
+<item slot="3" text="write guest name and address on each envelope ." />
+<item slot="4" text="put stamp on envelope ." />
+<item slot="5" text="put envelopes in mail ." />
+</script>
+<script id="10">
+<item slot="1" text="make list of people to invite ." />
+<item slot="2" text="design party invitations ." />
+<item slot="3" text="print party invitations ." />
+<item slot="4" text="address invitations to people in list to invite ." />
+<item slot="5" text="put stamp on each invitation envelope ." />
+<item slot="6" text="mail out the invitations ." />
+</script>
+<script id="11">
+<item slot="1" text="make a guest list ." />
+<item slot="2" text="set a date for the party ." />
+<item slot="3" text="buy invitations ." />
+<item slot="4" text="address invitations ." />
+<item slot="5" text="put stamps on invitations ." />
+<item slot="6" text="put invitations in the mail ." />
+</script>
+<script id="12">
+<item slot="1" text="choose list of people ." />
+<item slot="2" text="buy invitations ." />
+<item slot="3" text="fill out and address invitations ." />
+<item slot="4" text="stamp invitations ." />
+<item slot="5" text="mail invitations ." />
+<item slot="6" text="wait for responses ." />
+</script>
+<script id="13">
+<item slot="1" text="place the party invitations into addressed and stamped envelopes ." />
+<item slot="2" text="mail the envelopes ." />
+</script>
+<script id="14">
+<item slot="1" text="plan party ." />
+<item slot="2" text="make guest list ." />
+<item slot="3" text="buy invitations ." />
+<item slot="4" text="find address book ." />
+<item slot="5" text="address invitation to those on list ." />
+<item slot="6" text="stamp envelopes ." />
+<item slot="7" text="mail invitations ." />
+</script>
+<script id="15">
+<item slot="1" text="create mailing list ." />
+<item slot="2" text="buy or print invitations ." />
+<item slot="3" text="fill in party information ." />
+<item slot="4" text="print mailing labels ." />
+<item slot="5" text="put invitations in envelopes ." />
+<item slot="6" text="place mailing labels on envelopes ." />
+<item slot="7" text="put stamps on envelopes and mail ." />
+</script>
+<script id="16">
+<item slot="1" text="make addressee list ." />
+<item slot="2" text="address invitations ." />
+<item slot="3" text="stuff envelopes ." />
+<item slot="4" text="stamp envelopes ." />
+<item slot="5" text="mail invitations ." />
+</script>
+<script id="17">
+<item slot="1" text="arrange the party date ." />
+<item slot="2" text="print the invitations ." />
+<item slot="3" text="identify the senders list ." />
+<item slot="4" text="send the invitations ." />
+</script>
+<script id="18">
+<item slot="1" text="select card for invitation ." />
+<item slot="2" text="write out details you want guests to know about the party ." />
+<item slot="3" text="pick out people you want to invite ." />
+<item slot="4" text="send out cards ." />
+</script>
+<script id="19">
+<item slot="1" text="name list ." />
+<item slot="2" text="write on envelops ." />
+<item slot="3" text="add cards with small decripton ." />
+<item slot="4" text="stamps ." />
+<item slot="5" text="send mail ." />
+</script>
+<script id="20">
+<item slot="1" text="write out guest list ." />
+<item slot="2" text="write out invitations to everyone on guest list ." />
+<item slot="3" text="stuff invitations into envelopes ." />
+<item slot="4" text="send out invitations in the mail ." />
+</script>
+<script id="21">
+<item slot="1" text="write party invitations ." />
+<item slot="2" text="put party invitations in envelopes ." />
+<item slot="3" text="mail party invitations ." />
+</script>
+<script id="22">
+<item slot="1" text="write party invitations ." />
+<item slot="2" text="put party invitations in envelopes ." />
+<item slot="3" text="mail party invitations ." />
+</script>
+<script id="23">
+<item slot="1" text="write party invitations ." />
+<item slot="2" text="put party invitations in envelopes ." />
+<item slot="3" text="mail party invitations ." />
+</script>
+<script id="24">
+<item slot="1" text="write party invitations ." />
+<item slot="2" text="put party invitations in envelopes ." />
+<item slot="3" text="mail party invitations ." />
+</script>
+<script id="25">
+<item slot="1" text="write party invitations ." />
+<item slot="2" text="put party invitations in envelopes ." />
+<item slot="3" text="mail party invitations ." />
+</script>
+<script id="26">
+<item slot="1" text="write party invitations ." />
+<item slot="2" text="put party invitations in envelopes ." />
+<item slot="3" text="mail party invitations ." />
+</script>
+<script id="27">
+<item slot="1" text="print part invitations ." />
+<item slot="2" text="put the invitation in envelope ." />
+<item slot="3" text="mail the invitations ." />
+</script>
+<script id="28">
+<item slot="1" text="print part invitations ." />
+<item slot="2" text="put the invitation in envelope ." />
+<item slot="3" text="mail the invitations ." />
+</script>
+<script id="29">
+<item slot="1" text="print part invitations ." />
+<item slot="2" text="put the invitation in envelope ." />
+<item slot="3" text="mail the invitations ." />
+</script>
+<script id="30">
+<item slot="1" text="print part invitations ." />
+<item slot="2" text="put the invitation in envelope ." />
+<item slot="3" text="mail the invitations ." />
+</script>
+<script id="31">
+<item slot="1" text="make invitation list ." />
+<item slot="2" text="fill in party details ." />
+<item slot="3" text="address cards and envelopes ." />
+<item slot="4" text="stuff envelopes ." />
+<item slot="5" text="seal envelope ." />
+<item slot="6" text="place stamp on envelope ." />
+<item slot="7" text="send invitations ." />
+</script>
+<script id="32">
+<item slot="1" text="find party invitations ." />
+<item slot="2" text="purchase invitations ." />
+<item slot="3" text="write on invitations ." />
+</script>
+<script id="33">
+<item slot="1" text="find party invitations ." />
+<item slot="2" text="purchase invitations ." />
+<item slot="3" text="write on invitations ." />
+<item slot="4" text="put in envelopes with addresses ." />
+<item slot="5" text="put on a stamp ." />
+<item slot="6" text="put into mailbox ." />
+</script>
+<script id="34">
+<item slot="1" text="fill out party invitation ." />
+<item slot="2" text="place invitation in envelope ." />
+<item slot="3" text="address envelope ." />
+<item slot="4" text="place stamp on envelope ." />
+<item slot="5" text="place envelope into mailbox ." />
+</script>
+<script id="35">
+<item slot="1" text="fill out party invitation ." />
+<item slot="2" text="place invitation in envelope ." />
+<item slot="3" text="address envelope ." />
+<item slot="4" text="place stamp on envelope ." />
+<item slot="5" text="place envelope into mailbox ." />
+</script>
+<script id="36">
+<item slot="1" text="fill out party invitation ." />
+<item slot="2" text="place invitation in envelope ." />
+<item slot="3" text="address envelope ." />
+<item slot="4" text="place stamp on envelope ." />
+<item slot="5" text="place envelope into mailbox ." />
+</script>
+<script id="37">
+<item slot="1" text="decide who to invite ." />
+<item slot="2" text="obtain address for each person on the list ." />
+<item slot="3" text="write date and time of party ." />
+<item slot="4" text="write location of party ." />
+<item slot="5" text="put invitation in envelope ." />
+<item slot="6" text="seal and stamp envelope ." />
+<item slot="7" text="mail invitation ." />
+</script>
+<script id="38">
+<item slot="1" text="obtain party invitations ." />
+<item slot="2" text="obtain stamps ." />
+<item slot="3" text="place one stamp on each envelope ." />
+<item slot="4" text="place all envelopes into mailbox ." />
+</script>
+<script id="39">
+<item slot="1" text="obtain party invitations ." />
+<item slot="2" text="obtain stamps ." />
+<item slot="3" text="place one stamp on each envelope ." />
+<item slot="4" text="place all envelopes into mailbox ." />
+</script>
+</scripts>

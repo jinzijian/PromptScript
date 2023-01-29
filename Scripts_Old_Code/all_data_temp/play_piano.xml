@@ -1,0 +1,216 @@
+<scripts>
+<script id="1">
+<item slot="1" text="sit at a piano ." />
+<item slot="2" text="press the piano s keys with your fingers ." />
+</script>
+<script id="2">
+<item slot="1" text="locate a piece of music suitable for a piano ." />
+<item slot="2" text="read the music ." />
+<item slot="3" text="locate a piano ." />
+<item slot="4" text="open and place the music on the piano ." />
+<item slot="5" text="read the music and hit the corresponding keys on the piano s surface ." />
+</script>
+<script id="3">
+<item slot="1" text="identify and find a piano ." />
+<item slot="2" text="sit on a bench placed in the front of the piano ." />
+<item slot="3" text="place your hand over the keyboard ." />
+<item slot="4" text="press with your fingers the appropriate keys in order to play a melody ." />
+</script>
+<script id="4">
+<item slot="1" text="find piano ." />
+<item slot="2" text="open piano lid ." />
+<item slot="3" text="place hands on keys ." />
+<item slot="4" text="press keys with fingers ." />
+</script>
+<script id="5">
+<item slot="1" text="sit in front of the piano keyboard ." />
+<item slot="2" text="place hands directly over the keys ." />
+<item slot="3" text="press down on the keys with your fingers to produce notes ." />
+</script>
+<script id="6">
+<item slot="1" text="locate the piano ." />
+<item slot="2" text="go to the piano ." />
+<item slot="3" text="open the piano lid ." />
+<item slot="4" text="sit on the chair in front of the piano ." />
+<item slot="5" text="play the keys ." />
+</script>
+<script id="7">
+<item slot="1" text="get song ." />
+<item slot="2" text="sit in front piano ." />
+<item slot="3" text="following notes play ." />
+</script>
+<script id="8">
+<item slot="1" text="get note for song ." />
+<item slot="2" text="play each note using fingers ." />
+</script>
+<script id="9">
+<item slot="1" text="get notes ." />
+<item slot="2" text="sit down at piano ." />
+<item slot="3" text="play notes in sequence ." />
+</script>
+<script id="10">
+<item slot="1" text="seat on the piano seat ." />
+<item slot="2" text="open the close lid ." />
+<item slot="3" text="think of song to play ." />
+<item slot="4" text="press the keys accordingly ." />
+<item slot="5" text="close the lid ." />
+<item slot="6" text="get up the seat ." />
+</script>
+<script id="11">
+<item slot="1" text="find piano ." />
+<item slot="2" text="move to piano ." />
+<item slot="3" text="press piano keys gently to make tones ." />
+</script>
+<script id="12">
+<item slot="1" text="find the piano ." />
+<item slot="2" text="sit in front of the piano so that your arms can reach the keyboard ." />
+<item slot="3" text="extend your hands over the keys ." />
+<item slot="4" text="press the keys with your fingers to make musical tones ." />
+</script>
+<script id="13">
+<item slot="1" text="pick a song to play ." />
+<item slot="2" text="read the music for the song ." />
+<item slot="3" text="follow the notes on the music ." />
+<item slot="4" text="press the piano keys as the music is read ." />
+</script>
+<script id="14">
+<item slot="1" text="find a piano ." />
+<item slot="2" text="sit down on the bench in front of the piano ." />
+<item slot="3" text="press the piano keys with your fingers to make music ." />
+</script>
+<script id="15">
+<item slot="1" text="go to the piano ." />
+<item slot="2" text="sit on the stool ." />
+<item slot="3" text="lift the lid off the keys ." />
+<item slot="4" text="press the keys ." />
+</script>
+<script id="16">
+<item slot="1" text="determine a tune to play ." />
+<item slot="2" text="go to piano ." />
+<item slot="3" text="open piano s keyboard ." />
+<item slot="4" text="strike the keys in the proper rhythm and order to play the particular song ." />
+</script>
+<script id="17">
+<item slot="1" text="open the lid ." />
+<item slot="2" text="sit on cushion ." />
+<item slot="3" text="open music papers ." />
+<item slot="4" text="start palying ." />
+</script>
+<script id="18">
+<item slot="1" text="identify piano ." />
+<item slot="2" text="learn how to play piano ." />
+<item slot="3" text="sit at piano ." />
+<item slot="4" text="place fingers on keys ." />
+<item slot="5" text="press correct keys in correct order at the right time ." />
+</script>
+<script id="19">
+<item slot="1" text="sit at piano ." />
+<item slot="2" text="open piano lid ." />
+<item slot="3" text="put music on piano ." />
+<item slot="4" text="press keys along to the music sheet ." />
+</script>
+<script id="20">
+<item slot="1" text="open up the keyboard ." />
+<item slot="2" text="open up the song book ." />
+<item slot="3" text="hit the corresponding keys to the notes ." />
+</script>
+<script id="21">
+<item slot="1" text="sit down at the piano ." />
+<item slot="2" text="place fingers on the keyboard ." />
+<item slot="3" text="start to play ." />
+</script>
+<script id="22">
+<item slot="1" text="sit at piano ." />
+<item slot="2" text="place hands on keys ." />
+<item slot="3" text="press keys to create music ." />
+</script>
+<script id="23">
+<item slot="1" text="prepared sheet music ." />
+<item slot="2" text="place sheet music on piano in visable position ." />
+<item slot="3" text="open piano key cover ." />
+<item slot="4" text="place fingers on keys ." />
+<item slot="5" text="read prepared sheet music ." />
+<item slot="6" text="play piano ." />
+</script>
+<script id="24">
+<item slot="1" text="sit down on piano bench facing the piano ." />
+<item slot="2" text="choose a song or music piece to play ." />
+<item slot="3" text="press the keys on the piano to follow the notes to correctly play the song ." />
+</script>
+<script id="25">
+<item slot="1" text="read notes ." />
+<item slot="2" text="sit on chair ." />
+<item slot="3" text="press proper keys ." />
+</script>
+<script id="26">
+<item slot="1" text="press key ." />
+</script>
+<script id="27">
+<item slot="1" text="press key on piano ." />
+</script>
+<script id="28">
+<item slot="1" text="sit down at piano ." />
+<item slot="2" text="place fingertips on keys ." />
+<item slot="3" text="press keys ." />
+</script>
+<script id="29">
+<item slot="1" text="sit down at piano ." />
+<item slot="2" text="place fingertips on keys ." />
+<item slot="3" text="press keys ." />
+</script>
+<script id="30">
+<item slot="1" text="approach piano ." />
+<item slot="2" text="open the cover ." />
+<item slot="3" text="sit down on the bench ." />
+<item slot="4" text="choose the piece you will play ." />
+<item slot="5" text="play the piece ." />
+</script>
+<script id="31">
+<item slot="1" text="approach piano ." />
+<item slot="2" text="open the cover ." />
+<item slot="3" text="sit down on the bench ." />
+<item slot="4" text="choose the piece you will play ." />
+<item slot="5" text="play the piece ." />
+</script>
+<script id="32">
+<item slot="1" text="excercise fingers ." />
+<item slot="2" text="memorize notes ." />
+<item slot="3" text="practice scales ." />
+<item slot="4" text="play as often as you can to practice ." />
+</script>
+<script id="33">
+<item slot="1" text="excercise fingers ." />
+<item slot="2" text="memorize notes ." />
+<item slot="3" text="practice scales ." />
+<item slot="4" text="play as often as you can to practice ." />
+</script>
+<script id="34">
+<item slot="1" text="excercise fingers ." />
+<item slot="2" text="memorize notes ." />
+<item slot="3" text="practice scales ." />
+<item slot="4" text="play as often as you can to practice ." />
+</script>
+<script id="35">
+<item slot="1" text="excercise fingers ." />
+<item slot="2" text="memorize notes ." />
+<item slot="3" text="practice scales ." />
+<item slot="4" text="play as often as you can to practice ." />
+</script>
+<script id="36">
+<item slot="1" text="excercise fingers ." />
+<item slot="2" text="memorize notes ." />
+<item slot="3" text="practice scales ." />
+<item slot="4" text="play as often as you can to practice ." />
+</script>
+<script id="37">
+<item slot="1" text="excercise fingers ." />
+<item slot="2" text="memorize notes ." />
+<item slot="3" text="practice scales ." />
+<item slot="4" text="play as often as you can to practice ." />
+</script>
+<script id="38">
+<item slot="1" text="use fingers ." />
+<item slot="2" text="place fingers on piano ." />
+<item slot="3" text="press keys ." />
+</script>
+</scripts>

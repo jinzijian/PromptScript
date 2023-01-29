@@ -1,0 +1,9 @@
+<scripts><script id="34">
+<item slot="1" text="find toy ."/>
+<item slot="2" text="pick up toy ."/>
+<item slot="3" text="look for dirt on toy ."/>
+<item slot="4" text="wipe brush or wash dirt off of toy ."/>
+<item slot="5" text="repeat until toy is clean ."/>
+<item slot="6" text="when toy is clean place toy in toybox ."/>
+<item slot="7" text="repeat steps 1 thru 7 until no toys remain outside toybox ."/>
+</script></scripts>

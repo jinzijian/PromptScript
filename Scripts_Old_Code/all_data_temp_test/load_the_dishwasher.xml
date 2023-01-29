@@ -1,0 +1,294 @@
+<scripts>
+<script id="1">
+<item slot="1" text="open the dishwasher door ." />
+<item slot="2" text="place dirty dishes into the racks ." />
+<item slot="3" text="fill the trap with detergent ." />
+<item slot="4" text="close the door ." />
+<item slot="5" text="turn on the dishwasher ." />
+</script>
+<script id="2">
+<item slot="1" text="open the dishwasher ." />
+<item slot="2" text="scrape each plate or dish into the trash ." />
+<item slot="3" text="place each dish in the dishwasher ." />
+<item slot="4" text="pour soap into the dishwasher ." />
+<item slot="5" text="close the dishwasher ." />
+<item slot="6" text="turn the dishwasher on ." />
+</script>
+<script id="3">
+<item slot="1" text="collect dishes ." />
+<item slot="2" text="open dishwasher ." />
+<item slot="3" text="pull out dishwasher rack ." />
+<item slot="4" text="place dishes onto rack ." />
+<item slot="5" text="push in dishwasher rack ." />
+<item slot="6" text="close dishwasher ." />
+</script>
+<script id="4">
+<item slot="1" text="open dishwasher ." />
+<item slot="2" text="place dishes inside dishwasher ." />
+<item slot="3" text="close dishwasher ." />
+</script>
+<script id="5">
+<item slot="1" text="open dishwasher ." />
+<item slot="2" text="place dishes inside dishwasher ." />
+<item slot="3" text="close dishwasher ." />
+</script>
+<script id="6">
+<item slot="1" text="open dishwasher ." />
+<item slot="2" text="put all dishes inside ." />
+<item slot="3" text="put detergent in ." />
+<item slot="4" text="close dishwasher ." />
+<item slot="5" text="turn dishwasher on ." />
+</script>
+<script id="7">
+<item slot="1" text="have dirty dishes ." />
+<item slot="2" text="rinse dishes ." />
+<item slot="3" text="open dishwasher ." />
+<item slot="4" text="insert dishes between dividing units ." />
+<item slot="5" text="add soap to correct compartment ." />
+<item slot="6" text="close dishwasher ." />
+<item slot="7" text="turn on dishwasher ." />
+</script>
+<script id="8">
+<item slot="1" text="open dishwasher ." />
+<item slot="2" text="pull out tray ." />
+<item slot="3" text="place dishes in tray ." />
+<item slot="4" text="push in tray ." />
+<item slot="5" text="close dishwasher ." />
+</script>
+<script id="9">
+<item slot="1" text="open dishwasher ." />
+<item slot="2" text="place dishes inside dishwasher ." />
+<item slot="3" text="put soap in dishwasher ." />
+<item slot="4" text="start dishwasher ." />
+</script>
+<script id="10">
+<item slot="1" text="open dishwasher ." />
+<item slot="2" text="get dirty dishes ." />
+<item slot="3" text="put dirty dishes in dishwasher ." />
+</script>
+<script id="11">
+<item slot="1" text="locate dirty dishes ." />
+<item slot="2" text="locate dishwasher ." />
+<item slot="3" text="open dishwasher ." />
+<item slot="4" text="put in dishes ." />
+<item slot="5" text="close dishwasher ." />
+</script>
+<script id="12">
+<item slot="1" text="rinse dishes ." />
+<item slot="2" text="put dishes in dishwasher ." />
+<item slot="3" text="put detergent in dishwasher ." />
+<item slot="4" text="close dishwasher ." />
+<item slot="5" text="start dishwasher ." />
+</script>
+<script id="13">
+<item slot="1" text="put all the dishes inside ." />
+<item slot="2" text="close the dishwasher and press  the start button ." />
+</script>
+<script id="14">
+<item slot="1" text="open the dishwasher ." />
+<item slot="2" text="place the dirty dishes in the correct racks of the dishwasher ." />
+<item slot="3" text="put liquid soap in the correct compartment in the dishwasher ." />
+<item slot="4" text="close the dishwasher ." />
+</script>
+<script id="15">
+<item slot="1" text="place dirty dishes into the dishwasher ." />
+<item slot="2" text="fill the dishwasher soap compartment with liquid soap ." />
+<item slot="3" text="close the soap compartment and close the dishwasher ." />
+</script>
+<script id="16">
+<item slot="1" text="open dishwasher ." />
+<item slot="2" text="place dishes in dishwasher ." />
+<item slot="3" text="place detergent in dispenser ." />
+</script>
+<script id="17">
+<item slot="1" text="remove food from dishes ." />
+<item slot="2" text="rinse dishes ." />
+<item slot="3" text="open dishwasher door ." />
+<item slot="4" text="place plates in bottom of dishwasher ." />
+<item slot="5" text="place cups in top of dishwasher ." />
+<item slot="6" text="pour detergent into receptacle in dishwasher door ." />
+<item slot="7" text="close dishwasher door ." />
+</script>
+<script id="18">
+<item slot="1" text="probably unload dishes already there and clean ." />
+<item slot="2" text="gather dirty dishes ." />
+<item slot="3" text="place in proper racks ." />
+<item slot="4" text="rinse any needing rinsed before placement ." />
+<item slot="5" text="add cleaner ." />
+<item slot="6" text="set controls ." />
+<item slot="7" text="turn on dishwaster ." />
+</script>
+<script id="19">
+<item slot="1" text="open dishwasher ." />
+<item slot="2" text="place dishes in ." />
+</script>
+<script id="20">
+<item slot="1" text="open dishwasher ." />
+<item slot="2" text="place dishes in dishwasher ." />
+</script>
+<script id="21">
+<item slot="1" text="open dishwasher ." />
+<item slot="2" text="pull out rack ." />
+<item slot="3" text="pick up dish ." />
+<item slot="4" text="place dish in dishwasher ." />
+<item slot="5" text="repeat until loaded ." />
+</script>
+<script id="22">
+<item slot="1" text="rinse dishes ." />
+<item slot="2" text="load dishes in dishwasher ." />
+<item slot="3" text="add detergent ." />
+<item slot="4" text="close dishwasher ." />
+<item slot="5" text="start dishwasher ." />
+</script>
+<script id="23">
+<item slot="1" text="open dishwasher ." />
+<item slot="2" text="place dishes into dishwasher ." />
+</script>
+<script id="24">
+<item slot="1" text="open dishwasher ." />
+<item slot="2" text="place dishes into dishwasher ." />
+</script>
+<script id="25">
+<item slot="1" text="open dishwasher ." />
+<item slot="2" text="place dishes into dishwasher ." />
+</script>
+<script id="26">
+<item slot="1" text="select the dish washer ." />
+<item slot="2" text="select the alternate ." />
+<item slot="3" text="load the dishwasher ." />
+</script>
+<script id="27">
+<item slot="1" text="select the dish washer ." />
+<item slot="2" text="load it ." />
+</script>
+<script id="28">
+<item slot="1" text="select the dish washer ." />
+<item slot="2" text="load it ." />
+</script>
+<script id="29">
+<item slot="1" text="get dirty dishes utensils containers ." />
+<item slot="2" text="place gently in dishwasher ." />
+</script>
+<script id="30">
+<item slot="1" text="open the dishwasher door ." />
+<item slot="2" text="pick up each dish and place in rack ." />
+<item slot="3" text="close dishwasher door ." />
+</script>
+<script id="31">
+<item slot="1" text="open door ." />
+<item slot="2" text="place dishes in dishwasher ." />
+<item slot="3" text="add soap ." />
+<item slot="4" text="start dishwasher ." />
+</script>
+<script id="32">
+<item slot="1" text="put dishes in ." />
+<item slot="2" text="turn on ." />
+</script>
+<script id="33">
+<item slot="1" text="open the dishwasher ." />
+<item slot="2" text="insert dishes ." />
+<item slot="3" text="insert dishwashing fluid ." />
+<item slot="4" text="close dishwasher ." />
+</script>
+<script id="34">
+<item slot="1" text="take out old dishes ." />
+<item slot="2" text="put large pots in ." />
+<item slot="3" text="put large plates in ." />
+<item slot="4" text="put large bowls in ." />
+<item slot="5" text="put smaller objects in ." />
+<item slot="6" text="put utilizes in ." />
+<item slot="7" text="put detergent in ." />
+</script>
+<script id="35">
+<item slot="1" text="l oad ." />
+</script>
+<script id="36">
+<item slot="1" text="put dishes and utensils on to racks ." />
+<item slot="2" text="turn on dishwasher ." />
+<item slot="3" text="wait until washer is finished ." />
+<item slot="4" text="take out dishes and dry with towel ." />
+<item slot="5" text="place dishes back into cupboards ." />
+</script>
+<script id="37">
+<item slot="1" text="put cutlery in cutlery basket ." />
+<item slot="2" text="put dishes in each slot in lower section until full ." />
+<item slot="3" text="load glasses in each slot in upper section until full ." />
+<item slot="4" text="put detergent in dispenser ." />
+<item slot="5" text="close door ." />
+<item slot="6" text="select cycle ." />
+<item slot="7" text="press start ." />
+</script>
+<script id="38">
+<item slot="1" text="put cutlery in cutlery basket ." />
+<item slot="2" text="put dishes in each slot in lower section until full ." />
+<item slot="3" text="load glasses in each slot in upper section until full ." />
+<item slot="4" text="put detergent in dispenser ." />
+<item slot="5" text="close door ." />
+<item slot="6" text="select cycle ." />
+<item slot="7" text="press start ." />
+</script>
+<script id="39">
+<item slot="1" text="put cutlery in cutlery basket ." />
+<item slot="2" text="put dishes in each slot in lower section until full ." />
+<item slot="3" text="load glasses in each slot in upper section until full ." />
+<item slot="4" text="put detergent in dispenser ." />
+<item slot="5" text="close door ." />
+<item slot="6" text="select cycle ." />
+<item slot="7" text="press start ." />
+</script>
+<script id="40">
+<item slot="1" text="put cutlery in cutlery basket ." />
+<item slot="2" text="put dishes in each slot in lower section until full ." />
+<item slot="3" text="load glasses in each slot in upper section until full ." />
+<item slot="4" text="put detergent in dispenser ." />
+<item slot="5" text="close door ." />
+<item slot="6" text="select cycle ." />
+<item slot="7" text="press start ." />
+</script>
+<script id="41">
+<item slot="1" text="rinse off dishes ." />
+<item slot="2" text="open dishwasher ." />
+<item slot="3" text="place all dishes and glasses into dishwasher ." />
+<item slot="4" text="close dishwasher door ." />
+<item slot="5" text="turn dial to proper setting ." />
+<item slot="6" text="turn dishwasher on ." />
+</script>
+<script id="42">
+<item slot="1" text="rinse off dishes ." />
+<item slot="2" text="open dishwasher ." />
+<item slot="3" text="place all dishes and glasses into dishwasher ." />
+<item slot="4" text="close dishwasher door ." />
+<item slot="5" text="turn dial to proper setting ." />
+<item slot="6" text="turn dishwasher on ." />
+</script>
+<script id="43">
+<item slot="1" text="rinse off dishes ." />
+<item slot="2" text="open dishwasher ." />
+<item slot="3" text="place all dishes and glasses into dishwasher ." />
+<item slot="4" text="close dishwasher door ." />
+<item slot="5" text="turn dial to proper setting ." />
+<item slot="6" text="turn dishwasher on ." />
+</script>
+<script id="44">
+<item slot="1" text="open dishwasher ." />
+<item slot="2" text="get dirty dishes ." />
+<item slot="3" text="put them in the dishwasher ." />
+<item slot="4" text="put detergent in the dispenser ." />
+<item slot="5" text="close dishwasher ." />
+<item slot="6" text="turn on dishwasher ." />
+</script>
+<script id="45">
+<item slot="1" text="rinse off dishes to be cleaned ." />
+<item slot="2" text="place dishes into dishwasher ." />
+<item slot="3" text="place detergent into dishwasher ." />
+<item slot="4" text="select programme ." />
+<item slot="5" text="press start ." />
+</script>
+<script id="46">
+<item slot="1" text="rinse off dishes to be cleaned ." />
+<item slot="2" text="place dishes into dishwasher ." />
+<item slot="3" text="place detergent into dishwasher ." />
+<item slot="4" text="select programme ." />
+<item slot="5" text="press start ." />
+</script>
+</scripts>

@@ -1,0 +1,424 @@
+<scripts>
+<script id="1">
+<item slot="1" text="collect dirty clothes ." />
+<item slot="2" text="carry dirty clothes to washing machine ." />
+<item slot="3" text="put clothes in washing machine ." />
+<item slot="4" text="add soap ." />
+<item slot="5" text="start washing machine ." />
+<item slot="6" text="after washing and drying is completed collect clothes ." />
+</script>
+<script id="2">
+<item slot="1" text="get dirty clothes ." />
+<item slot="2" text="turn on water ." />
+<item slot="3" text="place detergent in washing machine ." />
+<item slot="4" text="place fabric softener in washing machine ." />
+<item slot="5" text="place clothes in washing machine ." />
+<item slot="6" text="close lid ." />
+</script>
+<script id="3">
+<item slot="1" text="get dirty clothes ." />
+<item slot="2" text="put clothes into a washing machine ." />
+<item slot="3" text="turn the washing machine on ." />
+<item slot="4" text="take clothes out from the washing machine ." />
+<item slot="5" text="dry the clothes ." />
+</script>
+<script id="4">
+<item slot="1" text="pick up clothes ." />
+<item slot="2" text="find washing machine ." />
+<item slot="3" text="put clothes in washing machine ." />
+<item slot="4" text="find laundry soap ." />
+<item slot="5" text="put soap in washing machine ." />
+<item slot="6" text="turn on washing machine ." />
+</script>
+<script id="5">
+<item slot="1" text="pick up dirty clothes ." />
+<item slot="2" text="take clothes to washing machine ." />
+<item slot="3" text="place clothes in washing machine ." />
+<item slot="4" text="place laundry detergent in washing machine ." />
+<item slot="5" text="turn on washing machine ." />
+</script>
+<script id="6">
+<item slot="1" text="get clothes from hamper ." />
+<item slot="2" text="carry the clothes to the washing machine ." />
+<item slot="3" text="turn the washing machine on ." />
+<item slot="4" text="add detergent to the water ." />
+<item slot="5" text="place clothes in the washing machine ." />
+</script>
+<script id="7">
+<item slot="1" text="get dirty laundry ." />
+<item slot="2" text="carry to washer ." />
+<item slot="3" text="empty dirty laundry in washer ." />
+<item slot="4" text="add detergent ." />
+<item slot="5" text="turn on ." />
+<item slot="6" text="turn off ." />
+<item slot="7" text="remove clothes ." />
+</script>
+<script id="8">
+<item slot="1" text="take the clothes to the washing machine ." />
+<item slot="2" text="load the washing machine with the clothes ." />
+<item slot="3" text="pour detergent into the washing machine ." />
+<item slot="4" text="insert coins to the washing machine ." />
+<item slot="5" text="press 'wash' ." />
+<item slot="6" text="wait until the washing machine stops ." />
+</script>
+<script id="9">
+<item slot="1" text="sort clothes by color ." />
+<item slot="2" text="remove items from pockets ." />
+<item slot="3" text="open washing machine ." />
+<item slot="4" text="measure detergent ." />
+</script>
+<script id="10">
+<item slot="1" text="gather dirty clothes ." />
+<item slot="2" text="put clothes in washer ." />
+<item slot="3" text="add detergent ." />
+<item slot="4" text="select washing cycle ." />
+<item slot="5" text="close washer door ." />
+<item slot="6" text="turn on washer ." />
+<item slot="7" text="when done remove clothes and dry ." />
+</script>
+<script id="11">
+<item slot="1" text="gather clothes ." />
+<item slot="2" text="put clothes in washer ." />
+<item slot="3" text="add detergent ." />
+<item slot="4" text="select washnig program ." />
+<item slot="5" text="start washer ." />
+<item slot="6" text="remove clothes when done ." />
+<item slot="7" text="dry clothes ." />
+</script>
+<script id="12">
+<item slot="1" text="gather dirty clothes ." />
+<item slot="2" text="take dirty clothes to washer ." />
+<item slot="3" text="put clothes in washer ." />
+<item slot="4" text="add detergent ." />
+<item slot="5" text="select washing program ." />
+<item slot="6" text="turn washer on ." />
+<item slot="7" text="wait for clothes to wash ." />
+</script>
+<script id="13">
+<item slot="1" text="gather clothes ." />
+<item slot="2" text="put clothes in washer ." />
+<item slot="3" text="put detergent in washer ." />
+<item slot="4" text="turn on washer ." />
+<item slot="5" text="wait until washer is done ." />
+<item slot="6" text="unload washer ." />
+</script>
+<script id="14">
+<item slot="1" text="sort out into differnt colour piles ." />
+<item slot="2" text="put load into washing machine ." />
+<item slot="3" text="put in detergrent ." />
+<item slot="4" text="switch on washing machine ." />
+<item slot="5" text="hang out clothes to dry ." />
+<item slot="6" text="put clean clothes away ." />
+</script>
+<script id="15">
+<item slot="1" text="sort clothes in to different colours ." />
+<item slot="2" text="put a pile in the washing machine ." />
+<item slot="3" text="put in soap powder ." />
+<item slot="4" text="put in softener ." />
+<item slot="5" text="switch it on ." />
+</script>
+<script id="16">
+<item slot="1" text="gather dirty clothes ." />
+<item slot="2" text="separate wite from clolored clothes ." />
+<item slot="3" text="place clothes in washer ." />
+<item slot="4" text="add detergent ." />
+<item slot="5" text="select washing program ." />
+<item slot="6" text="turn on washers ." />
+<item slot="7" text="wait for clothes to wash ." />
+</script>
+<script id="17">
+<item slot="1" text="gather dirty clothes ." />
+<item slot="2" text="open washing machine ." />
+<item slot="3" text="put soap powder in washing machine ." />
+<item slot="4" text="place dirty clothes in washer ." />
+<item slot="5" text="close lid ." />
+<item slot="6" text="turn on washing machine ." />
+</script>
+<script id="18">
+<item slot="1" text="collect clothes ." />
+<item slot="2" text="sort clothes on colour and type ." />
+<item slot="3" text="put clothes of similar colour and type in washing machine ." />
+<item slot="4" text="add detergent ." />
+<item slot="5" text="select correct washing program ." />
+<item slot="6" text="press start ." />
+</script>
+<script id="19">
+<item slot="1" text="put clothes in washing machine ." />
+<item slot="2" text="add soap powder ." />
+<item slot="3" text="choose correct program ." />
+<item slot="4" text="turn washing machine on ." />
+</script>
+<script id="20">
+<item slot="1" text="empty washer ." />
+<item slot="2" text="put dirty clothes in washer ." />
+<item slot="3" text="add detergent to washer ." />
+<item slot="4" text="program setting on washer ." />
+<item slot="5" text="start washer ." />
+</script>
+<script id="21">
+<item slot="1" text="separate lights and darks ." />
+<item slot="2" text="place clothes in washing machine ." />
+<item slot="3" text="add soap ." />
+<item slot="4" text="turn on washing machine ." />
+<item slot="5" text="take out clothes ." />
+</script>
+<script id="22">
+<item slot="1" text="collect clothes ." />
+<item slot="2" text="transport to washer ." />
+<item slot="3" text="insert soap ." />
+<item slot="4" text="start washer ." />
+<item slot="5" text="fill clothes ." />
+<item slot="6" text="close lid ." />
+</script>
+<script id="23">
+<item slot="1" text="gather dirty clothes ." />
+<item slot="2" text="take to central laundry area ." />
+<item slot="3" text="ascertain that there is laundry detergent ." />
+<item slot="4" text="separate clohes by colors ." />
+<item slot="5" text="separate clothes by fabric ." />
+<item slot="6" text="put clothing in washer ." />
+<item slot="7" text="turn on washer ." />
+</script>
+<script id="24">
+<item slot="1" text="gather clothes ." />
+<item slot="2" text="open washer ." />
+<item slot="3" text="put clothes in washer ." />
+<item slot="4" text="put in detergent ." />
+<item slot="5" text="start washer ." />
+</script>
+<script id="25">
+<item slot="1" text="sort loads by color ." />
+<item slot="2" text="put load in washer ." />
+<item slot="3" text="add detergent ." />
+<item slot="4" text="add fabric softener ." />
+<item slot="5" text="close door ." />
+<item slot="6" text="set controls ." />
+<item slot="7" text="turn on ." />
+</script>
+<script id="26">
+<item slot="1" text="gather clothes ." />
+<item slot="2" text="take to washing machine ." />
+<item slot="3" text="put clothes in washing machine ." />
+<item slot="4" text="add ingredients ." />
+<item slot="5" text="program machine ." />
+<item slot="6" text="add power to machine ." />
+</script>
+<script id="27">
+<item slot="1" text="sort clothes ." />
+<item slot="2" text="place clothes in washer ." />
+<item slot="3" text="add detergent ." />
+<item slot="4" text="close the lid ." />
+<item slot="5" text="select program ." />
+<item slot="6" text="turn on washer ." />
+</script>
+<script id="28">
+<item slot="1" text="sort dirty laundry ." />
+<item slot="2" text="pour laundry soap into washing machine ." />
+<item slot="3" text="add dirty clothes ." />
+<item slot="4" text="distribute clothes evenly to prevent unbalancing ." />
+<item slot="5" text="close machine lid ." />
+<item slot="6" text="choose machine setting ." />
+<item slot="7" text="start wash cycle ." />
+</script>
+<script id="29">
+<item slot="1" text="sort dirty laundry ." />
+<item slot="2" text="pour laundry soap into washing machine ." />
+<item slot="3" text="add dirty clothes ." />
+<item slot="4" text="distribute clothes evenly to prevent unbalancing ." />
+<item slot="5" text="close machine lid ." />
+<item slot="6" text="choose machine setting ." />
+<item slot="7" text="start wash cycle ." />
+</script>
+<script id="30">
+<item slot="1" text="sort dirty laundry ." />
+<item slot="2" text="pour laundry soap into washing machine ." />
+<item slot="3" text="add dirty clothes ." />
+<item slot="4" text="distribute clothes evenly to prevent unbalancing ." />
+<item slot="5" text="close machine lid ." />
+<item slot="6" text="choose machine setting ." />
+<item slot="7" text="start wash cycle ." />
+</script>
+<script id="31">
+<item slot="1" text="sort dirty laundry ." />
+<item slot="2" text="pour laundry soap into washing machine ." />
+<item slot="3" text="add dirty clothes ." />
+<item slot="4" text="distribute clothes evenly to prevent unbalancing ." />
+<item slot="5" text="close machine lid ." />
+<item slot="6" text="choose machine setting ." />
+<item slot="7" text="start wash cycle ." />
+</script>
+<script id="32">
+<item slot="1" text="sort dirty laundry ." />
+<item slot="2" text="pour laundry soap into washing machine ." />
+<item slot="3" text="add dirty clothes ." />
+<item slot="4" text="distribute clothes evenly to prevent unbalancing ." />
+<item slot="5" text="close machine lid ." />
+<item slot="6" text="choose machine setting ." />
+<item slot="7" text="start wash cycle ." />
+</script>
+<script id="33">
+<item slot="1" text="sort dirty laundry ." />
+<item slot="2" text="pour laundry soap into washing machine ." />
+<item slot="3" text="add dirty clothes ." />
+<item slot="4" text="distribute clothes evenly to prevent unbalancing ." />
+<item slot="5" text="close machine lid ." />
+<item slot="6" text="choose machine setting ." />
+<item slot="7" text="start wash cycle ." />
+</script>
+<script id="34">
+<item slot="1" text="sort dirty laundry ." />
+<item slot="2" text="pour laundry soap into washing machine ." />
+<item slot="3" text="add dirty clothes ." />
+<item slot="4" text="distribute clothes evenly to prevent unbalancing ." />
+<item slot="5" text="close machine lid ." />
+<item slot="6" text="choose machine setting ." />
+<item slot="7" text="start wash cycle ." />
+</script>
+<script id="35">
+<item slot="1" text="get clothes ." />
+<item slot="2" text="wash clothes ." />
+</script>
+<script id="36">
+<item slot="1" text="place clothes in washer ." />
+<item slot="2" text="add detergent ." />
+<item slot="3" text="select load size ." />
+<item slot="4" text="select wash style ." />
+<item slot="5" text="select water temperature ." />
+<item slot="6" text="turn washer on ." />
+<item slot="7" text="close washer lid ." />
+</script>
+<script id="37">
+<item slot="1" text="place dirty clothes in washer ." />
+<item slot="2" text="add detergent ." />
+<item slot="3" text="close washer lid ." />
+<item slot="4" text="choose temperature setting ." />
+<item slot="5" text="choose load sized ." />
+<item slot="6" text="choose wash style ." />
+<item slot="7" text="push start ." />
+</script>
+<script id="38">
+<item slot="1" text="put clothes in washing machine ." />
+<item slot="2" text="wait ." />
+<item slot="3" text="wait ." />
+<item slot="4" text="wait ." />
+<item slot="5" text="wait ." />
+<item slot="6" text="wait ." />
+<item slot="7" text="wait ." />
+</script>
+<script id="39">
+<item slot="1" text="turn on washer ." />
+<item slot="2" text="put in laundry detergent ." />
+<item slot="3" text="keep whites separate ." />
+<item slot="4" text="put into washer ." />
+<item slot="5" text="put fabric softener ." />
+<item slot="6" text="let spin ." />
+<item slot="7" text="wait ." />
+</script>
+<script id="40">
+<item slot="1" text="put clothes in washer ." />
+<item slot="2" text="start washer ." />
+<item slot="3" text="remove clothes from washer ." />
+</script>
+<script id="41">
+<item slot="1" text="put clothes in washer ." />
+<item slot="2" text="start washer ." />
+<item slot="3" text="remove clothes from washer ." />
+</script>
+<script id="42">
+<item slot="1" text="obtain dirty clothes ." />
+<item slot="2" text="turn on washing machine ." />
+<item slot="3" text="add detergent ." />
+<item slot="4" text="put in clothes ." />
+<item slot="5" text="relax ." />
+</script>
+<script id="43">
+<item slot="1" text="obtain dirty clothes ." />
+<item slot="2" text="turn on washing machine ." />
+<item slot="3" text="add detergent ." />
+<item slot="4" text="put in clothes ." />
+<item slot="5" text="relax ." />
+</script>
+<script id="44">
+<item slot="1" text="taking clothes off ." />
+<item slot="2" text="putting clothes in washer ." />
+<item slot="3" text="putting detergent in washer ." />
+<item slot="4" text="turning washer on ." />
+<item slot="5" text="turning washer off ." />
+<item slot="6" text="removing clothes ." />
+<item slot="7" text="hang clothes to dry ." />
+</script>
+<script id="45">
+<item slot="1" text="sort clothes into piles of whites darks and colors ." />
+<item slot="2" text="put a pile in washer ." />
+<item slot="3" text="add laundry detergent and for whites bleach too ." />
+<item slot="4" text="close lid and start machine ." />
+</script>
+<script id="46">
+<item slot="1" text="sort clothes into piles of whites darks and colors ." />
+<item slot="2" text="put a pile in washer ." />
+<item slot="3" text="add laundry detergent and for whites bleach too ." />
+<item slot="4" text="close lid and start machine ." />
+</script>
+<script id="47">
+<item slot="1" text="sort clothes into piles of whites darks and colors ." />
+<item slot="2" text="put a pile in washer ." />
+<item slot="3" text="add laundry detergent and for whites bleach too ." />
+<item slot="4" text="close lid and start machine ." />
+</script>
+<script id="48">
+<item slot="1" text="separate clothes into similar colours ." />
+<item slot="2" text="put in the washing machine ." />
+<item slot="3" text="add soap ." />
+<item slot="4" text="add beach ." />
+<item slot="5" text="add softener ." />
+<item slot="6" text="clothes lid ." />
+<item slot="7" text="select heat water level and time ." />
+</script>
+<script id="49">
+<item slot="1" text="put clothes in washer ." />
+<item slot="2" text="add detergent ." />
+<item slot="3" text="start washer ." />
+</script>
+<script id="50">
+<item slot="1" text="put clothes in washer ." />
+<item slot="2" text="add detergent ." />
+<item slot="3" text="start washer ." />
+</script>
+<script id="51">
+<item slot="1" text="put clothes in washer ." />
+<item slot="2" text="add detergent ." />
+<item slot="3" text="start washer ." />
+</script>
+<script id="52">
+<item slot="1" text="put clothes in washer ." />
+<item slot="2" text="add detergent ." />
+<item slot="3" text="start washer ." />
+</script>
+<script id="53">
+<item slot="1" text="put clothes in washer ." />
+<item slot="2" text="add detergent ." />
+<item slot="3" text="start washer ." />
+</script>
+<script id="54">
+<item slot="1" text="put clothes in washer ." />
+<item slot="2" text="add detergent ." />
+<item slot="3" text="start washer ." />
+</script>
+<script id="55">
+<item slot="1" text="take clothes ." />
+<item slot="2" text="place clothes in washer ." />
+<item slot="3" text="put in detergent ." />
+<item slot="4" text="turn on washer ." />
+</script>
+<script id="56">
+<item slot="1" text="put detergent in washer ." />
+<item slot="2" text="turn on washer ." />
+</script>
+<script id="57">
+<item slot="1" text="get dirty clothes ." />
+<item slot="2" text="fill washing machine ." />
+<item slot="3" text="add soap ." />
+<item slot="4" text="put dirty clothes in machine ." />
+<item slot="5" text="close lid ." />
+</script>
+</scripts>

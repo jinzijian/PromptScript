@@ -1,0 +1,257 @@
+<scripts>
+<script id="1">
+<item slot="1" text="locate the object ." />
+<item slot="2" text="go to the object ." />
+<item slot="3" text="take the object ." />
+<item slot="4" text="go back to where you were with the object ." />
+</script>
+<script id="2">
+<item slot="1" text="go to where the object is ." />
+<item slot="2" text="pick up the object ." />
+<item slot="3" text="carry the object back ." />
+</script>
+<script id="3">
+<item slot="1" text="find object ." />
+<item slot="2" text="move to object ." />
+<item slot="3" text="grab object ." />
+<item slot="4" text="carry object back ." />
+</script>
+<script id="4">
+<item slot="1" text="locate object ." />
+<item slot="2" text="move to object site ." />
+<item slot="3" text="pick up object ." />
+<item slot="4" text="bring back object ." />
+</script>
+<script id="5">
+<item slot="1" text="find object ." />
+<item slot="2" text="using hands grab object ." />
+<item slot="3" text="lift it and bring it back to initial position ." />
+</script>
+<script id="6">
+<item slot="1" text="go to objects location ." />
+<item slot="2" text="pick up object ." />
+<item slot="3" text="bring back object ." />
+</script>
+<script id="7">
+<item slot="1" text="find object ." />
+<item slot="2" text="grab object ." />
+<item slot="3" text="bring back object ." />
+</script>
+<script id="8">
+<item slot="1" text="search object ." />
+<item slot="2" text="when object found grab it ." />
+<item slot="3" text="return to initial position ." />
+</script>
+<script id="9">
+<item slot="1" text="locate object ." />
+<item slot="2" text="walk to object ." />
+<item slot="3" text="pick up object ." />
+<item slot="4" text="bring object to desired location ." />
+</script>
+<script id="10">
+<item slot="1" text="find the object needed ." />
+<item slot="2" text="pick up the object ." />
+<item slot="3" text="take it to the proper destination ." />
+</script>
+<script id="11">
+<item slot="1" text="locate object ." />
+<item slot="2" text="pick up object ." />
+<item slot="3" text="come back with object ." />
+</script>
+<script id="12">
+<item slot="1" text="look for object ." />
+<item slot="2" text="go to object ." />
+<item slot="3" text="take object ." />
+<item slot="4" text="bring object back to where it is needed ." />
+</script>
+<script id="13">
+<item slot="1" text="pick up the object ." />
+<item slot="2" text="bring it to its container ." />
+</script>
+<script id="14">
+<item slot="1" text="locate object ." />
+<item slot="2" text="go to location of object ." />
+<item slot="3" text="grasp object ." />
+<item slot="4" text="pick up object ." />
+<item slot="5" text="move to starting location ." />
+<item slot="6" text="place object on surface ." />
+<item slot="7" text="release grasp of object ." />
+</script>
+<script id="15">
+<item slot="1" text="locate the object ." />
+<item slot="2" text="move towards the object ." />
+<item slot="3" text="grasp the object ." />
+<item slot="4" text="carry the object towards the goal ." />
+</script>
+<script id="16">
+<item slot="1" text="discern need for object ." />
+<item slot="2" text="remember where object is located ." />
+<item slot="3" text="rise to retrieve object ." />
+<item slot="4" text="go to object ." />
+<item slot="5" text="clasp object ." />
+<item slot="6" text="carry object to original location ." />
+<item slot="7" text="use object ." />
+</script>
+<script id="17">
+<item slot="1" text="find the object ." />
+<item slot="2" text="go to the object ." />
+<item slot="3" text="pick up the object ." />
+<item slot="4" text="bring the object back to the starting point ." />
+</script>
+<script id="18">
+<item slot="1" text="find the object ." />
+<item slot="2" text="retrieve the object ." />
+<item slot="3" text="deliver the object ." />
+</script>
+<script id="19">
+<item slot="1" text="find the object ." />
+<item slot="2" text="retrieve the object ." />
+<item slot="3" text="deliver the object ." />
+</script>
+<script id="20">
+<item slot="1" text="find object ." />
+<item slot="2" text="go to object ." />
+<item slot="3" text="pick up object ." />
+<item slot="4" text="return object to owner ." />
+</script>
+<script id="21">
+<item slot="1" text="find the object ." />
+<item slot="2" text="collect the object ." />
+<item slot="3" text="deliver the object ." />
+</script>
+<script id="22">
+<item slot="1" text="get up ." />
+<item slot="2" text="walk to the object ." />
+<item slot="3" text="pick it up ." />
+<item slot="4" text="return to your original location ." />
+</script>
+<script id="23">
+<item slot="1" text="locate the object ." />
+<item slot="2" text="go to the object ." />
+<item slot="3" text="pick up the object ." />
+<item slot="4" text="return with the object ." />
+</script>
+<script id="24">
+<item slot="1" text="think about where is located ." />
+<item slot="2" text="go to the object location ." />
+<item slot="3" text="locate the object visually ." />
+<item slot="4" text="grasp the object with hand ." />
+<item slot="5" text="return the starting location with object ." />
+</script>
+<script id="25">
+<item slot="1" text="identify wanted item ." />
+<item slot="2" text="find the location of the item ." />
+<item slot="3" text="pick up item ." />
+<item slot="4" text="carry item to the desired location ." />
+</script>
+<script id="26">
+<item slot="1" text="walk over to object and pick it up ." />
+</script>
+<script id="27">
+<item slot="1" text="locate object ." />
+<item slot="2" text="walk to object ." />
+<item slot="3" text="grasp object ." />
+<item slot="4" text="bring object to desired location ." />
+</script>
+<script id="28">
+<item slot="1" text="locate object ." />
+<item slot="2" text="determine object ." />
+<item slot="3" text="find object ." />
+</script>
+<script id="29">
+<item slot="1" text="go to the object ." />
+<item slot="2" text="pick up the object ." />
+<item slot="3" text="bring the object to me ." />
+</script>
+<script id="30">
+<item slot="1" text="ask what object ." />
+<item slot="2" text="get the object ." />
+<item slot="3" text="bring the object ." />
+</script>
+<script id="31">
+<item slot="1" text="thinking about where the object is located ." />
+<item slot="2" text="going to the place where the object is located ." />
+<item slot="3" text="picking up the object ." />
+<item slot="4" text="taking the object to the destination ." />
+</script>
+<script id="32">
+<item slot="1" text="thinking about where the object is located ." />
+<item slot="2" text="going to the place where the object is located ." />
+<item slot="3" text="picking up the object ." />
+<item slot="4" text="taking the object to the destination ." />
+</script>
+<script id="33">
+<item slot="1" text="thinking about where the object is located ." />
+<item slot="2" text="going to the place where the object is located ." />
+<item slot="3" text="picking up the object ." />
+<item slot="4" text="taking the object to the destination ." />
+</script>
+<script id="34">
+<item slot="1" text="look around ." />
+<item slot="2" text="locate object ." />
+<item slot="3" text="retrieve object ." />
+<item slot="4" text="bring it back to it s origin ." />
+</script>
+<script id="35">
+<item slot="1" text="look around ." />
+<item slot="2" text="locate object ." />
+<item slot="3" text="retrieve object ." />
+<item slot="4" text="bring it back to it s origin ." />
+</script>
+<script id="36">
+<item slot="1" text="go to object ." />
+<item slot="2" text="pick up object ." />
+<item slot="3" text="bring object back to where you need it ." />
+</script>
+<script id="37">
+<item slot="1" text="go to object ." />
+<item slot="2" text="pick up object ." />
+<item slot="3" text="bring object back to where you need it ." />
+</script>
+<script id="38">
+<item slot="1" text="go to object ." />
+<item slot="2" text="pick up object ." />
+<item slot="3" text="bring object back to where you need it ." />
+</script>
+<script id="39">
+<item slot="1" text="go to the object ." />
+<item slot="2" text="pick the object up ." />
+<item slot="3" text="take the object to the person requesting it ." />
+</script>
+<script id="40">
+<item slot="1" text="go to the object ." />
+<item slot="2" text="pick the object up ." />
+<item slot="3" text="take the object to the person requesting it ." />
+</script>
+<script id="41">
+<item slot="1" text="go to the object ." />
+<item slot="2" text="pick the object up ." />
+<item slot="3" text="take the object to the person requesting it ." />
+</script>
+<script id="42">
+<item slot="1" text="seek object ." />
+<item slot="2" text="locate object ." />
+<item slot="3" text="grab object ." />
+</script>
+<script id="43">
+<item slot="1" text="know what needs fetching ." />
+<item slot="2" text="go to room where object is found ." />
+<item slot="3" text="pick up object ." />
+<item slot="4" text="return to person that want s object ." />
+<item slot="5" text="hand it over ." />
+<item slot="6" text="you are done ." />
+<item slot="7" text="go back to previous task ." />
+</script>
+<script id="44">
+<item slot="1" text="locate object ." />
+<item slot="2" text="get object ." />
+</script>
+<script id="45">
+<item slot="1" text="locate object ." />
+<item slot="2" text="get object ." />
+</script>
+<script id="46">
+<item slot="1" text="get the object ." />
+<item slot="2" text="bring the object back ." />
+</script>
+</scripts>

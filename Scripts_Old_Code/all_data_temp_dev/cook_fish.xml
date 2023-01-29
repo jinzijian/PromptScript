@@ -1,0 +1,379 @@
+<scripts>
+<script id="1">
+<item slot="1" text="gut scale and filet fish ." />
+<item slot="2" text="turn stove on ." />
+<item slot="3" text="place skillet on heated stove ." />
+<item slot="4" text="place oil in skillet ." />
+<item slot="5" text="place fish in skillet ." />
+</script>
+<script id="2">
+<item slot="1" text="get fish ." />
+<item slot="2" text="marinate fish ." />
+<item slot="3" text="put fish on grill ." />
+<item slot="4" text="observe and rotate fish ." />
+<item slot="5" text="remove fish ." />
+</script>
+<script id="3">
+<item slot="1" text="get fish ." />
+<item slot="2" text="put spices on fish ." />
+<item slot="3" text="place fish on grill ." />
+<item slot="4" text="leave to cook ." />
+<item slot="5" text="turn fish ." />
+<item slot="6" text="remove fish ." />
+</script>
+<script id="4">
+<item slot="1" text="clean fish ." />
+<item slot="2" text="find pot that is large enough for fish ." />
+<item slot="3" text="heat water in pot ." />
+<item slot="4" text="put fish in ." />
+<item slot="5" text="simmer fish until done ." />
+<item slot="6" text="arrange fish on plate ." />
+</script>
+<script id="5">
+<item slot="1" text="place fish on grill ." />
+<item slot="2" text="turn on grill ." />
+<item slot="3" text="wait for fish to cook ." />
+</script>
+<script id="6">
+<item slot="1" text="locate fish to cook ." />
+<item slot="2" text="locate recipe for cooking fish ." />
+<item slot="3" text="utilize recipe to properly cook fish ." />
+</script>
+<script id="7">
+<item slot="1" text="clean fish ." />
+<item slot="2" text="marinate fish if desired ." />
+<item slot="3" text="place fish on grill ." />
+<item slot="4" text="after a side is cooked turn onto other side ." />
+<item slot="5" text="when fish is cooked remove from grill ." />
+</script>
+<script id="8">
+<item slot="1" text="getting fish ." />
+<item slot="2" text="cleaning fish ." />
+<item slot="3" text="prepare pan ." />
+<item slot="4" text="place fish in prepared pan ." />
+</script>
+<script id="9">
+<item slot="1" text="getting fish ." />
+<item slot="2" text="cleaning fish ." />
+<item slot="3" text="prepare pan ." />
+<item slot="4" text="place fish in prepared pan ." />
+<item slot="5" text="heat the pan ." />
+<item slot="6" text="turn fish often ." />
+<item slot="7" text="remove fish from pan ." />
+</script>
+<script id="10">
+<item slot="1" text="buy fish ." />
+<item slot="2" text="clean fish ." />
+<item slot="3" text="slice fish ." />
+<item slot="4" text="cook fish ." />
+</script>
+<script id="11">
+<item slot="1" text="get fish ." />
+<item slot="2" text="pick recipe ." />
+<item slot="3" text="heat pan ." />
+<item slot="4" text="oil pan ." />
+<item slot="5" text="put fish in pan ." />
+<item slot="6" text="turn when ready ." />
+<item slot="7" text="remove ." />
+</script>
+<script id="12">
+<item slot="1" text="wash the fish ." />
+<item slot="2" text="get the inside stuff of the fish ." />
+<item slot="3" text="then cook the fish ." />
+</script>
+<script id="13">
+<item slot="1" text="thaw fish ." />
+<item slot="2" text="put on tray ." />
+<item slot="3" text="heat oven ." />
+<item slot="4" text="put in oven ." />
+<item slot="5" text="cook for time required ." />
+<item slot="6" text="remove from oven ." />
+<item slot="7" text="let cool ." />
+</script>
+<script id="14">
+<item slot="1" text="scale fish ." />
+<item slot="2" text="gut fish ." />
+<item slot="3" text="filet fish ." />
+<item slot="4" text="place frying pan on hot stove ." />
+<item slot="5" text="place fish filet in frying pan ." />
+</script>
+<script id="15">
+<item slot="1" text="butcher fish ." />
+<item slot="2" text="heat pan ." />
+<item slot="3" text="oil pan ." />
+<item slot="4" text="season fish ." />
+<item slot="5" text="sear fish ." />
+<item slot="6" text="serve ." />
+</script>
+<script id="16">
+<item slot="1" text="butcher fish ." />
+<item slot="2" text="heat pan ." />
+<item slot="3" text="oil pan ." />
+<item slot="4" text="season fish ." />
+</script>
+<script id="17">
+<item slot="1" text="clean fish ." />
+<item slot="2" text="prepare ingredients ." />
+<item slot="3" text="obtain cooking container ." />
+<item slot="4" text="cook fish ." />
+</script>
+<script id="18">
+<item slot="1" text="place cleaned fish on plate ." />
+<item slot="2" text="set aside ." />
+<item slot="3" text="get 2 cups of flour ." />
+<item slot="4" text="place fish in flour ." />
+<item slot="5" text="take fish out ." />
+<item slot="6" text="put oil in pan put fish in pan ." />
+<item slot="7" text="cook fish in pan ." />
+</script>
+<script id="19">
+<item slot="1" text="catch a fish ." />
+<item slot="2" text="clean the fish ." />
+<item slot="3" text="cut the fish up ." />
+<item slot="4" text="heat up a pan ." />
+<item slot="5" text="put the fish in the pan ." />
+<item slot="6" text="turn the fish over ." />
+<item slot="7" text="wait until the fish is cooked ." />
+</script>
+<script id="20">
+<item slot="1" text="procure fish ." />
+<item slot="2" text="clean scales ." />
+<item slot="3" text="clean guts ." />
+<item slot="4" text="put oil in pan ." />
+<item slot="5" text="heat oil ." />
+<item slot="6" text="fry fish in hot oil ." />
+<item slot="7" text="serve fish ." />
+</script>
+<script id="21">
+<item slot="1" text="procure fish ." />
+<item slot="2" text="clean scales ." />
+<item slot="3" text="clean guts ." />
+<item slot="4" text="put oil in pan ." />
+<item slot="5" text="heat oil ." />
+<item slot="6" text="fry fish in hot oil ." />
+<item slot="7" text="serve fish ." />
+</script>
+<script id="22">
+<item slot="1" text="procure fish ." />
+<item slot="2" text="clean scales ." />
+<item slot="3" text="clean guts ." />
+<item slot="4" text="put oil in pan ." />
+<item slot="5" text="heat oil ." />
+<item slot="6" text="fry fish in hot oil ." />
+<item slot="7" text="serve fish ." />
+</script>
+<script id="23">
+<item slot="1" text="procure fish ." />
+<item slot="2" text="clean scales ." />
+<item slot="3" text="clean guts ." />
+<item slot="4" text="put oil in pan ." />
+<item slot="5" text="heat oil ." />
+<item slot="6" text="fry fish in hot oil ." />
+<item slot="7" text="serve fish ." />
+</script>
+<script id="24">
+<item slot="1" text="catch or buy fish ." />
+<item slot="2" text="clean fish ." />
+<item slot="3" text="fill pan with oil and heat ." />
+<item slot="4" text="bread fish ." />
+<item slot="5" text="place fish in oil ." />
+<item slot="6" text="cook ." />
+</script>
+<script id="25">
+<item slot="1" text="buy fish ." />
+<item slot="2" text="marinate fish ." />
+<item slot="3" text="put fish on grill ." />
+<item slot="4" text="turn fish over ." />
+<item slot="5" text="remove fish from grill ." />
+</script>
+<script id="26">
+<item slot="1" text="buy fish ." />
+<item slot="2" text="marinate fish ." />
+<item slot="3" text="put fish on grill ." />
+<item slot="4" text="turn fish over ." />
+<item slot="5" text="remove fish from grill ." />
+</script>
+<script id="27">
+<item slot="1" text="catch the fish ." />
+<item slot="2" text="clean the fish ." />
+<item slot="3" text="scale the fish ." />
+<item slot="4" text="roll the fish in corn meal ." />
+<item slot="5" text="place fish in skillet with oil on med heat ." />
+<item slot="6" text="turn fish to brown each side ." />
+<item slot="7" text="remove fish from skillet shut off stove ." />
+</script>
+<script id="28">
+<item slot="1" text="catch the fish ." />
+<item slot="2" text="clean the fish ." />
+<item slot="3" text="scale the fish ." />
+<item slot="4" text="roll the fish in corn meal ." />
+<item slot="5" text="place fish in skillet with oil on med heat ." />
+<item slot="6" text="turn fish to brown each side ." />
+<item slot="7" text="remove fish from skillet shut off stove ." />
+</script>
+<script id="29">
+<item slot="1" text="cut fish s belly open ." />
+<item slot="2" text="remove fish s guts ." />
+<item slot="3" text="cut off fish s head gills and fins ." />
+<item slot="4" text="scrape off fish s scales ." />
+<item slot="5" text="wash fish ." />
+<item slot="6" text="season fish with salt and pepper ." />
+<item slot="7" text="fry fish in pan with butter ." />
+</script>
+<script id="30">
+<item slot="1" text="clean fish ." />
+<item slot="2" text="pat fish dry ." />
+<item slot="3" text="lay fish on double thickness foil ." />
+<item slot="4" text="sprinkle fish with salt ." />
+<item slot="5" text="grind black pepper on fish ." />
+<item slot="6" text="wrap foil around fish ." />
+<item slot="7" text="bake in oven until tender and flaky ." />
+</script>
+<script id="31">
+<item slot="1" text="buy a fresh fish ." />
+<item slot="2" text="marinate the fish to add flavors ." />
+<item slot="3" text="turn on the stove ." />
+<item slot="4" text="put cooking pan on top of stove ." />
+<item slot="5" text="pour cooking oil on the pan ." />
+<item slot="6" text="put the fish inside the cooking pan ." />
+<item slot="7" text="cooked the fish 4 minutes per side ." />
+</script>
+<script id="32">
+<item slot="1" text="buy a fresh fish ." />
+<item slot="2" text="marinate the fish to add flavors ." />
+<item slot="3" text="turn on the stove ." />
+<item slot="4" text="put cooking pan on top of stove ." />
+<item slot="5" text="pour cooking oil on the pan ." />
+<item slot="6" text="put the fish inside the cooking pan ." />
+<item slot="7" text="cooked the fish 4 minutes per side ." />
+</script>
+<script id="33">
+<item slot="1" text="cut up the fish ." />
+<item slot="2" text="fry it ." />
+</script>
+<script id="34">
+<item slot="1" text="choose the fish ." />
+<item slot="2" text="remove unwanted portion ." />
+<item slot="3" text="cut the fish in to small pieces ." />
+<item slot="4" text="cook the fish ." />
+</script>
+<script id="35">
+<item slot="1" text="prepare fish ." />
+</script>
+<script id="36">
+<item slot="1" text="prepare fish ." />
+<item slot="2" text="put frying pan on cooker ." />
+<item slot="3" text="turn on cooker ring ." />
+<item slot="4" text="add vegetable oil ." />
+<item slot="5" text="heat pan ." />
+<item slot="6" text="place fish in pan ." />
+<item slot="7" text="turn occasionally ." />
+</script>
+<script id="37">
+<item slot="1" text="find the fish ." />
+<item slot="2" text="cut it ." />
+<item slot="3" text="cook ." />
+</script>
+<script id="38">
+<item slot="1" text="place cook in pan ." />
+<item slot="2" text="turn on heat ." />
+<item slot="3" text="cook fish till half cooked ." />
+<item slot="4" text="turn fish over ." />
+<item slot="5" text="cook till fish totally cooked ." />
+<item slot="6" text="serve fish ." />
+</script>
+<script id="39">
+<item slot="1" text="cook fish ." />
+</script>
+<script id="40">
+<item slot="1" text="locate fish ." />
+<item slot="2" text="add spices and margarine ." />
+<item slot="3" text="turn on oven to intended temperature ." />
+<item slot="4" text="place fish in pan ." />
+<item slot="5" text="place pan in oven ." />
+<item slot="6" text="wait until fish is cooked ." />
+<item slot="7" text="remove fish from oven ." />
+</script>
+<script id="41">
+<item slot="1" text="locate fish ." />
+<item slot="2" text="add spices and margarine ." />
+<item slot="3" text="turn on oven to intended temperature ." />
+<item slot="4" text="place fish in pan ." />
+<item slot="5" text="place pan in oven ." />
+<item slot="6" text="wait until fish is cooked ." />
+<item slot="7" text="remove fish from oven ." />
+</script>
+<script id="42">
+<item slot="1" text="rinse fish ." />
+<item slot="2" text="clean grill ." />
+<item slot="3" text="oil grill ." />
+<item slot="4" text="find grill utensils ." />
+<item slot="5" text="get out clean plate ." />
+<item slot="6" text="put fish on grill ." />
+<item slot="7" text="flip fish until finished ." />
+</script>
+<script id="43">
+<item slot="1" text="wash and descale fish ." />
+<item slot="2" text="place in dish ." />
+<item slot="3" text="season ." />
+<item slot="4" text="boil water in a pot ." />
+<item slot="5" text="place dish in pot and steam till done ." />
+</script>
+<script id="44">
+<item slot="1" text="heat oil in pan ." />
+<item slot="2" text="remove fish from package ." />
+<item slot="3" text="place fish in pan ." />
+<item slot="4" text="flip fish occasionally until cooked ." />
+</script>
+<script id="45">
+<item slot="1" text="defrost fish ." />
+</script>
+<script id="46">
+<item slot="1" text="catch fish ." />
+<item slot="2" text="clean fish ." />
+<item slot="3" text="fry fish ." />
+</script>
+<script id="47">
+<item slot="1" text="catch fish ." />
+<item slot="2" text="clean fish ." />
+<item slot="3" text="fry fish ." />
+</script>
+<script id="48">
+<item slot="1" text="catch fish ." />
+<item slot="2" text="clean fish ." />
+<item slot="3" text="fry fish ." />
+</script>
+<script id="49">
+<item slot="1" text="catch fish ." />
+<item slot="2" text="clean fish ." />
+<item slot="3" text="fry fish ." />
+</script>
+<script id="50">
+<item slot="1" text="catch fish ." />
+<item slot="2" text="clean fish ." />
+<item slot="3" text="fry fish ." />
+</script>
+<script id="51">
+<item slot="1" text="catch fish ." />
+<item slot="2" text="clean fish ." />
+<item slot="3" text="fry fish ." />
+</script>
+<script id="52">
+<item slot="1" text="take out cooking tools ." />
+<item slot="2" text="take out fish ." />
+<item slot="3" text="clean fish ." />
+<item slot="4" text="heat pan with butter ." />
+<item slot="5" text="coat fish in batter ." />
+<item slot="6" text="put fish in pan ." />
+<item slot="7" text="cook fish ." />
+</script>
+<script id="53">
+<item slot="1" text="take fish ." />
+<item slot="2" text="place fish in pan ." />
+<item slot="3" text="place pan on stove ." />
+<item slot="4" text="heat fish ." />
+</script>
+<script id="54">
+<item slot="1" text="put fish in grill ." />
+</script>
+</scripts>

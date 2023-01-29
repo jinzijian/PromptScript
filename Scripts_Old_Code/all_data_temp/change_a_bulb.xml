@@ -1,0 +1,256 @@
+<scripts>
+<script id="1">
+<item slot="1" text="move to fixture ." />
+<item slot="2" text="remove old bulb from socket ." />
+<item slot="3" text="place bulb in trash ." />
+<item slot="4" text="pick up new bulb ." />
+<item slot="5" text="place bulb in socket ." />
+</script>
+<script id="2">
+<item slot="1" text="locate a new bulb ." />
+<item slot="2" text="remove fascade from light appliance ." />
+<item slot="3" text="remove the burnt-out bulb ." />
+<item slot="4" text="insert the new bulb ." />
+<item slot="5" text="replace fascade from light appliance ." />
+<item slot="6" text="discard burnt-out bulb ." />
+</script>
+<script id="3">
+<item slot="1" text="remove old bulb ." />
+<item slot="2" text="find new bulb ." />
+<item slot="3" text="place new bulb in light socket ." />
+</script>
+<script id="4">
+<item slot="1" text="remove old bulb ." />
+<item slot="2" text="locate new bulb ." />
+<item slot="3" text="screw new bulb into socket ." />
+</script>
+<script id="5">
+<item slot="1" text="turn off light if on ." />
+<item slot="2" text="wait for bulb to cool down ." />
+<item slot="3" text="remove bulb ." />
+<item slot="4" text="replace with new bulb ." />
+<item slot="5" text="turn on light ." />
+</script>
+<script id="6">
+<item slot="1" text="unscrew the bulb ." />
+<item slot="2" text="discard the bulb ." />
+<item slot="3" text="locate a replacement bulb ." />
+<item slot="4" text="screw the replacement bulb into the socket ." />
+</script>
+<script id="7">
+<item slot="1" text="turn light off ." />
+<item slot="2" text="unscrew bulb ." />
+<item slot="3" text="screw new bulb ." />
+<item slot="4" text="turn on light ." />
+</script>
+<script id="8">
+<item slot="1" text="get new bulb ." />
+<item slot="2" text="go to old bulb ." />
+<item slot="3" text="turn off light ." />
+<item slot="4" text="unscrew old bulb ." />
+<item slot="5" text="screw in new bulb ." />
+<item slot="6" text="turn on light ." />
+</script>
+<script id="9">
+<item slot="1" text="find bulb or right size and wattage ." />
+<item slot="2" text="turn the light off ." />
+<item slot="3" text="unscrew old bulb ." />
+<item slot="4" text="screw new bulb into socket ." />
+<item slot="5" text="turn light on to test ." />
+</script>
+<script id="10">
+<item slot="1" text="unscrew old bulb ." />
+<item slot="2" text="screw in new bulb ." />
+</script>
+<script id="11">
+<item slot="1" text="turn off light ." />
+<item slot="2" text="wait for bulb to cool down ." />
+<item slot="3" text="go to where bulb is ." />
+<item slot="4" text="remove cover if any ." />
+<item slot="5" text="remove old bulb ." />
+<item slot="6" text="put in new bulb ." />
+<item slot="7" text="put back cover ." />
+</script>
+<script id="12">
+<item slot="1" text="remove lamp shade ." />
+<item slot="2" text="unscrew bulb from lamp ." />
+<item slot="3" text="screw in new bulb ." />
+<item slot="4" text="put the lamp shade back on the lamp ." />
+</script>
+<script id="13">
+<item slot="1" text="get a ladder ." />
+<item slot="2" text="get a new bulb ." />
+<item slot="3" text="climb up on the ladder with the bulb ." />
+<item slot="4" text="remove the light fixture cover and set it down ." />
+<item slot="5" text="unscrew the old bulb ." />
+<item slot="6" text="screw in the new bulb ." />
+<item slot="7" text="replace the lgiht fixture cover ." />
+</script>
+<script id="14">
+<item slot="1" text="locate a replacement bulb of the appropriate wattage ." />
+<item slot="2" text="remove the old bulb ." />
+<item slot="3" text="insert the new bulb ." />
+<item slot="4" text="dispose of the old bulb ." />
+</script>
+<script id="15">
+<item slot="1" text="get a new bulb ." />
+<item slot="2" text="get a ladder ." />
+<item slot="3" text="place the ladder beneath the bulb to be changed ." />
+<item slot="4" text="climb the ladder ." />
+<item slot="5" text="remove the faulty bulb ." />
+<item slot="6" text="put in the new bulb ." />
+</script>
+<script id="16">
+<item slot="1" text="remove old bulb ." />
+<item slot="2" text="locate new bulb ." />
+<item slot="3" text="screw in new bulb ." />
+</script>
+<script id="17">
+<item slot="1" text="remove light cover ." />
+<item slot="2" text="unscrew old bulb ." />
+<item slot="3" text="screw in new bulb ." />
+<item slot="4" text="replace light cover ." />
+</script>
+<script id="18">
+<item slot="1" text="turn off the switch ." />
+<item slot="2" text="get a new bulb and change the old bulb ." />
+</script>
+<script id="19">
+<item slot="1" text="remove burned out bulb ." />
+<item slot="2" text="discard burned out bulb ." />
+<item slot="3" text="replace with fresh bulb ." />
+</script>
+<script id="20">
+<item slot="1" text="remove old lightbulb ." />
+<item slot="2" text="throw old bulb away ." />
+<item slot="3" text="get new bulb ." />
+<item slot="4" text="install new bulb ." />
+</script>
+<script id="21">
+<item slot="1" text="remove old lightbulb ." />
+<item slot="2" text="throw old bulb away ." />
+<item slot="3" text="get new bulb ." />
+<item slot="4" text="install new bulb ." />
+</script>
+<script id="22">
+<item slot="1" text="remove old lightbulb ." />
+<item slot="2" text="throw old bulb away ." />
+<item slot="3" text="get new bulb ." />
+<item slot="4" text="install new bulb ." />
+</script>
+<script id="23">
+<item slot="1" text="get a stool if needed ." />
+<item slot="2" text="get on stool ." />
+<item slot="3" text="turn lightbulb to the left ." />
+<item slot="4" text="remove bulb from socket ." />
+<item slot="5" text="screw in new bulb ." />
+</script>
+<script id="24">
+<item slot="1" text="turn off light switch ." />
+<item slot="2" text="unscrew old bulb ." />
+<item slot="3" text="screw in new bulb ." />
+<item slot="4" text="turn on light switch ." />
+<item slot="5" text="throw away old bulb ." />
+</script>
+<script id="25">
+<item slot="1" text="reach up ." />
+<item slot="2" text="twist old bulb to the left ." />
+<item slot="3" text="secure new bulb ." />
+<item slot="4" text="twist new bulb to the right ." />
+<item slot="5" text="turn on light switch ." />
+</script>
+<script id="26">
+<item slot="1" text="remove old bulb ." />
+<item slot="2" text="get new bulb ." />
+<item slot="3" text="put new bulb in ." />
+</script>
+<script id="27">
+<item slot="1" text="get a new light bulb ." />
+<item slot="2" text="unscrew old light bulb ." />
+<item slot="3" text="throw away old light bulb ." />
+<item slot="4" text="screw in new light bulb ." />
+</script>
+<script id="28">
+<item slot="1" text="get a new light bulb ." />
+<item slot="2" text="unscrew old light bulb ." />
+<item slot="3" text="throw away old light bulb ." />
+<item slot="4" text="screw in new light bulb ." />
+</script>
+<script id="29">
+<item slot="1" text="get a light bulb ." />
+<item slot="2" text="stand on a chair ." />
+<item slot="3" text="unscrew the old one ." />
+<item slot="4" text="put in the new one ." />
+</script>
+<script id="30">
+<item slot="1" text="get a light bulb ." />
+<item slot="2" text="stand on a chair ." />
+<item slot="3" text="unscrew the old one ." />
+<item slot="4" text="put in the new one ." />
+</script>
+<script id="31">
+<item slot="1" text="locate a new light bulb and a tissue ." />
+<item slot="2" text="turn off the light switch ." />
+<item slot="3" text="unscrew the old bulb ." />
+<item slot="4" text="holding the new bulb with the tissue screw it in ." />
+</script>
+<script id="32">
+<item slot="1" text="switch light off at wall ." />
+<item slot="2" text="reach up to light bulb ." />
+<item slot="3" text="take out old light bulb ." />
+<item slot="4" text="get new lightbulb ." />
+<item slot="5" text="reach up with new light bulb ." />
+<item slot="6" text="insert new lightbulb ." />
+<item slot="7" text="switch light on at wall ." />
+</script>
+<script id="33">
+<item slot="1" text="ensure light switch is set to off ." />
+<item slot="2" text="hold light fitting ." />
+<item slot="3" text="push light bulb and turn ." />
+<item slot="4" text="lower bulb ." />
+<item slot="5" text="fit new bulb in reverse ." />
+<item slot="6" text="turn on lightswitch ." />
+<item slot="7" text="check if new bulb is working ." />
+</script>
+<script id="34">
+<item slot="1" text="ensure light switch is set to off ." />
+<item slot="2" text="hold light fitting ." />
+<item slot="3" text="push light bulb and turn ." />
+<item slot="4" text="lower bulb ." />
+<item slot="5" text="fit new bulb in reverse ." />
+<item slot="6" text="turn on lightswitch ." />
+<item slot="7" text="check if new bulb is working ." />
+</script>
+<script id="35">
+<item slot="1" text="push bulb upwards and twist ." />
+<item slot="2" text="pull out bulb ." />
+<item slot="3" text="push bulb in ." />
+<item slot="4" text="twist and let go ." />
+</script>
+<script id="36">
+<item slot="1" text="turn light off ." />
+<item slot="2" text="rotate bulb counter clockwise ." />
+<item slot="3" text="remove old bulb ." />
+<item slot="4" text="place new bulb lamp ." />
+<item slot="5" text="rotate clockwise ." />
+<item slot="6" text="turn light on ." />
+</script>
+<script id="37">
+<item slot="1" text="change ." />
+<item slot="2" text="walk ." />
+<item slot="3" text="find a light bulb ." />
+</script>
+<script id="38">
+<item slot="1" text="turn off electricity ." />
+<item slot="2" text="find solid ladder ." />
+<item slot="3" text="find new bulb ." />
+<item slot="4" text="climb ladder with new bulb ." />
+<item slot="5" text="unscrew old bulb ." />
+<item slot="6" text="screw in new bulb ." />
+<item slot="7" text="discard of old bulb ." />
+</script>
+<script id="39">
+<item slot="1" text="remove old bulb ." />
+<item slot="2" text="screw in new bulb ." />
+</script>
+</scripts>

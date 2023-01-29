@@ -1,0 +1,258 @@
+<scripts>
+<script id="1">
+<item slot="1" text="reach hand for cord ." />
+<item slot="2" text="grab cord ." />
+<item slot="3" text="pull cord ." />
+</script>
+<script id="2">
+<item slot="1" text="find the cord which raises and lowers the blinds ." />
+<item slot="2" text="pull the cord downward to raise the blinds ." />
+</script>
+<script id="3">
+<item slot="1" text="find blinds ." />
+<item slot="2" text="find cord which raises and lowers blinds ." />
+<item slot="3" text="pull on cord to raise blinds ." />
+</script>
+<script id="4">
+<item slot="1" text="locate the cord that controls the blinds ." />
+<item slot="2" text="place a hand on the cord ." />
+<item slot="3" text="pull the cord downwards ." />
+</script>
+<script id="5">
+<item slot="1" text="go to window ." />
+<item slot="2" text="pull string ." />
+</script>
+<script id="6">
+<item slot="1" text="move the curtains away from the window ." />
+<item slot="2" text="locate the string that raises the blinds ." />
+<item slot="3" text="pull the string ." />
+<item slot="4" text="watch the blinds rise to the desired height ." />
+<item slot="5" text="stop pulling the string ." />
+<item slot="6" text="move the curtains back ." />
+</script>
+<script id="7">
+<item slot="1" text="grasp the blind cord ." />
+<item slot="2" text="pull the cord down ." />
+<item slot="3" text="pull the the cord away from the center of the window ." />
+<item slot="4" text="release the cord ." />
+</script>
+<script id="8">
+<item slot="1" text="grab cord ." />
+<item slot="2" text="pull cord straight down ." />
+<item slot="3" text="release cord ." />
+<item slot="4" text="repeat until blinds are raised ." />
+</script>
+<script id="9">
+<item slot="1" text="walk over to the side of the blinds with the string ." />
+<item slot="2" text="pull string until blinds are raised ." />
+</script>
+<script id="10">
+<item slot="1" text="go to window ." />
+<item slot="2" text="pull down string ." />
+</script>
+<script id="11">
+<item slot="1" text="go next to window ." />
+<item slot="2" text="pull blinds string ." />
+</script>
+<script id="12">
+<item slot="1" text="move to the blinds ." />
+<item slot="2" text="find the blinds pull cord ." />
+<item slot="3" text="pull the pull cord to raise the blinds ." />
+</script>
+<script id="13">
+<item slot="1" text="go next to window ." />
+<item slot="2" text="pull chord so that bilnds are raised ." />
+</script>
+<script id="14">
+<item slot="1" text="pull cord attached to blinds down ." />
+</script>
+<script id="15">
+<item slot="1" text="locate the blind cord ." />
+<item slot="2" text="pull the blind cord ." />
+</script>
+<script id="16">
+<item slot="1" text="locate the blind cord ." />
+<item slot="2" text="pull the blind cord ." />
+<item slot="3" text="release the blind cord ." />
+</script>
+<script id="17">
+<item slot="1" text="pull on blind cord ." />
+</script>
+<script id="18">
+<item slot="1" text="find the cord ." />
+<item slot="2" text="pull the cord down ." />
+<item slot="3" text="pull the cord to the side ." />
+</script>
+<script id="19">
+<item slot="1" text="take blind cord ." />
+<item slot="2" text="pull blind cord ." />
+</script>
+<script id="20">
+<item slot="1" text="go to window ." />
+<item slot="2" text="pull string ." />
+</script>
+<script id="21">
+<item slot="1" text="pull cord to raise the blinds ." />
+</script>
+<script id="22">
+<item slot="1" text="pull cord to raise the blinds ." />
+</script>
+<script id="23">
+<item slot="1" text="pull cord ." />
+<item slot="2" text="lock cord in place ." />
+</script>
+<script id="24">
+<item slot="1" text="grasp the cord ." />
+<item slot="2" text="pull the cord ." />
+<item slot="3" text="latch the cord ." />
+</script>
+<script id="25">
+<item slot="1" text="walk to blinds ." />
+<item slot="2" text="pull string or cord ." />
+</script>
+<script id="26">
+<item slot="1" text="grasp cord ." />
+<item slot="2" text="pull cord to desired level ." />
+<item slot="3" text="pull cord to right to lock level ." />
+</script>
+<script id="27">
+<item slot="1" text="goto blinds ." />
+<item slot="2" text="find raise mechanism ." />
+<item slot="3" text="adjust raise mechanism in the direction of elevation ." />
+<item slot="4" text="let go of raise mechanism ." />
+</script>
+<script id="28">
+<item slot="1" text="pull cord ." />
+</script>
+<script id="29">
+<item slot="1" text="pull cord ." />
+</script>
+<script id="30">
+<item slot="1" text="look at blinds ." />
+<item slot="2" text="locate blind cord ." />
+<item slot="3" text="pull blind cord at an angle ." />
+<item slot="4" text="release blind cord ." />
+</script>
+<script id="31">
+<item slot="1" text="open blinds ." />
+<item slot="2" text="pull cord to raise blinds ." />
+</script>
+<script id="32">
+<item slot="1" text="open blinds ." />
+<item slot="2" text="pull cord to raise blinds ." />
+</script>
+<script id="33">
+<item slot="1" text="pull the string to the left and down ." />
+<item slot="2" text="pull the string slightly right ." />
+</script>
+<script id="34">
+<item slot="1" text="grab the blind cord ." />
+<item slot="2" text="pull ." />
+</script>
+<script id="35">
+<item slot="1" text="put hand on cord ." />
+<item slot="2" text="pull cord down ." />
+</script>
+<script id="36">
+<item slot="1" text="put hand on cord ." />
+<item slot="2" text="pull cord down ." />
+</script>
+<script id="37">
+<item slot="1" text="walk to window ." />
+<item slot="2" text="find blind pull cord ." />
+<item slot="3" text="pull blind pull cord ." />
+</script>
+<script id="38">
+<item slot="1" text="grasp blind cord ." />
+<item slot="2" text="pull cord downwards ." />
+<item slot="3" text="lock blinds into place ." />
+<item slot="4" text="release cord ." />
+</script>
+<script id="39">
+<item slot="1" text="go to the window ." />
+<item slot="2" text="grab the cord to the blinds ." />
+<item slot="3" text="pull the cord ." />
+</script>
+<script id="40">
+<item slot="1" text="pull down on the blinds cord until open ." />
+<item slot="2" text="pull back on cord for blinds to lock ." />
+</script>
+<script id="41">
+<item slot="1" text="grasp and pull the cord ." />
+<item slot="2" text="blinds will raise ." />
+</script>
+<script id="42">
+<item slot="1" text="grasp and pull the cord ." />
+<item slot="2" text="blinds will raise ." />
+</script>
+<script id="43">
+<item slot="1" text="grasp and pull the cord ." />
+<item slot="2" text="blinds will raise ." />
+</script>
+<script id="44">
+<item slot="1" text="grasp and pull the cord ." />
+<item slot="2" text="blinds will raise ." />
+</script>
+<script id="45">
+<item slot="1" text="grasp and pull the cord ." />
+<item slot="2" text="blinds will raise ." />
+</script>
+<script id="46">
+<item slot="1" text="grasp and pull the cord ." />
+<item slot="2" text="blinds will raise ." />
+</script>
+<script id="47">
+<item slot="1" text="grab cord ." />
+<item slot="2" text="grab cord ." />
+<item slot="3" text="pull cord down untill blinds are at correct height ." />
+<item slot="4" text="pull cord down untill blinds are at correct height ." />
+<item slot="5" text="lock cord ." />
+<item slot="6" text="lock cord ." />
+</script>
+<script id="48">
+<item slot="1" text="grab cord ." />
+<item slot="2" text="pull cord down untill blinds are at correct height ." />
+<item slot="3" text="lock cord ." />
+</script>
+<script id="49">
+<item slot="1" text="grab cord ." />
+<item slot="2" text="pull cord down untill blinds are at correct height ." />
+<item slot="3" text="lock cord ." />
+</script>
+<script id="50">
+<item slot="1" text="walk to the room ." />
+<item slot="2" text="walk to the blinds ." />
+<item slot="3" text="decide how high u want the blinds to go ." />
+<item slot="4" text="take the rod or the string in hands ." />
+<item slot="5" text="slowly pull ." />
+<item slot="6" text="keep pulling to desired height ." />
+<item slot="7" text="check for any mistakes ." />
+</script>
+<script id="51">
+<item slot="1" text="get up ." />
+<item slot="2" text="left foot ." />
+<item slot="3" text="right foot ." />
+<item slot="4" text="find string ." />
+<item slot="5" text="pull on string ." />
+<item slot="6" text="find other string ." />
+<item slot="7" text="pull on string ." />
+</script>
+<script id="52">
+<item slot="1" text="get up ." />
+<item slot="2" text="left foot ." />
+<item slot="3" text="right foot ." />
+<item slot="4" text="find string ." />
+<item slot="5" text="pull on string ." />
+<item slot="6" text="find other string ." />
+<item slot="7" text="pull on string ." />
+</script>
+<script id="53">
+<item slot="1" text="get up ." />
+<item slot="2" text="left foot ." />
+<item slot="3" text="right foot ." />
+<item slot="4" text="find string ." />
+<item slot="5" text="pull on string ." />
+<item slot="6" text="find other string ." />
+<item slot="7" text="pull on string ." />
+</script>
+</scripts>

@@ -1,0 +1,250 @@
+<scripts>
+<script id="1">
+<item slot="1" text="put wet clothing in dryer ." />
+<item slot="2" text="close dryer door ." />
+<item slot="3" text="empty lint trap ." />
+<item slot="4" text="set timer ." />
+<item slot="5" text="start dryer ." />
+</script>
+<script id="2">
+<item slot="1" text="remove clothes from washer ." />
+<item slot="2" text="put them into the dryer ." />
+<item slot="3" text="turn on the dryer ." />
+</script>
+<script id="3">
+<item slot="1" text="put clothes into the dryer ." />
+<item slot="2" text="set and run the dryer ." />
+</script>
+<script id="4">
+<item slot="1" text="take the clothes ." />
+<item slot="2" text="open the dryer ." />
+<item slot="3" text="put the clothes in the dryer ." />
+<item slot="4" text="close the dryer ." />
+<item slot="5" text="turn on the dryer ." />
+</script>
+<script id="5">
+<item slot="1" text="open clothes drier ." />
+<item slot="2" text="put wet clothes in drier ." />
+<item slot="3" text="close clothes drier ." />
+<item slot="4" text="turn on clothes drier ." />
+</script>
+<script id="6">
+<item slot="1" text="wait for washer to finish ." />
+<item slot="2" text="open washer door ." />
+<item slot="3" text="get laundry basket ." />
+<item slot="4" text="remove clothes from washer ." />
+<item slot="5" text="place clothes in laundry basket ." />
+<item slot="6" text="put clothes into dryer ." />
+<item slot="7" text="turn on dryer ." />
+</script>
+<script id="7">
+<item slot="1" text="put wet clothes in dryer ." />
+<item slot="2" text="turn on dryer ." />
+</script>
+<script id="8">
+<item slot="1" text="take clothes out of washer ." />
+<item slot="2" text="put clothes in dryer ." />
+<item slot="3" text="turn on the dryer ." />
+<item slot="4" text="allow clothes to dry for 50 minutes ." />
+</script>
+<script id="9">
+<item slot="1" text="take clothes out of washer ." />
+<item slot="2" text="put clothes in dryer ." />
+<item slot="3" text="turn on the dryer ." />
+<item slot="4" text="allow clothes to dry for 50 minutes ." />
+</script>
+<script id="10">
+<item slot="1" text="take clothes from washer ." />
+<item slot="2" text="put clothes into dryer ." />
+<item slot="3" text="turn knob ." />
+<item slot="4" text="push start ." />
+<item slot="5" text="take clothes out of dryer ." />
+</script>
+<script id="11">
+<item slot="1" text="take clothes from washer ." />
+<item slot="2" text="put clothes into dryer ." />
+<item slot="3" text="turn knob ." />
+<item slot="4" text="push start ." />
+<item slot="5" text="take clothes out of dryer ." />
+</script>
+<script id="12">
+<item slot="1" text="hang clothes ." />
+<item slot="2" text="wait to dry ." />
+</script>
+<script id="13">
+<item slot="1" text="hang clothes ." />
+<item slot="2" text="wait to dry ." />
+</script>
+<script id="14">
+<item slot="1" text="remove clothes from washing machine ." />
+<item slot="2" text="put wet clothes into laundry basket ." />
+<item slot="3" text="carry basket outdoors ." />
+<item slot="4" text="remove clothing items one at a time ." />
+<item slot="5" text="hang each item on clothesline ." />
+<item slot="6" text="secure each item with clothespins ." />
+<item slot="7" text="watch for rain ." />
+</script>
+<script id="15">
+<item slot="1" text="open washing machine door ." />
+<item slot="2" text="remove damp clothes ." />
+<item slot="3" text="open dryer door ." />
+<item slot="4" text="place damp clothes in dryer ." />
+<item slot="5" text="close dryer door ." />
+<item slot="6" text="turn dial to '30 minutes' ." />
+<item slot="7" text="push 'start' button ." />
+</script>
+<script id="16">
+<item slot="1" text="open washing machine door ." />
+<item slot="2" text="remove damp clothes ." />
+<item slot="3" text="open dryer door ." />
+<item slot="4" text="place damp clothes in dryer ." />
+<item slot="5" text="close dryer door ." />
+<item slot="6" text="turn dial to '30 minutes' ." />
+<item slot="7" text="push 'start' button ." />
+</script>
+<script id="17">
+<item slot="1" text="take wet clothes from the washer ." />
+<item slot="2" text="place them into the dryer ." />
+<item slot="3" text="close the dryer door ." />
+<item slot="4" text="set the timer on dryer ." />
+<item slot="5" text="push button to start dryer ." />
+</script>
+<script id="18">
+<item slot="1" text="hang on washing line ." />
+<item slot="2" text="keep eye out for rain ." />
+</script>
+<script id="19">
+<item slot="1" text="place wet clothes in dryer ." />
+<item slot="2" text="choose dryer settings ." />
+<item slot="3" text="close dryer door ." />
+<item slot="4" text="push start ." />
+<item slot="5" text="wait until finished ." />
+<item slot="6" text="remove clothes ." />
+</script>
+<script id="20">
+<item slot="1" text="hang clothes on string in backyard ." />
+<item slot="2" text="wait ." />
+<item slot="3" text="wait ." />
+<item slot="4" text="wait ." />
+<item slot="5" text="wait ." />
+<item slot="6" text="wait ." />
+<item slot="7" text="wait ." />
+</script>
+<script id="21">
+<item slot="1" text="putting them in washer ." />
+<item slot="2" text="waiting until done ." />
+<item slot="3" text="taking them out of washer ." />
+<item slot="4" text="putting them in dryer ." />
+<item slot="5" text="turning dryer on ." />
+<item slot="6" text="letting dry ." />
+<item slot="7" text="taking them out of dryer ." />
+</script>
+<script id="22">
+<item slot="1" text="remove clothes from washer ." />
+<item slot="2" text="hang wet clothes on close line ." />
+<item slot="3" text="wait until dry ." />
+<item slot="4" text="remove and fold ." />
+</script>
+<script id="23">
+<item slot="1" text="remove clothes from washer ." />
+<item slot="2" text="hang wet clothes on close line ." />
+<item slot="3" text="wait until dry ." />
+<item slot="4" text="remove and fold ." />
+</script>
+<script id="24">
+<item slot="1" text="remove clothes from washer ." />
+<item slot="2" text="hang wet clothes on close line ." />
+<item slot="3" text="wait until dry ." />
+<item slot="4" text="remove and fold ." />
+</script>
+<script id="25">
+<item slot="1" text="remove clothes from washer ." />
+<item slot="2" text="hang wet clothes on close line ." />
+<item slot="3" text="wait until dry ." />
+<item slot="4" text="remove and fold ." />
+</script>
+<script id="26">
+<item slot="1" text="take wet clothes out of washer ." />
+</script>
+<script id="27">
+<item slot="1" text="take wet clothes out of washer ." />
+</script>
+<script id="28">
+<item slot="1" text="take wet clothes out of washer ." />
+</script>
+<script id="29">
+<item slot="1" text="go out side ." />
+<item slot="2" text="hang clothes on clothes line ." />
+<item slot="3" text="go inside and wait ." />
+</script>
+<script id="30">
+<item slot="1" text="go out side ." />
+<item slot="2" text="hang clothes on clothes line ." />
+<item slot="3" text="go inside and wait ." />
+</script>
+<script id="31">
+<item slot="1" text="go out side ." />
+<item slot="2" text="hang clothes on clothes line ." />
+<item slot="3" text="go inside and wait ." />
+</script>
+<script id="32">
+<item slot="1" text="go out side ." />
+<item slot="2" text="hang clothes on clothes line ." />
+<item slot="3" text="go inside and wait ." />
+</script>
+<script id="33">
+<item slot="1" text="go out side ." />
+<item slot="2" text="hang clothes on clothes line ." />
+<item slot="3" text="go inside and wait ." />
+</script>
+<script id="34">
+<item slot="1" text="get wet clothes ." />
+<item slot="2" text="hang up clothes on clothes line ." />
+</script>
+<script id="35">
+<item slot="1" text="get wet clothes ." />
+<item slot="2" text="hang up clothes on clothes line ." />
+</script>
+<script id="36">
+<item slot="1" text="get wet clothes ." />
+<item slot="2" text="hang up clothes on clothes line ." />
+</script>
+<script id="37">
+<item slot="1" text="get wet clothes ." />
+<item slot="2" text="hang up clothes on clothes line ." />
+</script>
+<script id="38">
+<item slot="1" text="get wet clothes ." />
+<item slot="2" text="hang up clothes on clothes line ." />
+</script>
+<script id="39">
+<item slot="1" text="get wet clothes ." />
+<item slot="2" text="hang up clothes on clothes line ." />
+</script>
+<script id="40">
+<item slot="1" text="take wet clothes out of washer ." />
+<item slot="2" text="open dryer cover/door ." />
+<item slot="3" text="put wet clothes in ." />
+<item slot="4" text="pick up ones that fell on floor ." />
+<item slot="5" text="close dryer cover/door ." />
+<item slot="6" text="turn dial to prefered setting ." />
+<item slot="7" text="push start button ." />
+</script>
+<script id="41">
+<item slot="1" text="take wet clothes out of washer ." />
+<item slot="2" text="open dryer cover/door ." />
+<item slot="3" text="put wet clothes in ." />
+<item slot="4" text="pick up ones that fell on floor ." />
+<item slot="5" text="close dryer cover/door ." />
+<item slot="6" text="turn dial to prefered setting ." />
+<item slot="7" text="push start button ." />
+</script>
+<script id="42">
+<item slot="1" text="put wet clothes into dryer ." />
+<item slot="2" text="put in dryer cloth ." />
+</script>
+<script id="43">
+<item slot="1" text="put wet clothes in dryer ." />
+<item slot="2" text="turn on dryer ." />
+</script>
+</scripts>

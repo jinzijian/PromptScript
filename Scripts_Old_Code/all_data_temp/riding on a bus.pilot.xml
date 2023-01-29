@@ -1,0 +1,90 @@
+<scripts><script id="1" source="1"><item slot="1" original="Go to the bus station" ></item>
+<item slot="2" original="Purchase the ticket" ></item>
+<item slot="3" original="Board the bus" ></item>
+<item slot="4" original="Reach the destination" ></item>
+<item slot="5" original="Get down from the bus" ></item>
+</script><script id="2" source="1"><item slot="1" original="Go to the bus stop" ></item>
+<item slot="2" original="Wait for the bus" ></item>
+<item slot="3" original="Get on the bus" ></item>
+<item slot="4" original="Pay for the ride" ></item>
+<item slot="5" original="Choose a seat" ></item>
+<item slot="6" original="Watch for your destination" ></item>
+</script><script id="3" source="1"><item slot="1" original="Get a ticket for the bus ride" ></item>
+<item slot="2" original="Getting on the bus, paying the fare" ></item>
+<item slot="3" original="Sit down if possible" ></item>
+<item slot="4" original="Wait until the bus arrives at the destination" ></item>
+<item slot="5" original="Getting off the bus" ></item>
+</script><script id="4" source="1"><item slot="1" original="Stand at the bus stop" ></item>
+<item slot="2" original="Get on the bus" ></item>
+<item slot="3" original="Pay the fare" ></item>
+<item slot="4" original="Find an empty seat" ></item>
+<item slot="5" original="Sit down or stand if there isn't an empty seat" ></item>
+<item slot="6" original="Pull the cord when you want the bus to stop" ></item>
+<item slot="7" original="Get off the bus at your desired stop" ></item>
+</script><script id="5" source="1"><item slot="1" original="Locate bus stop" ></item>
+<item slot="2" original="Get on bus" ></item>
+<item slot="3" original="Pay bus fare by depositing change" ></item>
+<item slot="4" original="Find a seat" ></item>
+<item slot="5" original="Sit down" ></item>
+<item slot="6" original="Ride bus to destination" ></item>
+<item slot="7" original="Exit bus at destination" ></item>
+</script><script id="6" source="1"><item slot="1" original="Find out how much the bus ride costs, either online or by calling bus company" ></item>
+<item slot="2" original="Be sure you have exact change for the bus ride" ></item>
+<item slot="3" original="Enter bus" ></item>
+<item slot="4" original="Put exact change in money receiver" ></item>
+<item slot="5" original="Sit down" ></item>
+<item slot="6" original="Watch for your stop" ></item>
+<item slot="7" original="About one block away from your stop, pull the stop bell rope." ></item>
+<item slot="8" original="Wait until bus stops completely" ></item>
+<item slot="9" original="Exit bus" ></item>
+</script><script id="7" source="1"><item slot="1" original="Find out bus schedule" ></item>
+<item slot="2" original="Go to bus stop 5 minutes before bus arrives" ></item>
+<item slot="3" original="Board bus when it arrives " ></item>
+<item slot="4" original="Find a seat and sit " ></item>
+<item slot="5" original="Go to your bus stop of choice" ></item>
+<item slot="6" original="Exit bus" ></item>
+</script><script id="8" source="1"><item slot="1" original="Have the  knowledge about the   bus  schedule." ></item>
+<item slot="2" original="Reach the designated bus stop before the bus reaches there to avoid missing the bus." ></item>
+<item slot="3" original=" To pay the fare, you can either buy a bus pass or  pay each time you ride the bus." ></item>
+<item slot="4" original="Wait for the bus to come to a complete halt before boarding it." ></item>
+<item slot="5" original="Look for an available seat in the bus." ></item>
+<item slot="6" original="When you are near your destination, press the STOP button." ></item>
+<item slot="7" original="Watch your step when getting down from the bus." ></item>
+</script><script id="9" source="1"><item slot="1" original="Wait a bus stop" ></item>
+<item slot="2" original="Bus stops" ></item>
+<item slot="3" original="Driver opens door" ></item>
+<item slot="4" original="Step onto bus" ></item>
+<item slot="5" original="Scan bus pass" ></item>
+<item slot="6" original="Find empty seat" ></item>
+<item slot="7" original="Sit down" ></item>
+<item slot="8" original="Pull cord at stop" ></item>
+<item slot="9" original="Bus stops" ></item>
+<item slot="10" original="Get off bus " ></item>
+</script><script id="10" source="1"><item slot="1" original="walk to bus stop" ></item>
+<item slot="2" original="wait for bus arrival" ></item>
+<item slot="3" original="get money or buss pass" ></item>
+<item slot="4" original="climb stairs into bus" ></item>
+<item slot="5" original="pay money or swipe pass" ></item>
+<item slot="6" original="find seat or stank hold onto railing" ></item>
+<item slot="7" original="watch and listen for stop announcement" ></item>
+<item slot="8" original="pull signal for stop" ></item>
+<item slot="9" original="go to bus door" ></item>
+<item slot="10" original="climb down stairs and exit bus" ></item>
+</script><script id="11" source="1"><item slot="1" original="Wait at bus stop for bus." ></item>
+<item slot="2" original="Board bus." ></item>
+<item slot="3" original="Pay bus fare." ></item>
+<item slot="4" original="Find seat on bus and sit." ></item>
+<item slot="5" original="Wait for bus to reach destination." ></item>
+<item slot="6" original="Debark from bus." ></item>
+</script><script id="12" source="1"><item slot="1" original="Go to bus stop." ></item>
+<item slot="2" original="Wait." ></item>
+<item slot="3" original="Board bus when it arrives." ></item>
+<item slot="4" original="Pay bus fare." ></item>
+<item slot="5" original="Find empty seat." ></item>
+<item slot="6" original="Sit down." ></item>
+<item slot="7" original="Ring bell when bus approaches stop at destination." ></item>
+<item slot="8" original="Stand up." ></item>
+<item slot="9" original="Walk to back door." ></item>
+<item slot="10" original="Wait for bus to stop." ></item>
+<item slot="11" original="Exit bus." ></item>
+</script></scripts>

@@ -1,0 +1,212 @@
+<?xml version="1.0"?>
+<scripts>
+	<script id="1">
+		<item slot="1" text="go to vending machine ."/>
+		<item slot="2" text="choose product ."/>
+		<item slot="3" text="insert money into machine ."/>
+		<item slot="4" text="make selection by pressing appropriate buttons ."/>
+		<item slot="5" text="pick up product ."/>
+		<item slot="6" text="collect change if any ."/>
+	</script>
+	<script id="2">
+		<item slot="1" text="locate vending machine ."/>
+		<item slot="2" text="determine item to purchase ."/>
+		<item slot="3" text="locate necessary funds to purchase item ."/>
+		<item slot="4" text="insert funds into vending machine for desired item ."/>
+		<item slot="5" text="depress button indicating desired item ."/>
+		<item slot="6" text="pick up item ."/>
+	</script>
+	<script id="3">
+		<item slot="1" text="decide what you want to buy ."/>
+		<item slot="2" text="insert the right money ."/>
+		<item slot="3" text="press the button ."/>
+		<item slot="4" text="take out your item ."/>
+	</script>
+	<script id="4">
+		<item slot="1" text="aquire change ."/>
+		<item slot="2" text="internally choose product ."/>
+		<item slot="3" text="insert change ."/>
+		<item slot="4" text="enter product code ."/>
+		<item slot="5" text="retrieve product ."/>
+	</script>
+	<script id="5">
+		<item slot="1" text="locate coins ."/>
+		<item slot="2" text="determine desired product ."/>
+		<item slot="3" text="insert coins ."/>
+		<item slot="4" text="enter product code ."/>
+		<item slot="5" text="retrieve product ."/>
+	</script>
+	<script id="6">
+		<item slot="1" text="put money in ."/>
+		<item slot="2" text="make selection ."/>
+		<item slot="3" text="take change ."/>
+	</script>
+	<script id="7">
+		<item slot="1" text="place money in vending machine ."/>
+		<item slot="2" text="select item ."/>
+		<item slot="3" text="take item from machine ."/>
+		<item slot="4" text="collect change ."/>
+	</script>
+	<script id="8">
+		<item slot="1" text="putting in a dollar ."/>
+		<item slot="2" text="selecting what food/drink you want ."/>
+		<item slot="3" text="grabbing the item ."/>
+		<item slot="4" text="recieving your change ."/>
+	</script>
+	<script id="9">
+		<item slot="1" text="put money in vending machine ."/>
+		<item slot="2" text="select item to buy ."/>
+		<item slot="3" text="get item ."/>
+	</script>
+	<script id="10">
+		<item slot="1" text="identify vending machine ."/>
+		<item slot="2" text="identify desired product ."/>
+		<item slot="3" text="identify price of product ."/>
+		<item slot="4" text="place correct amount of money in machine ."/>
+		<item slot="5" text="choose product ."/>
+		<item slot="6" text="retrieve product from vending machine ."/>
+	</script>
+	<script id="11">
+		<item slot="1" text="insert coins ."/>
+		<item slot="2" text="make selection ."/>
+		<item slot="3" text="retreive selection ."/>
+	</script>
+	<script id="12">
+		<item slot="1" text="choose goods ."/>
+		<item slot="2" text="put in correct amount of money ."/>
+		<item slot="3" text="press button ."/>
+		<item slot="4" text="wait for goods to drop ."/>
+		<item slot="5" text="reach into flap ."/>
+		<item slot="6" text="take out goods ."/>
+	</script>
+	<script id="14">
+		<item slot="1" text="feel thirst ."/>
+		<item slot="2" text="look for money ."/>
+		<item slot="3" text="change paper money into coin ."/>
+		<item slot="4" text="find vending machine ."/>
+		<item slot="5" text="decide what you want ."/>
+		<item slot="6" text="put in money ."/>
+		<item slot="7" text="push button retrieve item bought ."/>
+	</script>
+	<script id="16">
+		<item slot="1" text="see how much item costs ."/>
+		<item slot="2" text="put correct money in slot ."/>
+		<item slot="3" text="select desired item ."/>
+		<item slot="4" text="get item from dispenser ."/>
+		<item slot="5" text="get your change ."/>
+	</script>
+	<script id="25">
+		<item slot="1" text="put coins into machine ."/>
+		<item slot="2" text="choose item ."/>
+		<item slot="3" text="push button ."/>
+		<item slot="4" text="remove item ."/>
+	</script>
+	<script id="26">
+		<item slot="1" text="put money into vending machine ."/>
+		<item slot="2" text="decide what you want ."/>
+		<item slot="3" text="select that item on the screen ."/>
+		<item slot="4" text="pick up your item ."/>
+		<item slot="5" text="take your change if any ."/>
+	</script>
+	<script id="27">
+		<item slot="1" text="insert correct amount of change ."/>
+		<item slot="2" text="select item ."/>
+		<item slot="3" text="push the button ."/>
+		<item slot="4" text="recieve item ."/>
+	</script>
+	<script id="28">
+		<item slot="1" text="put coins in slot ."/>
+		<item slot="2" text="select an item by pushing it s button ."/>
+		<item slot="3" text="listen for item to drop ."/>
+		<item slot="4" text="remove item from tray ."/>
+	</script>
+	<script id="29">
+		<item slot="1" text="get money ."/>
+		<item slot="2" text="go to a vending machine ."/>
+		<item slot="3" text="put in the money ."/>
+		<item slot="4" text="select a product ."/>
+	</script>
+	<script id="31">
+		<item slot="1" text="choose what you want ."/>
+		<item slot="2" text="look at code ."/>
+		<item slot="3" text="insert coins ."/>
+		<item slot="4" text="type in code ."/>
+	</script>
+	<script id="33">
+		<item slot="1" text="choose product ."/>
+		<item slot="2" text="insert coins ."/>
+		<item slot="3" text="select correct product code ."/>
+		<item slot="4" text="collect change ."/>
+	</script>
+	<script id="34">
+		<item slot="1" text="approach machine ."/>
+		<item slot="2" text="choose item ."/>
+		<item slot="3" text="count money ."/>
+		<item slot="4" text="insert money into machine ."/>
+		<item slot="5" text="obtain change (if necessary) ."/>
+		<item slot="6" text="obtain purchased item ."/>
+	</script>
+	<script id="35">
+		<item slot="1" text="put coins into machine ."/>
+		<item slot="2" text="press desired selection ."/>
+		<item slot="3" text="wait for product to drop ."/>
+		<item slot="4" text="open door and grab item ."/>
+	</script>
+	<script id="41">
+		<item slot="1" text="walk towards machine ."/>
+		<item slot="2" text="put money in ."/>
+		<item slot="3" text="press number ."/>
+		<item slot="4" text="buy machine ."/>
+	</script>
+	<script id="43">
+		<item slot="1" text="put change in machine ."/>
+		<item slot="2" text="select item you want ."/>
+	</script>
+	<script id="44">
+		<item slot="1" text="choose item ."/>
+		<item slot="2" text="insert change ."/>
+		<item slot="3" text="press selection button ."/>
+		<item slot="4" text="remove item ."/>
+		<item slot="5" text="take change ."/>
+	</script>
+	<script id="45">
+		<item slot="1" text="find machine ."/>
+		<item slot="2" text="find change ."/>
+		<item slot="3" text="decide on what item you want to puchase ."/>
+		<item slot="4" text="insert coins ."/>
+		<item slot="5" text="press selection ."/>
+		<item slot="6" text="watch item fall ."/>
+		<item slot="7" text="open slot to remove item  enjoy ."/>
+	</script>
+	<script id="46">
+		<item slot="1" text="choose product ."/>
+		<item slot="2" text="put in coin ."/>
+		<item slot="3" text="select product ."/>
+		<item slot="4" text="get product ."/>
+	</script>
+	<script id="47">
+		<item slot="1" text="take money from pocket ."/>
+		<item slot="2" text="place money in the machine ."/>
+		<item slot="3" text="choose the product you wish to have ."/>
+		<item slot="4" text="press the button for the product ."/>
+		<item slot="5" text="take the product from the machine ."/>
+		<item slot="6" text="consume the product ."/>
+	</script>
+	<script id="50">
+		<item slot="1" text="choose product ."/>
+		<item slot="2" text="insert money ."/>
+		<item slot="3" text="push button ."/>
+		<item slot="4" text="retrieve product ."/>
+	</script>
+	<script id="51">
+		<item slot="1" text="choose vendindg machine ."/>
+		<item slot="2" text="take out required money ."/>
+		<item slot="3" text="insert money into machine ."/>
+		<item slot="4" text="select object to be bought ."/>
+	</script>
+	<script id="57">
+		<item slot="1" text="take money ."/>
+		<item slot="2" text="put money in machine ."/>
+		<item slot="3" text="make selection ."/>
+	</script>
+</scripts>

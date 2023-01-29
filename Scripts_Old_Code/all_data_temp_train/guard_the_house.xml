@@ -1,0 +1,171 @@
+<scripts>
+<script id="1">
+<item slot="1" text="secure all exits ." />
+<item slot="2" text="secure yard ." />
+</script>
+<script id="2">
+<item slot="1" text="move to doors ." />
+<item slot="2" text="lock doors ." />
+<item slot="3" text="listen for alarm ." />
+</script>
+<script id="3">
+<item slot="1" text="listen for unusual sounds from outside the house ." />
+<item slot="2" text="look out of windows for unusual movements ." />
+</script>
+<script id="4">
+<item slot="1" text="watch all windows and doors ." />
+<item slot="2" text="ensure that no one gets into or out of the house that should not be entering or leaving ." />
+<item slot="3" text="take appropriate action if there is a problem ." />
+</script>
+<script id="5">
+<item slot="1" text="secure all doors ." />
+<item slot="2" text="secure all windows ." />
+<item slot="3" text="secure the perimeter of the house ." />
+<item slot="4" text="do not allow unrecognized persons on the property ." />
+<item slot="5" text="do not allow unrecognized animals on the property ." />
+<item slot="6" text="watch for any suspicious activity ." />
+</script>
+<script id="6">
+<item slot="1" text="watch over the house ." />
+</script>
+<script id="7">
+<item slot="1" text="watch front door ." />
+<item slot="2" text="watch windows ." />
+<item slot="3" text="listen for any signs of intruders ." />
+</script>
+<script id="8">
+<item slot="1" text="watch front door ." />
+<item slot="2" text="listen for intruders ." />
+</script>
+<script id="9">
+<item slot="1" text="looking for suspicious activity ." />
+<item slot="2" text="preventing unauthorized access to the house ." />
+</script>
+<script id="10">
+<item slot="1" text="lock windows ." />
+<item slot="2" text="lock doors ." />
+<item slot="3" text="patrol entrances ." />
+<item slot="4" text="check inhabitants ." />
+</script>
+<script id="11">
+<item slot="1" text="find confortable spot ." />
+<item slot="2" text="watch for unusual signs ." />
+</script>
+<script id="12">
+<item slot="1" text="detect all entries into house ." />
+<item slot="2" text="watch all entries into house ." />
+</script>
+<script id="13">
+<item slot="1" text="watch entries into house ." />
+<item slot="2" text="if there is noise in some part of house do a close inspection ." />
+</script>
+<script id="14">
+<item slot="1" text="identify house ." />
+<item slot="2" text="watch from good vantage point ." />
+<item slot="3" text="identify weapon ." />
+<item slot="4" text="use weapon to defend house ." />
+</script>
+<script id="15">
+<item slot="1" text="determine boundaries of the house ." />
+<item slot="2" text="stop unauthorized persons from crossing boundaries ." />
+</script>
+<script id="16">
+<item slot="1" text="buy a guard dog ." />
+<item slot="2" text="train it to attack intruders ." />
+<item slot="3" text="let the dog roam the house at night ." />
+</script>
+<script id="17">
+<item slot="1" text="hire a guard ." />
+<item slot="2" text="post the guard ." />
+</script>
+<script id="18">
+<item slot="1" text="stand where you have a good view ." />
+<item slot="2" text="observe everywhere around the house ." />
+</script>
+<script id="19">
+<item slot="1" text="lock the doors ." />
+<item slot="2" text="close the windows ." />
+<item slot="3" text="make sure some lights are on ." />
+<item slot="4" text="tell visitors to go away ." />
+<item slot="5" text="listen for unusual sounds ." />
+<item slot="6" text="bark if anyone comes up to the house ." />
+<item slot="7" text="unlock the door for the owner ." />
+</script>
+<script id="20">
+<item slot="1" text="be attentive ." />
+<item slot="2" text="be alert ." />
+<item slot="3" text="be equipped with weapons ." />
+<item slot="4" text="keep watch on strangers ." />
+<item slot="5" text="keep the door shut ." />
+</script>
+<script id="21">
+<item slot="1" text="roam around the house ." />
+<item slot="2" text="check if theres no suspicious person ." />
+</script>
+<script id="22">
+<item slot="1" text="always watch the house ." />
+<item slot="2" text="dont fall asleep ." />
+</script>
+<script id="23">
+<item slot="1" text="go outside the house ." />
+<item slot="2" text="walk around house ." />
+<item slot="3" text="watch for suspicious activity ." />
+</script>
+<script id="24">
+<item slot="1" text="close the doors ." />
+<item slot="2" text="lock the doors ." />
+<item slot="3" text="close the windows ." />
+<item slot="4" text="lock the windows ." />
+<item slot="5" text="look for intruders ." />
+<item slot="6" text="sound an alarm if intruders are seen ." />
+</script>
+<script id="25">
+<item slot="1" text="lock the doors and windows ." />
+<item slot="2" text="stay at the house ." />
+<item slot="3" text="observe the house ." />
+<item slot="4" text="call the police if there is an intrusion ." />
+</script>
+<script id="26">
+<item slot="1" text="get a dog ." />
+</script>
+<script id="27">
+<item slot="1" text="lock all the door ." />
+<item slot="2" text="stay alert for any suspicious activity ." />
+</script>
+<script id="28">
+<item slot="1" text="lock the windows ." />
+<item slot="2" text="lock the doors ." />
+</script>
+<script id="29">
+<item slot="1" text="walk around house ." />
+<item slot="2" text="look for intruders ." />
+</script>
+<script id="30">
+<item slot="1" text="put security cameras around the perimeter of the house ." />
+<item slot="2" text="monitor the video from the cameras ." />
+<item slot="3" text="stop all intruders ." />
+<item slot="4" text="have unknown visitors identify themselves ." />
+</script>
+<script id="31">
+<item slot="1" text="lock the doors ." />
+<item slot="2" text="set the alarm ." />
+<item slot="3" text="watch for prowlers ." />
+</script>
+<script id="32">
+<item slot="1" text="turn on security camera ." />
+</script>
+<script id="33">
+<item slot="1" text="grab gun ." />
+<item slot="2" text="survey all doors and windows and lock all ." />
+<item slot="3" text="patrol house ." />
+<item slot="4" text="turn on alarm system ." />
+</script>
+<script id="34">
+<item slot="1" text="lock the door ." />
+<item slot="2" text="shut the windows ." />
+</script>
+<script id="35">
+<item slot="1" text="lock the door ." />
+<item slot="2" text="shut the windows ." />
+</script>
+</scripts>

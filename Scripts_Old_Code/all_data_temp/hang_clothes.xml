@@ -1,0 +1,321 @@
+<scripts>
+<script id="1">
+<item slot="1" text="pick up ." />
+<item slot="2" text="place on hanger ." />
+</script>
+<script id="2">
+<item slot="1" text="find hangars for clothes ." />
+<item slot="2" text="put clothes onto hangars ." />
+<item slot="3" text="put hangars onto a rack in a closet ." />
+</script>
+<script id="3">
+<item slot="1" text="put a piece of clothing on a clothes hangar ." />
+<item slot="2" text="hang that hangar onto a rack in a closet ." />
+<item slot="3" text="repeat until all clothes are hung ." />
+</script>
+<script id="4">
+<item slot="1" text="spread clothes on a string to dry ." />
+</script>
+<script id="5">
+<item slot="1" text="put the clothes item on a hanger ." />
+<item slot="2" text="hang that piece of clothes in the closet ." />
+</script>
+<script id="6">
+<item slot="1" text="locate clothes ." />
+<item slot="2" text="find out how many hangers are needed ." />
+<item slot="3" text="locate hangers ." />
+<item slot="4" text="fetch hangers ." />
+<item slot="5" text="put clothes on hangers ." />
+<item slot="6" text="hang the hangers ." />
+</script>
+<script id="7">
+<item slot="1" text="find a hanger ." />
+<item slot="2" text="put the clothes on the hanger ." />
+<item slot="3" text="attach the hanger to some hook or bar ." />
+</script>
+<script id="8">
+<item slot="1" text="take the clothes ." />
+<item slot="2" text="take the hangers ." />
+<item slot="3" text="hang the clothes on the hangers ." />
+<item slot="4" text="hang the hangers on a rack ." />
+</script>
+<script id="9">
+<item slot="1" text="put clothes on hangers ." />
+<item slot="2" text="hang up hangers in closet ." />
+</script>
+<script id="10">
+<item slot="1" text="get out a bunch of hangers ." />
+<item slot="2" text="place each article of clothing on a hanger ." />
+<item slot="3" text="hang up each article in the closet ." />
+</script>
+<script id="11">
+<item slot="1" text="take the clothes ." />
+<item slot="2" text="take the hangers ." />
+<item slot="3" text="place the clothes on the hangers ." />
+<item slot="4" text="put the hangers on the rack ." />
+</script>
+<script id="12">
+<item slot="1" text="takes clothes from washing machines ." />
+<item slot="2" text="get basket of clothes pegs ." />
+<item slot="3" text="carry them to the clothes lines ." />
+<item slot="4" text="hang each item with a few pegs ." />
+<item slot="5" text="return basket of clothes pegs to the washing machine ." />
+</script>
+<script id="13">
+<item slot="1" text="take a piece of clothing out of the laundry basket ." />
+<item slot="2" text="take two clothespins ." />
+<item slot="3" text="fasten the piece of clothing on the clothesline with the clothespins ." />
+<item slot="4" text="repeat steps 1-3 until the laundry basket is empty ." />
+</script>
+<script id="14">
+<item slot="1" text="pick up a clothing item ." />
+<item slot="2" text="place item onto a clothes hangar ." />
+<item slot="3" text="hang hangar on a closet rack ." />
+<item slot="4" text="repeat until all clothes are hung ." />
+</script>
+<script id="15">
+<item slot="1" text="pick up the clothes ." />
+<item slot="2" text="put  them on hangers ." />
+<item slot="3" text="put them in the wardrobe ." />
+</script>
+<script id="16">
+<item slot="1" text="gather up the clothes ." />
+<item slot="2" text="put clothes onto hangers ." />
+<item slot="3" text="hold the clothes by the hangers ." />
+<item slot="4" text="place the hanged clothes on a clothing rod in a closet ." />
+</script>
+<script id="17">
+<item slot="1" text="locate clothing hangers ." />
+<item slot="2" text="place clothes on clothing hangers ." />
+<item slot="3" text="place the clothing hangers in a closet ." />
+</script>
+<script id="18">
+<item slot="1" text="aquire hanger ." />
+<item slot="2" text="aquire clothes ." />
+<item slot="3" text="manuever clothes onto hanger ." />
+</script>
+<script id="19">
+<item slot="1" text="get the clothes to be hanged ." />
+<item slot="2" text="open closet door ." />
+<item slot="3" text="locate unused hanger ." />
+<item slot="4" text="place clothes tidily on hanger ." />
+<item slot="5" text="place hung clothes back in closet ." />
+</script>
+<script id="20">
+<item slot="1" text="picking up clothing article ." />
+<item slot="2" text="go to closet ." />
+<item slot="3" text="get hanger ." />
+<item slot="4" text="slip clothing onto hanger ." />
+<item slot="5" text="place hanger with clothing back into closet ." />
+</script>
+<script id="21">
+<item slot="1" text="bring clothes ." />
+<item slot="2" text="go to clothesline ." />
+<item slot="3" text="get clothespins ." />
+<item slot="4" text="put clothes on clothesline ." />
+</script>
+<script id="22">
+<item slot="1" text="get hanger ." />
+<item slot="2" text="put clothing on hanger ." />
+<item slot="3" text="put hanger on hanging rod ." />
+</script>
+<script id="23">
+<item slot="1" text="open the closet ." />
+<item slot="2" text="get some hangers ." />
+<item slot="3" text="put the clothing on the hangers ." />
+<item slot="4" text="put the hangers back in the closet ." />
+</script>
+<script id="24">
+<item slot="1" text="place the clothing on hangers ." />
+<item slot="2" text="hang the hangers on the rack inside the closet ." />
+</script>
+<script id="25">
+<item slot="1" text="get clothes ." />
+<item slot="2" text="get hanger ." />
+<item slot="3" text="put clothes on hanger ." />
+</script>
+<script id="26">
+<item slot="1" text="get a hanger ." />
+<item slot="2" text="get article of clothing ." />
+<item slot="3" text="place clothing on hanger ." />
+</script>
+<script id="27">
+<item slot="1" text="get a hanger ." />
+<item slot="2" text="get article of clothing ." />
+<item slot="3" text="place clothing on hanger ." />
+</script>
+<script id="28">
+<item slot="1" text="pick up hanger ." />
+<item slot="2" text="pick up clothing ." />
+<item slot="3" text="place clothing on hanger ." />
+<item slot="4" text="place hanger on closet rod ." />
+</script>
+<script id="29">
+<item slot="1" text="place clothing on the hanger ." />
+</script>
+<script id="30">
+<item slot="1" text="remove hanger from closet ." />
+<item slot="2" text="put clothing item on hanger ." />
+<item slot="3" text="hang in closet ." />
+</script>
+<script id="31">
+<item slot="1" text="goto clothes ." />
+<item slot="2" text="put clothes on hanger ." />
+<item slot="3" text="hang clothes ." />
+</script>
+<script id="32">
+<item slot="1" text="pickup clothing item ." />
+<item slot="2" text="shake out wrinkles ." />
+<item slot="3" text="get a hanger ." />
+<item slot="4" text="put hanger into neck of top ." />
+<item slot="5" text="hang in closet ." />
+</script>
+<script id="33">
+<item slot="1" text="pickup clothing item ." />
+<item slot="2" text="shake out wrinkles ." />
+<item slot="3" text="get a hanger ." />
+<item slot="4" text="put hanger into neck of top ." />
+<item slot="5" text="hang in closet ." />
+</script>
+<script id="34">
+<item slot="1" text="pickup clothing item ." />
+<item slot="2" text="shake out wrinkles ." />
+<item slot="3" text="get a hanger ." />
+<item slot="4" text="put hanger into neck of top ." />
+<item slot="5" text="hang in closet ." />
+</script>
+<script id="35">
+<item slot="1" text="pickup clothing item ." />
+<item slot="2" text="shake out wrinkles ." />
+<item slot="3" text="get a hanger ." />
+<item slot="4" text="put hanger into neck of top ." />
+<item slot="5" text="hang in closet ." />
+</script>
+<script id="36">
+<item slot="1" text="sort clothes ." />
+<item slot="2" text="wash in washing machine ." />
+<item slot="3" text="run an extra rinse cycle ." />
+</script>
+<script id="37">
+<item slot="1" text="sort clothes ." />
+<item slot="2" text="wash in washing machine ." />
+<item slot="3" text="run an extra rinse cycle ." />
+<item slot="4" text="take clothes out of machine ." />
+<item slot="5" text="place in laundry basket ." />
+<item slot="6" text="insert hanger ." />
+<item slot="7" text="hang on drying rack ." />
+</script>
+<script id="38">
+<item slot="1" text="hang clothes on hanger ." />
+</script>
+<script id="39">
+<item slot="1" text="select clothes ." />
+<item slot="2" text="place clothes on hanging line ." />
+<item slot="3" text="place clothes pins onto line ." />
+</script>
+<script id="40">
+<item slot="1" text="take clothes out of washer ." />
+<item slot="2" text="put in laundry basket ." />
+</script>
+<script id="41">
+<item slot="1" text="take clothes out of washer ." />
+<item slot="2" text="put in laundry basket ." />
+<item slot="3" text="set up drying rack ." />
+<item slot="4" text="place clothes on ract ." />
+</script>
+<script id="42">
+<item slot="1" text="take clothes out of washer ." />
+<item slot="2" text="put in laundry basket ." />
+<item slot="3" text="set up drying rack ." />
+<item slot="4" text="place clothes on rack ." />
+</script>
+<script id="43">
+<item slot="1" text="pick up clothes off the floor ." />
+<item slot="2" text="separate clean from dirty ." />
+<item slot="3" text="place dirty clothes in hamper ." />
+<item slot="4" text="walk over to closet ." />
+<item slot="5" text="put clean clothes on hangers ." />
+<item slot="6" text="hang up clothes ." />
+<item slot="7" text="close closet door ." />
+</script>
+<script id="44">
+<item slot="1" text="separate clean from dirty ." />
+<item slot="2" text="place clean clothes on hangers ." />
+<item slot="3" text="hang the clothes in the closet ." />
+</script>
+<script id="45">
+<item slot="1" text="locate area to hang clothes ." />
+<item slot="2" text="pin up clothes on clothesline ." />
+</script>
+<script id="46">
+<item slot="1" text="take clothes out of dryer ." />
+<item slot="2" text="put on hangers ." />
+<item slot="3" text="hang on bar ." />
+</script>
+<script id="47">
+<item slot="1" text="take clothes out of dryer ." />
+<item slot="2" text="put on hangers ." />
+<item slot="3" text="hang on bar ." />
+</script>
+<script id="48">
+<item slot="1" text="hook up the clothes line ." />
+<item slot="2" text="place clothes on the clothes line ." />
+</script>
+<script id="49">
+<item slot="1" text="hook up the clothes line ." />
+<item slot="2" text="place clothes on the clothes line ." />
+</script>
+<script id="50">
+<item slot="1" text="hook up the clothes line ." />
+<item slot="2" text="place clothes on the clothes line ." />
+</script>
+<script id="51">
+<item slot="1" text="hook up the clothes line ." />
+<item slot="2" text="place clothes on the clothes line ." />
+</script>
+<script id="52">
+<item slot="1" text="wash clothes ." />
+<item slot="2" text="put clothes in basket ." />
+<item slot="3" text="get clothespins ." />
+<item slot="4" text="drape clothes over line ." />
+<item slot="5" text="pin the clothes to the line using the clothespins ." />
+</script>
+<script id="53">
+<item slot="1" text="wash clothes ." />
+<item slot="2" text="put clothes in basket ." />
+<item slot="3" text="get clothespins ." />
+<item slot="4" text="drape clothes over line ." />
+<item slot="5" text="pin the clothes to the line using the clothespins ." />
+</script>
+<script id="54">
+<item slot="1" text="wash clothes ." />
+<item slot="2" text="put clothes in basket ." />
+<item slot="3" text="get clothespins ." />
+<item slot="4" text="drape clothes over line ." />
+<item slot="5" text="pin the clothes to the line using the clothespins ." />
+</script>
+<script id="55">
+<item slot="1" text="wash clothes ." />
+<item slot="2" text="put clothes in basket ." />
+<item slot="3" text="get clothespins ." />
+<item slot="4" text="drape clothes over line ." />
+<item slot="5" text="pin the clothes to the line using the clothespins ." />
+</script>
+<script id="56">
+<item slot="1" text="wash clothes ." />
+<item slot="2" text="put clothes in basket ." />
+<item slot="3" text="get clothespins ." />
+<item slot="4" text="drape clothes over line ." />
+<item slot="5" text="pin the clothes to the line using the clothespins ." />
+</script>
+<script id="57">
+<item slot="1" text="get clothespins ." />
+<item slot="2" text="drape clothes over line ." />
+<item slot="3" text="attach clothespins to clothes to hold in place ." />
+</script>
+<script id="58">
+<item slot="1" text="get clothespins ." />
+<item slot="2" text="drape clothes over line ." />
+<item slot="3" text="attach clothespins to clothes to hold in place ." />
+</script>
+</scripts>

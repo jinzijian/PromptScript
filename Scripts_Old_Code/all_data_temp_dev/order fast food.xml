@@ -1,0 +1,223 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<scripts>
+<script id="1">
+<item slot="1" text="Walk into the reasturant" />
+<item slot="2" text="Wait in line to order my food" />
+<item slot="3" text="order my food" />
+<item slot="4" text="Pay for the food" />
+<item slot="5" text="Keep my receipt" />
+<item slot="6" text="Wait for my order" />
+<item slot="7" text="Get my order" />
+<item slot="8" text="Seat at a table" />
+<item slot="9" text="eat" />
+<!-- Corrections:
+	may -> my
+	receip -> receipt
+-->
+</script>
+<script id="2">
+<item slot="1" text="go to ordering counter" />
+<item slot="2" text="decide what to eat" />
+<item slot="3" text="place order" />
+<item slot="4" text="pay for order" />
+<item slot="5" text="take a number" />
+<item slot="6" text="collect utensils" />
+<item slot="7" text="wait for food" />
+<item slot="8" text="pick up food when ready" />
+<item slot="9" text="sit down at table" />
+<item slot="10" text="eat food" />
+<item slot="11" text="put away trays and trash" />
+<!-- Corrections:
+-->
+</script>
+<script id="3">
+<item slot="1" text="I decide what i want" />
+<item slot="2" text="I order it" />
+<item slot="3" text="make payment" />
+<item slot="4" text="wait for food" />
+<item slot="5" text="eat the food" />
+<item slot="6" text="leave" />
+<!-- Corrections:
+-->
+</script>
+<script id="4">
+<item slot="1" text="place an order" />
+<item slot="2" text="pay for the food and drinks" />
+<item slot="3" text="expect order" />
+<item slot="4" text="get napkins and condiments" />
+<item slot="5" text="throw away the containers" />
+<item slot="6" text="leave store" />
+<!-- Corrections:
+	food/drinks -> food and drinks
+	except -> expect
+-->
+</script>
+<script id="5">
+<item slot="1" text="Park car" />
+<item slot="2" text="go inside" />
+<item slot="3" text="order items from wall menu" />
+<item slot="4" text="pay for food" />
+<item slot="5" text="wait" />
+<item slot="6" text="get food" />
+<item slot="7" text="leave" />
+<item slot="8" text="eat in the car" />
+<!-- Corrections:
+	oder -> order
+-->
+</script>
+<script id="6">
+<item slot="1" text="walk into restaurant" />
+<item slot="2" text="find the end of the line" />
+<item slot="3" text="stand in line" />
+<item slot="4" text="look at menu board" />
+<item slot="5" text="decide on food and drink" />
+<item slot="6" text="tell cashier your order" />
+<item slot="7" text="listen to cashier repeat order" />
+<item slot="8" text="listen for total price" />
+<item slot="9" text="swipe credit card in scanner" />
+<item slot="10" text="put up credit card" />
+<item slot="11" text="take receipt" />
+<item slot="12" text="look at order number" />
+<item slot="13" text="take your cup" />
+<item slot="14" text="stand off to the side" />
+<item slot="15" text="wait for number to be called" />
+<item slot="16" text="get your drink" />
+<!-- Corrections:
+	food/drink -> food and drink
+-->
+</script>
+<script id="7">
+<item slot="1" text="look at menu" />
+<item slot="2" text="decide what you want" />
+<item slot="3" text="order at counter" />
+<item slot="4" text="pay at counter" />
+<item slot="5" text="receive food at counter" />
+<item slot="6" text="take food to table" />
+<item slot="7" text="eat food" />
+<!-- Corrections:
+-->
+</script>
+<script id="8">
+<item slot="1" text="enter restaurant" />
+<item slot="2" text="go to counter" />
+<item slot="3" text="make selection" />
+<item slot="4" text="place order" />
+<item slot="5" text="pay for food" />
+<item slot="6" text="pick up order" />
+<item slot="7" text="pick up condiments" />
+<item slot="8" text="go to table" />
+<item slot="9" text="consume food" />
+<item slot="10" text="clear tray" />
+<!-- Corrections:
+-->
+</script>
+<script id="10">
+<item slot="1" text="look at menu" />
+<item slot="2" text="go to cashier" />
+<item slot="3" text="order food" />
+<item slot="4" text="wait for food to be ready" />
+<item slot="5" text="take food to table" />
+<item slot="6" text="eat food" />
+<!-- Corrections:
+-->
+</script>
+<script id="11">
+<item slot="1" text="wait in line" />
+<item slot="2" text="order food" />
+<item slot="3" text="pay for food" />
+<item slot="4" text="wait" />
+<item slot="5" text="recieve food" />
+<item slot="6" text="sit down" />
+<item slot="7" text="eat food" />
+<!-- Corrections:
+-->
+</script>
+<script id="12">
+<item slot="1" text="Stand in line" />
+<item slot="2" text="decide what you want" />
+<item slot="3" text="order food" />
+<item slot="4" text="pay" />
+<item slot="5" text="receive food" />
+<item slot="6" text="select a place to sit" />
+<item slot="7" text="eat" />
+<item slot="8" text="take trash to receptacle" />
+<item slot="9" text="leave" />
+<!-- Corrections:
+	receptical -> receptacle
+-->
+</script>
+<script id="13">
+<item slot="1" text="get in line" />
+<item slot="2" text="look at menu" />
+<item slot="3" text="look at prices" />
+<item slot="4" text="count change" />
+<item slot="5" text="order food" />
+<item slot="6" text="get condiments" />
+<item slot="7" text="take food tray to vacant table" />
+<item slot="8" text="eat" />
+<item slot="9" text="dispose of garbage" />
+<item slot="10" text="place tray in stack" />
+<item slot="11" text="leave" />
+<!-- Corrections:
+-->
+</script>
+<script id="14">
+<item slot="1" text="go to restaurant" />
+<item slot="2" text="proceed to front counter" />
+<item slot="3" text="examine menu board" />
+<item slot="4" text="tell cashier your order" />
+<item slot="5" text="pay for order" />
+<item slot="6" text="wait for order" />
+<item slot="7" text="receive tray with order" />
+<item slot="8" text="dispense soda into cup" />
+<item slot="9" text="find table" />
+<item slot="10" text="eat meal" />
+<item slot="11" text="dispose of trash" />
+<item slot="12" text="return tray" />
+<!-- Corrections:
+-->
+</script>
+<script id="15">
+<item slot="1" text="walk up to the counter" />
+<item slot="2" text="look at the menu" />
+<item slot="3" text="decide on what to order" />
+<item slot="4" text="give order to the employee" />
+<item slot="5" text="pay for order" />
+<item slot="6" text="wait for order to be done" />
+<item slot="7" text="Confirm order" />
+<item slot="8" text="leave"/>
+<!-- Corrections:
+     separated confirm + leave
+-->
+</script>
+
+<!-- Corrections:
+     #16 deleted
+-->
+
+
+<!-- Corrections:
+     #19 deleted
+	comment: drumstick is the name of icecream
+-->
+
+
+<!-- Corrections:
+#20 deleted
+	retaurant -> restaurant
+	claen -> clean
+-->
+
+<script id="22">
+<item slot="1" text="walk to the counter" />
+<item slot="2" text="place an order" />
+<item slot="3" text="pay the bill" />
+<item slot="4" text="wait for the ordered food" />
+<item slot="5" text="get the food" />
+<item slot="6" text="move to a table" />
+<item slot="7" text="eat food" />
+<item slot="8" text="exit the place" />
+<!-- Corrections:
+-->
+</script>
+</scripts>

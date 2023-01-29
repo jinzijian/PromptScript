@@ -1,0 +1,315 @@
+<scripts>
+<script id="1">
+<item slot="1" text="pick up a camera ." />
+<item slot="2" text="turn on the camera ." />
+<item slot="3" text="wind the camera ." />
+<item slot="4" text="aim the camera ." />
+<item slot="5" text="focus the camera ." />
+<item slot="6" text="press the shutter button ." />
+<item slot="7" text="turn off the camera ." />
+</script>
+<script id="2">
+<item slot="1" text="get a camera ." />
+<item slot="2" text="find a scene or subject ." />
+<item slot="3" text="frame the scene in the camera s viewfinder ." />
+<item slot="4" text="press the shutter button to take a photograph ." />
+</script>
+<script id="3">
+<item slot="1" text="find a camera ." />
+<item slot="2" text="point camera at a scene ." />
+<item slot="3" text="press the camera s shutter button ." />
+</script>
+<script id="4">
+<item slot="1" text="find something to photograph ." />
+<item slot="2" text="locate a camera ." />
+<item slot="3" text="locate film ." />
+<item slot="4" text="load the film into the camera ." />
+<item slot="5" text="point the camera at the item to photograph ." />
+<item slot="6" text="depress the shutter button on the camera shortly ." />
+</script>
+<script id="5">
+<item slot="1" text="see subject through camera ." />
+<item slot="2" text="click the button ." />
+</script>
+<script id="6">
+<item slot="1" text="pick up the camera ." />
+<item slot="2" text="move the camera so that the lens faces what should be in the picture ." />
+<item slot="3" text="make sure the object desired to be in the picture is in focus ." />
+<item slot="4" text="press shutter release button ." />
+</script>
+<script id="7">
+<item slot="1" text="get camera ." />
+<item slot="2" text="position camera to capture desired image ." />
+<item slot="3" text="press button ." />
+</script>
+<script id="8">
+<item slot="1" text="place a camera to your eye ." />
+<item slot="2" text="frame the scene you wish to photograph ." />
+<item slot="3" text="press the shutter button ." />
+</script>
+<script id="9">
+<item slot="1" text="turn on camera ." />
+<item slot="2" text="remove lens camera ." />
+<item slot="3" text="aim the camera at the object you wish to take a picture of ." />
+<item slot="4" text="press button ." />
+</script>
+<script id="10">
+<item slot="1" text="get the camera ." />
+<item slot="2" text="point the camera ." />
+<item slot="3" text="select the camera settings ." />
+<item slot="4" text="press the shutter button ." />
+</script>
+<script id="11">
+<item slot="1" text="turn on the camera ." />
+<item slot="2" text="focus on the thing you want to take a photo with ." />
+<item slot="3" text="press the shutter ." />
+</script>
+<script id="12">
+<item slot="1" text="turn on camera ." />
+<item slot="2" text="looking through viewfinder position camera ." />
+<item slot="3" text="press button ." />
+</script>
+<script id="13">
+<item slot="1" text="fetch camera ." />
+<item slot="2" text="turn camera on ." />
+<item slot="3" text="look through viewfinder so that desired object is in view ." />
+<item slot="4" text="focus camera if needed ." />
+<item slot="5" text="press button to take picture ." />
+</script>
+<script id="14">
+<item slot="1" text="choose scene ." />
+<item slot="2" text="turn camera on ." />
+<item slot="3" text="point camera at scene ." />
+<item slot="4" text="adjust parameters ." />
+<item slot="5" text="click button to take photo ." />
+</script>
+<script id="15">
+<item slot="1" text="get camera ." />
+<item slot="2" text="turn on camera ." />
+<item slot="3" text="looking through viewfinder find the desired object to photograph ." />
+<item slot="4" text="press button to take photograph ." />
+</script>
+<script id="16">
+<item slot="1" text="locate a camera ." />
+<item slot="2" text="locate an item to photograph ." />
+<item slot="3" text="aim the camera at the item ." />
+<item slot="4" text="snap the shutter on the camera ." />
+<item slot="5" text="develop the film from the camera ." />
+</script>
+<script id="17">
+<item slot="1" text="get camera ." />
+<item slot="2" text="turn camera on ." />
+<item slot="3" text="point camera at desired scene ." />
+<item slot="4" text="adjust settings ." />
+<item slot="5" text="push picturetaking button ." />
+</script>
+<script id="18">
+<item slot="1" text="pick up the camera ." />
+<item slot="2" text="make sure there is film in the camera ." />
+<item slot="3" text="focus the camera ." />
+<item slot="4" text="press the button ." />
+</script>
+<script id="19">
+<item slot="1" text="get a camera ." />
+<item slot="2" text="locate object to be photographed ." />
+<item slot="3" text="ensure object is in view of camera ." />
+<item slot="4" text="press photo button on camera ." />
+</script>
+<script id="20">
+<item slot="1" text="locate scene ." />
+<item slot="2" text="prepare camera ." />
+<item slot="3" text="point camera at scene ." />
+<item slot="4" text="adjust camera for distance and light ." />
+<item slot="5" text="press button on camera ." />
+</script>
+<script id="21">
+<item slot="1" text="find the camara ." />
+<item slot="2" text="load the film ." />
+<item slot="3" text="line up the shot to be taken ." />
+<item slot="4" text="focus the camara ." />
+<item slot="5" text="tell people to smile ." />
+<item slot="6" text="take a picture ." />
+</script>
+<script id="22">
+<item slot="1" text="determine the subject ." />
+<item slot="2" text="take the camara ." />
+<item slot="3" text="line up the subject in the camara s viewfinder ." />
+<item slot="4" text="push the button to take a picture ." />
+<item slot="5" text="put the camara away ." />
+</script>
+<script id="23">
+<item slot="1" text="obtain camera ." />
+<item slot="2" text="turn on camera ." />
+<item slot="3" text="look through viewfinder ." />
+<item slot="4" text="aim at object to be photographed ." />
+<item slot="5" text="press shutter button ." />
+</script>
+<script id="24">
+<item slot="1" text="aim camera ." />
+<item slot="2" text="find target in viewfinder ." />
+<item slot="3" text="press button ." />
+</script>
+<script id="25">
+<item slot="1" text="choose a subject ." />
+<item slot="2" text="aim camera at subject ." />
+<item slot="3" text="push shutter button ." />
+</script>
+<script id="26">
+<item slot="1" text="focus an object ." />
+<item slot="2" text="take photograph ." />
+</script>
+<script id="27">
+<item slot="1" text="operate the button/switch/etc  on the camara that takes a photo ." />
+</script>
+<script id="28">
+<item slot="1" text="take camera ." />
+<item slot="2" text="aim camera ." />
+<item slot="3" text="say cheese ." />
+<item slot="4" text="click shudder ." />
+<item slot="5" text="advance film ." />
+</script>
+<script id="29">
+<item slot="1" text="take out camera ." />
+<item slot="2" text="remove lens cap ." />
+<item slot="3" text="look through viewfinder ." />
+<item slot="4" text="point lens towards ." />
+</script>
+<script id="30">
+<item slot="1" text="take out camera ." />
+<item slot="2" text="remove lens cap ." />
+<item slot="3" text="look through viewfinder ." />
+<item slot="4" text="point lens towards object to be photographed while still looking through viewfinder ." />
+<item slot="5" text="press shutterbutton ." />
+</script>
+<script id="31">
+<item slot="1" text="turn on the camera ." />
+<item slot="2" text="remove lens cap ." />
+<item slot="3" text="aim camera at subject ." />
+<item slot="4" text="press the button ." />
+</script>
+<script id="32">
+<item slot="1" text="take ." />
+</script>
+<script id="33">
+<item slot="1" text="pose the subject ." />
+<item slot="2" text="aim the camera ." />
+<item slot="3" text="click the button ." />
+</script>
+<script id="34">
+<item slot="1" text="turn on camera ." />
+<item slot="2" text="look through viewfinder ." />
+<item slot="3" text="adjust picture until clear ." />
+<item slot="4" text="push capture button ." />
+</script>
+<script id="35">
+<item slot="1" text="turn on camera ." />
+<item slot="2" text="look through viewfinder ." />
+<item slot="3" text="adjust picture until clear ." />
+<item slot="4" text="push capture button ." />
+</script>
+<script id="36">
+<item slot="1" text="find a camera ." />
+<item slot="2" text="locate the on button ." />
+<item slot="3" text="press the button to turn on camera ." />
+<item slot="4" text="look through the lens ." />
+<item slot="5" text="find what you will take a picture of and aim ." />
+<item slot="6" text="find the button to take a picture ." />
+<item slot="7" text="press the button ." />
+</script>
+<script id="37">
+<item slot="1" text="find a camera ." />
+<item slot="2" text="locate the on button ." />
+<item slot="3" text="press the button to turn on camera ." />
+<item slot="4" text="look through the lens ." />
+<item slot="5" text="find what you will take a picture of and aim ." />
+<item slot="6" text="find the button to take a picture ." />
+<item slot="7" text="press the button ." />
+</script>
+<script id="38">
+<item slot="1" text="get camera ." />
+<item slot="2" text="turn camera on ." />
+<item slot="3" text="view subject through lens ." />
+<item slot="4" text="press picture button ." />
+</script>
+<script id="39">
+<item slot="1" text="get camera ." />
+<item slot="2" text="turn camera on ." />
+<item slot="3" text="view subject through lens ." />
+<item slot="4" text="press picture button ." />
+</script>
+<script id="40">
+<item slot="1" text="get camera ." />
+<item slot="2" text="turn camera on ." />
+<item slot="3" text="view subject through lens ." />
+<item slot="4" text="press picture button ." />
+</script>
+<script id="41">
+<item slot="1" text="ask them to pose ." />
+<item slot="2" text="hold the camera steady ." />
+<item slot="3" text="look into the camera ." />
+<item slot="4" text="see their faces ." />
+<item slot="5" text="shoot ." />
+</script>
+<script id="42">
+<item slot="1" text="ask them to pose ." />
+<item slot="2" text="hold the camera steady ." />
+<item slot="3" text="look into the camera ." />
+<item slot="4" text="see their faces ." />
+<item slot="5" text="shoot ." />
+</script>
+<script id="43">
+<item slot="1" text="find subject to take picture of ." />
+<item slot="2" text="turn on camera ." />
+<item slot="3" text="adjust zoom flash ." />
+<item slot="4" text="take picture ." />
+<item slot="5" text="review ." />
+<item slot="6" text="take another to ensure ." />
+<item slot="7" text="turn off camera ." />
+</script>
+<script id="44">
+<item slot="1" text="find camera ." />
+<item slot="2" text="aim at object ." />
+<item slot="3" text="hit button ." />
+</script>
+<script id="45">
+<item slot="1" text="find camera ." />
+<item slot="2" text="aim at object ." />
+<item slot="3" text="hit button ." />
+</script>
+<script id="46">
+<item slot="1" text="get camera ." />
+<item slot="2" text="turn camera on ." />
+<item slot="3" text="look through lens ." />
+<item slot="4" text="press the picture button ." />
+</script>
+<script id="47">
+<item slot="1" text="get camera ." />
+<item slot="2" text="turn camera on ." />
+<item slot="3" text="look through lens ." />
+<item slot="4" text="press the picture button ." />
+</script>
+<script id="48">
+<item slot="1" text="get camera ." />
+<item slot="2" text="turn camera on ." />
+<item slot="3" text="look through lens ." />
+<item slot="4" text="press the picture button ." />
+</script>
+<script id="49">
+<item slot="1" text="get camera ." />
+<item slot="2" text="take lenscap off ." />
+<item slot="3" text="turn flash on ." />
+<item slot="4" text="snap picture ." />
+</script>
+<script id="50">
+<item slot="1" text="get camera ." />
+<item slot="2" text="take lenscap off ." />
+<item slot="3" text="turn flash on ." />
+<item slot="4" text="snap picture ." />
+</script>
+<script id="51">
+<item slot="1" text="get camera ." />
+<item slot="2" text="take lenscap off ." />
+<item slot="3" text="turn flash on ." />
+<item slot="4" text="snap picture ." />
+</script>
+</scripts>

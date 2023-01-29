@@ -1,0 +1,258 @@
+<scripts>
+<script id="1">
+<item slot="1" text="take the hot dog from the freezer ." />
+<item slot="2" text="defrost the hot dog ." />
+<item slot="3" text="put the hot dog in the oven ." />
+<item slot="4" text="wait for some time ." />
+<item slot="5" text="take out the hot dog ." />
+<item slot="6" text="serve the hot dog with bread ." />
+<item slot="7" text="add catchup on the top ." />
+</script>
+<script id="2">
+<item slot="1" text="find hot dog ." />
+<item slot="2" text="boil water ." />
+<item slot="3" text="place hot dog in boiling water ." />
+<item slot="4" text="wait for some time ." />
+</script>
+<script id="3">
+<item slot="1" text="get hot-dog ." />
+<item slot="2" text="grill hot-dog ." />
+<item slot="3" text="put hot-dog inside bun ." />
+<item slot="4" text="pour mustard pickles onions inside bun ." />
+<item slot="5" text="serve hot-dog ." />
+</script>
+<script id="4">
+<item slot="1" text="grill hotdog ." />
+<item slot="2" text="warm up bun ." />
+<item slot="3" text="put hot dog on bun ." />
+<item slot="4" text="add mustard ketchup pickles ." />
+</script>
+<script id="5">
+<item slot="1" text="place hot-dog on grill ." />
+<item slot="2" text="wait for hot-dog to cook ." />
+<item slot="3" text="remove hot-dog ." />
+<item slot="4" text="place hot-dog on bun ." />
+<item slot="5" text="add mustard and ketchup ." />
+</script>
+<script id="6">
+<item slot="1" text="locate a hot dog ." />
+<item slot="2" text="cook the hot dog according to a recipe ." />
+<item slot="3" text="locate a bun ." />
+<item slot="4" text="placed the cooked hot dog on a bun ." />
+<item slot="5" text="place desired condiments on the hot dog in the bun ." />
+</script>
+<script id="7">
+<item slot="1" text="locate a hot dog ." />
+<item slot="2" text="cook the hot dog according to a recipe ." />
+<item slot="3" text="locate a bun ." />
+<item slot="4" text="place the hot dog on the bun ." />
+<item slot="5" text="add desired condiments to the hot dog in the bun ." />
+</script>
+<script id="8">
+<item slot="1" text="get a bread roll ." />
+<item slot="2" text="get a sausage ." />
+<item slot="3" text="cook the sausage ." />
+<item slot="4" text="put the sausage in the roll ." />
+<item slot="5" text="pour on mustard and tomato sauce ." />
+</script>
+<script id="9">
+<item slot="1" text="go to store ." />
+<item slot="2" text="buy hot dogs ." />
+<item slot="3" text="come home ." />
+<item slot="4" text="put hot dogs in frying pan ." />
+<item slot="5" text="place frying pan on heater burner ." />
+<item slot="6" text="cook for 3 minutes ." />
+<item slot="7" text="turn hot dogs over and cook 2 more minutes ." />
+</script>
+<script id="10">
+<item slot="1" text="identify hot dog ." />
+<item slot="2" text="remove hot dog from packaging ." />
+<item slot="3" text="identify pot ." />
+<item slot="4" text="fill pot with water ." />
+<item slot="5" text="heat water on stove ." />
+<item slot="6" text="place hot dog in hot water ." />
+<item slot="7" text="heat hot dog ." />
+</script>
+<script id="11">
+<item slot="1" text="open hot dog package ." />
+<item slot="2" text="place hot dog in pan ." />
+<item slot="3" text="heat pan ." />
+<item slot="4" text="cook hot dog until heated ." />
+<item slot="5" text="remove hot dog from pan ." />
+<item slot="6" text="place hot dog on plate or bun ." />
+</script>
+<script id="12">
+<item slot="1" text="get bread an sausage ." />
+<item slot="2" text="make a cut in the bread ." />
+<item slot="3" text="heat the sausage ." />
+<item slot="4" text="put sausage in the cut ." />
+<item slot="5" text="put mustard on the sausage ." />
+</script>
+<script id="13">
+<item slot="1" text="identify hot dog ." />
+<item slot="2" text="identify pot ." />
+<item slot="3" text="fill pot with water ." />
+<item slot="4" text="place pot on stove ." />
+<item slot="5" text="heat water ." />
+<item slot="6" text="place hot dog in hot water ." />
+<item slot="7" text="remove hot dog from water ." />
+</script>
+<script id="14">
+<item slot="1" text="get hot dog bun ." />
+<item slot="2" text="get hot dog ." />
+<item slot="3" text="put hot dog in bun ." />
+<item slot="4" text="put condiments on hot dog ." />
+</script>
+<script id="15">
+<item slot="1" text="boil the hot dog ." />
+<item slot="2" text="place in a bun ." />
+<item slot="3" text="garnish as desired ." />
+</script>
+<script id="16">
+<item slot="1" text="boil water ." />
+<item slot="2" text="open hot dog package ." />
+<item slot="3" text="place hot dogs in boiling water ." />
+<item slot="4" text="remove hot dogs after 5 minutes ." />
+<item slot="5" text="place hot dogs in buns ." />
+<item slot="6" text="dispose of empty packages ." />
+<item slot="7" text="serve ." />
+</script>
+<script id="17">
+<item slot="1" text="boil some water ." />
+<item slot="2" text="put the hot dog in the water ." />
+<item slot="3" text="wait a few minutes ." />
+<item slot="4" text="remove the hot dog from the water ." />
+<item slot="5" text="cut open a bun ." />
+<item slot="6" text="put the hot dog on the bun ." />
+<item slot="7" text="put some sauce on the hot dog ." />
+</script>
+<script id="18">
+<item slot="1" text="open hot dog package ." />
+</script>
+<script id="19">
+<item slot="1" text="gather ." />
+</script>
+<script id="20">
+<item slot="1" text="toast bread ." />
+<item slot="2" text="heat sausage ." />
+<item slot="3" text="put sausage in bread ." />
+<item slot="4" text="garnish with ketchup mustard relish onions ." />
+</script>
+<script id="21">
+<item slot="1" text="remove hot dog from refrigerator ." />
+<item slot="2" text="put hot dog in boiling water ." />
+<item slot="3" text="wait 5 minutes ." />
+<item slot="4" text="take out and put in bun ." />
+<item slot="5" text="add toppings ." />
+<item slot="6" text="enjoy ." />
+</script>
+<script id="22">
+<item slot="1" text="place hotdog in bun ." />
+</script>
+<script id="23">
+<item slot="1" text="prepare the items ." />
+<item slot="2" text="see the methodology ." />
+<item slot="3" text="prepare hot dog ." />
+</script>
+<script id="24">
+<item slot="1" text="cook sausage ." />
+<item slot="2" text="put it on bun ." />
+<item slot="3" text="put ketchup ." />
+<item slot="4" text="put ralish ." />
+<item slot="5" text="put mustard ." />
+</script>
+<script id="25">
+<item slot="1" text="take ca hot dog bun ." />
+<item slot="2" text="grill the hotdog ." />
+<item slot="3" text="put it on he bun ." />
+<item slot="4" text="add the ketchup ." />
+<item slot="5" text="add the mustard ." />
+<item slot="6" text="add the onions ." />
+<item slot="7" text="warm it up ." />
+</script>
+<script id="26">
+<item slot="1" text="verify that weiners and buns are available ." />
+<item slot="2" text="boil or grill weiners ." />
+<item slot="3" text="place in buns ." />
+<item slot="4" text="enjoy ." />
+</script>
+<script id="27">
+<item slot="1" text="ask hot dog maker ." />
+<item slot="2" text="make hot dog ." />
+<item slot="3" text="eat hot dog ." />
+<item slot="4" text="eat ." />
+<item slot="5" text="chew ." />
+<item slot="6" text="eat ." />
+<item slot="7" text="chew ." />
+</script>
+<script id="28">
+<item slot="1" text="boil/grill hot dog ." />
+<item slot="2" text="toast bread ." />
+</script>
+<script id="29">
+<item slot="1" text="boil/grill hot dog ." />
+<item slot="2" text="toast bread ." />
+</script>
+<script id="30">
+<item slot="1" text="boil/grill hot dog ." />
+<item slot="2" text="toast bread ." />
+</script>
+<script id="31">
+<item slot="1" text="boil/grill hot dog ." />
+<item slot="2" text="toast bread ." />
+</script>
+<script id="32">
+<item slot="1" text="boil/grill hot dog ." />
+<item slot="2" text="toast bread ." />
+</script>
+<script id="33">
+<item slot="1" text="boil/grill hot dog ." />
+<item slot="2" text="toast bread ." />
+</script>
+<script id="34">
+<item slot="1" text="remove weiner from package ." />
+<item slot="2" text="boil in water ." />
+<item slot="3" text="take out from water and place in bun ." />
+<item slot="4" text="apply ketchup ." />
+<item slot="5" text="apply mustard ." />
+</script>
+<script id="35">
+<item slot="1" text="remove weiner from package ." />
+<item slot="2" text="boil in water ." />
+<item slot="3" text="take out from water and place in bun ." />
+<item slot="4" text="apply ketchup ." />
+<item slot="5" text="apply mustard ." />
+</script>
+<script id="36">
+<item slot="1" text="remove hot dogs from fridge ." />
+<item slot="2" text="obtain a pot ." />
+<item slot="3" text="fill the pot with water ." />
+<item slot="4" text="place the hot dogs into the water ." />
+<item slot="5" text="bring to boil ." />
+<item slot="6" text="boil 6 minutes and remove ." />
+<item slot="7" text="serve hot dog with bun ." />
+</script>
+<script id="37">
+<item slot="1" text="remove hot dogs from fridge ." />
+<item slot="2" text="obtain a pot ." />
+<item slot="3" text="fill the pot with water ." />
+<item slot="4" text="place the hot dogs into the water ." />
+<item slot="5" text="bring to boil ." />
+<item slot="6" text="boil 6 minutes and remove ." />
+<item slot="7" text="serve hot dog with bun ." />
+</script>
+<script id="38">
+<item slot="1" text="buy hot dogs ." />
+<item slot="2" text="open package ." />
+<item slot="3" text="fill pot with water ." />
+<item slot="4" text="place pot on hot stove ." />
+</script>
+<script id="39">
+<item slot="1" text="buy hotdogs ." />
+<item slot="2" text="open package ." />
+<item slot="3" text="fill pot with water ." />
+<item slot="4" text="place pot on hot stove ." />
+<item slot="5" text="place hot dogs in pot ." />
+<item slot="6" text="cook hotdogs ." />
+</script>
+</scripts>

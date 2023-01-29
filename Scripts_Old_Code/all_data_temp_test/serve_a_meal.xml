@@ -1,0 +1,370 @@
+<scripts>
+<script id="1">
+<item slot="1" text="decide what to cook ." />
+<item slot="2" text="make a shopping list ." />
+<item slot="3" text="go to the store and buy ingredients ." />
+<item slot="4" text="cook the meal ." />
+<item slot="5" text="set the table ." />
+<item slot="6" text="set the finished dishes on the table ." />
+</script>
+<script id="2">
+<item slot="1" text="set the table ." />
+<item slot="2" text="cook food ." />
+<item slot="3" text="place cooked food on table ." />
+<item slot="4" text="announce that dinner is served ." />
+</script>
+<script id="3">
+<item slot="1" text="set the table ." />
+<item slot="2" text="place cooked food on the table ." />
+<item slot="3" text="inform those eating that the food is ready ." />
+</script>
+<script id="4">
+<item slot="1" text="set the table ." />
+<item slot="2" text="carry the meal to the table ." />
+<item slot="3" text="put the meal onto each person s plate ." />
+</script>
+<script id="5">
+<item slot="1" text="take a plate ." />
+<item slot="2" text="put the food on the plate ." />
+<item slot="3" text="put the plate at the dining table ." />
+</script>
+<script id="6">
+<item slot="1" text="plan meal ." />
+<item slot="2" text="cook meal ." />
+<item slot="3" text="bring dishes to table ." />
+<item slot="4" text="remove dirty dishes ." />
+</script>
+<script id="7">
+<item slot="1" text="buy the food ." />
+<item slot="2" text="prepare the recipe ." />
+<item slot="3" text="cook the food ." />
+<item slot="4" text="set the table ." />
+<item slot="5" text="serve the food ." />
+<item slot="6" text="pick up the dirty dishes ." />
+<item slot="7" text="clean the table ." />
+</script>
+<script id="8">
+<item slot="1" text="set table ." />
+<item slot="2" text="bring food at table ." />
+<item slot="3" text="put food in plate ." />
+</script>
+<script id="9">
+<item slot="1" text="arrange table ." />
+<item slot="2" text="put dishes on table ." />
+<item slot="3" text="bring courses one by one ." />
+<item slot="4" text="after done remove plates ." />
+</script>
+<script id="10">
+<item slot="1" text="take the meal ." />
+<item slot="2" text="put on a plate ." />
+<item slot="3" text="put the plate on a table ." />
+</script>
+<script id="11">
+<item slot="1" text="remove take out containers from bag ." />
+<item slot="2" text="open take out containers ." />
+<item slot="3" text="take food out of take out containers ." />
+<item slot="4" text="put food on plates for each person ." />
+</script>
+<script id="12">
+<item slot="1" text="find a recipe ." />
+<item slot="2" text="shop for ingredients ." />
+<item slot="3" text="prepare food ." />
+<item slot="4" text="lay the table ." />
+<item slot="5" text="serve the meal ." />
+</script>
+<script id="13">
+<item slot="1" text="prepare meal ." />
+<item slot="2" text="put meal on table ." />
+<item slot="3" text="put utensils and plates on table ." />
+</script>
+<script id="14">
+<item slot="1" text="cook  the meal ." />
+<item slot="2" text="put portions on plates ." />
+<item slot="3" text="take plates to the table ." />
+</script>
+<script id="15">
+<item slot="1" text="set plates cups and silverware on the dinner table ." />
+<item slot="2" text="serve food from cook pots and dishes onto the plates ." />
+<item slot="3" text="pour beveraves into the cups ." />
+<item slot="4" text="invite the people to sit down at the table ." />
+</script>
+<script id="16">
+<item slot="1" text="bring meal to table ." />
+<item slot="2" text="take each plate ." />
+<item slot="3" text="put some food on each plate ." />
+</script>
+<script id="17">
+<item slot="1" text="cook the meal ." />
+<item slot="2" text="put the food on plates ." />
+<item slot="3" text="take the plates to the guests ." />
+</script>
+<script id="18">
+<item slot="1" text="locate food for meal ." />
+<item slot="2" text="prepare desired meal utilizing a recipe ." />
+<item slot="3" text="place silverware and china on dinner table ." />
+<item slot="4" text="move prepared food from kitchen to dinner table ." />
+<item slot="5" text="serve food ." />
+</script>
+<script id="19">
+<item slot="1" text="cook meal ." />
+<item slot="2" text="set the table for the number of people to be served ." />
+<item slot="3" text="place food on plate ." />
+<item slot="4" text="offer plate to guests ." />
+</script>
+<script id="20">
+<item slot="1" text="plan a menu ." />
+<item slot="2" text="buy the ingrediants ." />
+<item slot="3" text="prepare the ingredients ." />
+<item slot="4" text="cook the food ." />
+<item slot="5" text="transfer the food to serving dishes ." />
+<item slot="6" text="take the food to the table ." />
+</script>
+<script id="21">
+<item slot="1" text="set the dining table ." />
+<item slot="2" text="prepare a meal ." />
+<item slot="3" text="put the meal on the table ." />
+<item slot="4" text="announce that the meal is served ." />
+</script>
+<script id="22">
+<item slot="1" text="gather ingredients ." />
+<item slot="2" text="cook food ." />
+<item slot="3" text="set table ." />
+<item slot="4" text="call people to table ." />
+<item slot="5" text="bring food to table ." />
+<item slot="6" text="eat food ." />
+</script>
+<script id="23">
+<item slot="1" text="cook meal ." />
+<item slot="2" text="get out dishes ." />
+<item slot="3" text="put food into dishes ." />
+<item slot="4" text="bring dishes to table ." />
+</script>
+<script id="24">
+<item slot="1" text="setting the table ." />
+<item slot="2" text="preparing the food ." />
+<item slot="3" text="putting the food into serving dishes ." />
+<item slot="4" text="bringing the food to the table ." />
+<item slot="5" text="letting guests take the food ." />
+<item slot="6" text="eating the food ." />
+<item slot="7" text="cleaning up the dishes after the meal ." />
+</script>
+<script id="25">
+<item slot="1" text="place meal on serving tray ." />
+<item slot="2" text="carry serving tray to table ." />
+<item slot="3" text="place tray on table ." />
+</script>
+<script id="26">
+<item slot="1" text="read ingredients ." />
+<item slot="2" text="procure ingredients ." />
+<item slot="3" text="follow preparation procedure ." />
+</script>
+<script id="27">
+<item slot="1" text="plan the meal ." />
+<item slot="2" text="cook the meal ." />
+<item slot="3" text="set the table ." />
+<item slot="4" text="put cooked food on plates ." />
+<item slot="5" text="put plates on table ." />
+</script>
+<script id="28">
+<item slot="1" text="put plates on the table ." />
+<item slot="2" text="take the meal to the table ." />
+<item slot="3" text="put the food on the plates ." />
+</script>
+<script id="29">
+<item slot="1" text="plan the meal ." />
+<item slot="2" text="cook the meal ." />
+<item slot="3" text="place meal on table ." />
+<item slot="4" text="serve the meal ." />
+</script>
+<script id="30">
+<item slot="1" text="get ingredients ." />
+<item slot="2" text="prepare ingredients ." />
+<item slot="3" text="cook meal ." />
+<item slot="4" text="put meal on dishes ." />
+<item slot="5" text="serve meal ." />
+</script>
+<script id="31">
+<item slot="1" text="put eachdish in aserving plate ." />
+</script>
+<script id="32">
+<item slot="1" text="put each dish in a serving plate ." />
+<item slot="2" text="put serving plates on table ." />
+</script>
+<script id="33">
+<item slot="1" text="cook meal ." />
+<item slot="2" text="lay table ." />
+<item slot="3" text="place meal in dishes ." />
+<item slot="4" text="bring meal to table ." />
+</script>
+<script id="34">
+<item slot="1" text="prepare the meal ." />
+<item slot="2" text="set the table ." />
+<item slot="3" text="transfer meal to serving dishes ." />
+<item slot="4" text="call guests or family to sit ." />
+<item slot="5" text="place serving dishes on table ." />
+<item slot="6" text="say grace if observed ." />
+<item slot="7" text="chow down! ." />
+</script>
+<script id="35">
+<item slot="1" text="put plates on table ." />
+<item slot="2" text="put spoon knife and fork on table ." />
+<item slot="3" text="put glass on table ." />
+<item slot="4" text="bring cooked dishes to table ." />
+<item slot="5" text="call people for dinner ." />
+<item slot="6" text="everyone serves from cooked dishes ." />
+</script>
+<script id="36">
+<item slot="1" text="pick up plate ." />
+<item slot="2" text="put plate on table ." />
+<item slot="3" text="ask if they want gravy ." />
+</script>
+<script id="37">
+<item slot="1" text="cook meal ." />
+<item slot="2" text="set table ." />
+<item slot="3" text="bring food to table ." />
+</script>
+<script id="38">
+<item slot="1" text="cook the meal ." />
+<item slot="2" text="set the table ." />
+<item slot="3" text="call the diners to dinner ." />
+<item slot="4" text="place the food items on the table ." />
+</script>
+<script id="39">
+<item slot="1" text="make a meal ." />
+<item slot="2" text="set the dinner table ." />
+<item slot="3" text="place the food on the dinner table ." />
+<item slot="4" text="call the people to dinner ." />
+<item slot="5" text="have them dish the food onto their plates ." />
+</script>
+<script id="40">
+<item slot="1" text="make a meal ." />
+<item slot="2" text="set the dinner table ." />
+<item slot="3" text="place the food on the dinner table ." />
+</script>
+<script id="41">
+<item slot="1" text="make a meal ." />
+</script>
+<script id="42">
+<item slot="1" text="call the people to dinner ." />
+</script>
+<script id="43">
+<item slot="1" text="set the dinner table ." />
+<item slot="2" text="place the food on the dinner table ." />
+<item slot="3" text="call the people to dinner ." />
+<item slot="4" text="have them dish the food onto their plates ." />
+</script>
+<script id="44">
+<item slot="1" text="have them dish the food onto their plates ." />
+</script>
+<script id="45">
+<item slot="1" text="make a meal ." />
+<item slot="2" text="set the dinner table ." />
+<item slot="3" text="place the food on the dinner table ." />
+<item slot="4" text="call the people to dinner ." />
+<item slot="5" text="have them dish the food onto their plates ." />
+</script>
+<script id="46">
+<item slot="1" text="make a meal ." />
+<item slot="2" text="set the dinner table ." />
+<item slot="3" text="place the food on the dinner table ." />
+<item slot="4" text="call the people to dinner ." />
+<item slot="5" text="have them dish the food onto their plates ." />
+</script>
+<script id="47">
+<item slot="1" text="make a meal ." />
+<item slot="2" text="set the dinner table ." />
+<item slot="3" text="place the food on the dinner table ." />
+<item slot="4" text="call the people to dinner ." />
+<item slot="5" text="have them dish the food onto their plates ." />
+</script>
+<script id="48">
+<item slot="1" text="cooking the food ." />
+</script>
+<script id="49">
+<item slot="1" text="set the table ." />
+<item slot="2" text="put food no a serving platter ." />
+<item slot="3" text="bring serving platter to the table ." />
+</script>
+<script id="50">
+<item slot="1" text="set the table ." />
+<item slot="2" text="put food no a serving platter ." />
+<item slot="3" text="bring serving platter to the table ." />
+</script>
+<script id="51">
+<item slot="1" text="set the table ." />
+<item slot="2" text="put food no a serving platter ." />
+<item slot="3" text="bring serving platter to the table ." />
+</script>
+<script id="52">
+<item slot="1" text="get food ." />
+<item slot="2" text="put food on plate ." />
+<item slot="3" text="take plate to table ." />
+<item slot="4" text="place plate in front of person ." />
+</script>
+<script id="53">
+<item slot="1" text="get food ." />
+<item slot="2" text="put food on plate ." />
+<item slot="3" text="take plate to table ." />
+<item slot="4" text="place plate in front of person ." />
+</script>
+<script id="54">
+<item slot="1" text="get appropriate dishes ." />
+<item slot="2" text="fill dishes with food ." />
+<item slot="3" text="place filled dishes in front of individual ." />
+</script>
+<script id="55">
+<item slot="1" text="get appropriate dishes ." />
+<item slot="2" text="fill dishes with food ." />
+<item slot="3" text="place filled dishes in front of individual ." />
+</script>
+<script id="56">
+<item slot="1" text="get food ." />
+<item slot="2" text="put food on plate ." />
+<item slot="3" text="take plate to table ." />
+<item slot="4" text="place plate in front of person ." />
+</script>
+<script id="57">
+<item slot="1" text="get appropriate dishes ." />
+<item slot="2" text="fill dishes with food ." />
+<item slot="3" text="place filled dishes in front of individual ." />
+</script>
+<script id="58">
+<item slot="1" text="get food ." />
+<item slot="2" text="put food on plate ." />
+<item slot="3" text="take plate to table ." />
+<item slot="4" text="place plate in front of person ." />
+</script>
+<script id="59">
+<item slot="1" text="get appropriate dishes ." />
+<item slot="2" text="fill dishes with food ." />
+<item slot="3" text="place filled dishes in front of individual ." />
+</script>
+<script id="60">
+<item slot="1" text="prepare meal ." />
+<item slot="2" text="serve appetizers ." />
+<item slot="3" text="serve salad ." />
+<item slot="4" text="serve main course ." />
+<item slot="5" text="serve dessert ." />
+<item slot="6" text="serve coffee ." />
+</script>
+<script id="61">
+<item slot="1" text="prepare meal ." />
+<item slot="2" text="serve appetizers ." />
+<item slot="3" text="serve salad ." />
+<item slot="4" text="serve main course ." />
+<item slot="5" text="serve dessert ." />
+<item slot="6" text="serve coffee ." />
+</script>
+<script id="62">
+<item slot="1" text="prepare meal ." />
+<item slot="2" text="serve appetizers ." />
+<item slot="3" text="serve salad ." />
+<item slot="4" text="serve main course ." />
+<item slot="5" text="serve dessert ." />
+<item slot="6" text="serve coffee ." />
+</script>
+<script id="63">
+<item slot="1" text="place food on plates ." />
+<item slot="2" text="bring plates to table ." />
+</script>
+</scripts>

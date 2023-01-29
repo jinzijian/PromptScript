@@ -1,0 +1,243 @@
+<scripts>
+<script id="1">
+<item slot="1" text="get behind the person ." />
+<item slot="2" text="move with the person ." />
+</script>
+<script id="2">
+<item slot="1" text="locate person ." />
+<item slot="2" text="go to person ." />
+<item slot="3" text="repeat from step 1 ." />
+</script>
+<script id="3">
+<item slot="1" text="watch the feet ." />
+</script>
+<script id="4">
+<item slot="1" text="go wherever the person goes ." />
+<item slot="2" text="if called for remain out of their sight ." />
+</script>
+<script id="5">
+<item slot="1" text="identify a person you wish to follow ." />
+<item slot="2" text="walk near them as they move from one place to another ." />
+</script>
+<script id="6">
+<item slot="1" text="find someone ." />
+<item slot="2" text="stay near that person as they move to different locations ." />
+</script>
+<script id="7">
+<item slot="1" text="pick a person to follow ." />
+<item slot="2" text="after you find a person to follow get yourself close to them ." />
+<item slot="3" text="next watch them with your eyes ." />
+<item slot="4" text="next go wherever they go ." />
+<item slot="5" text="don t let them see you unless you want to be seen ." />
+</script>
+<script id="8">
+<item slot="1" text="locate the individual to follow ." />
+<item slot="2" text="keep the individual in your eyesight ." />
+<item slot="3" text="relocate yourself constantly to keep near the individual ." />
+</script>
+<script id="9">
+<item slot="1" text="find someone ." />
+<item slot="2" text="follow him ." />
+</script>
+<script id="10">
+<item slot="1" text="watch the person ." />
+<item slot="2" text="go where the person goes ." />
+</script>
+<script id="11">
+<item slot="1" text="move next to the person to be followed ." />
+<item slot="2" text="watch the person ." />
+<item slot="3" text="move along with the person as they walk ." />
+</script>
+<script id="12">
+<item slot="1" text="keep your eyes on the person ." />
+<item slot="2" text="whenever the person moves you move closely behind ." />
+</script>
+<script id="13">
+<item slot="1" text="track person visually ." />
+<item slot="2" text="if person moves move after them ." />
+<item slot="3" text="if person does not move stay still ." />
+</script>
+<script id="14">
+<item slot="1" text="locate person ." />
+<item slot="2" text="look at person ." />
+<item slot="3" text="if person moves move in the same direction ." />
+<item slot="4" text="keep a reasonable distance from person ." />
+</script>
+<script id="15">
+<item slot="1" text="watch person ." />
+<item slot="2" text="if person moves away move in the same direction ." />
+<item slot="3" text="keep a safe distance from person ." />
+</script>
+<script id="16">
+<item slot="1" text="get close to the person ." />
+<item slot="2" text="walk behind the person ." />
+</script>
+<script id="17">
+<item slot="1" text="pick a person ." />
+<item slot="2" text="find their location ." />
+<item slot="3" text="walk after them everywhere ." />
+</script>
+<script id="18">
+<item slot="1" text="find the person you want to follow ." />
+<item slot="2" text="see where the person is moving to ." />
+<item slot="3" text="go in the same directionas the person you are following ." />
+</script>
+<script id="19">
+<item slot="1" text="find someone to follow ." />
+<item slot="2" text="go near them ." />
+<item slot="3" text="loiter until your someone moves ." />
+<item slot="4" text="repeat 2 and then step 3 ." />
+<item slot="5" text="quit ." />
+</script>
+<script id="20">
+<item slot="1" text="find a person ." />
+<item slot="2" text="learn their quirks ." />
+<item slot="3" text="learn their routine ." />
+<item slot="4" text="buy spy equipment ." />
+<item slot="5" text="become invisible ." />
+<item slot="6" text="hide behind objects ." />
+<item slot="7" text="follow them wherever they go ." />
+</script>
+<script id="21">
+<item slot="1" text="find a person ." />
+<item slot="2" text="learn their quirks ." />
+<item slot="3" text="learn their routine ." />
+<item slot="4" text="buy spy equipment ." />
+<item slot="5" text="become invisible ." />
+<item slot="6" text="hide behind objects ." />
+<item slot="7" text="follow them wherever they go ." />
+</script>
+<script id="22">
+<item slot="1" text="find target ." />
+<item slot="2" text="shadow ." />
+<item slot="3" text="stay concealed ." />
+<item slot="4" text="persist ." />
+<item slot="5" text="observe ." />
+<item slot="6" text="react ." />
+<item slot="7" text="conclude ." />
+</script>
+<script id="23">
+<item slot="1" text="find someone ." />
+<item slot="2" text="follow someone ." />
+</script>
+<script id="24">
+<item slot="1" text="find someone ." />
+<item slot="2" text="follow someone ." />
+</script>
+<script id="25">
+<item slot="1" text="find someone ." />
+<item slot="2" text="follow someone ." />
+</script>
+<script id="26">
+<item slot="1" text="find someone ." />
+<item slot="2" text="follow someone ." />
+</script>
+<script id="27">
+<item slot="1" text="choose someone to follow ." />
+<item slot="2" text="go wherever that person goes ." />
+</script>
+<script id="28">
+<item slot="1" text="identify the person ." />
+<item slot="2" text="try to observe the path ." />
+<item slot="3" text="follw the person ." />
+</script>
+<script id="29">
+<item slot="1" text="identify the person ." />
+<item slot="2" text="try to observe the path ." />
+<item slot="3" text="follw the person ." />
+</script>
+<script id="30">
+<item slot="1" text="identify the person ." />
+<item slot="2" text="try to follow the person ." />
+</script>
+<script id="31">
+<item slot="1" text="locate person ." />
+<item slot="2" text="follow behind them ." />
+</script>
+<script id="32">
+<item slot="1" text="locate person ." />
+<item slot="2" text="follow behind them ." />
+</script>
+<script id="33">
+<item slot="1" text="watch someone ." />
+<item slot="2" text="notice when that person moves ." />
+<item slot="3" text="follow their path ." />
+<item slot="4" text="stop before running into them ." />
+<item slot="5" text="continue watching them ." />
+<item slot="6" text="if they move again follow their path again ." />
+<item slot="7" text="repeat until given another task ." />
+</script>
+<script id="34">
+<item slot="1" text="match the person step for step ." />
+</script>
+<script id="35">
+<item slot="1" text="match the person step for step ." />
+</script>
+<script id="36">
+<item slot="1" text="match the person step for step ." />
+</script>
+<script id="37">
+<item slot="1" text="match the person step for step ." />
+</script>
+<script id="38">
+<item slot="1" text="match the person step for step ." />
+</script>
+<script id="39">
+<item slot="1" text="match the person step for step ." />
+</script>
+<script id="40">
+<item slot="1" text="match the person step for step ." />
+</script>
+<script id="41">
+<item slot="1" text="match the person step for step ." />
+</script>
+<script id="42">
+<item slot="1" text="match the person step for step ." />
+</script>
+<script id="43">
+<item slot="1" text="match the person step for step ." />
+</script>
+<script id="44">
+<item slot="1" text="follow person ." />
+</script>
+<script id="45">
+<item slot="1" text="identify the person to follow ." />
+<item slot="2" text="follow them ." />
+</script>
+<script id="46">
+<item slot="1" text="follow in their footsteps ." />
+</script>
+<script id="47">
+<item slot="1" text="follow in their footsteps ." />
+</script>
+<script id="48">
+<item slot="1" text="pick your target ." />
+<item slot="2" text="know their quirks ." />
+<item slot="3" text="know where they go ." />
+<item slot="4" text="know if they drive a car ." />
+<item slot="5" text="choose a date to start following them ." />
+<item slot="6" text="be ready on that date ." />
+<item slot="7" text="start following them and record observations ." />
+</script>
+<script id="49">
+<item slot="1" text="watching ." />
+<item slot="2" text="hiding ." />
+<item slot="3" text="peeking ." />
+<item slot="4" text="peering ." />
+<item slot="5" text="ducking ." />
+<item slot="6" text="sneaking ." />
+<item slot="7" text="trailing ." />
+</script>
+<script id="50">
+<item slot="1" text="choose target ." />
+<item slot="2" text="follow that person wherever they go ." />
+</script>
+<script id="51">
+<item slot="1" text="spot intended victim ." />
+<item slot="2" text="go where they are ." />
+<item slot="3" text="when the move repeat steps 2 and 3 ." />
+</script>
+<script id="52">
+<item slot="1" text="do everything the other persondoes ." />
+</script>
+</scripts>

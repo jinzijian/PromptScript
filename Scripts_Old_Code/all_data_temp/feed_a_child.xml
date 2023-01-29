@@ -1,0 +1,240 @@
+<scripts>
+<script id="1">
+<item slot="1" text="get food ." />
+<item slot="2" text="put food in bowl or on plate ." />
+<item slot="3" text="get a spoon or fork ." />
+<item slot="4" text="use spoon or fork to get bites of food ." />
+<item slot="5" text="place spoon or fork into child s mouth ." />
+</script>
+<script id="2">
+<item slot="1" text="locate an appropriate food for a child ." />
+<item slot="2" text="prepare the meal for the child ." />
+<item slot="3" text="deliver the meal to the child ." />
+<item slot="4" text="deliver silverware to the child ." />
+</script>
+<script id="3">
+<item slot="1" text="locate appropriate food ." />
+<item slot="2" text="if finger food no utensils are needed ." />
+<item slot="3" text="present food to child ." />
+</script>
+<script id="4">
+<item slot="1" text="cook the food ." />
+<item slot="2" text="put the food in a bowl ." />
+<item slot="3" text="give the food to child ." />
+<item slot="4" text="make sure the child eats ." />
+</script>
+<script id="5">
+<item slot="1" text="prepare meal ." />
+<item slot="2" text="serve meal to child ." />
+<item slot="3" text="ensure child eats meal ." />
+<item slot="4" text="compliment child when finished ." />
+<item slot="5" text="clean dished ." />
+</script>
+<script id="6">
+<item slot="1" text="clear the table ." />
+<item slot="2" text="set the table ." />
+<item slot="3" text="cook the food ." />
+<item slot="4" text="seat the child ." />
+<item slot="5" text="serve the child ." />
+<item slot="6" text="make sure the child is ok (not choking) ." />
+</script>
+<script id="7">
+<item slot="1" text="prepare food ." />
+<item slot="2" text="serve it ." />
+<item slot="3" text="clean up ." />
+</script>
+<script id="8">
+<item slot="1" text="get a child food can ." />
+<item slot="2" text="check the expiry date of the child food ." />
+<item slot="3" text="prepare as taught ." />
+</script>
+<script id="9">
+<item slot="1" text="gather food ." />
+<item slot="2" text="prepare food ." />
+<item slot="3" text="sit child down ." />
+<item slot="4" text="feed child ." />
+</script>
+<script id="10">
+<item slot="1" text="prepare food ." />
+<item slot="2" text="sit child down ." />
+<item slot="3" text="take spoon ." />
+<item slot="4" text="dip spoon in food ." />
+<item slot="5" text="place spoon in childs mouth ." />
+</script>
+<script id="11">
+<item slot="1" text="prepare food ." />
+<item slot="2" text="sit child down ." />
+<item slot="3" text="take spoon ." />
+<item slot="4" text="dip spoon in food ." />
+<item slot="5" text="place spoon in childs mouth ." />
+</script>
+<script id="12">
+<item slot="1" text="prepare food ." />
+<item slot="2" text="sit child down ." />
+<item slot="3" text="take spoon ." />
+<item slot="4" text="dip spoon in food ." />
+<item slot="5" text="place spoon in childs mouth ." />
+</script>
+<script id="13">
+<item slot="1" text="prepare food ." />
+<item slot="2" text="sit child down ." />
+<item slot="3" text="take spoon ." />
+<item slot="4" text="dip spoon in food ." />
+<item slot="5" text="place spoon in childs mouth ." />
+</script>
+<script id="14">
+<item slot="1" text="prepare food ." />
+<item slot="2" text="sit child down ." />
+<item slot="3" text="take spoon ." />
+<item slot="4" text="dip spoon in food ." />
+<item slot="5" text="place spoon in childs mouth ." />
+</script>
+<script id="15">
+<item slot="1" text="buy ingredients at a store ." />
+<item slot="2" text="prepare ingredients ." />
+<item slot="3" text="cook ingredients ." />
+<item slot="4" text="put prepared food on plate ." />
+<item slot="5" text="use a spoon to feed it to child ." />
+</script>
+<script id="16">
+<item slot="1" text="find out what food child needs ." />
+<item slot="2" text="prepare food child needs ." />
+<item slot="3" text="give prepared food to child ." />
+<item slot="4" text="ensure child consumes food ." />
+<item slot="5" text="monitor child for signs of choking ." />
+</script>
+<script id="17">
+<item slot="1" text="take food ." />
+<item slot="2" text="feed into baby s mouth ." />
+<item slot="3" text="repeat ." />
+</script>
+<script id="18">
+<item slot="1" text="prepare food to feed child ." />
+<item slot="2" text="food should not be hot ." />
+<item slot="3" text="food should be warm ." />
+<item slot="4" text="place child in high chair ." />
+<item slot="5" text="strap child in high chair ." />
+<item slot="6" text="place tray on high chair ." />
+<item slot="7" text="use child size spoon ." />
+</script>
+<script id="19">
+<item slot="1" text="get food that the child can eat ." />
+<item slot="2" text="place food in front of child ." />
+<item slot="3" text="allow child to eat food or take small mouthsize servings with a utensil and serve to child ." />
+</script>
+<script id="20">
+<item slot="1" text="pick food ." />
+<item slot="2" text="seat child ." />
+<item slot="3" text="using utensil of choice load food on utensil ." />
+<item slot="4" text="keep child occupied ." />
+<item slot="5" text="place food in child s mouth ." />
+</script>
+<script id="21">
+<item slot="1" text="wake up child ." />
+<item slot="2" text="seat at table ." />
+<item slot="3" text="obtain food ." />
+<item slot="4" text="cook food ." />
+<item slot="5" text="serve food ." />
+<item slot="6" text="persuade child to eat ." />
+</script>
+<script id="22">
+<item slot="1" text="open baby food jar ." />
+<item slot="2" text="take food out with small spoon ." />
+<item slot="3" text="place spoon infront of child s mouth ." />
+<item slot="4" text="let child eat food ." />
+<item slot="5" text="repeat until child is full ." />
+</script>
+<script id="23">
+<item slot="1" text="open baby food jar ." />
+<item slot="2" text="take food out with small spoon ." />
+<item slot="3" text="place spoon infront of child s mouth ." />
+<item slot="4" text="let child eat food ." />
+<item slot="5" text="repeat until child is full ." />
+</script>
+<script id="24">
+<item slot="1" text="open baby food jar ." />
+<item slot="2" text="take food out with small spoon ." />
+<item slot="3" text="place spoon infront of child s mouth ." />
+<item slot="4" text="let child eat food ." />
+<item slot="5" text="repeat until child is full ." />
+</script>
+<script id="25">
+<item slot="1" text="open baby food jar ." />
+<item slot="2" text="take food out with small spoon ." />
+<item slot="3" text="place spoon infront of child s mouth ." />
+<item slot="4" text="let child eat food ." />
+<item slot="5" text="repeat until child is full ." />
+</script>
+<script id="26">
+<item slot="1" text="open baby food jar ." />
+<item slot="2" text="take food out with small spoon ." />
+<item slot="3" text="place spoon infront of child s mouth ." />
+<item slot="4" text="let child eat food ." />
+<item slot="5" text="repeat until child is full ." />
+</script>
+<script id="27">
+<item slot="1" text="open baby food jar ." />
+<item slot="2" text="take food out with small spoon ." />
+<item slot="3" text="place spoon infront of child s mouth ." />
+<item slot="4" text="let child eat food ." />
+<item slot="5" text="repeat until child is full ." />
+</script>
+<script id="28">
+<item slot="1" text="prepare child s favorite food ." />
+<item slot="2" text="get child indoors ." />
+<item slot="3" text="tell child to wash hands ." />
+<item slot="4" text="ask child to sit at table ." />
+<item slot="5" text="place child s food on plate ." />
+<item slot="6" text="set child s plate on table ." />
+<item slot="7" text="say grace ." />
+</script>
+<script id="29">
+<item slot="1" text="prepare child s favorite food ." />
+<item slot="2" text="get child indoors ." />
+<item slot="3" text="tell child to wash hands ." />
+<item slot="4" text="ask child to sit at table ." />
+<item slot="5" text="place child s food on plate ." />
+<item slot="6" text="set child s plate on table ." />
+<item slot="7" text="say grace ." />
+</script>
+<script id="30">
+<item slot="1" text="prepare child s favorite food ." />
+<item slot="2" text="get child indoors ." />
+<item slot="3" text="tell child to wash hands ." />
+<item slot="4" text="ask child to sit at table ." />
+<item slot="5" text="place child s food on plate ." />
+<item slot="6" text="set child s plate on table ." />
+<item slot="7" text="say grace ." />
+</script>
+<script id="31">
+<item slot="1" text="decide what food to give ." />
+<item slot="2" text="prepare food for meal ." />
+<item slot="3" text="prepare child for meal ." />
+<item slot="4" text="put food in serving dish ." />
+<item slot="5" text="take out apprpriate utensil ." />
+<item slot="6" text="sit with child and feed them ." />
+<item slot="7" text="clean up area and child ." />
+</script>
+<script id="32">
+<item slot="1" text="decide what food to give ." />
+<item slot="2" text="prepare food for meal ." />
+<item slot="3" text="prepare child for meal ." />
+<item slot="4" text="put food in serving dish ." />
+<item slot="5" text="take out apprpriate utensil ." />
+<item slot="6" text="sit with child and feed them ." />
+<item slot="7" text="clean up area and child ." />
+</script>
+<script id="33">
+<item slot="1" text="decide what food to give ." />
+<item slot="2" text="prepare food for meal ." />
+<item slot="3" text="prepare child for meal ." />
+<item slot="4" text="put food in serving dish ." />
+<item slot="5" text="take out apprpriate utensil ." />
+<item slot="6" text="sit with child and feed them ." />
+<item slot="7" text="clean up area and child ." />
+</script>
+<script id="34">
+<item slot="1" text="put food in a dish ." />
+<item slot="2" text="spoon food into childs mouth ." />
+</script>
+</scripts>

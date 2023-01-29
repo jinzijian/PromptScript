@@ -1,0 +1,234 @@
+<scripts>
+<script id="1">
+<item slot="1" text="rinse the cut with clean water ." />
+<item slot="2" text="rub a mild soap over the cut ." />
+<item slot="3" text="rinse the cut again with clean water ." />
+</script>
+<script id="2">
+<item slot="1" text="turn the faucet on ." />
+<item slot="2" text="hold the cut under the running water ." />
+<item slot="3" text="gently place soap on the cut ." />
+<item slot="4" text="rinse the soap off ." />
+<item slot="5" text="turn off the water ." />
+</script>
+<script id="3">
+<item slot="1" text="run the cut under tap water ." />
+<item slot="2" text="gently wash the cut with soap ." />
+<item slot="3" text="rinse all the soap off ." />
+<item slot="4" text="dry the cut ." />
+<item slot="5" text="place a bandage over the cut ." />
+</script>
+<script id="4">
+<item slot="1" text="place cut under water ." />
+<item slot="2" text="put on soap ." />
+<item slot="3" text="gently rub cut ." />
+</script>
+<script id="5">
+<item slot="1" text="get antiseptic fluid ." />
+<item slot="2" text="spray antiseptic fluid on cut ." />
+</script>
+<script id="6">
+<item slot="1" text="take person with cut to a sink ." />
+<item slot="2" text="place the person s cut under the sink faucet ." />
+<item slot="3" text="turn on the faucet gently ." />
+<item slot="4" text="wash the cut with a gentle stream of water ." />
+</script>
+<script id="7">
+<item slot="1" text="run warm water over cut ." />
+<item slot="2" text="add soap and/or hydrogen peroxide ." />
+<item slot="3" text="dry cut area ." />
+</script>
+<script id="8">
+<item slot="1" text="putting skin in some water ." />
+<item slot="2" text="washing the skin ." />
+<item slot="3" text="putting a band-aid on the infected area ." />
+</script>
+<script id="9">
+<item slot="1" text="go to sink ." />
+<item slot="2" text="turn on sink ." />
+<item slot="3" text="get soap ." />
+<item slot="4" text="put cut under water ." />
+<item slot="5" text="wash with soap ." />
+<item slot="6" text="rinse with water ." />
+<item slot="7" text="turn off tap ." />
+</script>
+<script id="10">
+<item slot="1" text="go to sink ." />
+<item slot="2" text="turn on water ." />
+<item slot="3" text="apply water to cut ." />
+<item slot="4" text="apply soap ." />
+<item slot="5" text="wash off soap ." />
+</script>
+<script id="11">
+<item slot="1" text="run cut under water ." />
+<item slot="2" text="put disinfectant on cut ." />
+</script>
+<script id="12">
+<item slot="1" text="wash cut in running water ." />
+</script>
+<script id="13">
+<item slot="1" text="wash cut with clean running water ." />
+</script>
+<script id="14">
+<item slot="1" text="wash cut with peroxide ." />
+</script>
+<script id="15">
+<item slot="1" text="wash cut use clean running water ." />
+</script>
+<script id="16">
+<item slot="1" text="rinse cut under clean hot water ." />
+</script>
+<script id="17">
+<item slot="1" text="remove debris from cut ." />
+<item slot="2" text="pour clean water over cut ." />
+</script>
+<script id="18">
+<item slot="1" text="turn on water ." />
+<item slot="2" text="get disinfectant out of cupboard ." />
+<item slot="3" text="make sure water is not too hot ." />
+<item slot="4" text="pour disinfecatant on cut ." />
+<item slot="5" text="then run water on cut ." />
+<item slot="6" text="dry cut with clean cotton ball ." />
+<item slot="7" text="place gauze on cut to keep clean ." />
+</script>
+<script id="19">
+<item slot="1" text="put cut under running water ." />
+<item slot="2" text="rub around and over cut ." />
+<item slot="3" text="hold cut open a little ." />
+<item slot="4" text="remove cut from running water ." />
+<item slot="5" text="blot cut dry with clean absorbent material ." />
+</script>
+<script id="20">
+<item slot="1" text="take cut to water ." />
+<item slot="2" text="put cut under water ." />
+<item slot="3" text="add soap to water and cut ." />
+<item slot="4" text="rinse area of cut ." />
+<item slot="5" text="sry area of cut ." />
+</script>
+<script id="21">
+<item slot="1" text="rinse cut under clean water ." />
+</script>
+<script id="22">
+<item slot="1" text="rinse cut under clean water ." />
+</script>
+<script id="23">
+<item slot="1" text="place cut under running water ." />
+<item slot="2" text="rinse away blood or dirt ." />
+</script>
+<script id="24">
+<item slot="1" text="hold cut under cold running water ." />
+<item slot="2" text="inspect the wound to see that it is free of dirt and debris ." />
+</script>
+<script id="25">
+<item slot="1" text="wet hair ." />
+<item slot="2" text="add shampoo to hair ." />
+<item slot="3" text="lather ." />
+<item slot="4" text="rinse ." />
+<item slot="5" text="condition ." />
+<item slot="6" text="rinse ." />
+<item slot="7" text="cut hair ." />
+</script>
+<script id="26">
+<item slot="1" text="hold wound under running water ." />
+<item slot="2" text="gently lather wound and general area with soap ." />
+<item slot="3" text="rinse soap off ." />
+<item slot="4" text="apply antiseptic and bandage ." />
+</script>
+<script id="27">
+<item slot="1" text="hold wound under running water ." />
+<item slot="2" text="gently lather wound and general area with soap ." />
+<item slot="3" text="rinse soap off ." />
+<item slot="4" text="apply antiseptic and bandage ." />
+</script>
+<script id="28">
+<item slot="1" text="hold wound under running water ." />
+<item slot="2" text="gently lather wound and general area with soap ." />
+<item slot="3" text="rinse soap off ." />
+<item slot="4" text="apply antiseptic and bandage ." />
+</script>
+<script id="29">
+<item slot="1" text="hold wound under running water ." />
+<item slot="2" text="gently lather wound and general area with soap ." />
+<item slot="3" text="rinse soap off ." />
+<item slot="4" text="apply antiseptic and bandage ." />
+</script>
+<script id="30">
+<item slot="1" text="hold wound under running water ." />
+<item slot="2" text="gently lather wound and general area with soap ." />
+<item slot="3" text="rinse soap off ." />
+<item slot="4" text="apply antiseptic and bandage ." />
+</script>
+<script id="31">
+<item slot="1" text="hold wound under running water ." />
+<item slot="2" text="gently lather wound and general area with soap ." />
+<item slot="3" text="rinse soap off ." />
+<item slot="4" text="apply antiseptic and bandage ." />
+</script>
+<script id="32">
+<item slot="1" text="wash cut ." />
+</script>
+<script id="33">
+<item slot="1" text="turn on faucet ." />
+<item slot="2" text="hold injury under running water ." />
+<item slot="3" text="soap up injury and surrounding area ." />
+<item slot="4" text="rinse well to remove soap ." />
+<item slot="5" text="blot dry and apply antiseptic ." />
+<item slot="6" text="bandage ." />
+</script>
+<script id="34">
+<item slot="1" text="turn on faucet ." />
+<item slot="2" text="hold injury under running water ." />
+<item slot="3" text="soap up injury and surrounding area ." />
+<item slot="4" text="rinse well to remove soap ." />
+<item slot="5" text="blot dry and apply antiseptic ." />
+<item slot="6" text="bandage ." />
+</script>
+<script id="35">
+<item slot="1" text="use towl and wipe off blook ." />
+<item slot="2" text="rinse under water ." />
+<item slot="3" text="use polysporin on cut ." />
+<item slot="4" text="place gauze on cut ." />
+<item slot="5" text="tape bandage over cut ." />
+</script>
+<script id="36">
+<item slot="1" text="use towl and wipe off blook ." />
+<item slot="2" text="rinse under water ." />
+<item slot="3" text="use polysporin on cut ." />
+<item slot="4" text="place gauze on cut ." />
+<item slot="5" text="tape bandage over cut ." />
+</script>
+<script id="37">
+<item slot="1" text="walk toward bathroom ." />
+<item slot="2" text="turn on faucet ." />
+<item slot="3" text="wash cut ." />
+<item slot="4" text="dry cut ." />
+<item slot="5" text="put bandaid on ." />
+<item slot="6" text="done ." />
+</script>
+<script id="38">
+<item slot="1" text="invite customer in ." />
+<item slot="2" text="sit them in the chair ." />
+<item slot="3" text="wash their hair ." />
+<item slot="4" text="condition their hair ." />
+<item slot="5" text="dry their hair ." />
+<item slot="6" text="ask for desired style ." />
+<item slot="7" text="cut hair ." />
+</script>
+<script id="39">
+<item slot="1" text="turn the sink tap on ." />
+<item slot="2" text="wash the vegetables under the water ." />
+<item slot="3" text="turn the tap off ." />
+<item slot="4" text="put the vegetables on a cutting board ." />
+<item slot="5" text="get a sharp knife ." />
+<item slot="6" text="cut the vegetables into small cubes ." />
+<item slot="7" text="place the vegetables in a bowl ." />
+</script>
+<script id="40">
+<item slot="1" text="wash ." />
+<item slot="2" text="cut ." />
+</script>
+<script id="41">
+<item slot="1" text="wash ." />
+<item slot="2" text="cut ." />
+</script>
+</scripts>

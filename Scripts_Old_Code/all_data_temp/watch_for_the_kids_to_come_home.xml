@@ -1,0 +1,249 @@
+<scripts>
+<script id="1">
+<item slot="1" text="go to where you are supposed to watch for them ." />
+<item slot="2" text="look in direction where the kids will be coming from ." />
+<item slot="3" text="wait specified length of time until they arrive ." />
+</script>
+<script id="2">
+<item slot="1" text="look out the window ." />
+<item slot="2" text="wait for the kids to appear in the window ." />
+</script>
+<script id="3">
+<item slot="1" text="move to entry door ." />
+<item slot="2" text="observe the entry visually ." />
+</script>
+<script id="4">
+<item slot="1" text="stay at window ." />
+<item slot="2" text="observe passer-by ." />
+</script>
+<script id="5">
+<item slot="1" text="be at home ." />
+<item slot="2" text="wait until the kids come home ." />
+</script>
+<script id="6">
+<item slot="1" text="knowing when the kids are supposed to come home ." />
+<item slot="2" text="knowing where to look for the kids ." />
+<item slot="3" text="knowing what the kids look like ." />
+<item slot="4" text="going to where you can see the kids ." />
+<item slot="5" text="looking for the kids ." />
+</script>
+<script id="7">
+<item slot="1" text="look outside window ." />
+<item slot="2" text="check if kids are walking toward house ." />
+</script>
+<script id="8">
+<item slot="1" text="look out a window in the direction the kids come from ." />
+<item slot="2" text="look for the kids outside ." />
+<item slot="3" text="repeat occasionally until you see them ." />
+</script>
+<script id="9">
+<item slot="1" text="find out where the kids will be dropped off when the come home ." />
+<item slot="2" text="go to the closest window to that location ." />
+<item slot="3" text="look out of the window ." />
+<item slot="4" text="wait until you see the kids through the window ." />
+</script>
+<script id="10">
+<item slot="1" text="locate route kids take ." />
+<item slot="2" text="watch route ." />
+</script>
+<script id="11">
+<item slot="1" text="stand where you can see the kids coming ." />
+</script>
+<script id="12">
+<item slot="1" text="go to the window ." />
+<item slot="2" text="look out the window ." />
+<item slot="3" text="wait until the children can be seen ." />
+<item slot="4" text="watch the children until they enter the home ." />
+<item slot="5" text="leave the window ." />
+</script>
+<script id="13">
+<item slot="1" text="walk to window when the kids are expected home ." />
+</script>
+<script id="14">
+<item slot="1" text="look out window for kids ." />
+</script>
+<script id="15">
+<item slot="1" text="look out window for kids ." />
+</script>
+<script id="16">
+<item slot="1" text="look out window for kids ." />
+</script>
+<script id="17">
+<item slot="1" text="look out window for kids ." />
+</script>
+<script id="18">
+<item slot="1" text="look out window for kids ." />
+</script>
+<script id="19">
+<item slot="1" text="look out window for kids ." />
+</script>
+<script id="20">
+<item slot="1" text="look out window for kids ." />
+</script>
+<script id="21">
+<item slot="1" text="look out window for kids ." />
+</script>
+<script id="22">
+<item slot="1" text="look out the window ." />
+</script>
+<script id="23">
+<item slot="1" text="be enjoying the peace and quiet ." />
+<item slot="2" text="check the time ." />
+<item slot="3" text="notice children will be home soon ." />
+<item slot="4" text="finish watching your program ." />
+<item slot="5" text="make snacks ." />
+<item slot="6" text="watch for bus ." />
+<item slot="7" text="see children exit bus and head toward house ." />
+</script>
+<script id="24">
+<item slot="1" text="look out the window ." />
+<item slot="2" text="watch the kids walk to the steps ." />
+<item slot="3" text="watch the kids walk into the house ." />
+</script>
+<script id="25">
+<item slot="1" text="look out the window ." />
+<item slot="2" text="watch the kids walk to the steps ." />
+<item slot="3" text="watch the kids walk into the house ." />
+</script>
+<script id="26">
+<item slot="1" text="look out the window ." />
+<item slot="2" text="watch the kids walk to the steps ." />
+<item slot="3" text="watch the kids walk into the house ." />
+</script>
+<script id="27">
+<item slot="1" text="goto window ." />
+<item slot="2" text="wait for children to arive ." />
+</script>
+<script id="28">
+<item slot="1" text="know the usual time that the kids arrive home ." />
+<item slot="2" text="start waiting ten minutes earlier ." />
+<item slot="3" text="look at window and wait for kids ." />
+<item slot="4" text="wait for kids ." />
+<item slot="5" text="be glad that they get home around the expected time ." />
+</script>
+<script id="29">
+<item slot="1" text="sit on the couch near a window by the front door ." />
+<item slot="2" text="wait ." />
+</script>
+<script id="30">
+<item slot="1" text="sit on the couch near a window by the front door ." />
+<item slot="2" text="wait ." />
+</script>
+<script id="31">
+<item slot="1" text="find a suitable vantage point ." />
+<item slot="2" text="approach vantage point ." />
+<item slot="3" text="wait in position ." />
+<item slot="4" text="verify the identity of those approaching ." />
+</script>
+<script id="32">
+<item slot="1" text="go downstairs ." />
+<item slot="2" text="go to the window ." />
+<item slot="3" text="scan the road ." />
+<item slot="4" text="wait ." />
+<item slot="5" text="do something else ." />
+<item slot="6" text="repeat until you spot kids ." />
+<item slot="7" text="welcome them home ." />
+</script>
+<script id="33">
+<item slot="1" text="go downstairs ." />
+<item slot="2" text="go to the window ." />
+<item slot="3" text="scan the road ." />
+<item slot="4" text="wait ." />
+<item slot="5" text="do something else ." />
+<item slot="6" text="repeat until you spot kids ." />
+<item slot="7" text="welcome them home ." />
+</script>
+<script id="34">
+<item slot="1" text="go downstairs ." />
+<item slot="2" text="go to the window ." />
+<item slot="3" text="scan the road ." />
+<item slot="4" text="wait ." />
+<item slot="5" text="do something else ." />
+<item slot="6" text="repeat until you spot kids ." />
+<item slot="7" text="welcome them home ." />
+</script>
+<script id="35">
+<item slot="1" text="go downstairs ." />
+<item slot="2" text="go to the window ." />
+<item slot="3" text="scan the road ." />
+<item slot="4" text="wait ." />
+<item slot="5" text="do something else ." />
+<item slot="6" text="repeat until you spot kids ." />
+<item slot="7" text="welcome them home ." />
+</script>
+<script id="36">
+<item slot="1" text="go to front window ." />
+<item slot="2" text="pull curtains back ." />
+<item slot="3" text="look for kids ." />
+</script>
+<script id="37">
+<item slot="1" text="go to front window ." />
+<item slot="2" text="pull curtains back ." />
+<item slot="3" text="look for kids ." />
+</script>
+<script id="38">
+<item slot="1" text="go to front window ." />
+<item slot="2" text="pull curtains back ." />
+<item slot="3" text="look for kids ." />
+</script>
+<script id="39">
+<item slot="1" text="clean house ." />
+<item slot="2" text="watch tv ." />
+<item slot="3" text="cook dinner ." />
+<item slot="4" text="make snacks ." />
+<item slot="5" text="go to window ." />
+<item slot="6" text="watch bus pull in ." />
+<item slot="7" text="see kids get out ." />
+</script>
+<script id="40">
+<item slot="1" text="sit by window ." />
+<item slot="2" text="look out window ." />
+<item slot="3" text="wait for kids to come home ." />
+<item slot="4" text="open the door for them ." />
+</script>
+<script id="41">
+<item slot="1" text="sit by window ." />
+<item slot="2" text="look out window ." />
+<item slot="3" text="wait for kids to come home ." />
+<item slot="4" text="open the door for them ." />
+</script>
+<script id="42">
+<item slot="1" text="sit by window ." />
+<item slot="2" text="look out window ." />
+<item slot="3" text="wait for kids to come home ." />
+<item slot="4" text="open the door for them ." />
+</script>
+<script id="43">
+<item slot="1" text="look out window ." />
+<item slot="2" text="watch for kids ." />
+</script>
+<script id="44">
+<item slot="1" text="look out window ." />
+<item slot="2" text="watch for kids ." />
+</script>
+<script id="45">
+<item slot="1" text="look out window ." />
+<item slot="2" text="watch for kids ." />
+</script>
+<script id="46">
+<item slot="1" text="look out window ." />
+<item slot="2" text="watch for kids ." />
+</script>
+<script id="47">
+<item slot="1" text="look out window ." />
+<item slot="2" text="watch for kids ." />
+</script>
+<script id="48">
+<item slot="1" text="look out window ." />
+<item slot="2" text="watch for kids ." />
+</script>
+<script id="49">
+<item slot="1" text="send kids away ." />
+<item slot="2" text="wait appropriate time ." />
+<item slot="3" text="walk to window or ." />
+<item slot="4" text="open door ." />
+<item slot="5" text="look left and right ." />
+<item slot="6" text="blink ." />
+<item slot="7" text="look right and left ." />
+</script>
+</scripts>

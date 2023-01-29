@@ -1,0 +1,330 @@
+<scripts>
+<script id="1">
+<item slot="1" text="buy oranges from the store ." />
+<item slot="2" text="slice each orange in half ." />
+<item slot="3" text="get out the juicer ." />
+<item slot="4" text="press the inside of each orange against the juicer ." />
+<item slot="5" text="twist the orange ." />
+<item slot="6" text="repeat with each orange half ." />
+</script>
+<script id="2">
+<item slot="1" text="cut oranges in half ." />
+<item slot="2" text="get the juicer ." />
+<item slot="3" text="squeeze the half oranges using the juicer ." />
+<item slot="4" text="pour the fresh juice into a glass ." />
+</script>
+<script id="3">
+<item slot="1" text="take an orange ." />
+<item slot="2" text="cut the orange into half ." />
+<item slot="3" text="squeeze the orange above a container ." />
+</script>
+<script id="4">
+<item slot="1" text="cut oranges in half ." />
+<item slot="2" text="get juicer ." />
+<item slot="3" text="press oranges with juicer ." />
+<item slot="4" text="pour orange juice into glass ." />
+</script>
+<script id="5">
+<item slot="1" text="buy fresh oranges ." />
+<item slot="2" text="cut oranges in half ." />
+<item slot="3" text="press half oranges in citrus press ." />
+<item slot="4" text="pour orange juice into glass ." />
+</script>
+<script id="6">
+<item slot="1" text="get oranges ." />
+<item slot="2" text="cut oranges in two ." />
+<item slot="3" text="until there are no more oranges do ." />
+<item slot="4" text="put orange half in juicer ." />
+<item slot="5" text="using lever squeeze ." />
+<item slot="6" text="collect orange juice ." />
+<item slot="7" text="clean up ." />
+</script>
+<script id="7">
+<item slot="1" text="get the oranges ." />
+<item slot="2" text="peel the oranges ." />
+<item slot="3" text="press the juice in a jar ." />
+</script>
+<script id="8">
+<item slot="1" text="get a pitcher ." />
+<item slot="2" text="get a knife ." />
+<item slot="3" text="get a bag of oranges ." />
+<item slot="4" text="cut up the oranges ." />
+<item slot="5" text="get a juicer ." />
+<item slot="6" text="get the juice glasses ." />
+<item slot="7" text="squeeze the cut up oranges on the juicer and pour the juice into the glasses ." />
+</script>
+<script id="9">
+<item slot="1" text="select oranges ." />
+<item slot="2" text="slice oranges ." />
+<item slot="3" text="squash oranges using fruit juicer ." />
+<item slot="4" text="dispose of used oranges ." />
+<item slot="5" text="pour juice in glass ." />
+</script>
+<script id="10">
+<item slot="1" text="place oranges on counter ." />
+<item slot="2" text="place beverage container on counter ." />
+<item slot="3" text="cut oranges in half ." />
+<item slot="4" text="squeeze orange halves over container ." />
+<item slot="5" text="discard sqeezed orange halves ." />
+</script>
+<script id="11">
+<item slot="1" text="get orange ." />
+<item slot="2" text="cut in half ." />
+<item slot="3" text="get juicer ." />
+<item slot="4" text="place orange half on top ." />
+<item slot="5" text="push down and twist orange half ." />
+<item slot="6" text="remove any pips ." />
+<item slot="7" text="pour juice into glass ." />
+</script>
+<script id="12">
+<item slot="1" text="place orange into press ." />
+<item slot="2" text="press orange ." />
+<item slot="3" text="collect juice ." />
+</script>
+<script id="13">
+<item slot="1" text="wash the orange ." />
+<item slot="2" text="slice the orange ." />
+<item slot="3" text="squeeze it in a glass or container ." />
+</script>
+<script id="14">
+<item slot="1" text="cut some oranges in half ." />
+<item slot="2" text="place strainer on top of glass ." />
+<item slot="3" text="squeeze each half orange into strainer ." />
+<item slot="4" text="remove strainer ." />
+<item slot="5" text="fish any seeds out of glass ." />
+</script>
+<script id="15">
+<item slot="1" text="slice oranges into halves ." />
+<item slot="2" text="squeeze orange halves into cup ." />
+</script>
+<script id="16">
+<item slot="1" text="select oranges ." />
+<item slot="2" text="select a container ." />
+<item slot="3" text="cut oranges into pieces ." />
+<item slot="4" text="squeeze oranges onto juicer ." />
+<item slot="5" text="collect juice in container ." />
+</script>
+<script id="17">
+<item slot="1" text="take orange ." />
+<item slot="2" text="cut orange in half ." />
+<item slot="3" text="squeese orange into glass ." />
+<item slot="4" text="repeat steps 123 until glass is almost full ." />
+<item slot="5" text="serve glass ." />
+<item slot="6" text="put orange husks in trash can ." />
+<item slot="7" text="clean up self and area ." />
+</script>
+<script id="18">
+<item slot="1" text="take orange ." />
+<item slot="2" text="cut orange in half ." />
+<item slot="3" text="squeese orange into glass ." />
+<item slot="4" text="repeat steps 123 until glass is almost full ." />
+<item slot="5" text="serve glass ." />
+<item slot="6" text="put orange husks in trash can ." />
+<item slot="7" text="clean up self and area ." />
+</script>
+<script id="19">
+<item slot="1" text="take orange ." />
+<item slot="2" text="cut orange in half ." />
+<item slot="3" text="squeese orange into glass ." />
+<item slot="4" text="repeat steps 123 until glass is almost full ." />
+<item slot="5" text="serve glass ." />
+<item slot="6" text="put orange husks in trash can ." />
+<item slot="7" text="clean up self and area ." />
+</script>
+<script id="20">
+<item slot="1" text="take orange ." />
+<item slot="2" text="cut orange in half ." />
+<item slot="3" text="squeese orange into glass ." />
+<item slot="4" text="repeat steps 123 until glass is almost full ." />
+<item slot="5" text="serve glass ." />
+<item slot="6" text="put orange husks in trash can ." />
+<item slot="7" text="clean up self and area ." />
+</script>
+<script id="21">
+<item slot="1" text="buy oranges ." />
+<item slot="2" text="cut oranges ." />
+<item slot="3" text="squeeze oranges into glass ." />
+<item slot="4" text="drink ." />
+</script>
+<script id="22">
+<item slot="1" text="buy or pick oranges ." />
+<item slot="2" text="get a pitcher and juicer ." />
+<item slot="3" text="squeeze juice out of the oranges ." />
+<item slot="4" text="add sugar and or water to taste ." />
+<item slot="5" text="stir ." />
+<item slot="6" text="enjoy ." />
+</script>
+<script id="23">
+<item slot="1" text="cut oranges ." />
+<item slot="2" text="squeeze juice ." />
+</script>
+<script id="24">
+<item slot="1" text="cut oranges ." />
+<item slot="2" text="squeeze juice ." />
+</script>
+<script id="25">
+<item slot="1" text="pick a fresh orange from it s tree ." />
+<item slot="2" text="wash the orange ." />
+<item slot="3" text="cut the orange into 2 pieces ." />
+<item slot="4" text="put a piece of the orange in the squeezer ." />
+<item slot="5" text="squeeze the juice into glass ." />
+</script>
+<script id="26">
+<item slot="1" text="buy or pick oranges ." />
+<item slot="2" text="cut oranges in half ." />
+<item slot="3" text="squeeze juice out of oranges into glass ." />
+</script>
+<script id="27">
+<item slot="1" text="buy or pick oranges ." />
+<item slot="2" text="cut oranges in half ." />
+<item slot="3" text="squeeze juice out of oranges into glass ." />
+</script>
+<script id="28">
+<item slot="1" text="get orange ." />
+<item slot="2" text="remove juice ." />
+<item slot="3" text="add juice to cup ." />
+</script>
+<script id="29">
+<item slot="1" text="find orange ." />
+<item slot="2" text="cut orange in half ." />
+<item slot="3" text="press firts half of orange against squeezer ." />
+<item slot="4" text="rotate orange ." />
+<item slot="5" text="repeat for second half ." />
+<item slot="6" text="pour orange juice in a container ." />
+</script>
+<script id="30">
+<item slot="1" text="gather oranges ." />
+<item slot="2" text="get out juicer ." />
+<item slot="3" text="cut each orange in half ." />
+<item slot="4" text="press each half onto juicer ." />
+<item slot="5" text="turn and push on each half ." />
+<item slot="6" text="discard orange peels ." />
+<item slot="7" text="pour orange juice into pitcher ." />
+</script>
+<script id="31">
+<item slot="1" text="cut orange in half ." />
+<item slot="2" text="put orange half on juicer ." />
+<item slot="3" text="twist orange from right to left ." />
+<item slot="4" text="twist orange from left to right ." />
+<item slot="5" text="repeat until there is no more pulp ." />
+<item slot="6" text="remove orange half ." />
+<item slot="7" text="repeat with other half orange ." />
+</script>
+<script id="32">
+<item slot="1" text="plug in and turn on juicer ." />
+<item slot="2" text="cut oranges in half ." />
+<item slot="3" text="push oranges onto juicer ." />
+<item slot="4" text="let juicer scrape out juices ." />
+<item slot="5" text="do all the orange halves ." />
+</script>
+<script id="33">
+<item slot="1" text="cut orange ." />
+<item slot="2" text="sweeze juice ." />
+</script>
+<script id="34">
+<item slot="1" text="cut orange ." />
+<item slot="2" text="sweeze juice ." />
+</script>
+<script id="35">
+<item slot="1" text="cut orange ." />
+<item slot="2" text="sweeze juice ." />
+</script>
+<script id="36">
+<item slot="1" text="cut orange ." />
+<item slot="2" text="sweeze juice ." />
+</script>
+<script id="37">
+<item slot="1" text="cut orange ." />
+<item slot="2" text="sweeze juice ." />
+</script>
+<script id="38">
+<item slot="1" text="cut orange ." />
+<item slot="2" text="sweeze juice ." />
+</script>
+<script id="39">
+<item slot="1" text="cut oranges in half ." />
+<item slot="2" text="press down and twist open half on juicer ." />
+<item slot="3" text="repeat step 2 until you have enough o j ." />
+</script>
+<script id="40">
+<item slot="1" text="cut oranges in half ." />
+<item slot="2" text="press down and twist open half on juicer ." />
+<item slot="3" text="repeat step 2 until you have enough o j ." />
+</script>
+<script id="41">
+<item slot="1" text="cut oranges in half ." />
+<item slot="2" text="press down and twist open half on juicer ." />
+<item slot="3" text="repeat step 2 until you have enough o j ." />
+</script>
+<script id="42">
+<item slot="1" text="cut oranges in half ." />
+<item slot="2" text="press down and twist open half on juicer ." />
+<item slot="3" text="repeat step 2 until you have enough o j ." />
+</script>
+<script id="43">
+<item slot="1" text="cut oranges in half ." />
+<item slot="2" text="press down and twist open half on juicer ." />
+<item slot="3" text="repeat step 2 until you have enough o j ." />
+</script>
+<script id="44">
+<item slot="1" text="cut oranges in half ." />
+<item slot="2" text="press down and twist open half on juicer ." />
+<item slot="3" text="repeat step 2 until you have enough o j ." />
+</script>
+<script id="45">
+<item slot="1" text="locate oranges ." />
+<item slot="2" text="peel oranges ." />
+<item slot="3" text="place orange into juice squeezer ." />
+<item slot="4" text="pull down lever to squeeze juice ." />
+<item slot="5" text="pour liquid into glass ." />
+</script>
+<script id="46">
+<item slot="1" text="locate oranges ." />
+<item slot="2" text="peel oranges ." />
+<item slot="3" text="place orange into juice squeezer ." />
+<item slot="4" text="pull down lever to squeeze juice ." />
+<item slot="5" text="pour liquid into glass ." />
+</script>
+<script id="47">
+<item slot="1" text="get orange ." />
+<item slot="2" text="cut orange in half ." />
+<item slot="3" text="push half orange on juicing tool ." />
+<item slot="4" text="twist orange ." />
+</script>
+<script id="48">
+<item slot="1" text="get orange ." />
+<item slot="2" text="cut orange in half ." />
+<item slot="3" text="push half orange on juicing tool ." />
+<item slot="4" text="twist orange ." />
+</script>
+<script id="49">
+<item slot="1" text="get orange ." />
+<item slot="2" text="cut orange in half ." />
+<item slot="3" text="push half orange on juicing tool ." />
+<item slot="4" text="twist orange ." />
+</script>
+<script id="50">
+<item slot="1" text="get orange ." />
+<item slot="2" text="cut orange in half ." />
+<item slot="3" text="squeeze half of orage over cup ." />
+</script>
+<script id="51">
+<item slot="1" text="get orange ." />
+<item slot="2" text="cut orange in half ." />
+<item slot="3" text="squeeze half of orage over cup ." />
+</script>
+<script id="52">
+<item slot="1" text="get orange ." />
+<item slot="2" text="cut orange in half ." />
+<item slot="3" text="squeeze half of orage over cup ." />
+</script>
+<script id="53">
+<item slot="1" text="squeeze juice out of oranges ." />
+</script>
+<script id="54">
+<item slot="1" text="slice orange in half ." />
+<item slot="2" text="get empty glass ." />
+<item slot="3" text="squeeze orage over glass ." />
+<item slot="4" text="let juice drip into cup ." />
+</script>
+</scripts>

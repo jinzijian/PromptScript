@@ -1,0 +1,430 @@
+<scripts>
+<script id="1">
+<item slot="1" text="fill sink with water ." />
+<item slot="2" text="add soap ." />
+<item slot="3" text="place dishes in sink ." />
+<item slot="4" text="use sponge to wipe dishes ." />
+<item slot="5" text="rinse dish ." />
+<item slot="6" text="place in clean side of sink ." />
+</script>
+<script id="2">
+<item slot="1" text="putting the dishes into the soap water ." />
+<item slot="2" text="wash them ." />
+</script>
+<script id="3">
+<item slot="1" text="load the dishwasher ." />
+<item slot="2" text="start the dishwasher ." />
+<item slot="3" text="put dish soap in the sink ." />
+<item slot="4" text="fill the sink ." />
+<item slot="5" text="scrub each dish ." />
+<item slot="6" text="rinse each dish ." />
+<item slot="7" text="dry each dish ." />
+</script>
+<script id="4">
+<item slot="1" text="put dishes in dishwasher ." />
+<item slot="2" text="put soap in dishwasher ." />
+<item slot="3" text="turn on dishwasher ." />
+</script>
+<script id="5">
+<item slot="1" text="place dishes in sink ." />
+<item slot="2" text="fill sink with water and soap ." />
+<item slot="3" text="run cloth or sponge over each dish wiping away dirt ." />
+<item slot="4" text="rinse each dish ." />
+<item slot="5" text="place rinsed dishes in drainboard ." />
+</script>
+<script id="6">
+<item slot="1" text="gather dirty dishes in sink ." />
+<item slot="2" text="put dishes in dishwasher one by one ." />
+<item slot="3" text="pour detergent in dishwasher ." />
+<item slot="4" text="close dishwasher door ." />
+<item slot="5" text="turn dishwasher on ." />
+</script>
+<script id="7">
+<item slot="1" text="turn water on in the sink ." />
+<item slot="2" text="scrape each dish off into the sink ." />
+<item slot="3" text="place the dish in the dishwasher ." />
+<item slot="4" text="turn on the dishwasher ." />
+</script>
+<script id="8">
+<item slot="1" text="put dishes inside dishwasher ." />
+<item slot="2" text="put detergent in dishwasher ." />
+<item slot="3" text="close dishwasher ." />
+<item slot="4" text="turn on dishwasher ." />
+</script>
+<script id="9">
+<item slot="1" text="gather dishes ." />
+<item slot="2" text="put dishes in dishwasher ." />
+<item slot="3" text="put detergent in dishwasher ." />
+<item slot="4" text="turn on dishwasher ." />
+<item slot="5" text="wait for dishwasher to finish ." />
+<item slot="6" text="remove dishes ." />
+</script>
+<script id="10">
+<item slot="1" text="gather dishes ." />
+<item slot="2" text="put dishes in sink ." />
+<item slot="3" text="ran water over them ." />
+<item slot="4" text="using a sponge with detergent scrub dishes ." />
+<item slot="5" text="rinse dishes ." />
+<item slot="6" text="leave dishes to dry ." />
+</script>
+<script id="11">
+<item slot="1" text="place dishes in dishwasher ." />
+<item slot="2" text="add detergent ." />
+<item slot="3" text="turn dishwasher on ." />
+<item slot="4" text="wait for dishwasher to finish ." />
+</script>
+<script id="12">
+<item slot="1" text="remove dirty dishes from where they are ." />
+<item slot="2" text="place them inside dishwasher ." />
+<item slot="3" text="add detergent ." />
+<item slot="4" text="turn on dishwasher ." />
+<item slot="5" text="wait for dishwasher  to finish ." />
+<item slot="6" text="remove dishes and leave to dry ." />
+</script>
+<script id="13">
+<item slot="1" text="bring dishes to sink ." />
+<item slot="2" text="run water over dishes ." />
+<item slot="3" text="for each dish do ." />
+<item slot="4" text="take dish ." />
+<item slot="5" text="clean with detergent and sponge ." />
+<item slot="6" text="rinse dish ." />
+<item slot="7" text="leave to dry ." />
+</script>
+<script id="14">
+<item slot="1" text="load dishwasher ." />
+<item slot="2" text="put detergent in dishwasher ." />
+<item slot="3" text="start dishwasher ." />
+<item slot="4" text="wait until dishwasher is done ." />
+<item slot="5" text="unload dishwasher ." />
+</script>
+<script id="15">
+<item slot="1" text="fill a bowl with hot water ." />
+<item slot="2" text="put in some washing up liquid ." />
+<item slot="3" text="wash all the dirty dishes put them on the draining board to dry ." />
+<item slot="4" text="empty the bowl ." />
+</script>
+<script id="16">
+<item slot="1" text="take all the stuff from the dishes and throw in the garbage ." />
+<item slot="2" text="put liquid soap ." />
+<item slot="3" text="wash with water ." />
+</script>
+<script id="17">
+<item slot="1" text="remove dishes from table ." />
+<item slot="2" text="rinse food particles from dishes ." />
+<item slot="3" text="open dishwasher door ." />
+<item slot="4" text="place dishes in dishwasher ." />
+<item slot="5" text="add detergent to dispenser in dishwasher ." />
+<item slot="6" text="close dishwasher door ." />
+<item slot="7" text="start dishwasher ." />
+</script>
+<script id="18">
+<item slot="1" text="place dishes in dishwasher ." />
+<item slot="2" text="fill dishwasher with soap ." />
+<item slot="3" text="set dishwasher to correct setting ." />
+<item slot="4" text="close and start dishwasher ." />
+</script>
+<script id="19">
+<item slot="1" text="fill sink with hot water ." />
+<item slot="2" text="pour liquid soap into water ." />
+<item slot="3" text="dip dish in hot soapy water ." />
+<item slot="4" text="rub soapy water all over dish ." />
+<item slot="5" text="rinse dish with clean water ." />
+<item slot="6" text="place dish in drying rack ." />
+</script>
+<script id="20">
+<item slot="1" text="put hot water in sink ." />
+<item slot="2" text="add a little cold water ." />
+<item slot="3" text="add some detergent ." />
+<item slot="4" text="wash the non greasy dishes first ." />
+<item slot="5" text="use a dish cloth ." />
+<item slot="6" text="wash the rest of the dishes ." />
+<item slot="7" text="rinse dishes with clean water ." />
+</script>
+<script id="21">
+<item slot="1" text="collect dishes ." />
+<item slot="2" text="fill sink with water and soap ." />
+<item slot="3" text="scrub dishes ." />
+<item slot="4" text="rinse dishes ." />
+<item slot="5" text="dry dishes ." />
+<item slot="6" text="put away dishes ." />
+</script>
+<script id="22">
+<item slot="1" text="take dishes to kitchen ." />
+<item slot="2" text="rinse off dishes ." />
+<item slot="3" text="place dishes in dishwasher ." />
+<item slot="4" text="add detergent ." />
+<item slot="5" text="close dish washer ." />
+<item slot="6" text="turn dishwasher on ." />
+</script>
+<script id="23">
+<item slot="1" text="rinse dishes with water ." />
+<item slot="2" text="scrub dishes with soapy sponge ." />
+<item slot="3" text="place dishes in drying rack ." />
+</script>
+<script id="24">
+<item slot="1" text="fill sink with water ." />
+<item slot="2" text="add dish soap ." />
+<item slot="3" text="put dirty dishes in sink full of water ." />
+<item slot="4" text="wipe dishes with sponge and soapy water ." />
+<item slot="5" text="rinse dishes under clear running water ." />
+<item slot="6" text="stack dishes in drainer to dry ." />
+</script>
+<script id="25">
+<item slot="1" text="fill sink with water ." />
+<item slot="2" text="add dish soap ." />
+<item slot="3" text="put dirty dishes in sink full of water ." />
+<item slot="4" text="wipe dishes with sponge and soapy water ." />
+<item slot="5" text="rinse dishes under clear running water ." />
+<item slot="6" text="stack dishes in drainer to dry ." />
+</script>
+<script id="26">
+<item slot="1" text="fill sink with water ." />
+<item slot="2" text="add dish soap ." />
+<item slot="3" text="put dirty dishes in sink full of water ." />
+<item slot="4" text="wipe dishes with sponge and soapy water ." />
+<item slot="5" text="rinse dishes under clear running water ." />
+<item slot="6" text="stack dishes in drainer to dry ." />
+</script>
+<script id="27">
+<item slot="1" text="fill sink with water ." />
+<item slot="2" text="add dish soap ." />
+<item slot="3" text="put dirty dishes in sink full of water ." />
+<item slot="4" text="wipe dishes with sponge and soapy water ." />
+<item slot="5" text="rinse dishes under clear running water ." />
+<item slot="6" text="stack dishes in drainer to dry ." />
+</script>
+<script id="28">
+<item slot="1" text="fill sink with water ." />
+<item slot="2" text="add dish soap ." />
+<item slot="3" text="put dirty dishes in sink full of water ." />
+<item slot="4" text="wipe dishes with sponge and soapy water ." />
+<item slot="5" text="rinse dishes under clear running water ." />
+<item slot="6" text="stack dishes in drainer to dry ." />
+</script>
+<script id="29">
+<item slot="1" text="fill sink with water ." />
+<item slot="2" text="add dish soap ." />
+<item slot="3" text="put dirty dishes in sink full of water ." />
+<item slot="4" text="wipe dishes with sponge and soapy water ." />
+<item slot="5" text="rinse dishes under clear running water ." />
+<item slot="6" text="stack dishes in drainer to dry ." />
+</script>
+<script id="30">
+<item slot="1" text="fill sink with water ." />
+<item slot="2" text="add dish soap ." />
+<item slot="3" text="put dirty dishes in sink full of water ." />
+<item slot="4" text="wipe dishes with sponge and soapy water ." />
+<item slot="5" text="rinse dishes under clear running water ." />
+<item slot="6" text="stack dishes in drainer to dry ." />
+</script>
+<script id="31">
+<item slot="1" text="fill sink with water ." />
+<item slot="2" text="add dish soap ." />
+<item slot="3" text="put dirty dishes in sink full of water ." />
+<item slot="4" text="wipe dishes with sponge and soapy water ." />
+<item slot="5" text="rinse dishes under clear running water ." />
+<item slot="6" text="stack dishes in drainer to dry ." />
+</script>
+<script id="32">
+<item slot="1" text="fill sink with water ." />
+<item slot="2" text="add dish soap ." />
+<item slot="3" text="put dirty dishes in sink full of water ." />
+<item slot="4" text="wipe dishes with sponge and soapy water ." />
+<item slot="5" text="rinse dishes under clear running water ." />
+<item slot="6" text="stack dishes in drainer to dry ." />
+</script>
+<script id="33">
+<item slot="1" text="fill sink with water ." />
+<item slot="2" text="add dish soap ." />
+<item slot="3" text="add dishes ." />
+<item slot="4" text="wash dishes ." />
+</script>
+<script id="34">
+<item slot="1" text="turn on water ." />
+</script>
+<script id="35">
+<item slot="1" text="turn on water ." />
+</script>
+<script id="36">
+<item slot="1" text="scrape food off dishes ." />
+<item slot="2" text="rinse dishes ." />
+<item slot="3" text="use soap to wash dishes ." />
+<item slot="4" text="dry dishes ." />
+</script>
+<script id="37">
+<item slot="1" text="put plug in drain ." />
+<item slot="2" text="turn on water ." />
+<item slot="3" text="add dishsoap ." />
+<item slot="4" text="turn off water ." />
+<item slot="5" text="scrub dishes ." />
+<item slot="6" text="rinse dishes ." />
+<item slot="7" text="empty sink ." />
+</script>
+<script id="38">
+<item slot="1" text="gather dishes ." />
+<item slot="2" text="open dishwasher ." />
+<item slot="3" text="insert dishes into dishwasher ." />
+<item slot="4" text="insert detergent into dishwasher ." />
+<item slot="5" text="close dishwasher ." />
+<item slot="6" text="set dishwasher parameters ." />
+<item slot="7" text="start dishwasher ." />
+</script>
+<script id="39">
+<item slot="1" text="put dishes in sink ." />
+<item slot="2" text="fill with water ." />
+<item slot="3" text="wash dishes ." />
+<item slot="4" text="let dishes dry ." />
+</script>
+<script id="40">
+<item slot="1" text="put dishes in sink ." />
+<item slot="2" text="fill with water ." />
+<item slot="3" text="wash dishes ." />
+<item slot="4" text="let dishes dry ." />
+</script>
+<script id="41">
+<item slot="1" text="fill sink with hot soapy water ." />
+<item slot="2" text="place dishes in sink ." />
+<item slot="3" text="use cloth to wask dish ." />
+<item slot="4" text="rinse with clean water ." />
+<item slot="5" text="place dish in rack to dry ." />
+</script>
+<script id="42">
+<item slot="1" text="fill sink with hot soapy water ." />
+<item slot="2" text="place dishes in sink ." />
+<item slot="3" text="use cloth to wask dish ." />
+<item slot="4" text="rinse with clean water ." />
+<item slot="5" text="place dish in rack to dry ." />
+</script>
+<script id="43">
+<item slot="1" text="fill sink with hot soapy water ." />
+<item slot="2" text="place dishes in sink ." />
+<item slot="3" text="use cloth to wask dish ." />
+<item slot="4" text="rinse with clean water ." />
+<item slot="5" text="place dish in rack to dry ." />
+</script>
+<script id="44">
+<item slot="1" text="wash the dishes with soap ." />
+<item slot="2" text="rinse with water ." />
+<item slot="3" text="dry dishes ." />
+</script>
+<script id="45">
+<item slot="1" text="get dirty dishes ." />
+<item slot="2" text="fill sink with soapy water ." />
+<item slot="3" text="scrub dishes ." />
+<item slot="4" text="rinse dishes ." />
+<item slot="5" text="dry dishes ." />
+<item slot="6" text="put dishes away ." />
+</script>
+<script id="46">
+<item slot="1" text="put dishes in sink ." />
+<item slot="2" text="fill up with hot water ." />
+<item slot="3" text="put in 4 drops of dish detergent ." />
+<item slot="4" text="pick up one dish ." />
+<item slot="5" text="wipe with cloth ." />
+<item slot="6" text="until no debris rinse ." />
+<item slot="7" text="repeat steps4-6 ." />
+</script>
+<script id="47">
+<item slot="1" text="put dishes in sink ." />
+<item slot="2" text="fill up with hot water ." />
+<item slot="3" text="put in 4 drops of dish detergent ." />
+<item slot="4" text="pick up one dish ." />
+<item slot="5" text="wipe with cloth ." />
+<item slot="6" text="until no debris rinse ." />
+<item slot="7" text="repeat steps4-6 ." />
+</script>
+<script id="48">
+<item slot="1" text="put dishes in sink ." />
+<item slot="2" text="fill up with hot water ." />
+<item slot="3" text="put in 4 drops of dish detergent ." />
+<item slot="4" text="pick up one dish ." />
+<item slot="5" text="wipe with cloth ." />
+<item slot="6" text="until no debris rinse ." />
+<item slot="7" text="repeat steps4-6 ." />
+</script>
+<script id="49">
+<item slot="1" text="fill the sink with water ." />
+<item slot="2" text="pour drops of detergent ." />
+<item slot="3" text="get a sponge ." />
+<item slot="4" text="pick up a dish ." />
+<item slot="5" text="clean with the sponge ." />
+<item slot="6" text="rinse until soap is gone ." />
+<item slot="7" text="repeat ." />
+</script>
+<script id="50">
+<item slot="1" text="rinse off dishes with warm water ." />
+<item slot="2" text="use a sponge and detergent to wipe off the dishes ." />
+<item slot="3" text="rinse the dishes with hot water ." />
+<item slot="4" text="place washed dishes on a drying rack ." />
+</script>
+<script id="51">
+<item slot="1" text="rinse off dishes with warm water ." />
+<item slot="2" text="use a sponge and detergent to wipe off the dishes ." />
+<item slot="3" text="rinse the dishes with hot water ." />
+<item slot="4" text="place washed dishes on a drying rack ." />
+</script>
+<script id="52">
+<item slot="1" text="rinse off dishes with warm water ." />
+<item slot="2" text="use a sponge and detergent to wipe off the dishes ." />
+<item slot="3" text="rinse the dishes with hot water ." />
+<item slot="4" text="place washed dishes on a drying rack ." />
+</script>
+<script id="53">
+<item slot="1" text="rinse off dishes with warm water ." />
+<item slot="2" text="use a sponge and detergent to wipe off the dishes ." />
+<item slot="3" text="rinse the dishes with hot water ." />
+<item slot="4" text="place washed dishes on a drying rack ." />
+</script>
+<script id="54">
+<item slot="1" text="rinse off dishes with warm water ." />
+<item slot="2" text="use a sponge and detergent to wipe off the dishes ." />
+<item slot="3" text="rinse the dishes with hot water ." />
+<item slot="4" text="place washed dishes on a drying rack ." />
+</script>
+<script id="55">
+<item slot="1" text="rinse off dishes with warm water ." />
+<item slot="2" text="use a sponge and detergent to wipe off the dishes ." />
+<item slot="3" text="rinse the dishes with hot water ." />
+<item slot="4" text="place washed dishes on a drying rack ." />
+</script>
+<script id="56">
+<item slot="1" text="fill sink with water ." />
+<item slot="2" text="put liquid soap into water ." />
+<item slot="3" text="put dirty dishes in soapy water ." />
+<item slot="4" text="scrub the dishes ." />
+<item slot="5" text="rinse the dishes ." />
+<item slot="6" text="put dishes aside to dry ." />
+</script>
+<script id="57">
+<item slot="1" text="fill sink with water ." />
+<item slot="2" text="put liquid soap into water ." />
+<item slot="3" text="put dirty dishes in soapy water ." />
+<item slot="4" text="scrub the dishes ." />
+<item slot="5" text="rinse the dishes ." />
+<item slot="6" text="put dishes aside to dry ." />
+</script>
+<script id="58">
+<item slot="1" text="fill sink with water ." />
+<item slot="2" text="put liquid soap into water ." />
+<item slot="3" text="put dirty dishes in soapy water ." />
+<item slot="4" text="scrub the dishes ." />
+<item slot="5" text="rinse the dishes ." />
+<item slot="6" text="put dishes aside to dry ." />
+</script>
+<script id="59">
+<item slot="1" text="fill sink with water ." />
+<item slot="2" text="put dishes in sink ." />
+<item slot="3" text="wash dishes ." />
+</script>
+<script id="60">
+<item slot="1" text="fill sink with water ." />
+<item slot="2" text="put dishes in sink ." />
+<item slot="3" text="wash dishes ." />
+</script>
+<script id="61">
+<item slot="1" text="take soap ." />
+<item slot="2" text="take dishes ." />
+<item slot="3" text="place both in sink ." />
+<item slot="4" text="wash dishes ." />
+</script>
+</scripts>

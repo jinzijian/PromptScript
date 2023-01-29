@@ -1,0 +1,149 @@
+<scripts>
+<script id="1">
+<item slot="1" text="clean the table ." />
+<item slot="2" text="wash the dishes ." />
+<item slot="3" text="clean the floor ." />
+</script>
+<script id="2">
+<item slot="1" text="find objects which are not where they belong ." />
+<item slot="2" text="pick up each object ." />
+<item slot="3" text="put it in the place where it belongs ." />
+<item slot="4" text="continue until all objects are put away ." />
+</script>
+<script id="3">
+<item slot="1" text="locate trash ." />
+<item slot="2" text="take object to trash can ." />
+</script>
+<script id="4">
+<item slot="1" text="find an object to be put away ." />
+<item slot="2" text="put the object into its place ." />
+<item slot="3" text="repeat until all objects are put away ." />
+</script>
+<script id="5">
+<item slot="1" text="choose what you want to clean up ." />
+<item slot="2" text="get the correct cleaning materials ." />
+<item slot="3" text="use them to clean the object or area you want to clean ." />
+</script>
+<script id="6">
+<item slot="1" text="identify mess ." />
+<item slot="2" text="identify best method to clean mess ." />
+<item slot="3" text="employ method ." />
+</script>
+<script id="7">
+<item slot="1" text="take a basket ." />
+<item slot="2" text="put water in basket ." />
+<item slot="3" text="add soap ." />
+<item slot="4" text="put mop in basket ." />
+<item slot="5" text="move mop over the floor ." />
+<item slot="6" text="squash water out of mop ." />
+<item slot="7" text="re-do he floor with dry mop ." />
+</script>
+<script id="8">
+<item slot="1" text="figure out how the room should look when clean ." />
+<item slot="2" text="pick up out of place objects ." />
+<item slot="3" text="clean dirty things ." />
+</script>
+<script id="9">
+<item slot="1" text="put all items on the counter away ." />
+<item slot="2" text="pick up all items on the floor ." />
+<item slot="3" text="sweep or vacuum floor ." />
+<item slot="4" text="clean bathroom ." />
+</script>
+<script id="10">
+<item slot="1" text="pick up a task for clean up ." />
+<item slot="2" text="gather all the things that need to be cleaned up ." />
+<item slot="3" text="put items in their respective places ." />
+</script>
+<script id="11">
+<item slot="1" text="pick up toys ." />
+<item slot="2" text="put toys in toy box ." />
+<item slot="3" text="pick up books ." />
+<item slot="4" text="return books to shelves ." />
+<item slot="5" text="take dirty dishes to kitchen ." />
+<item slot="6" text="put dirty clothes in hamper ." />
+<item slot="7" text="vacuum floor ." />
+</script>
+<script id="12">
+<item slot="1" text="clean up involves replacing moving or arranging room back to the original state ." />
+</script>
+<script id="13">
+<item slot="1" text="clean up involves replacing moving or arranging room back to the original state ." />
+</script>
+<script id="14">
+<item slot="1" text="find the place ." />
+<item slot="2" text="pour the water ." />
+<item slot="3" text="cleanup ." />
+</script>
+<script id="15">
+<item slot="1" text="pick up large objects ." />
+<item slot="2" text="sweep up debris ." />
+<item slot="3" text="straighten permanent objects ." />
+</script>
+<script id="16">
+<item slot="1" text="collect garbage ." />
+<item slot="2" text="vacuum ." />
+<item slot="3" text="mop the floor ." />
+</script>
+<script id="17">
+<item slot="1" text="wipe surface with paper towel to rid of crumbs ." />
+<item slot="2" text="spray surface with cleaner ." />
+<item slot="3" text="wipe surface with paper towel ." />
+</script>
+<script id="18">
+<item slot="1" text="wipe surface with paper towel to rid of crumbs ." />
+<item slot="2" text="spray surface with cleaner ." />
+<item slot="3" text="wipe surface with paper towel ." />
+</script>
+<script id="19">
+<item slot="1" text="wipe surface with paper towel to rid of crumbs ." />
+<item slot="2" text="spray surface with cleaner ." />
+<item slot="3" text="wipe surface with paper towel ." />
+</script>
+<script id="20">
+<item slot="1" text="wipe surface with paper towel to rid of crumbs ." />
+<item slot="2" text="spray surface with cleaner ." />
+<item slot="3" text="wipe surface with paper towel ." />
+</script>
+<script id="21">
+<item slot="1" text="gather items that are causing mess ." />
+</script>
+<script id="22">
+<item slot="1" text="find mess ." />
+<item slot="2" text="clean up mess ." />
+<item slot="3" text="organize mess ." />
+</script>
+<script id="23">
+<item slot="1" text="find mess ." />
+<item slot="2" text="clean up mess ." />
+<item slot="3" text="organize mess ." />
+</script>
+<script id="24">
+<item slot="1" text="find mess ." />
+<item slot="2" text="clean up mess ." />
+<item slot="3" text="organize mess ." />
+</script>
+<script id="25">
+<item slot="1" text="find mess ." />
+<item slot="2" text="clean up mess ." />
+<item slot="3" text="organize mess ." />
+</script>
+<script id="26">
+<item slot="1" text="find mess ." />
+<item slot="2" text="clean up mess ." />
+<item slot="3" text="organize mess ." />
+</script>
+<script id="27">
+<item slot="1" text="find mess ." />
+<item slot="2" text="clean up mess ." />
+<item slot="3" text="organize mess ." />
+</script>
+<script id="28">
+<item slot="1" text="see the mess ." />
+<item slot="2" text="get broom and dustpan ." />
+<item slot="3" text="set aside ." />
+<item slot="4" text="pick up all objects ." />
+<item slot="5" text="put them away ." />
+<item slot="6" text="take broom and sweep ." />
+<item slot="7" text="use dustpan to get dirt ." />
+</script>
+</scripts>

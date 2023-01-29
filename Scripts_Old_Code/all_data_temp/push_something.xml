@@ -1,0 +1,197 @@
+<scripts>
+<script id="1">
+<item slot="1" text="locate the thing to push ." />
+<item slot="2" text="position yourself behind it ." />
+<item slot="3" text="push ." />
+</script>
+<script id="2">
+<item slot="1" text="locate the thing to be pushed ." />
+<item slot="2" text="move to that thing ." />
+<item slot="3" text="put hands on the thing ." />
+<item slot="4" text="move towards the direction desired while hands held against the thing ." />
+</script>
+<script id="3">
+<item slot="1" text="see whether the object might fall if pushed ." />
+<item slot="2" text="if not push object with your hands ." />
+</script>
+<script id="4">
+<item slot="1" text="move toward something ." />
+<item slot="2" text="make contact with it ." />
+<item slot="3" text="continue moving ." />
+</script>
+<script id="5">
+<item slot="1" text="approach the object ." />
+<item slot="2" text="place hands on the object ." />
+<item slot="3" text="lean toward the object ." />
+<item slot="4" text="hopefully this will move the object where you need it ." />
+</script>
+<script id="6">
+<item slot="1" text="apply pressure to something ." />
+</script>
+<script id="7">
+<item slot="1" text="move behind object ." />
+<item slot="2" text="lean towards object ." />
+<item slot="3" text="put hands on object ." />
+<item slot="4" text="move your weight forward pressing your hands on object ." />
+</script>
+<script id="8">
+<item slot="1" text="position yourself behind object ." />
+<item slot="2" text="lean against object with hands in front ." />
+<item slot="3" text="apply weight to object so that it moves ." />
+<item slot="4" text="stop when reached desired location ." />
+</script>
+<script id="9">
+<item slot="1" text="move to object ." />
+<item slot="2" text="apply force to the object ." />
+</script>
+<script id="10">
+<item slot="1" text="put one s hand on the thing ." />
+<item slot="2" text="apply force to the thing ." />
+</script>
+<script id="11">
+<item slot="1" text="place hands on object ." />
+<item slot="2" text="apply force to move object across floor ." />
+</script>
+<script id="12">
+<item slot="1" text="place hands on object ." />
+<item slot="2" text="push it ." />
+</script>
+<script id="13">
+<item slot="1" text="find something ." />
+<item slot="2" text="push on something ." />
+</script>
+<script id="14">
+<item slot="1" text="get close to something ." />
+<item slot="2" text="put arms on something ." />
+</script>
+<script id="15">
+<item slot="1" text="of placing hands on object to be pushed ." />
+<item slot="2" text="have feet firmly on the ground ." />
+</script>
+<script id="16">
+<item slot="1" text="get behind something ." />
+<item slot="2" text="move something forward ." />
+</script>
+<script id="17">
+<item slot="1" text="place yourself next to the thing ." />
+<item slot="2" text="put both of your palm on the side of the thing ." />
+<item slot="3" text="start pushing forward ." />
+</script>
+<script id="18">
+<item slot="1" text="place yourself next to the thing ." />
+<item slot="2" text="put both of your palm on the side of the thing ." />
+<item slot="3" text="start pushing forward ." />
+</script>
+<script id="19">
+<item slot="1" text="stand behind ." />
+<item slot="2" text="place hands on object lean into the object ." />
+<item slot="3" text="walk forward pushing with arms ." />
+</script>
+<script id="20">
+<item slot="1" text="stand behind ." />
+<item slot="2" text="place hands on object lean into the object ." />
+<item slot="3" text="walk forward pushing with arms ." />
+</script>
+<script id="21">
+<item slot="1" text="stand behind ." />
+<item slot="2" text="place hands on object lean into the object ." />
+<item slot="3" text="walk forward pushing with arms ." />
+</script>
+<script id="22">
+<item slot="1" text="put hands on something ." />
+<item slot="2" text="apply pressure to push ." />
+</script>
+<script id="23">
+<item slot="1" text="place hands on object ." />
+<item slot="2" text="push object away from self ." />
+</script>
+<script id="24">
+<item slot="1" text="place hands on object ." />
+<item slot="2" text="push object away from self ." />
+</script>
+<script id="25">
+<item slot="1" text="plan out location ." />
+<item slot="2" text="decide on method/strategy ." />
+<item slot="3" text="bend knees ." />
+<item slot="4" text="push with hands with body weight behind ." />
+<item slot="5" text="push object to desired state ." />
+</script>
+<script id="26">
+<item slot="1" text="walk ." />
+<item slot="2" text="push object ." />
+</script>
+<script id="27">
+<item slot="1" text="walk ." />
+<item slot="2" text="push object ." />
+</script>
+<script id="28">
+<item slot="1" text="walk ." />
+<item slot="2" text="push object ." />
+</script>
+<script id="29">
+<item slot="1" text="walk ." />
+<item slot="2" text="push object ." />
+</script>
+<script id="30">
+<item slot="1" text="walk ." />
+<item slot="2" text="push object ." />
+</script>
+<script id="31">
+<item slot="1" text="walk ." />
+<item slot="2" text="push object ." />
+</script>
+<script id="32">
+<item slot="1" text="push thing ." />
+</script>
+<script id="33">
+<item slot="1" text="face object ." />
+<item slot="2" text="place both hands on object ." />
+<item slot="3" text="lean on object ." />
+<item slot="4" text="extend arms ." />
+</script>
+<script id="34">
+<item slot="1" text="face towards object ." />
+<item slot="2" text="place hands on object ." />
+<item slot="3" text="lean forward towards object ." />
+<item slot="4" text="use weight of your body through your hands to push against object ." />
+</script>
+<script id="35">
+<item slot="1" text="face towards object ." />
+<item slot="2" text="place hands on object ." />
+<item slot="3" text="lean forward towards object ." />
+<item slot="4" text="use weight of your body through your hands to push against object ." />
+</script>
+<script id="36">
+<item slot="1" text="face towards object ." />
+<item slot="2" text="place hands on object ." />
+<item slot="3" text="lean forward towards object ." />
+<item slot="4" text="use weight of your body through your hands to push against object ." />
+</script>
+<script id="37">
+<item slot="1" text="face towards object ." />
+<item slot="2" text="place hands on object ." />
+<item slot="3" text="lean forward towards object ." />
+<item slot="4" text="use weight of your body through your hands to push against object ." />
+</script>
+<script id="38">
+<item slot="1" text="select object to push ." />
+<item slot="2" text="walk up to object ." />
+<item slot="3" text="place your hands on object ." />
+<item slot="4" text="gently push the object ." />
+</script>
+<script id="39">
+<item slot="1" text="select object to push ." />
+<item slot="2" text="walk up to object ." />
+<item slot="3" text="place your hands on object ." />
+<item slot="4" text="gently push the object ." />
+</script>
+<script id="40">
+<item slot="1" text="select object to push ." />
+<item slot="2" text="walk up to object ." />
+<item slot="3" text="place your hands on object ." />
+<item slot="4" text="gently push the object ." />
+</script>
+<script id="41">
+<item slot="1" text="use force on something ." />
+</script>
+</scripts>

@@ -1,0 +1,229 @@
+<scripts>
+<script id="1">
+<item slot="1" text="locate paint ." />
+<item slot="2" text="locate a paintbrush ." />
+<item slot="3" text="dip paintbrush into paint ." />
+<item slot="4" text="run paintbrush over the wall ." />
+</script>
+<script id="2">
+<item slot="1" text="locate paint ." />
+<item slot="2" text="locate paintbrush ." />
+<item slot="3" text="dip paintbrush in paint ." />
+<item slot="4" text="run paintbrush across wall ." />
+</script>
+<script id="3">
+<item slot="1" text="open a can of paint ." />
+<item slot="2" text="stir the paint ." />
+<item slot="3" text="use a brush to apply paint to wall edges ." />
+<item slot="4" text="pour some paint into a rolling pan ." />
+<item slot="5" text="use a roller to apply paint to wall surface ." />
+</script>
+<script id="4">
+<item slot="1" text="open a can of pain ." />
+<item slot="2" text="dip paintbrush into the can ." />
+<item slot="3" text="brush the paint on the wall ." />
+</script>
+<script id="5">
+<item slot="1" text="get paint ." />
+<item slot="2" text="get tools ." />
+<item slot="3" text="start painting ." />
+</script>
+<script id="6">
+<item slot="1" text="get out a bucket of paint ." />
+<item slot="2" text="get out a paitbrush ." />
+<item slot="3" text="dip the brush into the paint ." />
+<item slot="4" text="brush the paint on the wall ." />
+<item slot="5" text="evenly coat the entire wall with paint ." />
+</script>
+<script id="7">
+<item slot="1" text="pour some paint into a rolling pan ." />
+<item slot="2" text="use brush to apply paint to the edges of the wall ." />
+<item slot="3" text="use a paint roller to apply paint to area between edges ." />
+<item slot="4" text="allow paint to dry ." />
+<item slot="5" text="repeat the entire process one more time ." />
+</script>
+<script id="8">
+<item slot="1" text="clean wall ." />
+<item slot="2" text="get paint ." />
+<item slot="3" text="dip brush in paint ." />
+<item slot="4" text="move brush up and down wall so to leave paint on ." />
+<item slot="5" text="cover all wall with paint ." />
+<item slot="6" text="wait to dry ." />
+</script>
+<script id="9">
+<item slot="1" text="get paint ." />
+<item slot="2" text="put paint into tray ." />
+<item slot="3" text="get roller ." />
+<item slot="4" text="put roller in paint ." />
+<item slot="5" text="roll paint on wall ." />
+</script>
+<script id="10">
+<item slot="1" text="choose color of paint ." />
+<item slot="2" text="open paint can ." />
+<item slot="3" text="get brush ." />
+<item slot="4" text="dip brush in paint ." />
+<item slot="5" text="rub brush on wall until the wall is covered ." />
+<item slot="6" text="repeat the painting until enough coats of paint are added ." />
+</script>
+<script id="11">
+<item slot="1" text="wash the wall ." />
+<item slot="2" text="open the paint ." />
+<item slot="3" text="mix the paint ." />
+<item slot="4" text="apply paint with the brush ." />
+</script>
+<script id="12">
+<item slot="1" text="clean first the wall ." />
+<item slot="2" text="decide what color of paint do you want ." />
+<item slot="3" text="apply  paint with paint roller or brush ." />
+</script>
+<script id="13">
+<item slot="1" text="clean the wall ." />
+<item slot="2" text="paint the wall with primer ." />
+<item slot="3" text="paint the wall with wall paint ." />
+</script>
+<script id="14">
+<item slot="1" text="choose color ." />
+<item slot="2" text="buy paint ." />
+<item slot="3" text="buy brush ." />
+<item slot="4" text="open can ." />
+<item slot="5" text="put paint on wall with brush ." />
+</script>
+<script id="15">
+<item slot="1" text="cover surrounding room to protect from paint ." />
+<item slot="2" text="get paint can ." />
+<item slot="3" text="get paintbrush ." />
+<item slot="4" text="open paint can ." />
+<item slot="5" text="stir paint ." />
+<item slot="6" text="dip paintbrush in paint can ." />
+<item slot="7" text="use paintbrush to spread paint on wall ." />
+</script>
+<script id="16">
+<item slot="1" text="pour some paint into a tray ." />
+<item slot="2" text="dip a paint roller into the paint ." />
+<item slot="3" text="hold the roller against the wall ." />
+<item slot="4" text="run the roller up and down the wall ." />
+</script>
+<script id="17">
+<item slot="1" text="decide to paint wall ." />
+<item slot="2" text="decide on color ." />
+<item slot="3" text="buy paint ." />
+<item slot="4" text="buy brushes ." />
+<item slot="5" text="move furniture ." />
+<item slot="6" text="lay down plastic protection ." />
+<item slot="7" text="paint ." />
+</script>
+<script id="18">
+<item slot="1" text="decide to paint wall ." />
+<item slot="2" text="decide on color ." />
+<item slot="3" text="buy paint ." />
+<item slot="4" text="buy brushes ." />
+<item slot="5" text="move furniture ." />
+<item slot="6" text="lay down plastic protection ." />
+<item slot="7" text="paint ." />
+</script>
+<script id="19">
+<item slot="1" text="open paint can ." />
+<item slot="2" text="stir paint ." />
+</script>
+<script id="20">
+<item slot="1" text="buy paint ." />
+<item slot="2" text="clean wall ." />
+<item slot="3" text="open paint paint ." />
+</script>
+<script id="21">
+<item slot="1" text="clean wall ." />
+<item slot="2" text="scrape wall ." />
+<item slot="3" text="cover floor with plastic or old blanket ." />
+<item slot="4" text="apply paint to wall ." />
+</script>
+<script id="22">
+<item slot="1" text="get paint ." />
+<item slot="2" text="put paint on wall ." />
+</script>
+<script id="23">
+<item slot="1" text="get paint ." />
+<item slot="2" text="put paint on wall ." />
+</script>
+<script id="24">
+<item slot="1" text="brush wall to make sure it is clean ." />
+<item slot="2" text="pry lid off paint can ." />
+<item slot="3" text="stir paint ." />
+<item slot="4" text="pour paint into tray ." />
+<item slot="5" text="coat roller with paint from tray ." />
+<item slot="6" text="roll paint onto wall ." />
+<item slot="7" text="apply second coat if needed ." />
+</script>
+<script id="25">
+<item slot="1" text="brush wall to make sure it is clean ." />
+<item slot="2" text="pry lid off paint can ." />
+<item slot="3" text="stir paint ." />
+<item slot="4" text="pour paint into tray ." />
+<item slot="5" text="coat roller with paint from tray ." />
+<item slot="6" text="roll paint onto wall ." />
+<item slot="7" text="apply second coat if needed ." />
+</script>
+<script id="26">
+<item slot="1" text="clean the wall ." />
+<item slot="2" text="buy paint of desired color ." />
+<item slot="3" text="open can of paint ." />
+<item slot="4" text="put paint thinner in and mix well so color is consistent ." />
+<item slot="5" text="add primer to the wall ." />
+<item slot="6" text="let the primer dry ." />
+<item slot="7" text="paint on the wall and repeat if necessary ." />
+</script>
+<script id="27">
+<item slot="1" text="clean wall ." />
+<item slot="2" text="pour pain in paint bin ." />
+<item slot="3" text="put roller in paint ." />
+<item slot="4" text="spread paint evenly on wall ." />
+</script>
+<script id="28">
+<item slot="1" text="choose paint ." />
+<item slot="2" text="poor paint in tray ." />
+<item slot="3" text="cover brush in paint ." />
+<item slot="4" text="apply paint to wall ." />
+</script>
+<script id="29">
+<item slot="1" text="tape off carpet ." />
+<item slot="2" text="open can of paint ." />
+<item slot="3" text="pour paint in to paint tray ." />
+<item slot="4" text="dip roller into paint tray ." />
+<item slot="5" text="roll roller onto wall slowly ." />
+<item slot="6" text="dip roller back into paint ." />
+<item slot="7" text="roll paint on wall until wall is colored ." />
+</script>
+<script id="30">
+<item slot="1" text="strip wallpaper remove posters and nails ." />
+<item slot="2" text="tape edges ." />
+<item slot="3" text="roll base paint layer ." />
+<item slot="4" text="let dry for 24 hours ." />
+<item slot="5" text="paint second coat ." />
+</script>
+<script id="31">
+<item slot="1" text="patch cracks ." />
+<item slot="2" text="let dry ." />
+<item slot="3" text="sand filler ." />
+<item slot="4" text="get paint ." />
+<item slot="5" text="put down paper to protect from splatter ." />
+<item slot="6" text="paint walls ." />
+</script>
+<script id="32">
+<item slot="1" text="patch cracks ." />
+<item slot="2" text="let dry ." />
+<item slot="3" text="sand filler ." />
+<item slot="4" text="get paint ." />
+<item slot="5" text="put down paper to protect from splatter ." />
+<item slot="6" text="paint walls ." />
+</script>
+<script id="33">
+<item slot="1" text="patch cracks ." />
+<item slot="2" text="let dry ." />
+<item slot="3" text="sand filler ." />
+<item slot="4" text="get paint ." />
+<item slot="5" text="put down paper to protect from splatter ." />
+<item slot="6" text="paint walls ." />
+</script>
+<script id="34">
+<item slot="1" text="run paintbrush over walls vertically ." />
+</script>
+</scripts>

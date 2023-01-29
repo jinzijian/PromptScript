@@ -1,0 +1,296 @@
+<?xml version="1.0"?>
+<scripts>
+	<script id="1">
+		<item slot="1" text="get a knife ."/>
+		<item slot="2" text="cut the vegetables with the knife ."/>
+	</script>
+	<script id="2">
+		<item slot="1" text="wash vegetables ."/>
+		<item slot="2" text="get knife ."/>
+		<item slot="3" text="cut vegetable in slices ."/>
+	</script>
+	<script id="3">
+		<item slot="1" text="get a knife ."/>
+		<item slot="2" text="take vegetables out of the fridge ."/>
+		<item slot="3" text="wash the vegetables ."/>
+		<item slot="4" text="chop off the ends of the vegetables ."/>
+		<item slot="5" text="use the knife to cut the vegetables into small pieces ."/>
+	</script>
+	<script id="4">
+		<item slot="1" text="get the vegetables ."/>
+		<item slot="2" text="get something to cut the vegetables with ."/>
+		<item slot="3" text="get a cutting board ."/>
+		<item slot="4" text="place the vegetables on the cutting board ."/>
+		<item slot="5" text="cut the vegetables ."/>
+	</script>
+	<script id="5">
+		<item slot="1" text="wash vegetables ."/>
+		<item slot="2" text="peel vegetables ."/>
+		<item slot="3" text="take vegetables one by one ."/>
+		<item slot="4" text="cut in small pieces ."/>
+	</script>
+	<script id="6">
+		<item slot="1" text="get a knife ."/>
+		<item slot="2" text="get a cutting board ."/>
+		<item slot="3" text="put vegetables on cutting board ."/>
+		<item slot="4" text="cut vegetables in small pieces ."/>
+	</script>
+	<script id="7">
+		<item slot="1" text="wash vegetables ."/>
+		<item slot="2" text="peel vegetables if needed ."/>
+		<item slot="3" text="for each vegetable ."/>
+		<item slot="4" text="cut small pieces of it ."/>
+	</script>
+	<script id="8">
+		<item slot="1" text="find a good knife ."/>
+		<item slot="2" text="clean the vegetables with water ."/>
+		<item slot="3" text="find a free surface where to chop the vegetables ."/>
+		<item slot="4" text="cut the vegetables into pieces with the knife ."/>
+	</script>
+	<script id="9">
+		<item slot="1" text="get the vegetables ."/>
+		<item slot="2" text="get a chopping knife ."/>
+		<item slot="3" text="place vegetables on a cutting board ."/>
+		<item slot="4" text="slice a vegetable cross-wise into small equal-length pieces ."/>
+		<item slot="5" text="repeat until all vegetables are chopped ."/>
+	</script>
+	<script id="10">
+		<item slot="1" text="get a cutting board ."/>
+		<item slot="2" text="get a knife ."/>
+		<item slot="3" text="hold vegetable down on cutting board ."/>
+		<item slot="4" text="cut vegetable into equal pieces with the knife ."/>
+	</script>
+	<script id="11">
+		<item slot="1" text="get vegetables ."/>
+		<item slot="2" text="get a food processor ."/>
+		<item slot="3" text="plug in food processor to an electrical outlet ."/>
+		<item slot="4" text="turn on food processor ."/>
+		<item slot="5" text="push vegetables through opening in the top of the food processor to chop them into pieces ."/>
+	</script>
+	<script id="12">
+		<item slot="1" text="wash vegetables ."/>
+		<item slot="2" text="place vegetables on cutting board ."/>
+		<item slot="3" text="locate sharp knife ."/>
+		<item slot="4" text="chop vegetables with knife ."/>
+	</script>
+	<script id="13">
+		<item slot="1" text="get cutting board ."/>
+		<item slot="2" text="get sharp knife ."/>
+		<item slot="3" text="place vegetables on cutting board ."/>
+		<item slot="4" text="proceed to chop with knife ."/>
+	</script>
+	<script id="14">
+		<item slot="1" text="get a chopping board ."/>
+		<item slot="2" text="get knife ."/>
+		<item slot="3" text="get vegetables ."/>
+		<item slot="4" text="put vegetables on chopping board ."/>
+		<item slot="5" text="use knife to cut vegetables on chopping board ."/>
+	</script>
+	<script id="15">
+		<item slot="1" text="get a chopping board ."/>
+		<item slot="2" text="get knife ."/>
+		<item slot="3" text="get the vegetables ."/>
+		<item slot="4" text="put the vegetable on a chopping board ."/>
+		<item slot="5" text="start chopping the vegetables ."/>
+	</script>
+	<script id="16">
+		<item slot="1" text="wash vegetables ."/>
+		<item slot="2" text="place on chopping board ."/>
+		<item slot="3" text="chop with knife ."/>
+	</script>
+	<script id="17">
+		<item slot="1" text="wash vegetables ."/>
+		<item slot="2" text="place on chopping board ."/>
+		<item slot="3" text="chop with knife ."/>
+	</script>
+	<script id="18">
+		<item slot="1" text="wash vegetables ."/>
+		<item slot="2" text="place on chopping board ."/>
+		<item slot="3" text="chop with knife ."/>
+	</script>
+	<script id="19">
+		<item slot="1" text="wash vegetables ."/>
+		<item slot="2" text="place on chopping board ."/>
+		<item slot="3" text="chop with knife ."/>
+	</script>
+	<script id="20">
+		<item slot="1" text="wash vegetables ."/>
+		<item slot="2" text="place on chopping board ."/>
+		<item slot="3" text="chop with knife ."/>
+	</script>
+	<script id="21">
+		<item slot="1" text="wash vegetables ."/>
+		<item slot="2" text="place on chopping board ."/>
+		<item slot="3" text="chop with knife ."/>
+	</script>
+	<script id="22">
+		<item slot="1" text="wash vegetables ."/>
+		<item slot="2" text="place on chopping board ."/>
+		<item slot="3" text="chop with knife ."/>
+	</script>
+	<script id="23">
+		<item slot="1" text="wash vegetables ."/>
+		<item slot="2" text="place on chopping board ."/>
+		<item slot="3" text="chop with knife ."/>
+	</script>
+	<script id="24">
+		<item slot="1" text="clean the vegetables with water ."/>
+		<item slot="2" text="lay them on the cutting board ."/>
+		<item slot="3" text="pick up a knife ."/>
+		<item slot="4" text="use the knife to chop the vegetables ."/>
+	</script>
+	<script id="25">
+		<item slot="1" text="wash vegetables ."/>
+		<item slot="2" text="put vegetables on cutting board ."/>
+		<item slot="3" text="pick up knife ."/>
+		<item slot="4" text="cut vegetables into small pieces ."/>
+	</script>
+	<script id="26">
+		<item slot="1" text="wash vegetables ."/>
+		<item slot="2" text="put vegetables on cutting board ."/>
+		<item slot="3" text="pick up knife ."/>
+		<item slot="4" text="cut vegetables into small pieces ."/>
+	</script>
+	<script id="27">
+		<item slot="1" text="select fresh vegetables ."/>
+		<item slot="2" text="wash vegetables ."/>
+		<item slot="3" text="place vegetables on chopping board ."/>
+		<item slot="4" text="select appropriate knife ."/>
+		<item slot="5" text="chop vegetables ."/>
+		<item slot="6" text="place in container ."/>
+	</script>
+	<script id="28">
+		<item slot="1" text="wash vegetables ."/>
+		<item slot="2" text="peel vegetables ."/>
+		<item slot="3" text="trim off ends of vegetables ."/>
+		<item slot="4" text="put cutting board on counter ."/>
+		<item slot="5" text="put vegetables on cutting board ."/>
+		<item slot="6" text="use knife to slice vegetables ."/>
+		<item slot="7" text="wash knife and cutting board ."/>
+	</script>
+	<script id="29">
+		<item slot="1" text="find the vegetables ."/>
+	</script>
+	<script id="30">
+		<item slot="1" text="find the vegetables ."/>
+		<item slot="2" text="find the chopping board ."/>
+	</script>
+	<script id="31">
+		<item slot="1" text="get chopping board ."/>
+		<item slot="2" text="get knife ."/>
+		<item slot="3" text="get vegetables ."/>
+		<item slot="4" text="cut vegetables ."/>
+	</script>
+	<script id="32">
+		<item slot="1" text="clean vegetables ."/>
+		<item slot="2" text="dry vegetables ."/>
+		<item slot="3" text="take sharp knife from block ."/>
+		<item slot="4" text="put vegetabes on cutting board ."/>
+		<item slot="5" text="cut down on the vegetabes ."/>
+	</script>
+	<script id="33">
+		<item slot="1" text="clean vegetables ."/>
+		<item slot="2" text="obtain knife ."/>
+		<item slot="3" text="place vegetables on cutting board ."/>
+		<item slot="4" text="cut vegetables into thin strips ."/>
+		<item slot="5" text="rotate cutting board ."/>
+		<item slot="6" text="cut vegetable strips in opposite direction ."/>
+		<item slot="7" text="ensure even chopping ."/>
+	</script>
+	<script id="34">
+		<item slot="1" text="get vegetable ."/>
+		<item slot="2" text="put on chopping board ."/>
+		<item slot="3" text="get knife or cleaver ."/>
+		<item slot="4" text="chop vegetable ."/>
+	</script>
+	<script id="35">
+		<item slot="1" text="obtain vegetables ."/>
+		<item slot="2" text="obtain knife ."/>
+		<item slot="3" text="place vegetables on cutting board ."/>
+		<item slot="4" text="chop vegetables into pieces ."/>
+	</script>
+	<script id="36">
+		<item slot="1" text="wash vegtable ."/>
+		<item slot="2" text="chop vegetable with knife ."/>
+	</script>
+	<script id="37">
+		<item slot="1" text="wash vegtable ."/>
+		<item slot="2" text="chop vegetable with knife ."/>
+	</script>
+	<script id="38">
+		<item slot="1" text="wash vegtable ."/>
+		<item slot="2" text="chop vegetable with knife ."/>
+	</script>
+	<script id="39">
+		<item slot="1" text="wash vegtable ."/>
+		<item slot="2" text="chop vegetable with knife ."/>
+	</script>
+	<script id="40">
+		<item slot="1" text="wash vegtable ."/>
+		<item slot="2" text="chop vegetable with knife ."/>
+	</script>
+	<script id="41">
+		<item slot="1" text="wash vegtable ."/>
+		<item slot="2" text="chop vegetable with knife ."/>
+	</script>
+	<script id="42">
+		<item slot="1" text="open fridge ."/>
+		<item slot="2" text="take out vegetable ."/>
+		<item slot="3" text="put vegetable on cutting board ."/>
+		<item slot="4" text="get sharp knife ."/>
+		<item slot="5" text="cut vegetable up into small pieces ."/>
+	</script>
+	<script id="43">
+		<item slot="1" text="bring the vegetable ."/>
+		<item slot="2" text="clean them ."/>
+		<item slot="3" text="chop them ."/>
+	</script>
+	<script id="44">
+		<item slot="1" text="get cutting board ."/>
+		<item slot="2" text="find knife ."/>
+		<item slot="3" text="put vegetable on cuttting board ."/>
+		<item slot="4" text="hit with knife ."/>
+	</script>
+	<script id="45">
+		<item slot="1" text="get cutting board ."/>
+		<item slot="2" text="find knife ."/>
+		<item slot="3" text="put vegetable on cuttting board ."/>
+		<item slot="4" text="hit with knife ."/>
+	</script>
+	<script id="46">
+		<item slot="1" text="take vegetables from fridge ."/>
+		<item slot="2" text="wash them ."/>
+		<item slot="3" text="take sharp knife from draw ."/>
+		<item slot="4" text="start cutting ."/>
+		<item slot="5" text="get a band aid ."/>
+		<item slot="6" text="try cutting again ."/>
+		<item slot="7" text="give up and get someone else to do it ."/>
+	</script>
+	<script id="47">
+		<item slot="1" text="take vegetables from fridge ."/>
+		<item slot="2" text="wash them ."/>
+		<item slot="3" text="take sharp knife from draw ."/>
+		<item slot="4" text="start cutting ."/>
+		<item slot="5" text="get a band aid ."/>
+		<item slot="6" text="try cutting again ."/>
+		<item slot="7" text="give up and get someone else to do it ."/>
+	</script>
+	<script id="48">
+		<item slot="1" text="take vegetables from fridge ."/>
+		<item slot="2" text="wash them ."/>
+		<item slot="3" text="take sharp knife from drawer ."/>
+		<item slot="4" text="start cutting ."/>
+		<item slot="5" text="get a band aid ."/>
+		<item slot="6" text="try cutting again ."/>
+		<item slot="7" text="give up and get someone else to do it ."/>
+	</script>
+	<script id="49">
+		<item slot="1" text="take vegetables from fridge ."/>
+		<item slot="2" text="wash them ."/>
+		<item slot="3" text="take sharp knife from drawer ."/>
+		<item slot="4" text="start cutting ."/>
+		<item slot="5" text="get a band aid ."/>
+		<item slot="6" text="try cutting again ."/>
+		<item slot="7" text="give up and get someone else to do it ."/>
+	</script>
+</scripts>

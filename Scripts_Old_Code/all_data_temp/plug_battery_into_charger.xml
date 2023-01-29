@@ -1,0 +1,414 @@
+<scripts>
+<script id="1">
+<item slot="1" text="examine the charger to see where the positive side goes ." />
+<item slot="2" text="place the battery accordingly into the charger ." />
+</script>
+<script id="2">
+<item slot="1" text="locate the opening on the object to be charged ." />
+<item slot="2" text="turn off the charger ." />
+<item slot="3" text="plug in the end of the charger cable into the object ." />
+<item slot="4" text="turn on the charger ." />
+</script>
+<script id="3">
+<item slot="1" text="getting the battery ." />
+<item slot="2" text="getting the charger ." />
+<item slot="3" text="connecting the charger to a power source ." />
+<item slot="4" text="connecting the battery to the charger ." />
+</script>
+<script id="4">
+<item slot="1" text="take the battery ." />
+<item slot="2" text="put the battery into the charger ." />
+</script>
+<script id="5">
+<item slot="1" text="get batter ." />
+<item slot="2" text="get charger ." />
+<item slot="3" text="put battery into charger ." />
+<item slot="4" text="plug charger into power outlet ." />
+</script>
+<script id="6">
+<item slot="1" text="identify in what direction the battery has to go into the charger ." />
+<item slot="2" text="push the battery into the charger ." />
+</script>
+<script id="7">
+<item slot="1" text="take the battery ." />
+<item slot="2" text="place the battery in the correct position ." />
+<item slot="3" text="put the battery into the slot of the charger ." />
+</script>
+<script id="8">
+<item slot="1" text="fetch battery ." />
+<item slot="2" text="insert battery into charger ." />
+</script>
+<script id="9">
+<item slot="1" text="search for the battery ." />
+<item slot="2" text="search for the charger ." />
+<item slot="3" text="put the battery on the charger ." />
+</script>
+<script id="10">
+<item slot="1" text="plug in the charger ." />
+<item slot="2" text="connect the charger with battery ." />
+</script>
+<script id="11">
+<item slot="1" text="take battery out of device ." />
+<item slot="2" text="put battery in charger ." />
+<item slot="3" text="plug charger into wall ." />
+</script>
+<script id="12">
+<item slot="1" text="put battery into the charger ." />
+</script>
+<script id="13">
+<item slot="1" text="locate battery ." />
+<item slot="2" text="remove battery ." />
+<item slot="3" text="plug in charger to a functioning electrical outlet ." />
+<item slot="4" text="insert battery into charger ." />
+</script>
+<script id="14">
+<item slot="1" text="place battery into charger ." />
+<item slot="2" text="plug charger into wall ." />
+</script>
+<script id="15">
+<item slot="1" text="take battery ." />
+<item slot="2" text="take charger ." />
+<item slot="3" text="place battery into slot on charger ." />
+</script>
+<script id="16">
+<item slot="1" text="open charger ." />
+<item slot="2" text="place battery in charger ." />
+<item slot="3" text="close charger ." />
+<item slot="4" text="plug in charger ." />
+</script>
+<script id="17">
+<item slot="1" text="plug in charger ." />
+<item slot="2" text="open charger lid ." />
+<item slot="3" text="insert battery ." />
+<item slot="4" text="close lid ." />
+</script>
+<script id="18">
+<item slot="1" text="find charger ." />
+<item slot="2" text="get battery ." />
+<item slot="3" text="bring battery and charger together ." />
+</script>
+<script id="19">
+<item slot="1" text="remove battery from device ." />
+<item slot="2" text="put battery into charger ." />
+<item slot="3" text="plug charger into wall ." />
+<item slot="4" text="remove when battery is full ." />
+</script>
+<script id="20">
+<item slot="1" text="hold battery ." />
+<item slot="2" text="hold charger ." />
+<item slot="3" text="put battery on chargerpush firmly ." />
+</script>
+<script id="21">
+<item slot="1" text="get charger ." />
+<item slot="2" text="put battery in charger ." />
+<item slot="3" text="turn on charger ." />
+</script>
+<script id="22">
+<item slot="1" text="pick up battery ." />
+<item slot="2" text="place battery on charger at proper place ." />
+<item slot="3" text="make sure battery charger is hooked into a wall socket properly ." />
+<item slot="4" text="let the battery charger charge the battery ." />
+</script>
+<script id="23">
+<item slot="1" text="remove batteries from device ." />
+<item slot="2" text="place in charger ." />
+<item slot="3" text="plug charger in ." />
+<item slot="4" text="let charge ." />
+<item slot="5" text="remove batteries ." />
+</script>
+<script id="24">
+<item slot="1" text="line up positive and negative ." />
+<item slot="2" text="insert battery ." />
+<item slot="3" text="plug in charger ." />
+<item slot="4" text="turn on charger ." />
+<item slot="5" text="wait for indicator light ." />
+<item slot="6" text="remove batteries ." />
+<item slot="7" text="unplug charger ." />
+</script>
+<script id="25">
+<item slot="1" text="line up positive and negative ." />
+<item slot="2" text="insert battery ." />
+<item slot="3" text="plug in charger ." />
+<item slot="4" text="turn on charger ." />
+<item slot="5" text="wait for indicator light ." />
+<item slot="6" text="remove batteries ." />
+<item slot="7" text="unplug charger ." />
+</script>
+<script id="26">
+<item slot="1" text="line up positive and negative ." />
+<item slot="2" text="insert battery ." />
+<item slot="3" text="plug in charger ." />
+<item slot="4" text="turn on charger ." />
+<item slot="5" text="wait for indicator light ." />
+<item slot="6" text="remove batteries ." />
+<item slot="7" text="unplug charger ." />
+</script>
+<script id="27">
+<item slot="1" text="line up positive and negative ." />
+<item slot="2" text="insert battery ." />
+<item slot="3" text="plug in charger ." />
+<item slot="4" text="turn on charger ." />
+<item slot="5" text="wait for indicator light ." />
+<item slot="6" text="remove batteries ." />
+<item slot="7" text="unplug charger ." />
+</script>
+<script id="28">
+<item slot="1" text="line up positive and negative ." />
+<item slot="2" text="insert battery ." />
+<item slot="3" text="plug in charger ." />
+<item slot="4" text="turn on charger ." />
+<item slot="5" text="wait for indicator light ." />
+<item slot="6" text="remove batteries ." />
+<item slot="7" text="unplug charger ." />
+</script>
+<script id="29">
+<item slot="1" text="line up positive and negative ." />
+<item slot="2" text="insert battery ." />
+<item slot="3" text="plug in charger ." />
+<item slot="4" text="turn on charger ." />
+<item slot="5" text="wait for indicator light ." />
+<item slot="6" text="remove batteries ." />
+<item slot="7" text="unplug charger ." />
+</script>
+<script id="30">
+<item slot="1" text="line up positive and negative ." />
+<item slot="2" text="insert battery ." />
+<item slot="3" text="plug in charger ." />
+<item slot="4" text="turn on charger ." />
+<item slot="5" text="wait for indicator light ." />
+<item slot="6" text="remove batteries ." />
+<item slot="7" text="unplug charger ." />
+</script>
+<script id="31">
+<item slot="1" text="line up positive and negative ." />
+<item slot="2" text="insert battery ." />
+<item slot="3" text="plug in charger ." />
+<item slot="4" text="turn on charger ." />
+<item slot="5" text="wait for indicator light ." />
+<item slot="6" text="remove batteries ." />
+<item slot="7" text="unplug charger ." />
+</script>
+<script id="32">
+<item slot="1" text="line up positive and negative ." />
+<item slot="2" text="insert battery ." />
+<item slot="3" text="plug in charger ." />
+<item slot="4" text="turn on charger ." />
+<item slot="5" text="wait for indicator light ." />
+<item slot="6" text="remove batteries ." />
+<item slot="7" text="unplug charger ." />
+</script>
+<script id="33">
+<item slot="1" text="line up positive and negative ." />
+<item slot="2" text="insert battery ." />
+<item slot="3" text="plug in charger ." />
+<item slot="4" text="turn on charger ." />
+<item slot="5" text="wait for indicator light ." />
+<item slot="6" text="remove batteries ." />
+<item slot="7" text="unplug charger ." />
+</script>
+<script id="34">
+<item slot="1" text="line up positive and negative ." />
+<item slot="2" text="insert battery ." />
+<item slot="3" text="plug in charger ." />
+<item slot="4" text="turn on charger ." />
+<item slot="5" text="wait for indicator light ." />
+<item slot="6" text="remove batteries ." />
+<item slot="7" text="unplug charger ." />
+</script>
+<script id="35">
+<item slot="1" text="line up positive and negative ." />
+<item slot="2" text="insert battery ." />
+<item slot="3" text="plug in charger ." />
+<item slot="4" text="turn on charger ." />
+<item slot="5" text="wait for indicator light ." />
+<item slot="6" text="remove batteries ." />
+<item slot="7" text="unplug charger ." />
+</script>
+<script id="36">
+<item slot="1" text="line up positive and negative ." />
+<item slot="2" text="insert battery ." />
+<item slot="3" text="plug in charger ." />
+<item slot="4" text="turn on charger ." />
+<item slot="5" text="wait for indicator light ." />
+<item slot="6" text="remove batteries ." />
+<item slot="7" text="unplug charger ." />
+</script>
+<script id="37">
+<item slot="1" text="line up positive and negative ." />
+<item slot="2" text="insert battery ." />
+<item slot="3" text="plug in charger ." />
+<item slot="4" text="turn on charger ." />
+<item slot="5" text="wait for indicator light ." />
+<item slot="6" text="remove batteries ." />
+<item slot="7" text="unplug charger ." />
+</script>
+<script id="38">
+<item slot="1" text="remove battery from device ." />
+<item slot="2" text="place in charger ." />
+<item slot="3" text="plug charger in an outlet ." />
+</script>
+<script id="39">
+<item slot="1" text="place battery into appropriate slot on charger ." />
+<item slot="2" text="turn switch on charger to appropriate battery size and type ." />
+<item slot="3" text="plug charger into outlet and turn it on ." />
+</script>
+<script id="40">
+<item slot="1" text="place battery into appropriate slot on charger ." />
+<item slot="2" text="turn switch on charger to appropriate battery size and type ." />
+<item slot="3" text="plug charger into outlet and turn it on ." />
+</script>
+<script id="41">
+<item slot="1" text="place battery into appropriate slot on charger ." />
+<item slot="2" text="turn switch on charger to appropriate battery size and type ." />
+<item slot="3" text="plug charger into outlet and turn it on ." />
+</script>
+<script id="42">
+<item slot="1" text="place battery into appropriate slot on charger ." />
+<item slot="2" text="turn switch on charger to appropriate battery size and type ." />
+<item slot="3" text="plug charger into outlet and turn it on ." />
+</script>
+<script id="43">
+<item slot="1" text="place battery into appropriate slot on charger ." />
+<item slot="2" text="turn switch on charger to appropriate battery size and type ." />
+<item slot="3" text="plug charger into outlet and turn it on ." />
+</script>
+<script id="44">
+<item slot="1" text="place battery into appropriate slot on charger ." />
+<item slot="2" text="turn switch on charger to appropriate battery size and type ." />
+<item slot="3" text="plug charger into outlet and turn it on ." />
+</script>
+<script id="45">
+<item slot="1" text="plag it in to outlet ." />
+<item slot="2" text="put battery into changer ." />
+</script>
+<script id="46">
+<item slot="1" text="remove battery from package ." />
+<item slot="2" text="locate charger ." />
+</script>
+<script id="47">
+<item slot="1" text="remove battery from package ." />
+<item slot="2" text="locate charger ." />
+<item slot="3" text="plug battery directly into charger ." />
+<item slot="4" text="make sure it is secure and working ." />
+</script>
+<script id="48">
+<item slot="1" text="remove battery from package ." />
+<item slot="2" text="locate charger ." />
+</script>
+<script id="49">
+<item slot="1" text="remove battery from package ." />
+<item slot="2" text="locate charger ." />
+</script>
+<script id="50">
+<item slot="1" text="remove battery from package ." />
+<item slot="2" text="locate charger ." />
+<item slot="3" text="plug battery directly into charger ." />
+<item slot="4" text="make sure it is secure and working ." />
+</script>
+<script id="51">
+<item slot="1" text="remove battery from package ." />
+<item slot="2" text="locate charger ." />
+<item slot="3" text="plug battery directly into charger ." />
+<item slot="4" text="make sure it is secure and working ." />
+</script>
+<script id="52">
+<item slot="1" text="remove battery from package ." />
+<item slot="2" text="locate charger ." />
+</script>
+<script id="53">
+<item slot="1" text="remove battery from package ." />
+<item slot="2" text="locate charger ." />
+<item slot="3" text="plug battery directly into charger ." />
+<item slot="4" text="make sure it is secure and working ." />
+</script>
+<script id="54">
+<item slot="1" text="plug charger into wall socket ." />
+<item slot="2" text="get battery ." />
+<item slot="3" text="plug battery into charger ." />
+</script>
+<script id="55">
+<item slot="1" text="plug in charger ." />
+<item slot="2" text="get dead battery ." />
+<item slot="3" text="put dead battery in charger ." />
+</script>
+<script id="56">
+<item slot="1" text="plug in charger ." />
+<item slot="2" text="get dead battery ." />
+<item slot="3" text="put dead battery in charger ." />
+</script>
+<script id="57">
+<item slot="1" text="plug in charger ." />
+<item slot="2" text="get dead battery ." />
+<item slot="3" text="put dead battery in charger ." />
+</script>
+<script id="58">
+<item slot="1" text="plug in charger ." />
+<item slot="2" text="get dead battery ." />
+<item slot="3" text="put dead battery in charger ." />
+</script>
+<script id="59">
+<item slot="1" text="plug in charger ." />
+<item slot="2" text="get dead battery ." />
+<item slot="3" text="put dead battery in charger ." />
+</script>
+<script id="60">
+<item slot="1" text="remove charged batteries from charger ." />
+<item slot="2" text="put  dead  batteries in charger ." />
+<item slot="3" text="plug in battery charger ." />
+</script>
+<script id="61">
+<item slot="1" text="remove charged batteries from charger ." />
+<item slot="2" text="put  dead  batteries in charger ." />
+<item slot="3" text="plug in battery charger ." />
+</script>
+<script id="62">
+<item slot="1" text="remove charged batteries from charger ." />
+<item slot="2" text="put  dead  batteries in charger ." />
+<item slot="3" text="plug in battery charger ." />
+</script>
+<script id="63">
+<item slot="1" text="remove charged batteries from charger ." />
+<item slot="2" text="put  dead  batteries in charger ." />
+<item slot="3" text="plug in battery charger ." />
+</script>
+<script id="64">
+<item slot="1" text="remove charged batteries from charger ." />
+<item slot="2" text="put  dead  batteries in charger ." />
+<item slot="3" text="plug in battery charger ." />
+</script>
+<script id="65">
+<item slot="1" text="remove charged batteries from charger ." />
+<item slot="2" text="put  dead  batteries in charger ." />
+<item slot="3" text="plug in battery charger ." />
+</script>
+<script id="66">
+<item slot="1" text="remove battery ." />
+<item slot="2" text="place battery in charger ." />
+<item slot="3" text="plug in wall ." />
+</script>
+<script id="67">
+<item slot="1" text="remove battery ." />
+<item slot="2" text="place battery in charger ." />
+<item slot="3" text="plug in wall ." />
+</script>
+<script id="68">
+<item slot="1" text="remove battery ." />
+<item slot="2" text="place battery in charger ." />
+<item slot="3" text="plug in wall ." />
+</script>
+<script id="69">
+<item slot="1" text="remove battery ." />
+<item slot="2" text="place battery in charger ." />
+<item slot="3" text="plug in wall ." />
+</script>
+<script id="70">
+<item slot="1" text="remove battery ." />
+<item slot="2" text="place battery in charger ." />
+<item slot="3" text="plug in wall ." />
+</script>
+<script id="71">
+<item slot="1" text="remove battery ." />
+<item slot="2" text="place battery in charger ." />
+<item slot="3" text="plug in wall ." />
+</script>
+</scripts>

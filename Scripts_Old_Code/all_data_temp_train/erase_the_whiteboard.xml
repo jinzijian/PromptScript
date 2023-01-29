@@ -1,0 +1,209 @@
+<scripts>
+<script id="1">
+<item slot="1" text="locate eraser ." />
+<item slot="2" text="move eraser across board ." />
+</script>
+<script id="2">
+<item slot="1" text="get eraser ." />
+<item slot="2" text="use eraser ." />
+</script>
+<script id="3">
+<item slot="1" text="pick up eraser ." />
+<item slot="2" text="with eraser touching whiteboard do ." />
+<item slot="3" text="move up and down left right ." />
+<item slot="4" text="until all whiteboard is erased ." />
+</script>
+<script id="4">
+<item slot="1" text="move to the whiteboard ." />
+<item slot="2" text="find a whiteboard eraser ." />
+<item slot="3" text="move the eraser across any marks on the whiteboard to erase them ." />
+<item slot="4" text="repeat until no marks are left on the whiteboard ." />
+</script>
+<script id="5">
+<item slot="1" text="go to the whiteboard ." />
+<item slot="2" text="pick up the whiteboard eraser ." />
+<item slot="3" text="wipe the whiteboard eraser over the whiteboard ." />
+<item slot="4" text="keep wiping over the whiteboard until everything is gone from the whiteboard ." />
+</script>
+<script id="6">
+<item slot="1" text="walk up to the whiteboard ." />
+<item slot="2" text="pick up eraser ." />
+<item slot="3" text="wipe eraser across any writing on the whiteboard ." />
+<item slot="4" text="place eraser back in it s original position ." />
+</script>
+<script id="7">
+<item slot="1" text="get eraser ." />
+<item slot="2" text="spray fluid on whiteboard ." />
+<item slot="3" text="wipe whiteboard with eraser ." />
+</script>
+<script id="8">
+<item slot="1" text="obtain the whiteboard eraser ." />
+<item slot="2" text="place fuzzy side of whiteboard eraser on whiteboard ." />
+<item slot="3" text="apply pressure to eraser ." />
+<item slot="4" text="move over entire whiteboard ." />
+</script>
+<script id="9">
+<item slot="1" text="walk to the whiteboard ." />
+<item slot="2" text="locate the eraser ." />
+<item slot="3" text="pick up the eraser ." />
+<item slot="4" text="rub the eraser against the whiteboard ." />
+<item slot="5" text="put the eraser back down ." />
+</script>
+<script id="10">
+<item slot="1" text="pick up eraser ." />
+<item slot="2" text="wipe the board with left to right motion ." />
+</script>
+<script id="11">
+<item slot="1" text="pick up the eraser ." />
+<item slot="2" text="move the eraser over the whiteboard ." />
+</script>
+<script id="12">
+<item slot="1" text="rub the eraser over the whiteboard until all markings on the whiteboard from dry erase markers are g ." />
+</script>
+<script id="13">
+<item slot="1" text="pick up eraser ." />
+<item slot="2" text="rub eraser over writing until is gone ." />
+</script>
+<script id="14">
+<item slot="1" text="pick up the eraser ." />
+<item slot="2" text="wipe the eraser against the board until board is clean ." />
+</script>
+<script id="15">
+<item slot="1" text="take eraser ." />
+<item slot="2" text="rub eraser on board markings ." />
+</script>
+<script id="16">
+<item slot="1" text="erase some white board ." />
+<item slot="2" text="erase some white board ." />
+<item slot="3" text="erase some white board ." />
+<item slot="4" text="if board has no marking you done ." />
+<item slot="5" text="else erase some white board ." />
+<item slot="6" text="erase some white board ." />
+<item slot="7" text="if board has no marking you donr else repet ." />
+</script>
+<script id="17">
+<item slot="1" text="get the eraser ." />
+<item slot="2" text="goto the whiteboard ." />
+<item slot="3" text="push and pull the eraser across the whiteboard ." />
+<item slot="4" text="repeat step 3 until whiteboard is able to be used again ." />
+</script>
+<script id="18">
+<item slot="1" text="grab eraser ." />
+<item slot="2" text="rub eraser over whiteboard ." />
+</script>
+<script id="19">
+<item slot="1" text="grab eraser ." />
+<item slot="2" text="rub eraser over whiteboard ." />
+</script>
+<script id="20">
+<item slot="1" text="rub the eraser over the writing ." />
+</script>
+<script id="21">
+<item slot="1" text="pick up the eraser ." />
+<item slot="2" text="rub it over the writing ." />
+</script>
+<script id="22">
+<item slot="1" text="remove all the whiteboard marker using the whiteboard eraser ." />
+</script>
+<script id="23">
+<item slot="1" text="remove all the whiteboard marker using the whiteboard eraser ." />
+</script>
+<script id="24">
+<item slot="1" text="spray the whiteboard spray ." />
+<item slot="2" text="wipe the whiteboard ." />
+</script>
+<script id="25">
+<item slot="1" text="grab the earser ." />
+<item slot="2" text="brush earser over the white board ." />
+<item slot="3" text="continue until the board is clean ." />
+<item slot="4" text="replace earser ." />
+</script>
+<script id="26">
+<item slot="1" text="pick up eraser ." />
+<item slot="2" text="rub board until clean ." />
+</script>
+<script id="27">
+<item slot="1" text="equip the eraser ." />
+<item slot="2" text="wipe the whiteboard ." />
+<item slot="3" text="unequip the eraser ." />
+</script>
+<script id="28">
+<item slot="1" text="take an eraser ." />
+<item slot="2" text="use it to wipe off errors ." />
+</script>
+<script id="29">
+<item slot="1" text="spray the whiteboard with cleaning solution ." />
+<item slot="2" text="wipe the writing and solution off the board using a circular scrubbing motion ." />
+</script>
+<script id="30">
+<item slot="1" text="wet a paper towel ." />
+<item slot="2" text="wipe the writing on the whiteboard ." />
+<item slot="3" text="once writing is gone use dry paper towel and wipe dry ." />
+</script>
+<script id="31">
+<item slot="1" text="wet a paper towel ." />
+<item slot="2" text="wipe the writing on the whiteboard ." />
+<item slot="3" text="once writing is gone use dry paper towel and wipe dry ." />
+</script>
+<script id="32">
+<item slot="1" text="wet a paper towel ." />
+<item slot="2" text="wipe the writing on the whiteboard ." />
+<item slot="3" text="once writing is gone use dry paper towel and wipe dry ." />
+</script>
+<script id="33">
+<item slot="1" text="wet a paper towel ." />
+<item slot="2" text="wipe the writing on the whiteboard ." />
+<item slot="3" text="once writing is gone use dry paper towel and wipe dry ." />
+</script>
+<script id="34">
+<item slot="1" text="wet a paper towel ." />
+<item slot="2" text="wipe the writing on the whiteboard ." />
+<item slot="3" text="once writing is gone use dry paper towel and wipe dry ." />
+</script>
+<script id="35">
+<item slot="1" text="wet a paper towel ." />
+<item slot="2" text="wipe the writing on the whiteboard ." />
+<item slot="3" text="once writing is gone use dry paper towel and wipe dry ." />
+</script>
+<script id="36">
+<item slot="1" text="take out eraser ." />
+<item slot="2" text="rub eraser on the portion of whiteboard you wish to erase ." />
+</script>
+<script id="37">
+<item slot="1" text="pick the eraser ." />
+<item slot="2" text="go close to the whiteboard ." />
+<item slot="3" text="use the eraser to clean the whiteboard ." />
+<item slot="4" text="put the eraser down ." />
+</script>
+<script id="38">
+<item slot="1" text="put wipeboard eraser in hand ." />
+<item slot="2" text="move eraser over area to be erased ." />
+<item slot="3" text="put eraser back ." />
+</script>
+<script id="39">
+<item slot="1" text="put wipeboard eraser in hand ." />
+<item slot="2" text="move eraser over area to be erased ." />
+<item slot="3" text="put eraser back ." />
+</script>
+<script id="40">
+<item slot="1" text="put wipeboard eraser in hand ." />
+<item slot="2" text="move eraser over area to be erased ." />
+<item slot="3" text="put eraser back ." />
+</script>
+<script id="41">
+<item slot="1" text="put wipeboard eraser in hand ." />
+<item slot="2" text="move eraser over area to be erased ." />
+<item slot="3" text="put eraser back ." />
+</script>
+<script id="42">
+<item slot="1" text="find eraser ." />
+<item slot="2" text="rub ." />
+<item slot="3" text="rub some more ." />
+<item slot="4" text="check to make sure its clean ." />
+<item slot="5" text="rub anywhere there are still spots ." />
+</script>
+<script id="43">
+<item slot="1" text="take eraser ." />
+<item slot="2" text="wipe whiteboard ." />
+</script>
+</scripts>

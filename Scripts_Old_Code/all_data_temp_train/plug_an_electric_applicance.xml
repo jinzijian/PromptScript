@@ -1,0 +1,322 @@
+<scripts>
+<script id="1">
+<item slot="1" text="find the appliance s electric plug ." />
+<item slot="2" text="find an electrical outlet ." />
+<item slot="3" text="put the plug into the outlet ." />
+</script>
+<script id="2">
+<item slot="1" text="find appliance s electric cord ." />
+<item slot="2" text="plug cord into electrical wall outlet ." />
+</script>
+<script id="3">
+<item slot="1" text="locate the cord on the appliance ." />
+<item slot="2" text="locate the plug on the cord ." />
+<item slot="3" text="locate an electrical outlet for the plug ." />
+<item slot="4" text="insert the plug into the electrical outlet ." />
+</script>
+<script id="4">
+<item slot="1" text="find electric outlet ." />
+<item slot="2" text="put appliance plug in electric outlet ." />
+</script>
+<script id="5">
+<item slot="1" text="locate power cord ." />
+<item slot="2" text="locate power outlet ." />
+<item slot="3" text="put plug into outlet ." />
+</script>
+<script id="6">
+<item slot="1" text="find appliance plug ." />
+<item slot="2" text="find power plug ." />
+<item slot="3" text="insert appliance plug in power plug ." />
+</script>
+<script id="7">
+<item slot="1" text="put the appliance near an outlet ." />
+<item slot="2" text="make sure the outlet is not in use ." />
+<item slot="3" text="put the plug end of the cord into the outlet ." />
+</script>
+<script id="8">
+<item slot="1" text="grasp the plug ." />
+<item slot="2" text="locate the electric socket ." />
+<item slot="3" text="press the plug into the socket ." />
+</script>
+<script id="9">
+<item slot="1" text="find plug of the appliance ." />
+<item slot="2" text="find outlet ." />
+<item slot="3" text="put plug in outlet ." />
+</script>
+<script id="10">
+<item slot="1" text="locate power outlet ." />
+<item slot="2" text="locate cord ." />
+<item slot="3" text="plug cord into power outlet ." />
+</script>
+<script id="11">
+<item slot="1" text="find an outlet near the appliance ." />
+<item slot="2" text="turn the plug in the correct direction ." />
+<item slot="3" text="plug the plug into the outlet ." />
+</script>
+<script id="12">
+<item slot="1" text="pick up the cord end ." />
+<item slot="2" text="finding an outlet ." />
+<item slot="3" text="plugging the cord into the outlet ." />
+</script>
+<script id="13">
+<item slot="1" text="locate an electric outlet ." />
+<item slot="2" text="find the power cord of the electric appliance ." />
+<item slot="3" text="plug the power cord into the outlet ." />
+</script>
+<script id="14">
+<item slot="1" text="take electric plug ." />
+<item slot="2" text="go to nearest electric outlet ." />
+<item slot="3" text="insert plug in outlet ." />
+</script>
+<script id="15">
+<item slot="1" text="grab appliance plug ." />
+<item slot="2" text="take to nearest power outlet moving the appliance if neccessary ." />
+<item slot="3" text="insert plug into outlet ." />
+</script>
+<script id="16">
+<item slot="1" text="find outlet ." />
+<item slot="2" text="plug plug into outlet ." />
+</script>
+<script id="17">
+<item slot="1" text="find an electric appliance ." />
+<item slot="2" text="find the appliance s power cord ." />
+<item slot="3" text="pick up the power cord by the power connector ." />
+<item slot="4" text="plug the connector into an electrical outlet ." />
+</script>
+<script id="18">
+<item slot="1" text="find electricity socket ." />
+<item slot="2" text="find plug on electric appliance ." />
+<item slot="3" text="put plug in socket ." />
+</script>
+<script id="19">
+<item slot="1" text="pick up the plug ." />
+<item slot="2" text="find an outlet ." />
+<item slot="3" text="plug the plug into the outlet ." />
+</script>
+<script id="20">
+<item slot="1" text="find the electric appliance ." />
+<item slot="2" text="find the cord on it ." />
+<item slot="3" text="find an outlet ." />
+<item slot="4" text="plug the cord into the outlet ." />
+</script>
+<script id="21">
+<item slot="1" text="put the plug in a main outlet of the electric appliance ." />
+</script>
+<script id="22">
+<item slot="1" text="get cord ." />
+<item slot="2" text="find outlet ." />
+<item slot="3" text="insert plug into outlet ." />
+</script>
+<script id="23">
+<item slot="1" text="locate an open electrical outlet ." />
+<item slot="2" text="put the appliance where you want it ." />
+<item slot="3" text="take the applicance s plug and insert it in the open electrical outlet ." />
+</script>
+<script id="24">
+<item slot="1" text="hold plug in your hand ." />
+<item slot="2" text="put plug into electrical socket ." />
+</script>
+<script id="25">
+<item slot="1" text="hold plug in your hand ." />
+<item slot="2" text="put plug into electrical socket ." />
+</script>
+<script id="26">
+<item slot="1" text="push the plug into the outlet ." />
+</script>
+<script id="27">
+<item slot="1" text="push the plug into the outlet ." />
+</script>
+<script id="28">
+<item slot="1" text="put the plug into an outlet ." />
+</script>
+<script id="29">
+<item slot="1" text="pick up the plug ." />
+<item slot="2" text="find a wall socket ." />
+<item slot="3" text="put the plug in the wall ." />
+</script>
+<script id="30">
+<item slot="1" text="take the appliance ." />
+<item slot="2" text="select suitable socket ." />
+<item slot="3" text="plug the wire ." />
+<item slot="4" text="swith on the appliance ." />
+</script>
+<script id="31">
+<item slot="1" text="take the appliance ." />
+<item slot="2" text="select suitable socket ." />
+<item slot="3" text="plug the wire ." />
+<item slot="4" text="swith on the appliance ." />
+</script>
+<script id="32">
+<item slot="1" text="locate plug socket ." />
+<item slot="2" text="hold plug ." />
+<item slot="3" text="push plug into socket ." />
+</script>
+<script id="33">
+<item slot="1" text="take cord ." />
+<item slot="2" text="put plug in socket ." />
+</script>
+<script id="34">
+<item slot="1" text="take cord ." />
+<item slot="2" text="put plug in socket ." />
+</script>
+<script id="35">
+<item slot="1" text="take cord ." />
+<item slot="2" text="put plug in socket ." />
+</script>
+<script id="36">
+<item slot="1" text="take cord ." />
+<item slot="2" text="put plug in socket ." />
+</script>
+<script id="37">
+<item slot="1" text="take cord ." />
+<item slot="2" text="put plug in socket ." />
+</script>
+<script id="38">
+<item slot="1" text="take cord ." />
+<item slot="2" text="put plug in socket ." />
+</script>
+<script id="39">
+<item slot="1" text="take cord ." />
+<item slot="2" text="put plug in socket ." />
+</script>
+<script id="40">
+<item slot="1" text="take cord ." />
+<item slot="2" text="put plug in socket ." />
+</script>
+<script id="41">
+<item slot="1" text="take cord ." />
+<item slot="2" text="put plug in socket ." />
+</script>
+<script id="42">
+<item slot="1" text="take cord ." />
+<item slot="2" text="put plug in socket ." />
+</script>
+<script id="43">
+<item slot="1" text="locate plug ." />
+<item slot="2" text="locate socket ." />
+<item slot="3" text="insert plug into socket ." />
+<item slot="4" text="switch on socket ." />
+</script>
+<script id="44">
+<item slot="1" text="locate plug ." />
+<item slot="2" text="locate socket ." />
+<item slot="3" text="insert plug into socket ." />
+<item slot="4" text="switch on socket ." />
+</script>
+<script id="45">
+<item slot="1" text="locate plug ." />
+<item slot="2" text="locate socket ." />
+<item slot="3" text="insert plug into socket ." />
+<item slot="4" text="switch on socket ." />
+</script>
+<script id="46">
+<item slot="1" text="locate plug ." />
+<item slot="2" text="locate socket ." />
+<item slot="3" text="insert plug into socket ." />
+<item slot="4" text="switch on socket ." />
+</script>
+<script id="47">
+<item slot="1" text="locate plug ." />
+<item slot="2" text="locate socket ." />
+<item slot="3" text="insert plug into socket ." />
+<item slot="4" text="switch on socket ." />
+</script>
+<script id="48">
+<item slot="1" text="grasp the plug ." />
+<item slot="2" text="find an electrical outlet ." />
+<item slot="3" text="insert the plug into the outlet ." />
+</script>
+<script id="49">
+<item slot="1" text="grasp the plug ." />
+<item slot="2" text="find an electrical outlet ." />
+<item slot="3" text="insert the plug into the outlet ." />
+</script>
+<script id="50">
+<item slot="1" text="grasp the plug ." />
+<item slot="2" text="find an electrical outlet ." />
+<item slot="3" text="insert the plug into the outlet ." />
+</script>
+<script id="51">
+<item slot="1" text="grasp the plug ." />
+<item slot="2" text="find an electrical outlet ." />
+<item slot="3" text="insert the plug into the outlet ." />
+</script>
+<script id="52">
+<item slot="1" text="grasp the plug ." />
+<item slot="2" text="find an electrical outlet ." />
+<item slot="3" text="insert the plug into the outlet ." />
+</script>
+<script id="53">
+<item slot="1" text="grasp the plug ." />
+<item slot="2" text="find an electrical outlet ." />
+<item slot="3" text="insert the plug into the outlet ." />
+</script>
+<script id="54">
+<item slot="1" text="find end of cord ." />
+<item slot="2" text="place plug in wall socket ." />
+</script>
+<script id="55">
+<item slot="1" text="find end of cord ." />
+<item slot="2" text="place plug in wall socket ." />
+</script>
+<script id="56">
+<item slot="1" text="find electric applicance plug ." />
+<item slot="2" text="find proper electric socket ." />
+<item slot="3" text="insert plug into socket ." />
+</script>
+<script id="57">
+<item slot="1" text="grasp electric cord ." />
+<item slot="2" text="put metal prongs into wall socket ." />
+</script>
+<script id="58">
+<item slot="1" text="grasp electric cord ." />
+<item slot="2" text="put metal prongs into wall socket ." />
+</script>
+<script id="59">
+<item slot="1" text="grasp electric cord ." />
+<item slot="2" text="put metal prongs into wall socket ." />
+</script>
+<script id="60">
+<item slot="1" text="grasp electric cord ." />
+<item slot="2" text="put metal prongs into wall socket ." />
+</script>
+<script id="61">
+<item slot="1" text="grab cord ." />
+<item slot="2" text="find electrical outlet ." />
+<item slot="3" text="plug in cord ." />
+</script>
+<script id="62">
+<item slot="1" text="grab cord ." />
+<item slot="2" text="find electrical outlet ." />
+<item slot="3" text="plug in cord ." />
+</script>
+<script id="63">
+<item slot="1" text="grab cord ." />
+<item slot="2" text="find electrical outlet ." />
+<item slot="3" text="plug in cord ." />
+</script>
+<script id="64">
+<item slot="1" text="grab cord ." />
+<item slot="2" text="find electrical outlet ." />
+<item slot="3" text="plug in cord ." />
+</script>
+<script id="65">
+<item slot="1" text="take cord with plug in hand ." />
+<item slot="2" text="look for outlet ." />
+<item slot="3" text="find outlet ." />
+<item slot="4" text="move plug to outlet ." />
+<item slot="5" text="align plug ." />
+<item slot="6" text="push into outlet ." />
+<item slot="7" text="it s plugged in now ." />
+</script>
+<script id="66">
+<item slot="1" text="obtain electric appliance ." />
+<item slot="2" text="take appliance to nearest outlet ." />
+<item slot="3" text="plug in appliance into outlet ." />
+</script>
+<script id="67">
+<item slot="1" text="obtain electric appliance ." />
+<item slot="2" text="take appliance to nearest outlet ." />
+<item slot="3" text="plug in appliance into outlet ." />
+</script>
+</scripts>

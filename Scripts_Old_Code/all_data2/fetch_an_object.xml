@@ -1,0 +1,9 @@
+<scripts><script id="14">
+<item slot="1" text="locate object ."/>
+<item slot="2" text="go to location of object ."/>
+<item slot="3" text="grasp object ."/>
+<item slot="4" text="pick up object ."/>
+<item slot="5" text="move to starting location ."/>
+<item slot="6" text="place object on surface ."/>
+<item slot="7" text="release grasp of object ."/>
+</script></scripts>

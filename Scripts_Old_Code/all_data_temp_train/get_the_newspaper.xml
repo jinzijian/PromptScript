@@ -1,0 +1,326 @@
+<scripts>
+<script id="1">
+<item slot="1" text="open front door ." />
+<item slot="2" text="find the newspaper ." />
+<item slot="3" text="pick up the newspaper ." />
+<item slot="4" text="walk back to home ." />
+<item slot="5" text="close front door ." />
+</script>
+<script id="2">
+<item slot="1" text="go to the store ." />
+<item slot="2" text="find the newspapers ." />
+<item slot="3" text="take a newspaper to the cash register ." />
+<item slot="4" text="pay for the newspaper ." />
+<item slot="5" text="take the newspaper home ." />
+</script>
+<script id="3">
+<item slot="1" text="locate the newspaper ." />
+<item slot="2" text="if outside  open the door ." />
+</script>
+<script id="4">
+<item slot="1" text="look for the newspaper ." />
+<item slot="2" text="pick it up ." />
+</script>
+<script id="5">
+<item slot="1" text="locate a door ." />
+<item slot="2" text="go outside through the door ." />
+<item slot="3" text="locate the newspaper ." />
+<item slot="4" text="pick up the newspaper ." />
+<item slot="5" text="move back to the door ." />
+<item slot="6" text="go to the inside through the door ." />
+</script>
+<script id="6">
+<item slot="1" text="go to the front door ." />
+<item slot="2" text="pick up the newspaper ." />
+</script>
+<script id="7">
+<item slot="1" text="go to door ." />
+<item slot="2" text="open door ." />
+<item slot="3" text="pick up newspaper ." />
+<item slot="4" text="bring newspaper into house ." />
+</script>
+<script id="8">
+<item slot="1" text="put on shoes ." />
+<item slot="2" text="walk out of the house and down the driveway ." />
+<item slot="3" text="pick up the newspaper ." />
+</script>
+<script id="9">
+<item slot="1" text="locate the newspaper ." />
+<item slot="2" text="walk to the newspaper ." />
+<item slot="3" text="pick it up ." />
+<item slot="4" text="bring it to the original location ." />
+</script>
+<script id="10">
+<item slot="1" text="open the door ." />
+<item slot="2" text="look down ." />
+<item slot="3" text="see the newpaper on the ground ." />
+<item slot="4" text="pick it up ." />
+<item slot="5" text="close the door ." />
+</script>
+<script id="11">
+<item slot="1" text="get out of bed ." />
+<item slot="2" text="open door ." />
+<item slot="3" text="look for newspaper ." />
+<item slot="4" text="bring newspaper inside house ." />
+<item slot="5" text="close door ." />
+</script>
+<script id="12">
+<item slot="1" text="check if the newspaper is indoors ." />
+<item slot="2" text="if not walk outside and check to see if newspaper is there ." />
+<item slot="3" text="once newspaper is located pick it up ." />
+<item slot="4" text="return to the person requesting the newspaper ." />
+</script>
+<script id="13">
+<item slot="1" text="go to the coffee shop ." />
+<item slot="2" text="find the rack of newspapers for sale ." />
+<item slot="3" text="pick one up ." />
+<item slot="4" text="take it to the cashier ." />
+<item slot="5" text="pay for it ." />
+</script>
+<script id="14">
+<item slot="1" text="go to newspaper stand ." />
+<item slot="2" text="pick newspaper ." />
+<item slot="3" text="pay ." />
+<item slot="4" text="leave ." />
+</script>
+<script id="15">
+<item slot="1" text="locate the newspaper ." />
+<item slot="2" text="walk to the newspaper ." />
+<item slot="3" text="pickup the newspaper ." />
+<item slot="4" text="read the newspaper ." />
+</script>
+<script id="16">
+<item slot="1" text="go to newspaper stand ." />
+<item slot="2" text="select newspaper ." />
+<item slot="3" text="pay ." />
+</script>
+<script id="17">
+<item slot="1" text="go to street corner ." />
+<item slot="2" text="locate newspaper machine ." />
+<item slot="3" text="insert coins ." />
+<item slot="4" text="get a newspaper from machine ." />
+<item slot="5" text="return home ." />
+</script>
+<script id="18">
+<item slot="1" text="locate newspaper ." />
+<item slot="2" text="pick up newspaper ." />
+<item slot="3" text="return to owner ." />
+</script>
+<script id="19">
+<item slot="1" text="look outside ." />
+<item slot="2" text="if there is a newspaper then go outside ." />
+<item slot="3" text="go over to the newspaper ." />
+<item slot="4" text="pick up the newspaper ." />
+<item slot="5" text="go back inside ." />
+<item slot="6" text="take the bag off the newspaper ." />
+<item slot="7" text="take the newspaper to the table ." />
+</script>
+<script id="20">
+<item slot="1" text="go to the news stand ." />
+<item slot="2" text="select correct newspaper ." />
+<item slot="3" text="pay for the newspaper ." />
+<item slot="4" text="pick the newspaper up ." />
+</script>
+<script id="21">
+<item slot="1" text="walk to the store ." />
+<item slot="2" text="pick up a newspaper ." />
+<item slot="3" text="get in line ." />
+<item slot="4" text="pay cashier ." />
+</script>
+<script id="22">
+<item slot="1" text="go to the newspaper stand ." />
+<item slot="2" text="get the newspaper ." />
+</script>
+<script id="23">
+<item slot="1" text="open the front door ." />
+<item slot="2" text="locate the paper ." />
+<item slot="3" text="walk to the paper ." />
+<item slot="4" text="bend over and pick up the paper ." />
+<item slot="5" text="walk back to the house ." />
+<item slot="6" text="close the door ." />
+</script>
+<script id="24">
+<item slot="1" text="open door ." />
+<item slot="2" text="get newspaper ." />
+</script>
+<script id="25">
+<item slot="1" text="finding the newspaper ." />
+<item slot="2" text="picking up the newspaper ." />
+<item slot="3" text="placing the newspaper down where it is needed ." />
+</script>
+<script id="26">
+<item slot="1" text="finding the newspaper ." />
+<item slot="2" text="picking up the newspaper ." />
+<item slot="3" text="placing the newspaper down where it is needed ." />
+</script>
+<script id="27">
+<item slot="1" text="put on your robe ." />
+<item slot="2" text="put on your slippers ." />
+<item slot="3" text="walk out the door ." />
+<item slot="4" text="look for the paper ." />
+<item slot="5" text="grab the paper ." />
+</script>
+<script id="28">
+<item slot="1" text="put on your robe ." />
+<item slot="2" text="put on your slippers ." />
+<item slot="3" text="walk out the door ." />
+<item slot="4" text="look for the paper ." />
+<item slot="5" text="grab the paper ." />
+</script>
+<script id="29">
+<item slot="1" text="go outside ." />
+<item slot="2" text="pick up the newspaper off the ground ." />
+</script>
+<script id="30">
+<item slot="1" text="go to the front door ." />
+<item slot="2" text="open the door ." />
+<item slot="3" text="go out on the front steps ." />
+<item slot="4" text="close the door ." />
+<item slot="5" text="walk to the paper ." />
+<item slot="6" text="pick it up ." />
+<item slot="7" text="walk back to the front door ." />
+</script>
+<script id="31">
+<item slot="1" text="walk to newspaper stand ." />
+<item slot="2" text="deposit coins into newstand ." />
+<item slot="3" text="open stand door ." />
+<item slot="4" text="take out one paper ." />
+<item slot="5" text="close stand door ." />
+</script>
+<script id="32">
+<item slot="1" text="open front door ." />
+<item slot="2" text="take newspaper bag off handle ." />
+<item slot="3" text="bring into house ." />
+</script>
+<script id="33">
+<item slot="1" text="open door ." />
+<item slot="2" text="walk onto porch or to the front of the house ." />
+<item slot="3" text="locate newspaper ." />
+<item slot="4" text="pick up newspaper ." />
+<item slot="5" text="bring newspaper in house ." />
+</script>
+<script id="34">
+<item slot="1" text="go outside ." />
+<item slot="2" text="get paper ." />
+<item slot="3" text="wave at neighbours ." />
+<item slot="4" text="go back inside ." />
+<item slot="5" text="close door ." />
+</script>
+<script id="35">
+<item slot="1" text="go to the store ." />
+<item slot="2" text="pick the type ." />
+<item slot="3" text="pick up paper ." />
+<item slot="4" text="give money to store ." />
+<item slot="5" text="put paper into bag ." />
+<item slot="6" text="take paper home ." />
+<item slot="7" text="enjoy ." />
+</script>
+<script id="36">
+<item slot="1" text="open front door ." />
+<item slot="2" text="go to mailbox ." />
+<item slot="3" text="pick up newspaper ." />
+</script>
+<script id="37">
+<item slot="1" text="go outside ." />
+<item slot="2" text="pick up newspaper ." />
+<item slot="3" text="bring it inside ." />
+</script>
+<script id="38">
+<item slot="1" text="walk ." />
+<item slot="2" text="get newspaper ." />
+</script>
+<script id="39">
+<item slot="1" text="walk ." />
+<item slot="2" text="get newspaper ." />
+</script>
+<script id="40">
+<item slot="1" text="walk ." />
+<item slot="2" text="get newspaper ." />
+</script>
+<script id="41">
+<item slot="1" text="walk ." />
+<item slot="2" text="get newspaper ." />
+</script>
+<script id="42">
+<item slot="1" text="walk ." />
+<item slot="2" text="get newspaper ." />
+</script>
+<script id="43">
+<item slot="1" text="walk ." />
+<item slot="2" text="get newspaper ." />
+</script>
+<script id="44">
+<item slot="1" text="walk to mailbox ." />
+<item slot="2" text="open mailbox ." />
+<item slot="3" text="remove newspaper ." />
+<item slot="4" text="bring newspaper inside ." />
+</script>
+<script id="45">
+<item slot="1" text="walk to mailbox ." />
+<item slot="2" text="open mailbox ." />
+<item slot="3" text="remove newspaper ." />
+<item slot="4" text="bring newspaper inside ." />
+</script>
+<script id="46">
+<item slot="1" text="buy newspaper ." />
+</script>
+<script id="47">
+<item slot="1" text="go downstairs ." />
+<item slot="2" text="open the door ." />
+<item slot="3" text="walk to the newspaper ." />
+<item slot="4" text="bend down ." />
+<item slot="5" text="pick up newspaper ." />
+<item slot="6" text="go back in ." />
+<item slot="7" text="close door ." />
+</script>
+<script id="48">
+<item slot="1" text="go downstairs ." />
+<item slot="2" text="open the door ." />
+<item slot="3" text="walk to the newspaper ." />
+<item slot="4" text="bend down ." />
+<item slot="5" text="pick up newspaper ." />
+<item slot="6" text="go back in ." />
+<item slot="7" text="close door ." />
+</script>
+<script id="49">
+<item slot="1" text="go downstairs ." />
+<item slot="2" text="open the door ." />
+<item slot="3" text="walk to the newspaper ." />
+<item slot="4" text="bend down ." />
+<item slot="5" text="pick up newspaper ." />
+<item slot="6" text="go back in ." />
+<item slot="7" text="close door ." />
+</script>
+<script id="50">
+<item slot="1" text="go downstairs ." />
+<item slot="2" text="open the door ." />
+<item slot="3" text="walk to the newspaper ." />
+<item slot="4" text="bend down ." />
+<item slot="5" text="pick up newspaper ." />
+<item slot="6" text="go back in ." />
+<item slot="7" text="close door ." />
+</script>
+<script id="51">
+<item slot="1" text="open door in morning ." />
+<item slot="2" text="locate newspaper ." />
+<item slot="3" text="pick it up ." />
+<item slot="4" text="go back inside ." />
+</script>
+<script id="52">
+<item slot="1" text="open door in morning ." />
+<item slot="2" text="locate newspaper ." />
+<item slot="3" text="pick it up ." />
+<item slot="4" text="go back inside ." />
+</script>
+<script id="53">
+<item slot="1" text="open front door ." />
+<item slot="2" text="pick up the paper ." />
+<item slot="3" text="bring it into the house ." />
+<item slot="4" text="close the front door ." />
+</script>
+<script id="54">
+<item slot="1" text="go to front door ." />
+<item slot="2" text="open door ." />
+<item slot="3" text="bend over and pick up paper ." />
+</script>
+</scripts>

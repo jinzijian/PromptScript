@@ -1,0 +1,229 @@
+<scripts>
+<script id="1">
+<item slot="1" text="picking up the receiver ." />
+<item slot="2" text="dialing the phone number ." />
+<item slot="3" text="asking to speak to someone ." />
+<item slot="4" text="repeating the message ." />
+</script>
+<script id="2">
+<item slot="1" text="call the person ." />
+<item slot="2" text="give them the message ." />
+</script>
+<script id="3">
+<item slot="1" text="call the person ." />
+<item slot="2" text="tell them the message over the phone ." />
+</script>
+<script id="4">
+<item slot="1" text="call the person for whom the message is intended ." />
+<item slot="2" text="tell them you have a message for them ." />
+<item slot="3" text="tell them who the message is from ." />
+<item slot="4" text="tell them the message ." />
+</script>
+<script id="5">
+<item slot="1" text="receive the message to transmit ." />
+<item slot="2" text="dial the phone for the person you want to give the message to ." />
+<item slot="3" text="transmit the message verbally ." />
+<item slot="4" text="hang up the phone ." />
+</script>
+<script id="6">
+<item slot="1" text="call the person on the phone ." />
+<item slot="2" text="make sure it s the right person ." />
+<item slot="3" text="tell them the message ." />
+<item slot="4" text="hang up ." />
+</script>
+<script id="7">
+<item slot="1" text="locate message ." />
+<item slot="2" text="read message ." />
+<item slot="3" text="dictate message over phone ." />
+</script>
+<script id="8">
+<item slot="1" text="obtain a message ." />
+<item slot="2" text="be talking to someone on the phone ." />
+<item slot="3" text="verbally repeat the message ." />
+</script>
+<script id="9">
+<item slot="1" text="find the person s phone number ." />
+<item slot="2" text="pick up the phone ." />
+<item slot="3" text="call the phone number ." />
+<item slot="4" text="ask to sepak to that person ." />
+<item slot="5" text="say the message ." />
+<item slot="6" text="ask the person to confirm the message ." />
+<item slot="7" text="hang up the phone ." />
+</script>
+<script id="10">
+<item slot="1" text="find the phone number of the person ." />
+<item slot="2" text="dial the person s phone number ." />
+<item slot="3" text="wait for the person to answer ." />
+<item slot="4" text="greet the person ." />
+<item slot="5" text="relay the message to the person ." />
+</script>
+<script id="11">
+<item slot="1" text="pick up the phone ." />
+<item slot="2" text="call that person ." />
+<item slot="3" text="ask to speak to the person ." />
+<item slot="4" text="tell the person the message you want to give ." />
+<item slot="5" text="make sure the person understand the message ." />
+</script>
+<script id="12">
+<item slot="1" text="pick up phone ." />
+<item slot="2" text="dial number ." />
+<item slot="3" text="wait for person to answer ." />
+<item slot="4" text="deliver message ." />
+<item slot="5" text="hang up ." />
+</script>
+<script id="13">
+<item slot="1" text="call person ." />
+<item slot="2" text="wait for person to pick up phone ." />
+<item slot="3" text="transmit message ." />
+<item slot="4" text="hang up ." />
+</script>
+<script id="14">
+<item slot="1" text="call person on the phone ." />
+<item slot="2" text="wait for person to pick up ." />
+<item slot="3" text="deliver message ." />
+<item slot="4" text="hang up ." />
+</script>
+<script id="15">
+<item slot="1" text="dial person s phone number ." />
+<item slot="2" text="wait for person to pick up or ask for person ." />
+<item slot="3" text="communicate message ." />
+<item slot="4" text="hang up ." />
+</script>
+<script id="16">
+<item slot="1" text="call person ." />
+<item slot="2" text="deliver message ." />
+<item slot="3" text="hang up ." />
+</script>
+<script id="17">
+<item slot="1" text="call person on phone ." />
+<item slot="2" text="wait for person to pick up ." />
+<item slot="3" text="deliver message ." />
+<item slot="4" text="hang up ." />
+</script>
+<script id="18">
+<item slot="1" text="locate the number of the receipent of the message ." />
+<item slot="2" text="locate a telephone ." />
+<item slot="3" text="call the receipient on the telephone ." />
+<item slot="4" text="recite the message to the receipient ." />
+<item slot="5" text="hang up the phone ." />
+</script>
+<script id="19">
+<item slot="1" text="ask to speak to the person the message is intended for ." />
+<item slot="2" text="dictate the message ." />
+<item slot="3" text="say goodbye ." />
+<item slot="4" text="hang up the phone ." />
+</script>
+<script id="20">
+<item slot="1" text="read message slowly ." />
+<item slot="2" text="read contact information ." />
+<item slot="3" text="ask person if they got the message ." />
+<item slot="4" text="read message if necessary ." />
+<item slot="5" text="hang up ." />
+</script>
+<script id="21">
+<item slot="1" text="speak message to person ." />
+</script>
+<script id="22">
+<item slot="1" text="pick up receiver ." />
+<item slot="2" text="dial phone number ." />
+<item slot="3" text="ask for recipient ." />
+<item slot="4" text="give message ." />
+<item slot="5" text="hang up phone ." />
+</script>
+<script id="23">
+<item slot="1" text="recite message ." />
+</script>
+<script id="24">
+<item slot="1" text="pick up the phone ." />
+<item slot="2" text="dial a number talk to person and give message ." />
+</script>
+<script id="25">
+<item slot="1" text="call the person ." />
+<item slot="2" text="ask if they are who you want ." />
+<item slot="3" text="tell them who called ." />
+<item slot="4" text="tell them their phone number ." />
+</script>
+<script id="26">
+<item slot="1" text="have information to tell someone distant ." />
+<item slot="2" text="find the location phone number ." />
+<item slot="3" text="dial the number ." />
+<item slot="4" text="ask for someone ." />
+<item slot="5" text="greet someone ." />
+<item slot="6" text="transmit message ." />
+<item slot="7" text="listen for response ." />
+</script>
+<script id="27">
+<item slot="1" text="pick up the receiver ." />
+<item slot="2" text="dial her number ." />
+<item slot="3" text="tell her the message ." />
+<item slot="4" text="put down the receiver ." />
+</script>
+<script id="28">
+<item slot="1" text="get the number ." />
+<item slot="2" text="dial the number ." />
+<item slot="3" text="cotact the person ." />
+<item slot="4" text="relay the message ." />
+<item slot="5" text="get ackowledged ." />
+<item slot="6" text="sign off ." />
+<item slot="7" text="keep the reciever down ." />
+</script>
+<script id="29">
+<item slot="1" text="call person on phone ." />
+<item slot="2" text="tell person message ." />
+<item slot="3" text="hang up ." />
+</script>
+<script id="30">
+<item slot="1" text="call the person you are going to give the messsage to first ." />
+<item slot="2" text="when the person answers the phone tell the person the message that was left for him or her ." />
+</script>
+<script id="31">
+<item slot="1" text="pick up phone ." />
+<item slot="2" text="phone person ." />
+<item slot="3" text="give them message ." />
+</script>
+<script id="32">
+<item slot="1" text="call message recipient ." />
+<item slot="2" text="when they answer read/tell them the message ." />
+<item slot="3" text="ask them if they need a repeat ." />
+<item slot="4" text="when finished say goodbye and hang up ." />
+</script>
+<script id="33">
+<item slot="1" text="ask if they can take a message ." />
+<item slot="2" text="tell them who you are ." />
+<item slot="3" text="tell them your message ." />
+<item slot="4" text="say bye ." />
+<item slot="5" text="hang up ." />
+</script>
+<script id="34">
+<item slot="1" text="ask if they can take a message ." />
+<item slot="2" text="tell them who you are ." />
+<item slot="3" text="tell them your message ." />
+<item slot="4" text="say bye ." />
+<item slot="5" text="hang up ." />
+</script>
+<script id="35">
+<item slot="1" text="ask if they can take a message ." />
+<item slot="2" text="tell them who you are ." />
+<item slot="3" text="tell them your message ." />
+<item slot="4" text="say bye ." />
+<item slot="5" text="hang up ." />
+</script>
+<script id="36">
+<item slot="1" text="write down message ." />
+<item slot="2" text="when the person comes home give them message ." />
+</script>
+<script id="37">
+<item slot="1" text="write down message ." />
+<item slot="2" text="when the person comes home give them message ." />
+</script>
+<script id="38">
+<item slot="1" text="pick up phone ." />
+<item slot="2" text="dial person s number ." />
+<item slot="3" text="wait for person to pick up phone ." />
+<item slot="4" text="say hi and tell person the message ." />
+</script>
+<script id="39">
+<item slot="1" text="take down message ." />
+<item slot="2" text="give message to person you talk to them next ." />
+</script>
+</scripts>

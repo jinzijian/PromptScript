@@ -1,0 +1,408 @@
+<scripts>
+<script id="1">
+<item slot="1" text="say hello ." />
+<item slot="2" text="shake hand ." />
+</script>
+<script id="2">
+<item slot="1" text="say hello ." />
+<item slot="2" text="welcome them to the location ." />
+</script>
+<script id="3">
+<item slot="1" text="open door ." />
+<item slot="2" text="wave to visitor ." />
+<item slot="3" text="say hello ." />
+<item slot="4" text="shake visitors hand ." />
+<item slot="5" text="invite inside ." />
+</script>
+<script id="4">
+<item slot="1" text="smile ." />
+<item slot="2" text="introduce yourself ." />
+<item slot="3" text="state your purpose ." />
+<item slot="4" text="ask if you can be of assistance ." />
+<item slot="5" text="determine the person s name ." />
+<item slot="6" text="assist if no danger is present ." />
+</script>
+<script id="5">
+<item slot="1" text="go to visitor ." />
+<item slot="2" text="tell visitor hello ." />
+</script>
+<script id="6">
+<item slot="1" text="walk close to the visitor ." />
+<item slot="2" text="say hello ." />
+<item slot="3" text="offer hand for shaking ." />
+<item slot="4" text="say your name ." />
+</script>
+<script id="7">
+<item slot="1" text="go to door ." />
+<item slot="2" text="make eye contact ." />
+<item slot="3" text="say 'hi' ." />
+</script>
+<script id="8">
+<item slot="1" text="see the visitor ." />
+<item slot="2" text="hug the visitor or shake hands with him/her ." />
+<item slot="3" text="say greetings to the visitor ." />
+</script>
+<script id="9">
+<item slot="1" text="open the door for the visitor ." />
+<item slot="2" text="say 'hello' to the visitor ." />
+<item slot="3" text="allow the visitor to enter ." />
+<item slot="4" text="offer to take the visitor s coat ." />
+<item slot="5" text="show the visitor to a seat ." />
+</script>
+<script id="10">
+<item slot="1" text="open the door ." />
+<item slot="2" text="say 'hello how are you ' ." />
+<item slot="3" text="invite the visitor in ." />
+</script>
+<script id="11">
+<item slot="1" text="open door ." />
+<item slot="2" text="say hello to visitor ." />
+<item slot="3" text="invite visitor inside ." />
+<item slot="4" text="close door ." />
+<item slot="5" text="offer visitor a drink ." />
+</script>
+<script id="12">
+<item slot="1" text="look at visitor ." />
+<item slot="2" text="say greeting ." />
+</script>
+<script id="13">
+<item slot="1" text="look them inthe eye ." />
+<item slot="2" text="say something nice ." />
+<item slot="3" text="shake their hand ." />
+</script>
+<script id="14">
+<item slot="1" text="open door ." />
+<item slot="2" text="say hi to visitor ." />
+</script>
+<script id="15">
+<item slot="1" text="open door ." />
+<item slot="2" text="look at visitor ." />
+<item slot="3" text="say hi ." />
+</script>
+<script id="16">
+<item slot="1" text="shake hand ." />
+<item slot="2" text="propose a refreshment ." />
+<item slot="3" text="serve the asked refreshment ." />
+</script>
+<script id="17">
+<item slot="1" text="find the visitor ." />
+<item slot="2" text="say 'hello' to the visitor ." />
+</script>
+<script id="18">
+<item slot="1" text="look at visitor ." />
+<item slot="2" text="say hi ." />
+<item slot="3" text="answer visitor questions if any ." />
+</script>
+<script id="19">
+<item slot="1" text="find a visitor ." />
+<item slot="2" text="face toward the visitor ." />
+<item slot="3" text="say hello or some other words of greeting to the visitor ." />
+</script>
+<script id="20">
+<item slot="1" text="go to the door ." />
+<item slot="2" text="open door ." />
+<item slot="3" text="say hello to person outside of door ." />
+</script>
+<script id="21">
+<item slot="1" text="locate visitor ." />
+<item slot="2" text="face visitor ." />
+<item slot="3" text="say hello ." />
+</script>
+<script id="22">
+<item slot="1" text="locate visitor ." />
+<item slot="2" text="turn to visitor ." />
+<item slot="3" text="say hello ." />
+</script>
+<script id="23">
+<item slot="1" text="open the door ." />
+<item slot="2" text="greet them with a smile and handshake ." />
+<item slot="3" text="let them in the house while holding the door for them ." />
+<item slot="4" text="close the door ." />
+</script>
+<script id="24">
+<item slot="1" text="say hello ." />
+<item slot="2" text="ask visitor s name ." />
+<item slot="3" text="say 'nice to meet you' ." />
+<item slot="4" text="offer to take visitor s coat ." />
+<item slot="5" text="offer to take visitor s parcels ." />
+<item slot="6" text="lead visitor to resident ." />
+</script>
+<script id="25">
+<item slot="1" text="look at visitor ." />
+<item slot="2" text="say hello ." />
+<item slot="3" text="shake visitors hand ." />
+<item slot="4" text="kiss if required ." />
+</script>
+<script id="26">
+<item slot="1" text="say hi to the visitor ." />
+</script>
+<script id="27">
+<item slot="1" text="walk to the visitor ." />
+<item slot="2" text="say 'hi' ." />
+<item slot="3" text="give handshake ." />
+<item slot="4" text="walk away ." />
+</script>
+<script id="28">
+<item slot="1" text="verbally welcome the visitor ." />
+<item slot="2" text="physically welcome the visitor as is common in your country s custom ." />
+</script>
+<script id="29">
+<item slot="1" text="see who the visitor is ." />
+<item slot="2" text="open the door for the visitor ." />
+<item slot="3" text="say 'hello how are you' ." />
+<item slot="4" text="reply to the visitors response ." />
+</script>
+<script id="30">
+<item slot="1" text="see who the visitor is ." />
+<item slot="2" text="open the door for the visitor ." />
+<item slot="3" text="say 'hello how are you' ." />
+</script>
+<script id="31">
+<item slot="1" text="open door ." />
+<item slot="2" text="say 'hello' ." />
+</script>
+<script id="32">
+<item slot="1" text="open door ." />
+<item slot="2" text="say 'hello' ." />
+</script>
+<script id="33">
+<item slot="1" text="open door ." />
+<item slot="2" text="say 'hello' ." />
+</script>
+<script id="34">
+<item slot="1" text="open door ." />
+<item slot="2" text="say 'hello' ." />
+</script>
+<script id="35">
+<item slot="1" text="open door ." />
+<item slot="2" text="say 'hello' ." />
+</script>
+<script id="36">
+<item slot="1" text="open door ." />
+<item slot="2" text="say 'hello' ." />
+</script>
+<script id="37">
+<item slot="1" text="open door ." />
+<item slot="2" text="say 'hello' ." />
+</script>
+<script id="38">
+<item slot="1" text="open door ." />
+<item slot="2" text="say 'hello' ." />
+</script>
+<script id="39">
+<item slot="1" text="open door ." />
+<item slot="2" text="say 'hello' ." />
+</script>
+<script id="40">
+<item slot="1" text="answer the door ." />
+<item slot="2" text="say welcome ." />
+</script>
+<script id="41">
+<item slot="1" text="make eye contact ." />
+<item slot="2" text="shake hand or hug ." />
+<item slot="3" text="say hello ." />
+</script>
+<script id="42">
+<item slot="1" text="hear arrival ." />
+<item slot="2" text="walk to location ." />
+<item slot="3" text="open door ." />
+<item slot="4" text="extend handshake ." />
+<item slot="5" text="recognition ." />
+<item slot="6" text="ask about health ." />
+<item slot="7" text="accept greeting in return ." />
+</script>
+<script id="43">
+<item slot="1" text="shake hands ." />
+<item slot="2" text="say 'hello so nice of you to visit ' ." />
+</script>
+<script id="44">
+<item slot="1" text="open door ." />
+<item slot="2" text="greet visitor ." />
+</script>
+<script id="45">
+<item slot="1" text="answer the door ." />
+<item slot="2" text="extend verbal greetings ." />
+<item slot="3" text="shake hand or hug visitor ." />
+<item slot="4" text="invite visitor in ." />
+<item slot="5" text="take visitor s coat ." />
+<item slot="6" text="offer visitor a beverage ." />
+<item slot="7" text="visit ." />
+</script>
+<script id="46">
+<item slot="1" text="answer the door ." />
+<item slot="2" text="extend verbal greetings ." />
+<item slot="3" text="shake hand or hug visitor ." />
+<item slot="4" text="invite visitor in ." />
+<item slot="5" text="take visitor s coat ." />
+<item slot="6" text="offer visitor a beverage ." />
+<item slot="7" text="visit ." />
+</script>
+<script id="47">
+<item slot="1" text="answer the door ." />
+<item slot="2" text="extend verbal greetings ." />
+<item slot="3" text="shake hand or hug visitor ." />
+<item slot="4" text="invite visitor in ." />
+<item slot="5" text="take visitor s coat ." />
+<item slot="6" text="offer visitor a beverage ." />
+<item slot="7" text="visit ." />
+</script>
+<script id="48">
+<item slot="1" text="identify visitor ." />
+<item slot="2" text="say hi ." />
+<item slot="3" text="hug them if they look like they want a hug ." />
+</script>
+<script id="49">
+<item slot="1" text="open the door ." />
+<item slot="2" text="say hello ." />
+<item slot="3" text="invite guest inside ." />
+</script>
+<script id="50">
+<item slot="1" text="approach visitor ." />
+<item slot="2" text="shake visitor s hand ." />
+<item slot="3" text="smile and say a pleasant greeting ." />
+</script>
+<script id="51">
+<item slot="1" text="open front door ." />
+<item slot="2" text="invite the guest in ." />
+<item slot="3" text="shake hands ." />
+<item slot="4" text="take the visitors coat ." />
+<item slot="5" text="hang up the visitors coat ." />
+</script>
+<script id="52">
+<item slot="1" text="look the visitor in the eye ." />
+<item slot="2" text="say 'hello' ." />
+<item slot="3" text="extend your right hand ." />
+<item slot="4" text="firmly grasp the visitor s right hand ." />
+<item slot="5" text="move your hand up and down two times ." />
+<item slot="6" text="release your grasp ." />
+</script>
+<script id="53">
+<item slot="1" text="open the door ." />
+<item slot="2" text="ask how they are ." />
+<item slot="3" text="open door to allow them to walk in ." />
+<item slot="4" text="ask to take their coat ." />
+<item slot="5" text="ask if they want a drink ." />
+</script>
+<script id="54">
+<item slot="1" text="say hello ." />
+</script>
+<script id="55">
+<item slot="1" text="clean house ." />
+</script>
+<script id="56">
+<item slot="1" text="hear the knock or doorbell ." />
+<item slot="2" text="go to the door and look out peephole ." />
+<item slot="3" text="if safe open the door ." />
+<item slot="4" text="if appropriate warmly greet the visitor ." />
+</script>
+<script id="57">
+<item slot="1" text="hear the knock or doorbell ." />
+<item slot="2" text="go to the door and look out peephole ." />
+<item slot="3" text="if safe open the door ." />
+<item slot="4" text="if appropriate warmly greet the visitor ." />
+</script>
+<script id="58">
+<item slot="1" text="hear the knock or doorbell ." />
+<item slot="2" text="go to the door and look out peephole ." />
+<item slot="3" text="if safe open the door ." />
+<item slot="4" text="if appropriate warmly greet the visitor ." />
+</script>
+<script id="59">
+<item slot="1" text="hear the knock or doorbell ." />
+<item slot="2" text="go to the door and look out peephole ." />
+<item slot="3" text="if safe open the door ." />
+<item slot="4" text="if appropriate warmly greet the visitor ." />
+</script>
+<script id="60">
+<item slot="1" text="hear the knock or doorbell ." />
+<item slot="2" text="go to the door and look out peephole ." />
+<item slot="3" text="if safe open the door ." />
+<item slot="4" text="if appropriate warmly greet the visitor ." />
+</script>
+<script id="61">
+<item slot="1" text="hear the knock or doorbell ." />
+<item slot="2" text="go to the door and look out peephole ." />
+<item slot="3" text="if safe open the door ." />
+<item slot="4" text="if appropriate warmly greet the visitor ." />
+</script>
+<script id="62">
+<item slot="1" text="greet visitor ." />
+</script>
+<script id="63">
+<item slot="1" text="greet visitor ." />
+</script>
+<script id="64">
+<item slot="1" text="say hi ." />
+</script>
+<script id="65">
+<item slot="1" text="open the door when you hear a doorbell ring or knock ." />
+<item slot="2" text="smile ." />
+<item slot="3" text="invite visitor to please come inside ." />
+</script>
+<script id="66">
+<item slot="1" text="open the door when you hear a doorbell ring or knock ." />
+<item slot="2" text="smile ." />
+<item slot="3" text="invite visitor to please come inside ." />
+</script>
+<script id="67">
+<item slot="1" text="say hello to the visitor ." />
+<item slot="2" text="smile ." />
+</script>
+<script id="68">
+<item slot="1" text="say hi when you see someone ." />
+</script>
+<script id="69">
+<item slot="1" text="smile ." />
+<item slot="2" text="shake the visitor s hand ." />
+<item slot="3" text="say 'hello' ." />
+<item slot="4" text="introduce yourself ." />
+</script>
+<script id="70">
+<item slot="1" text="smile ." />
+<item slot="2" text="shake the visitor s hand ." />
+<item slot="3" text="say 'hello' ." />
+<item slot="4" text="introduce yourself ." />
+</script>
+<script id="71">
+<item slot="1" text="smile ." />
+<item slot="2" text="shake the visitor s hand ." />
+<item slot="3" text="say 'hello' ." />
+<item slot="4" text="introduce yourself ." />
+</script>
+<script id="72">
+<item slot="1" text="smile ." />
+<item slot="2" text="shake the visitor s hand ." />
+<item slot="3" text="say 'hello' ." />
+<item slot="4" text="introduce yourself ." />
+</script>
+<script id="73">
+<item slot="1" text="smile ." />
+<item slot="2" text="shake the visitor s hand ." />
+<item slot="3" text="say 'hello' ." />
+<item slot="4" text="introduce yourself ." />
+</script>
+<script id="74">
+<item slot="1" text="smile ." />
+<item slot="2" text="shake the visitor s hand ." />
+<item slot="3" text="say 'hello' ." />
+<item slot="4" text="introduce yourself ." />
+</script>
+<script id="75">
+<item slot="1" text="hello ." />
+</script>
+<script id="76">
+<item slot="1" text="hello ." />
+</script>
+<script id="77">
+<item slot="1" text="hello ." />
+</script>
+<script id="78">
+<item slot="1" text="hello ." />
+</script>
+<script id="79">
+<item slot="1" text="hello ." />
+</script>
+<script id="80">
+<item slot="1" text="hello ." />
+</script>
+</scripts>

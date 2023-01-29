@@ -1,0 +1,9 @@
+<scripts><script id="19">
+<item slot="1" text="pick up paper to be discarded ."/>
+<item slot="2" text="take paper to shredder ."/>
+<item slot="3" text="make sure shredder is turned on ."/>
+<item slot="4" text="feed paper into shredder ."/>
+<item slot="5" text="collect other papers to be discarded ."/>
+<item slot="6" text="repeat steps 1-4 with remaining papers ."/>
+<item slot="7" text="turn shredder off ."/>
+</script></scripts>

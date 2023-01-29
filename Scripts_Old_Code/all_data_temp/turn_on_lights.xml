@@ -1,0 +1,352 @@
+<scripts>
+<script id="1">
+<item slot="1" text="find light switch ." />
+<item slot="2" text="go to light switch ." />
+<item slot="3" text="turn switch to on position ." />
+</script>
+<script id="2">
+<item slot="1" text="look for light switch ." />
+<item slot="2" text="turn on light switch ." />
+</script>
+<script id="3">
+<item slot="1" text="find light switch ." />
+<item slot="2" text="turn switch to on position ." />
+</script>
+<script id="4">
+<item slot="1" text="go to the light switch ." />
+<item slot="2" text="switch on the light ." />
+</script>
+<script id="5">
+<item slot="1" text="go to light switch ." />
+<item slot="2" text="flip switch to the on position ." />
+</script>
+<script id="6">
+<item slot="1" text="locate light switch ." />
+<item slot="2" text="walk to light switch ." />
+<item slot="3" text="move light switch to on position ." />
+</script>
+<script id="7">
+<item slot="1" text="find the light switch ." />
+<item slot="2" text="flip it up or down until the light comes on ." />
+</script>
+<script id="8">
+<item slot="1" text="locate the light switch ." />
+<item slot="2" text="put the switch in the on position ." />
+</script>
+<script id="9">
+<item slot="1" text="locate switch ." />
+<item slot="2" text="turn on switch ." />
+</script>
+<script id="10">
+<item slot="1" text="locate the light switch ." />
+<item slot="2" text="move the switch to the on position ." />
+</script>
+<script id="11">
+<item slot="1" text="locate the light switch ." />
+<item slot="2" text="move over to the light switch ." />
+<item slot="3" text="flip the light switch into on position ." />
+</script>
+<script id="12">
+<item slot="1" text="locate the light switch ." />
+<item slot="2" text="go to the light switch ." />
+<item slot="3" text="turn / touch the light switch ." />
+</script>
+<script id="13">
+<item slot="1" text="locate light switch ." />
+<item slot="2" text="go to light switch ." />
+<item slot="3" text="flip light switch ." />
+</script>
+<script id="14">
+<item slot="1" text="move to light switch ." />
+<item slot="2" text="press switch to on position ." />
+</script>
+<script id="15">
+<item slot="1" text="go to light switch ." />
+<item slot="2" text="press light switch to on position ." />
+</script>
+<script id="16">
+<item slot="1" text="go to the light switch ." />
+<item slot="2" text="press the light switch ." />
+</script>
+<script id="17">
+<item slot="1" text="go to where light switch is ." />
+<item slot="2" text="move switch to on position ." />
+</script>
+<script id="18">
+<item slot="1" text="go to light switch ." />
+<item slot="2" text="press light switch ." />
+</script>
+<script id="19">
+<item slot="1" text="go to the light switch in the room ." />
+<item slot="2" text="grasp the light switch lever ." />
+<item slot="3" text="flip the light switch lever to the on position ." />
+</script>
+<script id="20">
+<item slot="1" text="go over to the light switch ." />
+<item slot="2" text="grasp the light switch lever ." />
+<item slot="3" text="move the light switch lever to the on position ." />
+</script>
+<script id="21">
+<item slot="1" text="locate the light switch or light control knob ." />
+<item slot="2" text="operate the light switch or light control knob until the room brightens to the desired intensity ." />
+</script>
+<script id="22">
+<item slot="1" text="locate light switch ." />
+<item slot="2" text="activate light switch ." />
+</script>
+<script id="23">
+<item slot="1" text="walk towards to the light switch ." />
+<item slot="2" text="flip the light switch to the on position ." />
+</script>
+<script id="24">
+<item slot="1" text="walk to light switch ." />
+<item slot="2" text="toggle switch to the on position ." />
+</script>
+<script id="25">
+<item slot="1" text="notice light is needed ." />
+<item slot="2" text="find switch ." />
+<item slot="3" text="throw switch ." />
+<item slot="4" text="notice whether light is on ." />
+</script>
+<script id="26">
+<item slot="1" text="find the switch of the lights ." />
+<item slot="2" text="press the switch off ." />
+</script>
+<script id="27">
+<item slot="1" text="switch the light switch to on ." />
+</script>
+<script id="28">
+<item slot="1" text="find light switch ." />
+<item slot="2" text="flip switch ." />
+</script>
+<script id="29">
+<item slot="1" text="decide which light to turn on ." />
+<item slot="2" text="identify where the light switch is ." />
+<item slot="3" text="walk to the light switch ." />
+<item slot="4" text="flip the light switch ." />
+</script>
+<script id="30">
+<item slot="1" text="decide which light to turn on ." />
+<item slot="2" text="identify where the light switch is ." />
+<item slot="3" text="walk to the light switch ." />
+<item slot="4" text="flip the light switch ." />
+</script>
+<script id="31">
+<item slot="1" text="walk to the light switch ." />
+<item slot="2" text="flip switch on ." />
+</script>
+<script id="32">
+<item slot="1" text="find lightswitch ." />
+<item slot="2" text="flip lightswitch ." />
+</script>
+<script id="33">
+<item slot="1" text="go to the light switch ." />
+<item slot="2" text="put hand on the switch ." />
+<item slot="3" text="push the switch downwards ." />
+<item slot="4" text="remove hand from switch ." />
+</script>
+<script id="34">
+<item slot="1" text="walk to light switch ." />
+<item slot="2" text="flip the switch ." />
+</script>
+<script id="35">
+<item slot="1" text="walk to light switch ." />
+<item slot="2" text="flip switch ." />
+</script>
+<script id="36">
+<item slot="1" text="flip the wall switch ." />
+</script>
+<script id="37">
+<item slot="1" text="walk to switch ." />
+<item slot="2" text="move switch up ." />
+</script>
+<script id="38">
+<item slot="1" text="sense loss of light ." />
+<item slot="2" text="find light source ." />
+<item slot="3" text="find switch ." />
+<item slot="4" text="toggle switch ." />
+</script>
+<script id="39">
+<item slot="1" text="push the switch up ." />
+</script>
+<script id="40">
+<item slot="1" text="flip light switch on ." />
+</script>
+<script id="41">
+<item slot="1" text="flip light switch on ." />
+</script>
+<script id="42">
+<item slot="1" text="go to light switch ." />
+<item slot="2" text="flip switch to opposite of current position ." />
+</script>
+<script id="43">
+<item slot="1" text="find light switch ." />
+<item slot="2" text="flip light switch up ." />
+</script>
+<script id="44">
+<item slot="1" text="walk to lightswitch ." />
+<item slot="2" text="place hand on lightswitch ." />
+<item slot="3" text="move switch to  on  position ." />
+</script>
+<script id="45">
+<item slot="1" text="flick light switch up ." />
+</script>
+<script id="46">
+<item slot="1" text="locate the switch connected to desired light ." />
+<item slot="2" text="turn on ." />
+</script>
+<script id="47">
+<item slot="1" text="walk into room ." />
+<item slot="2" text="turn on switch ." />
+</script>
+<script id="48">
+<item slot="1" text="walk into room ." />
+<item slot="2" text="turn on switch ." />
+</script>
+<script id="49">
+<item slot="1" text="walk into room ." />
+<item slot="2" text="turn on switch ." />
+</script>
+<script id="50">
+<item slot="1" text="walk into room ." />
+<item slot="2" text="turn on switch ." />
+</script>
+<script id="51">
+<item slot="1" text="walk into room ." />
+<item slot="2" text="turn on switch ." />
+</script>
+<script id="52">
+<item slot="1" text="walk into room ." />
+<item slot="2" text="turn on switch ." />
+</script>
+<script id="53">
+<item slot="1" text="walk into room ." />
+<item slot="2" text="turn on switch ." />
+</script>
+<script id="54">
+<item slot="1" text="walk into room ." />
+<item slot="2" text="turn on switch ." />
+</script>
+<script id="55">
+<item slot="1" text="walk into room ." />
+<item slot="2" text="turn on switch ." />
+</script>
+<script id="56">
+<item slot="1" text="find light switch ." />
+<item slot="2" text="turn switch to the 'on' position ." />
+</script>
+<script id="57">
+<item slot="1" text="find switch ." />
+<item slot="2" text="turn switch to 'off' position ." />
+</script>
+<script id="58">
+<item slot="1" text="find switch ." />
+<item slot="2" text="turn switch to 'off' position ." />
+</script>
+<script id="59">
+<item slot="1" text="walk to light switch ." />
+<item slot="2" text="place hand on switch ." />
+<item slot="3" text="change location of switch to on postion ." />
+</script>
+<script id="60">
+<item slot="1" text="walk to light switch ." />
+<item slot="2" text="place hand on switch ." />
+<item slot="3" text="change location of switch to on postion ." />
+</script>
+<script id="61">
+<item slot="1" text="walk to light switch ." />
+<item slot="2" text="place hand on switch ." />
+<item slot="3" text="change location of switch to on postion ." />
+</script>
+<script id="62">
+<item slot="1" text="walk to light switch ." />
+<item slot="2" text="place hand on switch ." />
+<item slot="3" text="change location of switch to on postion ." />
+</script>
+<script id="63">
+<item slot="1" text="walk to light switch ." />
+<item slot="2" text="place hand on switch ." />
+<item slot="3" text="change location of switch to on postion ." />
+</script>
+<script id="64">
+<item slot="1" text="walk to light switch ." />
+<item slot="2" text="place hand on switch ." />
+<item slot="3" text="change location of switch to on postion ." />
+</script>
+<script id="65">
+<item slot="1" text="turn on lights ." />
+</script>
+<script id="66">
+<item slot="1" text="find the light switch ." />
+<item slot="2" text="turn switch to the 'on' postion ." />
+</script>
+<script id="67">
+<item slot="1" text="find the light switch ." />
+<item slot="2" text="turn switch to the 'on' postion ." />
+</script>
+<script id="68">
+<item slot="1" text="find the light switch ." />
+<item slot="2" text="turn switch to the 'on' postion ." />
+</script>
+<script id="69">
+<item slot="1" text="switch on power ." />
+</script>
+<script id="70">
+<item slot="1" text="move light switch upwards ." />
+</script>
+<script id="71">
+<item slot="1" text="find light switch ." />
+<item slot="2" text="turn opposite than what is ." />
+</script>
+<script id="72">
+<item slot="1" text="walk to swich ." />
+<item slot="2" text="pull it ." />
+</script>
+<script id="73">
+<item slot="1" text="find light switch ." />
+<item slot="2" text="turn or flick it ." />
+</script>
+<script id="74">
+<item slot="1" text="find light switch ." />
+<item slot="2" text="turn or flick it ." />
+</script>
+<script id="75">
+<item slot="1" text="find light switch ." />
+<item slot="2" text="turn or flick it ." />
+</script>
+<script id="76">
+<item slot="1" text="flick the light switch on ." />
+</script>
+<script id="77">
+<item slot="1" text="flick the light switch on ." />
+</script>
+<script id="78">
+<item slot="1" text="flick the light switch on ." />
+</script>
+<script id="79">
+<item slot="1" text="flick the light switch on ." />
+</script>
+<script id="80">
+<item slot="1" text="flick the light switch on ." />
+</script>
+<script id="81">
+<item slot="1" text="flick the light switch on ." />
+</script>
+<script id="82">
+<item slot="1" text="flick the switch up ." />
+</script>
+<script id="83">
+<item slot="1" text="flick the switch up ." />
+</script>
+<script id="84">
+<item slot="1" text="flick the switch up ." />
+</script>
+<script id="85">
+<item slot="1" text="flick the switch up ." />
+</script>
+<script id="86">
+<item slot="1" text="walk to lamp switch ." />
+<item slot="2" text="flip switch ." />
+<item slot="3" text="walk away ." />
+</script>
+</scripts>

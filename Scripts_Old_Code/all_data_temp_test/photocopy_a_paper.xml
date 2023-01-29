@@ -1,0 +1,380 @@
+<scripts>
+<script id="1">
+<item slot="1" text="place paper to be copied on photocopier glass ." />
+<item slot="2" text="close lid ." />
+</script>
+<script id="2">
+<item slot="1" text="find a photocopier ." />
+<item slot="2" text="open photocopier lid ." />
+<item slot="3" text="place paper face-down on photocopier glass ." />
+<item slot="4" text="close photocopier lid ." />
+<item slot="5" text="press copy button ." />
+</script>
+<script id="3">
+<item slot="1" text="go to a xerox machine ." />
+<item slot="2" text="place paper on the copier ." />
+<item slot="3" text="enter the number of copies desired ." />
+<item slot="4" text="press the start button ." />
+<item slot="5" text="collect the copies ." />
+<item slot="6" text="remove the paper from the copier ." />
+</script>
+<script id="4">
+<item slot="1" text="open the lid of the copier ." />
+<item slot="2" text="put the paper on the scanning bed face down ." />
+<item slot="3" text="close the lid of the copier ." />
+<item slot="4" text="press the 'copy' button ." />
+</script>
+<script id="5">
+<item slot="1" text="approach the photocopy machine ." />
+<item slot="2" text="place the paper on the glass ." />
+<item slot="3" text="close the machine lid ." />
+<item slot="4" text="select the number of desired copies ." />
+<item slot="5" text="press the start button ." />
+<item slot="6" text="collect the copies ." />
+<item slot="7" text="retrieve the original ." />
+</script>
+<script id="6">
+<item slot="1" text="get paper ." />
+<item slot="2" text="for each page do ." />
+<item slot="3" text="place page onto photocopier ." />
+<item slot="4" text="press copy button ." />
+<item slot="5" text="collect copies ." />
+</script>
+<script id="7">
+<item slot="1" text="get paper ." />
+<item slot="2" text="go to photocopier ." />
+<item slot="3" text="for each page ." />
+<item slot="4" text="place on photocopier ." />
+<item slot="5" text="press copy button ." />
+<item slot="6" text="until no more pages ." />
+<item slot="7" text="remove copies ." />
+</script>
+<script id="8">
+<item slot="1" text="take the paper to the photocopy machine ." />
+<item slot="2" text="put the paper on the scanning platform facing down ." />
+<item slot="3" text="close the lid above the scanning platform ." />
+<item slot="4" text="press the 'copy' button ." />
+</script>
+<script id="9">
+<item slot="1" text="take paper to photocopy machine ." />
+<item slot="2" text="remove staples if any ." />
+<item slot="3" text="put paper inside photocopy machine ." />
+<item slot="4" text="press copy ." />
+<item slot="5" text="collect copy and original ." />
+</script>
+<script id="10">
+<item slot="1" text="bring paper to photocopy machine ." />
+<item slot="2" text="for each page do: ." />
+<item slot="3" text="place page overphotocopy area ." />
+<item slot="4" text="press copy ." />
+<item slot="5" text="wait for machine to copy page ." />
+<item slot="6" text="proceed to next page ." />
+<item slot="7" text="collect copies ." />
+</script>
+<script id="11">
+<item slot="1" text="locate a photocopier ." />
+<item slot="2" text="move to the photocopier ." />
+<item slot="3" text="place the paper to copy on top of the device ." />
+<item slot="4" text="indicate to the copy machine how many copies to make ." />
+<item slot="5" text="initiate the copying process ." />
+</script>
+<script id="12">
+<item slot="1" text="put paper on copier face down ." />
+<item slot="2" text="push copy button ." />
+<item slot="3" text="wait for copy to come out ." />
+</script>
+<script id="13">
+<item slot="1" text="pick up the paper ." />
+<item slot="2" text="find a photocopier ." />
+<item slot="3" text="move to the photocopier ." />
+<item slot="4" text="place the paper face-down on the photocopier s glass ." />
+<item slot="5" text="prss the copy button on the photocopier ." />
+</script>
+<script id="14">
+<item slot="1" text="go to photo copier ." />
+<item slot="2" text="put paper on glass plate ." />
+<item slot="3" text="press copy button ." />
+<item slot="4" text="retrieve original paper and copy ." />
+</script>
+<script id="15">
+<item slot="1" text="place paper in photocopier input tray ." />
+<item slot="2" text="press print button ." />
+</script>
+<script id="16">
+<item slot="1" text="get paper ." />
+<item slot="2" text="open photocopier door ." />
+<item slot="3" text="place paper on glass along edge ." />
+<item slot="4" text="press green button ." />
+<item slot="5" text="retrieve papers ." />
+</script>
+<script id="17">
+<item slot="1" text="go to the copier ." />
+<item slot="2" text="raise the lid ." />
+<item slot="3" text="put paper on glass plate ." />
+<item slot="4" text="close lid ." />
+<item slot="5" text="press copy button ." />
+<item slot="6" text="remove paper from glass plate ." />
+<item slot="7" text="pick up copy ." />
+</script>
+<script id="18">
+<item slot="1" text="turn the photocopy machine on ." />
+</script>
+<script id="19">
+<item slot="1" text="get the paper ." />
+<item slot="2" text="open photocopier ." />
+<item slot="3" text="copy each page ." />
+<item slot="4" text="close copier ." />
+<item slot="5" text="get copied paper ." />
+</script>
+<script id="20">
+<item slot="1" text="put paper in copier ." />
+<item slot="2" text="select amount of copies ." />
+<item slot="3" text="push copy button ." />
+<item slot="4" text="retrieve copies ." />
+<item slot="5" text="retrieve originals ." />
+</script>
+<script id="21">
+<item slot="1" text="place paper in photocopier ." />
+<item slot="2" text="press copy ." />
+</script>
+<script id="22">
+<item slot="1" text="open top of photocopier ." />
+<item slot="2" text="place paper to be copied facedown on the glass ." />
+<item slot="3" text="close top of photocopier ." />
+<item slot="4" text="adjust photocopier settings ." />
+<item slot="5" text="press 'copy' button ." />
+<item slot="6" text="remove copy from tray ." />
+<item slot="7" text="remove original from photocopier ." />
+</script>
+<script id="23">
+<item slot="1" text="ppace paper of photocopy machine ." />
+<item slot="2" text="press copy button ." />
+</script>
+<script id="24">
+<item slot="1" text="ppace paper of photocopy machine ." />
+<item slot="2" text="press copy button ." />
+</script>
+<script id="25">
+<item slot="1" text="pick up the paper ." />
+<item slot="2" text="go to the photocopier ." />
+<item slot="3" text="put the paper in the photocopier ." />
+<item slot="4" text="press the copy button ." />
+</script>
+<script id="26">
+<item slot="1" text="insert paper into feeder ." />
+<item slot="2" text="select number of coppies ." />
+</script>
+<script id="27">
+<item slot="1" text="put paper upside-down on glass ." />
+<item slot="2" text="close cover ." />
+<item slot="3" text="press the '1' button ." />
+<item slot="4" text="press 'start' ." />
+<item slot="5" text="take the paper and copy out ." />
+</script>
+<script id="28">
+<item slot="1" text="locate the paper ." />
+<item slot="2" text="place the paper on the glass under the lid of the copier ." />
+<item slot="3" text="press the number of copies ." />
+<item slot="4" text="press the green start button ." />
+</script>
+<script id="29">
+<item slot="1" text="put a piece of paper on the copier ." />
+<item slot="2" text="close the copier ." />
+<item slot="3" text="press the copy button ." />
+<item slot="4" text="get the copy ." />
+<item slot="5" text="open the copier ." />
+<item slot="6" text="remove the original from the copier ." />
+<item slot="7" text="close the copier ." />
+</script>
+<script id="30">
+<item slot="1" text="lift photocopier lid ." />
+<item slot="2" text="place paper on glass ." />
+<item slot="3" text="align paper ." />
+<item slot="4" text="close photocopier lid ." />
+<item slot="5" text="select paper size ." />
+<item slot="6" text="select number of copies ." />
+<item slot="7" text="press copy start button ." />
+</script>
+<script id="31">
+<item slot="1" text="open photocopier lid ." />
+<item slot="2" text="place paper face down onto copier ." />
+<item slot="3" text="close copier lid ." />
+<item slot="4" text="press copy button ." />
+<item slot="5" text="open coppier lid ." />
+<item slot="6" text="remove paper and close lid ." />
+<item slot="7" text="pick up copied sheet ." />
+</script>
+<script id="32">
+<item slot="1" text="open photocopier lid ." />
+<item slot="2" text="place paper face down onto copier ." />
+<item slot="3" text="close copier lid ." />
+<item slot="4" text="press copy button ." />
+<item slot="5" text="open coppier lid ." />
+<item slot="6" text="remove paper and close lid ." />
+<item slot="7" text="pick up copied sheet ." />
+</script>
+<script id="33">
+<item slot="1" text="fill photocopier with toner and paper ." />
+<item slot="2" text="plug in photocopier and turn on ." />
+<item slot="3" text="put the item that needs to be scanned on glass scanner ." />
+<item slot="4" text="press scan on photocopier ." />
+<item slot="5" text="allow photocopier to make copies ." />
+</script>
+<script id="34">
+<item slot="1" text="get paper ." />
+<item slot="2" text="open lid on copier ." />
+<item slot="3" text="place paper on photocopier ." />
+<item slot="4" text="close lid on photocopier ." />
+<item slot="5" text="select number of copies ." />
+<item slot="6" text="press copy button ." />
+<item slot="7" text="pick up copies ." />
+</script>
+<script id="35">
+<item slot="1" text="open photocopier lid ." />
+<item slot="2" text="place paper on glass ." />
+<item slot="3" text="close photocopier lid ." />
+<item slot="4" text="press copy button ." />
+</script>
+<script id="36">
+<item slot="1" text="open photocopier lid ." />
+<item slot="2" text="place paper on glass ." />
+<item slot="3" text="close photocopier lid ." />
+<item slot="4" text="press copy button ." />
+</script>
+<script id="37">
+<item slot="1" text="open photocopier lid ." />
+<item slot="2" text="place paper on glass ." />
+<item slot="3" text="close photocopier lid ." />
+<item slot="4" text="press copy button ." />
+</script>
+<script id="38">
+<item slot="1" text="open photocopier lid ." />
+<item slot="2" text="place paper on glass ." />
+<item slot="3" text="close photocopier lid ." />
+<item slot="4" text="press copy button ." />
+</script>
+<script id="39">
+<item slot="1" text="open photocopier lid ." />
+<item slot="2" text="place paper on glass ." />
+<item slot="3" text="close photocopier lid ." />
+<item slot="4" text="press copy button ." />
+</script>
+<script id="40">
+<item slot="1" text="open photocopier lid ." />
+<item slot="2" text="place paper on glass ." />
+<item slot="3" text="close photocopier lid ." />
+<item slot="4" text="press copy button ." />
+</script>
+<script id="41">
+<item slot="1" text="take document ." />
+<item slot="2" text="lay on potocopier ." />
+<item slot="3" text="press copy ." />
+</script>
+<script id="42">
+<item slot="1" text="take document ." />
+<item slot="2" text="lay on potocopier ." />
+<item slot="3" text="press copy ." />
+</script>
+<script id="43">
+<item slot="1" text="take document ." />
+<item slot="2" text="lay on potocopier ." />
+<item slot="3" text="press copy ." />
+</script>
+<script id="44">
+<item slot="1" text="take document ." />
+<item slot="2" text="lay on potocopier ." />
+<item slot="3" text="press copy ." />
+</script>
+<script id="45">
+<item slot="1" text="take document ." />
+<item slot="2" text="lay on potocopier ." />
+<item slot="3" text="press copy ." />
+</script>
+<script id="46">
+<item slot="1" text="take document ." />
+<item slot="2" text="lay on potocopier ." />
+<item slot="3" text="press copy ." />
+</script>
+<script id="47">
+<item slot="1" text="insert paper into feeder ." />
+<item slot="2" text="select quantity ." />
+<item slot="3" text="select paper size ." />
+<item slot="4" text="select double sided or single sided ." />
+<item slot="5" text="select additional features stapling or hole punched ." />
+<item slot="6" text="press start button ." />
+<item slot="7" text="collect copy and original ." />
+</script>
+<script id="48">
+<item slot="1" text="insert coins into machine ." />
+<item slot="2" text="place paper onto glass ." />
+<item slot="3" text="select quantity and quality settings ." />
+<item slot="4" text="close door ." />
+<item slot="5" text="press copy ." />
+<item slot="6" text="take new copy of sheet ." />
+</script>
+<script id="49">
+<item slot="1" text="insert coins into machine ." />
+<item slot="2" text="place paper onto glass ." />
+<item slot="3" text="select quantity and quality settings ." />
+<item slot="4" text="close door ." />
+<item slot="5" text="press copy ." />
+<item slot="6" text="take new copy of sheet ." />
+</script>
+<script id="50">
+<item slot="1" text="place document on copier ." />
+<item slot="2" text="press copy button ." />
+</script>
+<script id="51">
+<item slot="1" text="pick up piece up paper ." />
+<item slot="2" text="open pop up lid ." />
+<item slot="3" text="place paper on glass ." />
+<item slot="4" text="close pop up lid ." />
+<item slot="5" text="turn on photocopier ." />
+<item slot="6" text="select number of copies ." />
+<item slot="7" text="press green button ." />
+</script>
+<script id="52">
+<item slot="1" text="find paper ." />
+<item slot="2" text="put in photocopier ." />
+<item slot="3" text="pick number of copies ." />
+<item slot="4" text="pick black ." />
+<item slot="5" text="pick size of paper ." />
+<item slot="6" text="go ." />
+</script>
+<script id="53">
+<item slot="1" text="place paper on copier ." />
+<item slot="2" text="close copier lid ." />
+<item slot="3" text="choose paper size ." />
+<item slot="4" text="choose copy settings ." />
+<item slot="5" text="push copy ." />
+</script>
+<script id="54">
+<item slot="1" text="place paper on copier ." />
+<item slot="2" text="close copier lid ." />
+<item slot="3" text="choose paper size ." />
+<item slot="4" text="choose copy settings ." />
+<item slot="5" text="push copy ." />
+</script>
+<script id="55">
+<item slot="1" text="pick settings/ number of copies ." />
+<item slot="2" text="align picture you want copied ." />
+<item slot="3" text="close lid ." />
+<item slot="4" text="press start ." />
+<item slot="5" text="wait for copy ." />
+<item slot="6" text="lift lid ." />
+<item slot="7" text="take out picture ." />
+</script>
+<script id="56">
+<item slot="1" text="place paper on copier ." />
+<item slot="2" text="close lid ." />
+<item slot="3" text="press copy ." />
+<item slot="4" text="remove paper ." />
+</script>
+<script id="57">
+<item slot="1" text="start up the machine ." />
+<item slot="2" text="get paper ." />
+<item slot="3" text="put paper in machine ." />
+<item slot="4" text="press copy ." />
+<item slot="5" text="get copys ." />
+</script>
+</scripts>

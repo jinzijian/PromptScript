@@ -1,0 +1,237 @@
+<scripts>
+<script id="1">
+<item slot="1" text="put on children s music ." />
+<item slot="2" text="call the children over ." />
+<item slot="3" text="start dancing ." />
+<item slot="4" text="ask them to join ." />
+</script>
+<script id="2">
+<item slot="1" text="turn on music ." />
+<item slot="2" text="dance to the music ." />
+</script>
+<script id="3">
+<item slot="1" text="start music ." />
+<item slot="2" text="hold children by hands ." />
+<item slot="3" text="rotate slowly ." />
+</script>
+<script id="4">
+<item slot="1" text="put on music ." />
+<item slot="2" text="get the children ." />
+<item slot="3" text="hold children hands ." />
+</script>
+<script id="5">
+<item slot="1" text="get children ." />
+<item slot="2" text="play music ." />
+<item slot="3" text="holding children hands move to the music ." />
+</script>
+<script id="6">
+<item slot="1" text="play music on stereo ." />
+<item slot="2" text="hold childrens  hands ." />
+<item slot="3" text="start rotating while children are following ." />
+</script>
+<script id="7">
+<item slot="1" text="find the children ." />
+<item slot="2" text="ask the children to dance ." />
+<item slot="3" text="move your appendages and torso in a rhythmic motion ." />
+</script>
+<script id="8">
+<item slot="1" text="pick a song to dance to with the children ." />
+<item slot="2" text="play the song ." />
+<item slot="3" text="choose a dance to do to the song ." />
+<item slot="4" text="begin to do the dance following its steps ." />
+</script>
+<script id="9">
+<item slot="1" text="play music ." />
+<item slot="2" text="move around with children ." />
+</script>
+<script id="10">
+<item slot="1" text="play music ." />
+<item slot="2" text="wear comfortable shoes ." />
+<item slot="3" text="get up from seat ." />
+<item slot="4" text="move to dance floor ." />
+<item slot="5" text="dance in rhythm ." />
+<item slot="6" text="stop dancing when music ends ." />
+</script>
+<script id="11">
+<item slot="1" text="turn on music ." />
+<item slot="2" text="dance with children ." />
+</script>
+<script id="12">
+<item slot="1" text="turn on music ." />
+<item slot="2" text="have children form circle ." />
+<item slot="3" text="invite children to dance ." />
+</script>
+<script id="13">
+<item slot="1" text="play music ." />
+<item slot="2" text="move around to the beat ." />
+</script>
+<script id="14">
+<item slot="1" text="turn on music ." />
+<item slot="2" text="make open space on the floor ." />
+<item slot="3" text="move your body to the music ." />
+</script>
+<script id="15">
+<item slot="1" text="hold childrens hands ." />
+<item slot="2" text="dance and jump up and down ." />
+</script>
+<script id="16">
+<item slot="1" text="take child s hands in yours ." />
+<item slot="2" text="hold up their hands in front of you ." />
+<item slot="3" text="and walk around slowly or dance ." />
+</script>
+<script id="17">
+<item slot="1" text="play music ." />
+<item slot="2" text="go to dancefloor ." />
+<item slot="3" text="dance to music ." />
+</script>
+<script id="18">
+<item slot="1" text="describe the dance ." />
+<item slot="2" text="teach the steps ." />
+<item slot="3" text="practice the steps ." />
+</script>
+<script id="19">
+<item slot="1" text="describe the dance ." />
+</script>
+<script id="20">
+<item slot="1" text="turn on the music ." />
+</script>
+<script id="21">
+<item slot="1" text="teach the steps ." />
+</script>
+<script id="22">
+<item slot="1" text="practice the steps to music ." />
+</script>
+<script id="23">
+<item slot="1" text="practice the steps ." />
+</script>
+<script id="24">
+<item slot="1" text="perform with the children ." />
+</script>
+<script id="25">
+<item slot="1" text="turn on the music ." />
+</script>
+<script id="26">
+<item slot="1" text="applause ." />
+</script>
+<script id="27">
+<item slot="1" text="practice the steps to music ." />
+<item slot="2" text="perform with the children ." />
+<item slot="3" text="applause ." />
+</script>
+<script id="28">
+<item slot="1" text="describe the dance ." />
+<item slot="2" text="teach the steps ." />
+<item slot="3" text="practice the steps ." />
+<item slot="4" text="turn on the music ." />
+<item slot="5" text="practice the steps to music ." />
+<item slot="6" text="perform with the children ." />
+<item slot="7" text="applause ." />
+</script>
+<script id="29">
+<item slot="1" text="describe the dance ." />
+<item slot="2" text="teach the steps ." />
+<item slot="3" text="practice the steps ." />
+<item slot="4" text="turn on the music ." />
+<item slot="5" text="practice the steps to music ." />
+<item slot="6" text="perform with the children ." />
+<item slot="7" text="applause ." />
+</script>
+<script id="30">
+<item slot="1" text="describe the dance ." />
+<item slot="2" text="teach the steps ." />
+<item slot="3" text="practice the steps ." />
+<item slot="4" text="turn on the music ." />
+<item slot="5" text="practice the steps to music ." />
+<item slot="6" text="perform with the children ." />
+<item slot="7" text="applause ." />
+</script>
+<script id="31">
+<item slot="1" text="describe the dance ." />
+<item slot="2" text="teach the steps ." />
+<item slot="3" text="practice the steps ." />
+<item slot="4" text="turn on the music ." />
+<item slot="5" text="practice the steps to music ." />
+<item slot="6" text="perform with the children ." />
+<item slot="7" text="applause ." />
+</script>
+<script id="32">
+<item slot="1" text="describe the dance ." />
+<item slot="2" text="teach the steps ." />
+<item slot="3" text="practice the steps ." />
+<item slot="4" text="turn on the music ." />
+<item slot="5" text="practice the steps to music ." />
+<item slot="6" text="perform with the children ." />
+<item slot="7" text="applause ." />
+</script>
+<script id="33">
+<item slot="1" text="describe the dance ." />
+<item slot="2" text="teach the steps ." />
+<item slot="3" text="practice the steps ." />
+<item slot="4" text="turn on the music ." />
+<item slot="5" text="practice the steps to music ." />
+<item slot="6" text="perform with the children ." />
+<item slot="7" text="applause ." />
+</script>
+<script id="34">
+<item slot="1" text="describe the dance ." />
+<item slot="2" text="teach the steps ." />
+<item slot="3" text="practice the steps ." />
+<item slot="4" text="turn on the music ." />
+<item slot="5" text="practice the steps to music ." />
+<item slot="6" text="perform with the children ." />
+<item slot="7" text="applause ." />
+</script>
+<script id="35">
+<item slot="1" text="describe the dance ." />
+<item slot="2" text="teach the steps ." />
+<item slot="3" text="practice the steps ." />
+<item slot="4" text="turn on the music ." />
+<item slot="5" text="practice the steps to music ." />
+<item slot="6" text="perform with the children ." />
+<item slot="7" text="applause ." />
+</script>
+<script id="36">
+<item slot="1" text="describe the dance ." />
+<item slot="2" text="teach the steps ." />
+<item slot="3" text="practice the steps ." />
+<item slot="4" text="turn on the music ." />
+<item slot="5" text="practice the steps to music ." />
+<item slot="6" text="perform with the children ." />
+<item slot="7" text="applause ." />
+</script>
+<script id="37">
+<item slot="1" text="describe the dance ." />
+<item slot="2" text="teach the steps ." />
+<item slot="3" text="practice the steps ." />
+<item slot="4" text="turn on the music ." />
+<item slot="5" text="practice the steps to music ." />
+<item slot="6" text="perform with the children ." />
+<item slot="7" text="applause ." />
+</script>
+<script id="38">
+<item slot="1" text="play music ." />
+<item slot="2" text="dance with children ." />
+</script>
+<script id="39">
+<item slot="1" text="put music on ." />
+<item slot="2" text="make sure it is pleasant music ." />
+<item slot="3" text="let the child think fun ." />
+<item slot="4" text="let the child dance freely ." />
+<item slot="5" text="be patient ." />
+<item slot="6" text="show steps slowly ." />
+<item slot="7" text="have fun ." />
+</script>
+<script id="40">
+<item slot="1" text="collect the children ." />
+<item slot="2" text="tell them about a dance ." />
+<item slot="3" text="prepare with stretches ." />
+<item slot="4" text="give each child a role in the dance ." />
+<item slot="5" text="begin practising ." />
+<item slot="6" text="practise on perfection ." />
+<item slot="7" text="complete the dance together ." />
+</script>
+<script id="41">
+<item slot="1" text="turn on music ." />
+<item slot="2" text="move ." />
+</script>
+</scripts>

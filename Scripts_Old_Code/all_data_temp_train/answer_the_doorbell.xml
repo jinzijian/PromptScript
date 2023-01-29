@@ -1,0 +1,550 @@
+<scripts>
+<script id="1">
+<item slot="1" text="move to the entrance ." />
+<item slot="2" text="open the front door ." />
+</script>
+<script id="2">
+<item slot="1" text="go to door ." />
+<item slot="2" text="open door ." />
+<item slot="3" text="say hello ." />
+</script>
+<script id="3">
+<item slot="1" text="hear the doorbell ." />
+<item slot="2" text="walk to the door ." />
+<item slot="3" text="open the door ." />
+<item slot="4" text="allow the people in ." />
+<item slot="5" text="close the door ." />
+</script>
+<script id="4">
+<item slot="1" text="move to door ." />
+<item slot="2" text="unlock door ." />
+<item slot="3" text="open door ." />
+</script>
+<script id="5">
+<item slot="1" text="find the door ." />
+<item slot="2" text="open the door ." />
+<item slot="3" text="greet the person at the door ." />
+</script>
+<script id="6">
+<item slot="1" text="recognize a sound as a doorbell ." />
+<item slot="2" text="moving to the door ." />
+<item slot="3" text="placing a hand on the door knob ." />
+<item slot="4" text="turning the door knob ." />
+<item slot="5" text="pulling or pushing the door open ." />
+</script>
+<script id="7">
+<item slot="1" text="go to the door ." />
+<item slot="2" text="open the door ." />
+</script>
+<script id="8">
+<item slot="1" text="when the doorbell rings move to the door ." />
+<item slot="2" text="open the door ." />
+<item slot="3" text="greet whomever rang the doorbell ." />
+</script>
+<script id="9">
+<item slot="1" text="look through visor ." />
+<item slot="2" text="unlock door ." />
+<item slot="3" text="open door ." />
+</script>
+<script id="10">
+<item slot="1" text="go to the door ." />
+<item slot="2" text="ask who s there ." />
+<item slot="3" text="if it s someone you want to see open the door ." />
+</script>
+<script id="11">
+<item slot="1" text="go to door ." />
+<item slot="2" text="open door ." />
+</script>
+<script id="12">
+<item slot="1" text="walk over to the door ." />
+<item slot="2" text="open the door ." />
+</script>
+<script id="13">
+<item slot="1" text="go to door ." />
+<item slot="2" text="open door ." />
+</script>
+<script id="14">
+<item slot="1" text="go to door ." />
+<item slot="2" text="open door ." />
+<item slot="3" text="say hi ." />
+</script>
+<script id="15">
+<item slot="1" text="walk  to front door ." />
+<item slot="2" text="look through the viewer to make sure it s safe ." />
+<item slot="3" text="open front door ." />
+<item slot="4" text="greet person ." />
+</script>
+<script id="16">
+<item slot="1" text="go to door ." />
+<item slot="2" text="look through visor ." />
+<item slot="3" text="open door ." />
+</script>
+<script id="17">
+<item slot="1" text="go to door ." />
+<item slot="2" text="open door ." />
+<item slot="3" text="greet visitor ." />
+</script>
+<script id="18">
+<item slot="1" text="go to door ." />
+<item slot="2" text="open door ." />
+<item slot="3" text="greet visitor ." />
+</script>
+<script id="19">
+<item slot="1" text="hear doorbell ." />
+<item slot="2" text="walk over to door ." />
+<item slot="3" text="open door ." />
+</script>
+<script id="20">
+<item slot="1" text="move to the front door ." />
+<item slot="2" text="open the door ." />
+<item slot="3" text="greet the person who rang the doorbell ." />
+</script>
+<script id="21">
+<item slot="1" text="go to the door ." />
+<item slot="2" text="look through the peep hole ." />
+<item slot="3" text="open the door ." />
+<item slot="4" text="welcome the people into the house ." />
+</script>
+<script id="22">
+<item slot="1" text="go to the door ." />
+<item slot="2" text="unlock the door ." />
+<item slot="3" text="open the door ." />
+</script>
+<script id="23">
+<item slot="1" text="move to door ." />
+<item slot="2" text="determine who is there ." />
+<item slot="3" text="query for permission ." />
+<item slot="4" text="open door ." />
+</script>
+<script id="24">
+<item slot="1" text="walking to the door ." />
+<item slot="2" text="opening the door ." />
+<item slot="3" text="greeting the person ." />
+</script>
+<script id="25">
+<item slot="1" text="walk to door ." />
+<item slot="2" text="look through peek hole to see if the visitor is safe ." />
+<item slot="3" text="if the visitor is safe open the door ." />
+</script>
+<script id="26">
+<item slot="1" text="open door ." />
+<item slot="2" text="ask business ." />
+<item slot="3" text="let in if needed ." />
+</script>
+<script id="27">
+<item slot="1" text="look out through the peephole ." />
+<item slot="2" text="unlock the door ." />
+<item slot="3" text="open the door ." />
+</script>
+<script id="28">
+<item slot="1" text="go to the door ." />
+<item slot="2" text="unlock the door ." />
+<item slot="3" text="open the door ." />
+</script>
+<script id="29">
+<item slot="1" text="hear the doorbell ." />
+<item slot="2" text="walk to door ." />
+<item slot="3" text="open door ." />
+<item slot="4" text="address visitor pressing door bell ." />
+</script>
+<script id="30">
+<item slot="1" text="walk to the door ." />
+<item slot="2" text="open the door ." />
+</script>
+<script id="31">
+<item slot="1" text="walk to the door ." />
+<item slot="2" text="open the door ." />
+</script>
+<script id="32">
+<item slot="1" text="walk to the door ." />
+<item slot="2" text="open the door ." />
+<item slot="3" text="say hello ." />
+</script>
+<script id="33">
+<item slot="1" text="walk to the door ." />
+<item slot="2" text="open the door ." />
+<item slot="3" text="say hello ." />
+</script>
+<script id="34">
+<item slot="1" text="walk to door ." />
+<item slot="2" text="open door ." />
+</script>
+<script id="35">
+<item slot="1" text="hearing the bell ." />
+<item slot="2" text="debating whether to get up ." />
+<item slot="3" text="walking over to the door ." />
+<item slot="4" text="ask who it is ." />
+<item slot="5" text="debate again to open ." />
+<item slot="6" text="unlock the door ." />
+<item slot="7" text="open the door ." />
+</script>
+<script id="36">
+<item slot="1" text="hearing the bell ." />
+<item slot="2" text="debating whether to get up ." />
+<item slot="3" text="walking over to the door ." />
+<item slot="4" text="ask who it is ." />
+<item slot="5" text="debate again to open ." />
+<item slot="6" text="unlock the door ." />
+<item slot="7" text="open the door ." />
+</script>
+<script id="37">
+<item slot="1" text="walk towards door where bell is sounding ." />
+<item slot="2" text="look through window to see who is ringing bell ." />
+<item slot="3" text="open door ." />
+<item slot="4" text="greet person at door ." />
+</script>
+<script id="38">
+<item slot="1" text="hear the doorbell ." />
+<item slot="2" text="go to the door ." />
+<item slot="3" text="open the door ." />
+<item slot="4" text="interact with the person at the door ." />
+<item slot="5" text="close the door ." />
+</script>
+<script id="39">
+<item slot="1" text="say'who is it?' ." />
+</script>
+<script id="40">
+<item slot="1" text="say'who is it?' ." />
+<item slot="2" text="if i know the person open the door ." />
+</script>
+<script id="41">
+<item slot="1" text="open door ." />
+</script>
+<script id="42">
+<item slot="1" text="open door ." />
+</script>
+<script id="43">
+<item slot="1" text="walk to the door ." />
+<item slot="2" text="open the door ." />
+</script>
+<script id="44">
+<item slot="1" text="listen the bell sound ." />
+<item slot="2" text="open the door ." />
+</script>
+<script id="45">
+<item slot="1" text="go to the door ." />
+<item slot="2" text="check the identity of the person ." />
+<item slot="3" text="ask owner for permission ." />
+<item slot="4" text="open the door ." />
+<item slot="5" text="greet the person ." />
+<item slot="6" text="guide the person ." />
+</script>
+<script id="46">
+<item slot="1" text="hear the doorbell ." />
+<item slot="2" text="walk to the door ." />
+<item slot="3" text="look through the window to see who it is ." />
+<item slot="4" text="turn the door knob ." />
+<item slot="5" text="say hello to whoever s there ." />
+</script>
+<script id="47">
+<item slot="1" text="ask who is at the door ." />
+<item slot="2" text="get permisson from your owner ." />
+<item slot="3" text="open the door ." />
+<item slot="4" text="let the guest in ." />
+<item slot="5" text="offer to take their jackets ." />
+<item slot="6" text="direct them to the room ." />
+<item slot="7" text="close the door ." />
+</script>
+<script id="48">
+<item slot="1" text="listen for the doorbell ." />
+<item slot="2" text="go towards the door ." />
+<item slot="3" text="open the door ." />
+<item slot="4" text="greet the visitor ." />
+<item slot="5" text="see what the visitor wants ." />
+<item slot="6" text="say goodbye to the visitor ." />
+<item slot="7" text="close the door ." />
+</script>
+<script id="49">
+<item slot="1" text="listen for the doorbell ." />
+<item slot="2" text="go towards the door ." />
+<item slot="3" text="open the door ." />
+<item slot="4" text="greet the visitor ." />
+<item slot="5" text="see what the visitor wants ." />
+<item slot="6" text="say goodbye to the visitor ." />
+<item slot="7" text="close the door ." />
+</script>
+<script id="50">
+<item slot="1" text="listen for the doorbell ." />
+<item slot="2" text="go towards the door ." />
+<item slot="3" text="open the door ." />
+<item slot="4" text="greet the visitor ." />
+<item slot="5" text="see what the visitor wants ." />
+<item slot="6" text="say goodbye to the visitor ." />
+<item slot="7" text="close the door ." />
+</script>
+<script id="51">
+<item slot="1" text="listen for the doorbell ." />
+<item slot="2" text="go towards the door ." />
+<item slot="3" text="open the door ." />
+<item slot="4" text="greet the visitor ." />
+<item slot="5" text="see what the visitor wants ." />
+<item slot="6" text="say goodbye to the visitor ." />
+<item slot="7" text="close the door ." />
+</script>
+<script id="52">
+<item slot="1" text="listen for the doorbell ." />
+<item slot="2" text="go towards the door ." />
+<item slot="3" text="open the door ." />
+<item slot="4" text="greet the visitor ." />
+<item slot="5" text="see what the visitor wants ." />
+<item slot="6" text="say goodbye to the visitor ." />
+<item slot="7" text="close the door ." />
+</script>
+<script id="53">
+<item slot="1" text="hear doorbell ." />
+<item slot="2" text="walk to door ." />
+<item slot="3" text="peek through the hole ." />
+<item slot="4" text="open door ." />
+</script>
+<script id="54">
+<item slot="1" text="hear doorbell ." />
+<item slot="2" text="walk to door ." />
+<item slot="3" text="peek through the hole ." />
+<item slot="4" text="open door ." />
+</script>
+<script id="55">
+<item slot="1" text="hear doorbell ." />
+<item slot="2" text="walk to door ." />
+<item slot="3" text="peek through the hole ." />
+<item slot="4" text="open door ." />
+</script>
+<script id="56">
+<item slot="1" text="hear doorbell ." />
+<item slot="2" text="walk to door ." />
+<item slot="3" text="peek through the hole ." />
+<item slot="4" text="open door ." />
+</script>
+<script id="57">
+<item slot="1" text="hear doorbell ." />
+<item slot="2" text="walk to door ." />
+<item slot="3" text="peek through the hole ." />
+<item slot="4" text="open door ." />
+</script>
+<script id="58">
+<item slot="1" text="hear doorbell ." />
+<item slot="2" text="walk to door ." />
+<item slot="3" text="peek through the hole ." />
+<item slot="4" text="open door ." />
+</script>
+<script id="59">
+<item slot="1" text="hear doorbell ." />
+<item slot="2" text="walk to door ." />
+<item slot="3" text="peek through the hole ." />
+<item slot="4" text="open door ." />
+</script>
+<script id="60">
+<item slot="1" text="listen for doorbel ." />
+<item slot="2" text="go to door ." />
+<item slot="3" text="look through hole ." />
+<item slot="4" text="open door ." />
+</script>
+<script id="61">
+<item slot="1" text="listen for doorbel ." />
+<item slot="2" text="go to door ." />
+<item slot="3" text="look through hole ." />
+<item slot="4" text="open door ." />
+</script>
+<script id="62">
+<item slot="1" text="listen for doorbel ." />
+<item slot="2" text="go to door ." />
+<item slot="3" text="look through hole ." />
+<item slot="4" text="open door ." />
+</script>
+<script id="63">
+<item slot="1" text="listen for doorbel ." />
+<item slot="2" text="go to door ." />
+<item slot="3" text="look through hole ." />
+<item slot="4" text="open door ." />
+</script>
+<script id="64">
+<item slot="1" text="hear doorbell ." />
+<item slot="2" text="walk to door ." />
+<item slot="3" text="peek through the hole ." />
+<item slot="4" text="open door ." />
+</script>
+<script id="65">
+<item slot="1" text="listen for doorbel ." />
+<item slot="2" text="go to door ." />
+<item slot="3" text="look through hole ." />
+<item slot="4" text="open door ." />
+</script>
+<script id="66">
+<item slot="1" text="listen for doorbel ." />
+<item slot="2" text="go to door ." />
+<item slot="3" text="look through hole ." />
+<item slot="4" text="open door ." />
+</script>
+<script id="67">
+<item slot="1" text="listen for doorbel ." />
+<item slot="2" text="go to door ." />
+<item slot="3" text="look through hole ." />
+<item slot="4" text="open door ." />
+</script>
+<script id="68">
+<item slot="1" text="hear doorbell ." />
+<item slot="2" text="walk to door ." />
+<item slot="3" text="peek through the hole ." />
+<item slot="4" text="open door ." />
+</script>
+<script id="69">
+<item slot="1" text="listen for doorbel ." />
+<item slot="2" text="go to door ." />
+<item slot="3" text="look through hole ." />
+<item slot="4" text="open door ." />
+</script>
+<script id="70">
+<item slot="1" text="listen for doorbel ." />
+<item slot="2" text="go to door ." />
+<item slot="3" text="look through hole ." />
+<item slot="4" text="open door ." />
+</script>
+<script id="71">
+<item slot="1" text="hear doorbell ." />
+<item slot="2" text="walk to door ." />
+<item slot="3" text="peek through the hole ." />
+<item slot="4" text="open door ." />
+</script>
+<script id="72">
+<item slot="1" text="listen for doorbel ." />
+<item slot="2" text="go to door ." />
+<item slot="3" text="look through hole ." />
+<item slot="4" text="open door ." />
+</script>
+<script id="73">
+<item slot="1" text="walk towards door ." />
+<item slot="2" text="if doorbell ring ." />
+<item slot="3" text="answer door by ." />
+<item slot="4" text="opening door ." />
+<item slot="5" text="say hello ." />
+<item slot="6" text="close door ." />
+<item slot="7" text="done ." />
+</script>
+<script id="74">
+<item slot="1" text="open door ." />
+</script>
+<script id="75">
+<item slot="1" text="open door ." />
+</script>
+<script id="76">
+<item slot="1" text="open door ." />
+</script>
+<script id="77">
+<item slot="1" text="press button ." />
+<item slot="2" text="ask who ." />
+<item slot="3" text="open door ." />
+</script>
+<script id="78">
+<item slot="1" text="open door ." />
+</script>
+<script id="79">
+<item slot="1" text="open door ." />
+</script>
+<script id="80">
+<item slot="1" text="press button ." />
+<item slot="2" text="ask who ." />
+<item slot="3" text="open door ." />
+</script>
+<script id="81">
+<item slot="1" text="press button ." />
+<item slot="2" text="ask who ." />
+<item slot="3" text="open door ." />
+</script>
+<script id="82">
+<item slot="1" text="press button ." />
+<item slot="2" text="ask who ." />
+<item slot="3" text="open door ." />
+</script>
+<script id="83">
+<item slot="1" text="press button ." />
+<item slot="2" text="ask who ." />
+<item slot="3" text="open door ." />
+</script>
+<script id="84">
+<item slot="1" text="open door ." />
+</script>
+<script id="85">
+<item slot="1" text="press button ." />
+<item slot="2" text="ask who ." />
+<item slot="3" text="open door ." />
+</script>
+<script id="86">
+<item slot="1" text="hear the doorbell ." />
+<item slot="2" text="go to the door and look out peephole ." />
+<item slot="3" text="open the door and greet the visitor ." />
+</script>
+<script id="87">
+<item slot="1" text="hear the doorbell ." />
+<item slot="2" text="go to the door and look out peephole ." />
+<item slot="3" text="open the door and greet the visitor ." />
+</script>
+<script id="88">
+<item slot="1" text="hear the doorbell ." />
+<item slot="2" text="go to the door and look out peephole ." />
+<item slot="3" text="open the door and greet the visitor ." />
+</script>
+<script id="89">
+<item slot="1" text="hear the doorbell ." />
+<item slot="2" text="go to the door and look out peephole ." />
+<item slot="3" text="open the door and greet the visitor ." />
+</script>
+<script id="90">
+<item slot="1" text="hear the doorbell ." />
+<item slot="2" text="go to the door and look out peephole ." />
+<item slot="3" text="open the door and greet the visitor ." />
+</script>
+<script id="91">
+<item slot="1" text="hear the doorbell ." />
+<item slot="2" text="go to the door and look out peephole ." />
+<item slot="3" text="open the door and greet the visitor ." />
+</script>
+<script id="92">
+<item slot="1" text="walk to door ." />
+<item slot="2" text="look through peephole ." />
+<item slot="3" text="open door ." />
+</script>
+<script id="93">
+<item slot="1" text="walk to door ." />
+<item slot="2" text="look through peephole ." />
+<item slot="3" text="open door ." />
+</script>
+<script id="94">
+<item slot="1" text="hear doorbell ring ." />
+<item slot="2" text="go to door ." />
+<item slot="3" text="check peephole ." />
+<item slot="4" text="ascertain that guest is okay to acknowledg ." />
+<item slot="5" text="open the door ." />
+<item slot="6" text="greet the visitor ." />
+</script>
+<script id="95">
+<item slot="1" text="go to the door ." />
+<item slot="2" text="check who it is ." />
+<item slot="3" text="open the door ." />
+<item slot="4" text="ask who they are looking for ." />
+<item slot="5" text="announce the visitor ." />
+<item slot="6" text="let the visitor in ." />
+<item slot="7" text="close the door ." />
+</script>
+<script id="96">
+<item slot="1" text="figure out which doorbell ." />
+<item slot="2" text="go to the door ." />
+<item slot="3" text="open the door ." />
+</script>
+<script id="97">
+<item slot="1" text="figure out which doorbell ." />
+<item slot="2" text="go to the door ." />
+<item slot="3" text="open the door ." />
+</script>
+<script id="98">
+<item slot="1" text="figure out which doorbell ." />
+<item slot="2" text="go to the door ." />
+<item slot="3" text="open the door ." />
+</script>
+<script id="99">
+<item slot="1" text="walk to door ." />
+<item slot="2" text="open door ." />
+</script>
+<script id="100">
+<item slot="1" text="walk to door ." />
+<item slot="2" text="open door ." />
+</script>
+</scripts>

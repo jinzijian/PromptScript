@@ -1,0 +1,241 @@
+<scripts>
+<script id="1">
+<item slot="1" text="sing part of a song to a child ." />
+<item slot="2" text="ask the child to repeat the part ." />
+<item slot="3" text="sing other parts of the song to the child ." />
+<item slot="4" text="have the child repeat the song parts in order ." />
+</script>
+<script id="2">
+<item slot="1" text="sing song to child ." />
+<item slot="2" text="make child repeat with you ." />
+<item slot="3" text="make child sing on his own ." />
+</script>
+<script id="3">
+<item slot="1" text="sing song to child ." />
+<item slot="2" text="make child sing along ." />
+<item slot="3" text="make child sing by himself ." />
+</script>
+<script id="4">
+<item slot="1" text="sing the song to child ." />
+<item slot="2" text="make child sing with you ." />
+<item slot="3" text="repeat until child learns or bored ." />
+</script>
+<script id="5">
+<item slot="1" text="first sing the song to the child ." />
+<item slot="2" text="ask the child to sing it back ." />
+<item slot="3" text="coach the child to fix his or her mistakes ." />
+<item slot="4" text="have the child sing the song again ." />
+</script>
+<script id="6">
+<item slot="1" text="select a song to teach ." />
+<item slot="2" text="read the song to the child ." />
+<item slot="3" text="have the child repeat the song ." />
+<item slot="4" text="sing the song together with music ." />
+</script>
+<script id="7">
+<item slot="1" text="sing the song to the child ." />
+<item slot="2" text="sing the song to the child ." />
+<item slot="3" text="encourage the child to sing along ." />
+<item slot="4" text="sing the song to the child ." />
+</script>
+<script id="8">
+<item slot="1" text="sing song to child ." />
+<item slot="2" text="sing along with child ." />
+<item slot="3" text="encourage child to sing on his own ." />
+</script>
+<script id="9">
+<item slot="1" text="sing song to child ." />
+<item slot="2" text="ask child sing along with you ." />
+<item slot="3" text="repeat song a few times ." />
+<item slot="4" text="ask child to sing on his own ." />
+</script>
+<script id="10">
+<item slot="1" text="get childs attention ." />
+<item slot="2" text="song song to the child ." />
+<item slot="3" text="let child repeat the song ." />
+<item slot="4" text="help child to complete the song ." />
+<item slot="5" text="repeat the song a number of times ." />
+</script>
+<script id="11">
+<item slot="1" text="get childs attention ." />
+<item slot="2" text="give lyrics to child ." />
+<item slot="3" text="sing melody to child ." />
+<item slot="4" text="sing song with child ." />
+</script>
+<script id="12">
+<item slot="1" text="get child interested in song ." />
+<item slot="2" text="sing song to child ." />
+<item slot="3" text="sing song with child ." />
+<item slot="4" text="clap and make other interesting motions according to the rythm of the song ." />
+<item slot="5" text="repeat every day until the child knows the song ." />
+</script>
+<script id="13">
+<item slot="1" text="sing it to them over and over ." />
+</script>
+<script id="14">
+<item slot="1" text="sing it to them over and over ." />
+</script>
+<script id="15">
+<item slot="1" text="sing the first line ." />
+<item slot="2" text="have the child repeat it ." />
+<item slot="3" text="sing the first two lines ." />
+<item slot="4" text="have the child repeat both lines ." />
+<item slot="5" text="repeat until the song is complete ." />
+</script>
+<script id="16">
+<item slot="1" text="sing the song several times a day ." />
+<item slot="2" text="after child hears the song ." />
+<item slot="3" text="sit down with child and teach the words to the child ." />
+<item slot="4" text="sing the song together ." />
+</script>
+<script id="17">
+<item slot="1" text="sing the song several times a day ." />
+<item slot="2" text="after child hears the song ." />
+<item slot="3" text="sit down with child and teach the words to the child ." />
+<item slot="4" text="sing the song together ." />
+</script>
+<script id="18">
+<item slot="1" text="tell the child how to sing the song ." />
+<item slot="2" text="guide their practice ." />
+</script>
+<script id="19">
+<item slot="1" text="pick an appropriate song for the child ." />
+<item slot="2" text="sing each line of the song ." />
+<item slot="3" text="have the child repeat the words and melody ." />
+<item slot="4" text="correct child on mistakes ." />
+<item slot="5" text="run through the song several times ." />
+</script>
+<script id="20">
+<item slot="1" text="pick a song ." />
+<item slot="2" text="sing it to child ." />
+<item slot="3" text="let child attempt to sing on his or her own ." />
+<item slot="4" text="help with lyrics that were forgotten ." />
+<item slot="5" text="listen again ." />
+<item slot="6" text="repeat until child knows all the words ." />
+</script>
+<script id="21">
+<item slot="1" text="sing the song ." />
+<item slot="2" text="break the song into smaller phrases ." />
+<item slot="3" text="let the child repeat the smaller phrases ." />
+<item slot="4" text="repeat until the child learns the song ." />
+</script>
+<script id="22">
+<item slot="1" text="sing the song ." />
+<item slot="2" text="break the song into smaller phrases ." />
+<item slot="3" text="let the child repeat the smaller phrases ." />
+<item slot="4" text="repeat until the child learns the song ." />
+</script>
+<script id="23">
+<item slot="1" text="sing the song ." />
+<item slot="2" text="break the song into smaller phrases ." />
+<item slot="3" text="let the child repeat the smaller phrases ." />
+<item slot="4" text="repeat until the child learns the song ." />
+</script>
+<script id="24">
+<item slot="1" text="sing the song ." />
+<item slot="2" text="break the song into smaller phrases ." />
+<item slot="3" text="let the child repeat the smaller phrases ." />
+<item slot="4" text="repeat until the child learns the song ." />
+</script>
+<script id="25">
+<item slot="1" text="sing the song ." />
+<item slot="2" text="sing one line ." />
+<item slot="3" text="have the child repeat it ." />
+<item slot="4" text="follow steps 2-3 ." />
+</script>
+<script id="26">
+<item slot="1" text="sing the song ." />
+<item slot="2" text="sing one line ." />
+<item slot="3" text="have the child repeat it ." />
+<item slot="4" text="follow steps 2-3 ." />
+</script>
+<script id="27">
+<item slot="1" text="sing the song ." />
+<item slot="2" text="sing one line ." />
+<item slot="3" text="have the child repeat it ." />
+<item slot="4" text="follow steps 2-3 ." />
+</script>
+<script id="28">
+<item slot="1" text="sing song slowly ." />
+<item slot="2" text="repeat each line ." />
+<item slot="3" text="join with child singing ." />
+</script>
+<script id="29">
+<item slot="1" text="sing song slowly ." />
+<item slot="2" text="repeat each line ." />
+<item slot="3" text="join with child singing ." />
+</script>
+<script id="30">
+<item slot="1" text="sing song slowly ." />
+<item slot="2" text="repeat each line ." />
+<item slot="3" text="join with child singing ." />
+</script>
+<script id="31">
+<item slot="1" text="sing song slowly ." />
+<item slot="2" text="repeat each line ." />
+<item slot="3" text="join with child singing ." />
+</script>
+<script id="32">
+<item slot="1" text="sing song slowly ." />
+<item slot="2" text="repeat each line ." />
+<item slot="3" text="join with child singing ." />
+</script>
+<script id="33">
+<item slot="1" text="seat child in front of you ." />
+<item slot="2" text="introduce song ." />
+<item slot="3" text="begin singing first line ." />
+<item slot="4" text="do actions with song ." />
+<item slot="5" text="allow child to repeat first line ." />
+<item slot="6" text="continue with rest of song one line at a time ." />
+</script>
+<script id="34">
+<item slot="1" text="seat child in front of you ." />
+<item slot="2" text="introduce song ." />
+<item slot="3" text="begin singing first line ." />
+<item slot="4" text="do actions with song ." />
+<item slot="5" text="allow child to repeat first line ." />
+<item slot="6" text="continue with rest of song one line at a time ." />
+</script>
+<script id="35">
+<item slot="1" text="seat child in front of you ." />
+<item slot="2" text="introduce song ." />
+<item slot="3" text="begin singing first line ." />
+<item slot="4" text="do actions with song ." />
+<item slot="5" text="allow child to repeat first line ." />
+<item slot="6" text="continue with rest of song one line at a time ." />
+</script>
+<script id="36">
+<item slot="1" text="seat child in front of you ." />
+<item slot="2" text="introduce song ." />
+<item slot="3" text="begin singing first line ." />
+<item slot="4" text="do actions with song ." />
+<item slot="5" text="allow child to repeat first line ." />
+<item slot="6" text="continue with rest of song one line at a time ." />
+</script>
+<script id="37">
+<item slot="1" text="listen to mommy ." />
+<item slot="2" text="repeat after me ." />
+<item slot="3" text="sing song to child ." />
+<item slot="4" text="have child repeat the song ." />
+<item slot="5" text="sing the song again ." />
+</script>
+<script id="38">
+<item slot="1" text="listen to mommy ." />
+<item slot="2" text="repeat after me ." />
+<item slot="3" text="sing song to child ." />
+<item slot="4" text="have child repeat the song ." />
+<item slot="5" text="sing the song again ." />
+</script>
+<script id="39">
+<item slot="1" text="listen to mommy ." />
+<item slot="2" text="repeat after me ." />
+<item slot="3" text="sing song to child ." />
+<item slot="4" text="have child repeat the song ." />
+<item slot="5" text="sing the song again ." />
+</script>
+<script id="40">
+<item slot="1" text="sing song for child ." />
+<item slot="2" text="have child repeat lines ." />
+<item slot="3" text="put several lines together ." />
+</script>
+</scripts>

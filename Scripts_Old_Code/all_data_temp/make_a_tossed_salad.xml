@@ -1,0 +1,397 @@
+<scripts>
+<script id="1">
+<item slot="1" text="find a salad bowl ." />
+<item slot="2" text="find lettuce ." />
+<item slot="3" text="chop lettuce into bit-size pieces ." />
+<item slot="4" text="place lettuce into bowl ." />
+<item slot="5" text="slice other salad vegetables into bowl ." />
+<item slot="6" text="pour salad dressing into bowl ." />
+<item slot="7" text="stir salad dressing and salad in the bowl ." />
+</script>
+<script id="2">
+<item slot="1" text="cut salad ." />
+<item slot="2" text="wash salad ." />
+<item slot="3" text="put cut salad in bowl ." />
+<item slot="4" text="add slices of tomato ." />
+<item slot="5" text="add slices of cucumber ." />
+<item slot="6" text="optionally add sauce ." />
+<item slot="7" text="add spoon ." />
+</script>
+<script id="3">
+<item slot="1" text="get a targe bowl ." />
+<item slot="2" text="get salad tongs ." />
+<item slot="3" text="get salad ingredients ." />
+<item slot="4" text="put ingredients in bowl ." />
+<item slot="5" text="toss ingredients with tongs ." />
+<item slot="6" text="add a sauce if required ." />
+</script>
+<script id="4">
+<item slot="1" text="wash vegetables ." />
+<item slot="2" text="slice vegetables ." />
+<item slot="3" text="place vegetables in a salad spinner ." />
+<item slot="4" text="spin the salad until it is dry ." />
+<item slot="5" text="place the salad in a bowl ." />
+<item slot="6" text="serve ." />
+</script>
+<script id="5">
+<item slot="1" text="wash vegetables ." />
+<item slot="2" text="slice vegetables ." />
+<item slot="3" text="place vegetables in a salad spinner ." />
+<item slot="4" text="spin the salad until it is dry ." />
+<item slot="5" text="place the salad in a bowl ." />
+<item slot="6" text="serve ." />
+</script>
+<script id="6">
+<item slot="1" text="wash vegetables ." />
+<item slot="2" text="slice vegetables ." />
+<item slot="3" text="place vegetables in a salad spinner ." />
+<item slot="4" text="spin the salad until it is dry ." />
+<item slot="5" text="place the salad in a bowl ." />
+<item slot="6" text="serve ." />
+</script>
+<script id="7">
+<item slot="1" text="place the ingredients of the salad in a bowl ." />
+<item slot="2" text="mix the ingredients thoroughly ." />
+</script>
+<script id="8">
+<item slot="1" text="get a bowl ." />
+<item slot="2" text="wash some lettuce ." />
+<item slot="3" text="tear the lettuce into pieces ." />
+<item slot="4" text="put the lettuce in the bowl ." />
+<item slot="5" text="get some salad dressing ." />
+<item slot="6" text="pour the dressing onto the lettuce in the bowl ." />
+<item slot="7" text="stir the lettuce with a big spoon ." />
+</script>
+<script id="9">
+<item slot="1" text="get large clean bowl ." />
+<item slot="2" text="cut up lettuce tomatoeradish ." />
+<item slot="3" text="cut up cucumbermushroombrocoli ." />
+<item slot="4" text="place all cut up foods in the large clean bowl ." />
+<item slot="5" text="toss together and serve with salad dressing ." />
+</script>
+<script id="10">
+<item slot="1" text="get large clean bowl ." />
+<item slot="2" text="cut up lettuce tomatoeradish ." />
+<item slot="3" text="cut up cucumbermushroombrocoli ." />
+<item slot="4" text="place all cut up foods in the large clean bowl ." />
+<item slot="5" text="toss together and serve with salad dressing ." />
+</script>
+<script id="11">
+<item slot="1" text="getting a bowl ." />
+<item slot="2" text="washing the vegetables ." />
+<item slot="3" text="cutting up the vegetables ." />
+<item slot="4" text="put on salad dressing ." />
+<item slot="5" text="toss ." />
+</script>
+<script id="12">
+<item slot="1" text="getting a bowl ." />
+<item slot="2" text="washing the vegetables ." />
+<item slot="3" text="cutting up the vegetables ." />
+<item slot="4" text="put on salad dressing ." />
+<item slot="5" text="toss ." />
+</script>
+<script id="13">
+<item slot="1" text="take ingredients from fridge ." />
+<item slot="2" text="wash lettuce ." />
+<item slot="3" text="spin lettuce dry ." />
+<item slot="4" text="tear lettuce into pieces ." />
+<item slot="5" text="slice other vegetables ." />
+<item slot="6" text="add dressing ." />
+<item slot="7" text="toss together ." />
+</script>
+<script id="14">
+<item slot="1" text="wash the vegetables ." />
+<item slot="2" text="chop the vegetables ." />
+<item slot="3" text="mix the vegetables ." />
+</script>
+<script id="15">
+<item slot="1" text="wash the vegetables ." />
+<item slot="2" text="chop the vegetables ." />
+<item slot="3" text="mix the vegetables ." />
+</script>
+<script id="16">
+<item slot="1" text="shred lettuce ." />
+<item slot="2" text="cut tomatoes ." />
+<item slot="3" text="cut cucumbers ." />
+<item slot="4" text="cut carrots ." />
+<item slot="5" text="wash lettuce ." />
+<item slot="6" text="toss salad with dressing ." />
+<item slot="7" text="serve salad ." />
+</script>
+<script id="17">
+<item slot="1" text="get out a salad bowl ." />
+</script>
+<script id="18">
+<item slot="1" text="cabage ." />
+</script>
+<script id="19">
+<item slot="1" text="chop vegetables ." />
+</script>
+<script id="20">
+<item slot="1" text="chop vegetables ." />
+<item slot="2" text="add lettuce ." />
+<item slot="3" text="add dressing ." />
+<item slot="4" text="use salad tongs to toss all ingredients together ." />
+</script>
+<script id="21">
+<item slot="1" text="chop vegetables ." />
+<item slot="2" text="add lettuce ." />
+<item slot="3" text="add dressing ." />
+<item slot="4" text="use salad tongs to toss all ingredients together ." />
+</script>
+<script id="22">
+<item slot="1" text="chop vegetables ." />
+</script>
+<script id="23">
+<item slot="1" text="chop vegetables ." />
+</script>
+<script id="24">
+<item slot="1" text="chop vegetables ." />
+<item slot="2" text="add lettuce ." />
+<item slot="3" text="add dressing ." />
+<item slot="4" text="use salad tongs to toss all ingredients together ." />
+</script>
+<script id="25">
+<item slot="1" text="chop vegetables ." />
+</script>
+<script id="26">
+<item slot="1" text="chop vegetables ." />
+<item slot="2" text="add lettuce ." />
+<item slot="3" text="add dressing ." />
+<item slot="4" text="use salad tongs to toss all ingredients together ." />
+</script>
+<script id="27">
+<item slot="1" text="chop vegetables ." />
+</script>
+<script id="28">
+<item slot="1" text="chop vegetables ." />
+</script>
+<script id="29">
+<item slot="1" text="chop vegetables ." />
+<item slot="2" text="add lettuce ." />
+<item slot="3" text="add dressing ." />
+<item slot="4" text="use salad tongs to toss all ingredients together ." />
+</script>
+<script id="30">
+<item slot="1" text="chop vegetables ." />
+<item slot="2" text="add lettuce ." />
+<item slot="3" text="add dressing ." />
+<item slot="4" text="use salad tongs to toss all ingredients together ." />
+</script>
+<script id="31">
+<item slot="1" text="chop vegetables ." />
+</script>
+<script id="32">
+<item slot="1" text="chop vegetables ." />
+<item slot="2" text="add lettuce ." />
+<item slot="3" text="add dressing ." />
+<item slot="4" text="use salad tongs to toss all ingredients together ." />
+</script>
+<script id="33">
+<item slot="1" text="chop vegetables ." />
+</script>
+<script id="34">
+<item slot="1" text="chop vegetables ." />
+<item slot="2" text="add lettuce ." />
+<item slot="3" text="add dressing ." />
+<item slot="4" text="use salad tongs to toss all ingredients together ." />
+</script>
+<script id="35">
+<item slot="1" text="chop vegetables ." />
+</script>
+<script id="36">
+<item slot="1" text="chop vegetables ." />
+<item slot="2" text="add lettuce ." />
+<item slot="3" text="add dressing ." />
+<item slot="4" text="use salad tongs to toss all ingredients together ." />
+</script>
+<script id="37">
+<item slot="1" text="chop vegetables ." />
+</script>
+<script id="38">
+<item slot="1" text="chop vegetables ." />
+<item slot="2" text="add lettuce ." />
+<item slot="3" text="add dressing ." />
+<item slot="4" text="use salad tongs to toss all ingredients together ." />
+</script>
+<script id="39">
+<item slot="1" text="chop vegetables ." />
+</script>
+<script id="40">
+<item slot="1" text="chop vegetables ." />
+<item slot="2" text="add lettuce ." />
+<item slot="3" text="add dressing ." />
+<item slot="4" text="use salad tongs to toss all ingredients together ." />
+</script>
+<script id="41">
+<item slot="1" text="chop vegetables ." />
+</script>
+<script id="42">
+<item slot="1" text="chop vegetables ." />
+<item slot="2" text="add lettuce ." />
+<item slot="3" text="add dressing ." />
+<item slot="4" text="use salad tongs to toss all ingredients together ." />
+</script>
+<script id="43">
+<item slot="1" text="chop vegetables ." />
+</script>
+<script id="44">
+<item slot="1" text="chop vegetables ." />
+<item slot="2" text="add lettuce ." />
+<item slot="3" text="add dressing ." />
+<item slot="4" text="use salad tongs to toss all ingredients together ." />
+</script>
+<script id="45">
+<item slot="1" text="chop vegetables ." />
+</script>
+<script id="46">
+<item slot="1" text="chop vegetables ." />
+<item slot="2" text="add lettuce ." />
+<item slot="3" text="add dressing ." />
+<item slot="4" text="use salad tongs to toss all ingredients together ." />
+</script>
+<script id="47">
+<item slot="1" text="chop vegetables ." />
+</script>
+<script id="48">
+<item slot="1" text="chop vegetables ." />
+<item slot="2" text="add lettuce ." />
+<item slot="3" text="add dressing ." />
+<item slot="4" text="use salad tongs to toss all ingredients together ." />
+</script>
+<script id="49">
+<item slot="1" text="buy veggies ." />
+<item slot="2" text="clean ." />
+<item slot="3" text="peel ." />
+<item slot="4" text="cut ." />
+<item slot="5" text="put into bowl ." />
+<item slot="6" text="put in salad dressing ." />
+<item slot="7" text="stir ." />
+</script>
+<script id="50">
+<item slot="1" text="tossed ." />
+<item slot="2" text="salad ." />
+</script>
+<script id="51">
+<item slot="1" text="obtain salad ingredients ." />
+<item slot="2" text="cut ingredients ." />
+<item slot="3" text="place in bowl ." />
+<item slot="4" text="toss away ." />
+</script>
+<script id="52">
+<item slot="1" text="obtain salad ingredients ." />
+<item slot="2" text="cut ingredients ." />
+<item slot="3" text="place in bowl ." />
+<item slot="4" text="toss away ." />
+</script>
+<script id="53">
+<item slot="1" text="prepare ingredients for salad ." />
+<item slot="2" text="mix ingredients in mixing bowl ." />
+<item slot="3" text="toss the salad ." />
+<item slot="4" text="salad is ready to serve ." />
+</script>
+<script id="54">
+<item slot="1" text="find recipe ." />
+<item slot="2" text="find bowl ." />
+<item slot="3" text="find ingredients ." />
+<item slot="4" text="follow recipe ." />
+<item slot="5" text="mix ingredients ." />
+<item slot="6" text="add dressing ." />
+<item slot="7" text="toss ." />
+</script>
+<script id="55">
+<item slot="1" text="get vegetables ." />
+<item slot="2" text="chop vegetables ." />
+<item slot="3" text="put into bowl ." />
+<item slot="4" text="put on dressing ." />
+<item slot="5" text="serve in small bowls ." />
+</script>
+<script id="56">
+<item slot="1" text="get vegetables ." />
+<item slot="2" text="chop vegetables ." />
+<item slot="3" text="put into bowl ." />
+<item slot="4" text="put on dressing ." />
+<item slot="5" text="serve in small bowls ." />
+</script>
+<script id="57">
+<item slot="1" text="get vegetables ." />
+<item slot="2" text="chop vegetables ." />
+<item slot="3" text="put into bowl ." />
+<item slot="4" text="put on dressing ." />
+<item slot="5" text="serve in small bowls ." />
+</script>
+<script id="58">
+<item slot="1" text="get vegetables ." />
+<item slot="2" text="chop vegetables ." />
+<item slot="3" text="put into bowl ." />
+<item slot="4" text="put on dressing ." />
+<item slot="5" text="serve in small bowls ." />
+</script>
+<script id="59">
+<item slot="1" text="chop of lettuce ." />
+<item slot="2" text="chop up cucumbers ." />
+<item slot="3" text="chop up tomatoes ." />
+<item slot="4" text="chop up mushrooms ." />
+<item slot="5" text="put all into bowl ." />
+<item slot="6" text="use tongs to mix ." />
+<item slot="7" text="add salad dressing ." />
+</script>
+<script id="60">
+<item slot="1" text="chop of lettuce ." />
+<item slot="2" text="chop up cucumbers ." />
+<item slot="3" text="chop up tomatoes ." />
+<item slot="4" text="chop up mushrooms ." />
+<item slot="5" text="put all into bowl ." />
+<item slot="6" text="use tongs to mix ." />
+<item slot="7" text="add salad dressing ." />
+</script>
+<script id="61">
+<item slot="1" text="get vegeatbles ." />
+<item slot="2" text="cut up vegetables ." />
+<item slot="3" text="put into bowl ." />
+<item slot="4" text="pour on dressing ." />
+<item slot="5" text="eat ." />
+</script>
+<script id="62">
+<item slot="1" text="get vegeatbles ." />
+<item slot="2" text="cut up vegetables ." />
+<item slot="3" text="put into bowl ." />
+<item slot="4" text="pour on dressing ." />
+<item slot="5" text="eat ." />
+</script>
+<script id="63">
+<item slot="1" text="get vegeatbles ." />
+<item slot="2" text="cut up vegetables ." />
+<item slot="3" text="put into bowl ." />
+<item slot="4" text="pour on dressing ." />
+<item slot="5" text="eat ." />
+</script>
+<script id="64">
+<item slot="1" text="get vegeatbles ." />
+<item slot="2" text="cut up vegetables ." />
+<item slot="3" text="put into bowl ." />
+<item slot="4" text="pour on dressing ." />
+<item slot="5" text="eat ." />
+</script>
+<script id="65">
+<item slot="1" text="get vegeatbles ." />
+<item slot="2" text="cut up vegetables ." />
+<item slot="3" text="put into bowl ." />
+<item slot="4" text="pour on dressing ." />
+<item slot="5" text="eat ." />
+</script>
+<script id="66">
+<item slot="1" text="get vegeatbles ." />
+<item slot="2" text="cut up vegetables ." />
+<item slot="3" text="put into bowl ." />
+<item slot="4" text="pour on dressing ." />
+<item slot="5" text="eat ." />
+</script>
+<script id="67">
+<item slot="1" text="get vegetables ." />
+<item slot="2" text="chop up vegetables ." />
+<item slot="3" text="put choped vegetables in bowl ." />
+<item slot="4" text="put dressing on sald ." />
+<item slot="5" text="toss the salad ." />
+</script>
+</scripts>

@@ -1,0 +1,368 @@
+<scripts>
+<script id="1">
+<item slot="1" text="push the power button ." />
+<item slot="2" text="wait the operating system to load ." />
+<item slot="3" text="log in ." />
+</script>
+<script id="2">
+<item slot="1" text="push power button on computer ." />
+<item slot="2" text="wait for computer to warm up ." />
+<item slot="3" text="use computer ." />
+</script>
+<script id="3">
+<item slot="1" text="plug the computer s power cord into an electrical outlet ." />
+<item slot="2" text="find the computer s power switch ." />
+<item slot="3" text="turn the switch to the on position ." />
+</script>
+<script id="4">
+<item slot="1" text="locate the computer ." />
+<item slot="2" text="locate the power button on the computer ." />
+<item slot="3" text="depress the power button on the computer shortly ." />
+</script>
+<script id="5">
+<item slot="1" text="locate the computer ." />
+<item slot="2" text="locate the front panel of the computer ." />
+<item slot="3" text="locate the power button on the front panel of the computer ." />
+<item slot="4" text="depress the power button on the front panel of the computer shortly ." />
+</script>
+<script id="6">
+<item slot="1" text="locate computer ." />
+<item slot="2" text="walk to computer ." />
+<item slot="3" text="press on button on computer ." />
+</script>
+<script id="7">
+<item slot="1" text="find power button ." />
+<item slot="2" text="turn power button on ." />
+</script>
+<script id="8">
+<item slot="1" text="locate power button ." />
+<item slot="2" text="push button to on position ." />
+</script>
+<script id="9">
+<item slot="1" text="find power button ." />
+<item slot="2" text="push power button ." />
+</script>
+<script id="10">
+<item slot="1" text="walk to computer ." />
+<item slot="2" text="push power button ." />
+</script>
+<script id="11">
+<item slot="1" text="make suer the computer is plugged ." />
+<item slot="2" text="locate the power button on the machine ." />
+<item slot="3" text="press the power button ." />
+</script>
+<script id="12">
+<item slot="1" text="press power button ." />
+</script>
+<script id="13">
+<item slot="1" text="locate the power button of the computer ." />
+<item slot="2" text="make sure the computer is plugged in ." />
+<item slot="3" text="press the power button ." />
+</script>
+<script id="14">
+<item slot="1" text="plug in the computer ." />
+<item slot="2" text="press the on button ." />
+</script>
+<script id="15">
+<item slot="1" text="go over to the computer ." />
+<item slot="2" text="sit down in front of the computer ." />
+<item slot="3" text="press the computer s on button ." />
+<item slot="4" text="wait for the computer to boot up ." />
+</script>
+<script id="16">
+<item slot="1" text="locate the control panel of the computer ." />
+<item slot="2" text="depress the power button on the front of the control panel ." />
+</script>
+<script id="17">
+<item slot="1" text="step in front of the computer ." />
+<item slot="2" text="find the on switch ." />
+<item slot="3" text="push the on switch ." />
+<item slot="4" text="go away from the computer ." />
+</script>
+<script id="18">
+<item slot="1" text="find the on switch ." />
+<item slot="2" text="press the switch ." />
+</script>
+<script id="19">
+<item slot="1" text="locate on switch on computer ." />
+<item slot="2" text="press switch ." />
+</script>
+<script id="20">
+<item slot="1" text="press power button on computer ." />
+</script>
+<script id="21">
+<item slot="1" text="press the on/off switch on the pc ." />
+<item slot="2" text="press the on/off switch on the monitor ." />
+<item slot="3" text="login ." />
+</script>
+<script id="22">
+<item slot="1" text="walk to computer ." />
+<item slot="2" text="press power button on computer ." />
+</script>
+<script id="23">
+<item slot="1" text="plug in the computer ." />
+<item slot="2" text="find the power switch ." />
+<item slot="3" text="activate the power switch ." />
+</script>
+<script id="24">
+<item slot="1" text="pressing the on switch ." />
+</script>
+<script id="25">
+<item slot="1" text="push button on computor box ." />
+<item slot="2" text="push button on speakers ." />
+<item slot="3" text="push botton on monitor ." />
+</script>
+<script id="26">
+<item slot="1" text="push button on computor box ." />
+<item slot="2" text="push button on speakers ." />
+<item slot="3" text="push botton on monitor ." />
+</script>
+<script id="27">
+<item slot="1" text="push the on switch ." />
+<item slot="2" text="wait until the desktop appears ." />
+</script>
+<script id="28">
+<item slot="1" text="switch on the coputer switch ." />
+<item slot="2" text="click the on button located on the cpu ." />
+<item slot="3" text="wait a few minutes for the welcome page ." />
+<item slot="4" text="key in your username and password ." />
+<item slot="5" text="click the login button ." />
+</script>
+<script id="29">
+<item slot="1" text="find on button ." />
+<item slot="2" text="press on button ." />
+<item slot="3" text="wait for boot up ." />
+</script>
+<script id="30">
+<item slot="1" text="make sure computer is plugged in ." />
+<item slot="2" text="press the 'on' button on the computer ." />
+<item slot="3" text="press the 'on' button on the monitor ." />
+<item slot="4" text="enter a name and password when requested ." />
+</script>
+<script id="31">
+<item slot="1" text="hit the on button ." />
+</script>
+<script id="32">
+<item slot="1" text="hit the 'on' button ." />
+</script>
+<script id="33">
+<item slot="1" text="press the power button ." />
+</script>
+<script id="34">
+<item slot="1" text="press the power button ." />
+</script>
+<script id="35">
+<item slot="1" text="switch on the monitor ." />
+<item slot="2" text="turn on the speakers ." />
+<item slot="3" text="switch on the tower ." />
+</script>
+<script id="36">
+<item slot="1" text="locate power switch ." />
+<item slot="2" text="push power switch ." />
+</script>
+<script id="37">
+<item slot="1" text="locate power switch ." />
+<item slot="2" text="push power switch ." />
+</script>
+<script id="38">
+<item slot="1" text="press the power button on the computer tower ." />
+<item slot="2" text="press the power button on the computer monitor ." />
+</script>
+<script id="39">
+<item slot="1" text="place yourself in front of a computer that you want to turn on ." />
+<item slot="2" text="press the computer s on button to start the boot up process of the computer ." />
+<item slot="3" text="wait for the computer to fully boot up ." />
+</script>
+<script id="40">
+<item slot="1" text="walk to computer ." />
+<item slot="2" text="push power button ." />
+<item slot="3" text="wait for computer to boot ." />
+<item slot="4" text="enter login information ." />
+</script>
+<script id="41">
+<item slot="1" text="plug computer in ." />
+<item slot="2" text="press power button on tower ." />
+</script>
+<script id="42">
+<item slot="1" text="plug computer in ." />
+<item slot="2" text="press power button on tower ." />
+</script>
+<script id="43">
+<item slot="1" text="move the cursor to the 'start' button ." />
+<item slot="2" text="left click the mouse and select 'shut down' ." />
+<item slot="3" text="when dialogue box comes up select your choice from the dropdown box ." />
+<item slot="4" text="click 'okay' ." />
+</script>
+<script id="44">
+<item slot="1" text="move the cursor to the 'start' button ." />
+<item slot="2" text="left click the mouse and select 'shut down' ." />
+<item slot="3" text="when dialogue box comes up select your choice from the dropdown box ." />
+<item slot="4" text="click 'okay' ." />
+</script>
+<script id="45">
+<item slot="1" text="move the cursor to the 'start' button ." />
+<item slot="2" text="left click the mouse and select 'shut down' ." />
+<item slot="3" text="when dialogue box comes up select your choice from the dropdown box ." />
+<item slot="4" text="click 'okay' ." />
+</script>
+<script id="46">
+<item slot="1" text="move the cursor to the 'start' button ." />
+<item slot="2" text="left click the mouse and select 'shut down' ." />
+<item slot="3" text="when dialogue box comes up select your choice from the dropdown box ." />
+<item slot="4" text="click 'okay' ." />
+</script>
+<script id="47">
+<item slot="1" text="move the cursor to the 'start' button ." />
+<item slot="2" text="left click the mouse and select 'shut down' ." />
+<item slot="3" text="when dialogue box comes up select your choice from the dropdown box ." />
+<item slot="4" text="click 'okay' ." />
+</script>
+<script id="48">
+<item slot="1" text="move the cursor to the 'start' button ." />
+<item slot="2" text="left click the mouse and select 'shut down' ." />
+<item slot="3" text="when dialogue box comes up select your choice from the dropdown box ." />
+<item slot="4" text="click 'okay' ." />
+</script>
+<script id="49">
+<item slot="1" text="find the 'on' switch and press it ." />
+<item slot="2" text="wait til the prompt then ." />
+<item slot="3" text="login with username and password ." />
+</script>
+<script id="50">
+<item slot="1" text="find the 'on' switch and press it ." />
+<item slot="2" text="wait til the prompt then ." />
+<item slot="3" text="login with username and password ." />
+</script>
+<script id="51">
+<item slot="1" text="find the 'on' switch and press it ." />
+<item slot="2" text="wait til the prompt then ." />
+<item slot="3" text="login with username and password ." />
+</script>
+<script id="52">
+<item slot="1" text="find the 'on' switch and press it ." />
+<item slot="2" text="wait til the prompt then ." />
+<item slot="3" text="login with username and password ." />
+</script>
+<script id="53">
+<item slot="1" text="find the 'on' switch and press it ." />
+<item slot="2" text="wait til the prompt then ." />
+<item slot="3" text="login with username and password ." />
+</script>
+<script id="54">
+<item slot="1" text="find the 'on' switch and press it ." />
+<item slot="2" text="wait til the prompt then ." />
+<item slot="3" text="login with username and password ." />
+</script>
+<script id="55">
+<item slot="1" text="plug in computer power ." />
+<item slot="2" text="find switch ." />
+<item slot="3" text="press switch ." />
+</script>
+<script id="56">
+<item slot="1" text="walk to thecomputer ." />
+<item slot="2" text="lean down ." />
+<item slot="3" text="press the power button ." />
+<item slot="4" text="straighten up ." />
+<item slot="5" text="sit in chair ." />
+<item slot="6" text="wait for computer to boot up ." />
+</script>
+<script id="57">
+<item slot="1" text="plug pc into wall outlet ." />
+<item slot="2" text="find 'on/off' switch ." />
+<item slot="3" text="flip switch to the 'on' position ." />
+</script>
+<script id="58">
+<item slot="1" text="plug pc into wall outlet ." />
+<item slot="2" text="find 'on/off' switch ." />
+<item slot="3" text="flip switch to the 'on' position ." />
+</script>
+<script id="59">
+<item slot="1" text="plug pc into wall outlet ." />
+<item slot="2" text="find 'on/off' switch ." />
+<item slot="3" text="flip switch to the 'on' position ." />
+</script>
+<script id="60">
+<item slot="1" text="plug pc into wall outlet ." />
+<item slot="2" text="find 'on/off' switch ." />
+<item slot="3" text="flip switch to the 'on' position ." />
+</script>
+<script id="61">
+<item slot="1" text="find the 'on/off' button ." />
+<item slot="2" text="push the button into the 'on' position ." />
+</script>
+<script id="62">
+<item slot="1" text="press on button ." />
+<item slot="2" text="wait ." />
+<item slot="3" text="wait ." />
+<item slot="4" text="wait ." />
+<item slot="5" text="wait ." />
+<item slot="6" text="wait ." />
+<item slot="7" text="wait ." />
+</script>
+<script id="63">
+<item slot="1" text="plug cord in outlet ." />
+<item slot="2" text="find power button ." />
+<item slot="3" text="press power button ." />
+</script>
+<script id="64">
+<item slot="1" text="plug cord in outlet ." />
+<item slot="2" text="find power button ." />
+<item slot="3" text="press power button ." />
+</script>
+<script id="65">
+<item slot="1" text="locate button the computer ." />
+<item slot="2" text="press the button ." />
+<item slot="3" text="press on button on the monitor ." />
+<item slot="4" text="wait until the computer boots before using ." />
+</script>
+<script id="66">
+<item slot="1" text="press the on button ." />
+</script>
+<script id="67">
+<item slot="1" text="press the on button ." />
+</script>
+<script id="68">
+<item slot="1" text="press the on button ." />
+</script>
+<script id="69">
+<item slot="1" text="press the on button ." />
+</script>
+<script id="70">
+<item slot="1" text="press the on button ." />
+</script>
+<script id="71">
+<item slot="1" text="press the on button ." />
+</script>
+<script id="72">
+<item slot="1" text="make sure plugged in ." />
+<item slot="2" text="hit on button ." />
+</script>
+<script id="73">
+<item slot="1" text="make sure plugged in ." />
+<item slot="2" text="hit on button ." />
+</script>
+<script id="74">
+<item slot="1" text="make sure plugged in ." />
+<item slot="2" text="hit on button ." />
+</script>
+<script id="75">
+<item slot="1" text="make sure plugged in ." />
+<item slot="2" text="hit on button ." />
+</script>
+<script id="76">
+<item slot="1" text="make sure plugged in ." />
+<item slot="2" text="hit on button ." />
+</script>
+<script id="77">
+<item slot="1" text="make sure plugged in ." />
+<item slot="2" text="hit on button ." />
+</script>
+<script id="78">
+<item slot="1" text="find power button ." />
+<item slot="2" text="press power button ." />
+</script>
+<script id="79">
+<item slot="1" text="find power button ." />
+<item slot="2" text="press power button ." />
+</script>
+</scripts>

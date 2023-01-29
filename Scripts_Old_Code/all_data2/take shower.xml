@@ -1,0 +1,19 @@
+<scripts><script id="3">
+<item slot="1" text="enter bathroom"/>
+<item slot="2" text="turn on shower"/>
+<item slot="3" text="set handle to correct temperature"/>
+<!-- temp = temperature -->
+<item slot="4" text="take off clothes"/>
+<item slot="5" text="enter shower"/>
+<item slot="6" text="use soap all over your body"/>
+<item slot="7" text="put shampoo on your hair"/>
+<item slot="8" text="rinse well"/>
+<item slot="9" text="put face scrub on wash cloth"/>
+<item slot="10" text="wash face with cloth"/>
+<item slot="11" text="rinse face"/>
+<item slot="12" text="put conditioner on hair"/>
+<item slot="13" text="repeat soaping body"/>
+<item slot="14" text="rinse well"/>
+<item slot="15" text="turn off shower"/>
+<item slot="16" text="dry off with towel"/>
+</script></scripts>

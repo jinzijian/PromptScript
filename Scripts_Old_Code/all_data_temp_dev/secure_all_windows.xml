@@ -1,0 +1,167 @@
+<scripts>
+<script id="1">
+<item slot="1" text="close window if open ." />
+<item slot="2" text="latch window ." />
+<item slot="3" text="repeat until all windows are secured ." />
+</script>
+<script id="2">
+<item slot="1" text="for each window ." />
+<item slot="2" text="if not closed then close it ." />
+<item slot="3" text="lock window ." />
+</script>
+<script id="3">
+<item slot="1" text="close all windows ." />
+<item slot="2" text="lock all windows ." />
+</script>
+<script id="4">
+<item slot="1" text="go to each window individually ." />
+<item slot="2" text="grasp the window s locking lever ." />
+<item slot="3" text="move each locking lever to the locked position ." />
+</script>
+<script id="5">
+<item slot="1" text="go to window ." />
+<item slot="2" text="ensure that window is closed ." />
+<item slot="3" text="ensure that window is locked ." />
+<item slot="4" text="repeat for all windows ." />
+</script>
+<script id="6">
+<item slot="1" text="locate each window ." />
+<item slot="2" text="close each window ." />
+<item slot="3" text="lock each window ." />
+</script>
+<script id="7">
+<item slot="1" text="move to window ." />
+<item slot="2" text="close window ." />
+<item slot="3" text="check locks on window ." />
+<item slot="4" text="check magnetic strips on window ." />
+<item slot="5" text="check to see if security system senses magnetic strips ." />
+<item slot="6" text="check for drafts ." />
+<item slot="7" text="close blinds ." />
+</script>
+<script id="8">
+<item slot="1" text="walk to each individual window ." />
+<item slot="2" text="check to see if they are locked ." />
+</script>
+<script id="9">
+<item slot="1" text="identify windows ." />
+<item slot="2" text="close windows ." />
+<item slot="3" text="lock windows ." />
+</script>
+<script id="10">
+<item slot="1" text="visit each window ." />
+<item slot="2" text="close each window ." />
+<item slot="3" text="lock each window ." />
+</script>
+<script id="11">
+<item slot="1" text="close the window ." />
+<item slot="2" text="turn the latch down ." />
+<item slot="3" text="check the window ." />
+<item slot="4" text="go to next window ." />
+<item slot="5" text="close the window ." />
+<item slot="6" text="tun the latch ." />
+<item slot="7" text="check the window ." />
+</script>
+<script id="12">
+<item slot="1" text="find a window ." />
+<item slot="2" text="close it ." />
+<item slot="3" text="lock it ." />
+<item slot="4" text="repeat ." />
+</script>
+<script id="13">
+<item slot="1" text="go to each window ." />
+<item slot="2" text="make sure it is closed ." />
+<item slot="3" text="lock it ." />
+</script>
+<script id="14">
+<item slot="1" text="go to each window in order ." />
+<item slot="2" text="at each window do the following ." />
+<item slot="3" text="close window ." />
+<item slot="4" text="engage window lock ." />
+</script>
+<script id="15">
+<item slot="1" text="look at alarm panel ." />
+<item slot="2" text="check to see what windows are open ." />
+</script>
+<script id="16">
+<item slot="1" text="look at alarm panel ." />
+<item slot="2" text="check to see what windows are open ." />
+<item slot="3" text="find open window ." />
+<item slot="4" text="slide close ." />
+<item slot="5" text="lock if desired ." />
+<item slot="6" text="move on and close all remaining windows ." />
+<item slot="7" text="check alarm panel that all windows are closed ." />
+</script>
+<script id="17">
+<item slot="1" text="close all windows ." />
+</script>
+<script id="18">
+<item slot="1" text="close all windows ." />
+</script>
+<script id="19">
+<item slot="1" text="close all windows ." />
+</script>
+<script id="20">
+<item slot="1" text="close all windows ." />
+</script>
+<script id="21">
+<item slot="1" text="close all windows ." />
+</script>
+<script id="22">
+<item slot="1" text="close all windows ." />
+</script>
+<script id="23">
+<item slot="1" text="find windows ." />
+<item slot="2" text="approach window ." />
+<item slot="3" text="check if it is open ." />
+<item slot="4" text="close the window ." />
+<item slot="5" text="secure the lock ." />
+<item slot="6" text="ensure it is closed ." />
+<item slot="7" text="repeat process for other windows ." />
+</script>
+<script id="24">
+<item slot="1" text="go to the window ." />
+<item slot="2" text="push the window all the way closed ." />
+<item slot="3" text="flip the latch to lock the window ." />
+<item slot="4" text="repeat steps 1 - 3 on all windows ." />
+</script>
+<script id="25">
+<item slot="1" text="go to the window ." />
+<item slot="2" text="push the window all the way closed ." />
+<item slot="3" text="flip the latch to lock the window ." />
+<item slot="4" text="repeat steps 1 - 3 on all windows ." />
+</script>
+<script id="26">
+<item slot="1" text="close all windows ." />
+<item slot="2" text="lock all windows ." />
+</script>
+<script id="27">
+<item slot="1" text="find the windows ." />
+<item slot="2" text="make sure they are all locked ." />
+</script>
+<script id="28">
+<item slot="1" text="find the windows ." />
+<item slot="2" text="make sure they are all locked ." />
+</script>
+<script id="29">
+<item slot="1" text="find the windows ." />
+<item slot="2" text="make sure they are all locked ." />
+</script>
+<script id="30">
+<item slot="1" text="find the windows ." />
+<item slot="2" text="make sure they are all locked ." />
+</script>
+<script id="31">
+<item slot="1" text="find the windows ." />
+<item slot="2" text="make sure they are all locked ." />
+</script>
+<script id="32">
+<item slot="1" text="walk to first window ." />
+<item slot="2" text="secure latch on window ." />
+<item slot="3" text="repeat steps 1 and 2 until all windows are secured ." />
+</script>
+<script id="33">
+<item slot="1" text="go to window ." />
+<item slot="2" text="close window ." />
+<item slot="3" text="lock window ." />
+</script>
+</scripts>

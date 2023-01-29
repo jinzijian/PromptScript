@@ -1,0 +1,305 @@
+<scripts>
+<script id="1">
+<item slot="1" text="pick up the object ." />
+<item slot="2" text="pull your arm back behind your head ." />
+<item slot="3" text="move your arm forward quickly ." />
+<item slot="4" text="release the object at the arc of the motion ." />
+</script>
+<script id="2">
+<item slot="1" text="pick up the object with your hand ." />
+<item slot="2" text="draw your arm back ." />
+</script>
+<script id="3">
+<item slot="1" text="find an object ." />
+<item slot="2" text="pick up the object ." />
+<item slot="3" text="fling object away from you using your arm ." />
+</script>
+<script id="4">
+<item slot="1" text="pick up the object ." />
+<item slot="2" text="draw back the arm that is holding the object ." />
+<item slot="3" text="bring the arm forward releasing the object ." />
+</script>
+<script id="5">
+<item slot="1" text="find an object ." />
+<item slot="2" text="pick object up ." />
+<item slot="3" text="lift arm up ." />
+<item slot="4" text="bend elbo to the side ." />
+<item slot="5" text="put forward motion onto object ." />
+<item slot="6" text="release grip of object when arm is at full forward length ." />
+<item slot="7" text="relax arm ." />
+</script>
+<script id="6">
+<item slot="1" text="grab object with hand ." />
+<item slot="2" text="pull back object ." />
+<item slot="3" text="push object forward ." />
+<item slot="4" text="release ." />
+</script>
+<script id="7">
+<item slot="1" text="pick up object ." />
+<item slot="2" text="throw object ." />
+</script>
+<script id="8">
+<item slot="1" text="take object ." />
+<item slot="2" text="move hand backward ." />
+<item slot="3" text="push hand forward ." />
+<item slot="4" text="release object when hand in motion ." />
+</script>
+<script id="9">
+<item slot="1" text="grab object with hand ." />
+<item slot="2" text="pull hand back behind head ." />
+<item slot="3" text="push hand forward ." />
+<item slot="4" text="release object ." />
+</script>
+<script id="10">
+<item slot="1" text="hold object ." />
+<item slot="2" text="balance hand ." />
+<item slot="3" text="when hand at highest position release object ." />
+</script>
+<script id="11">
+<item slot="1" text="grab object ." />
+<item slot="2" text="swing arm back ." />
+<item slot="3" text="swing arm forward ." />
+<item slot="4" text="release object ." />
+</script>
+<script id="12">
+<item slot="1" text="grab the object ." />
+<item slot="2" text="aim where to throw ." />
+<item slot="3" text="throw it ." />
+</script>
+<script id="13">
+<item slot="1" text="fetch object ." />
+<item slot="2" text="swing arm back ." />
+<item slot="3" text="when arm goes forward release object ." />
+</script>
+<script id="14">
+<item slot="1" text="fetch object ." />
+<item slot="2" text="swing arm ." />
+<item slot="3" text="release object ." />
+</script>
+<script id="15">
+<item slot="1" text="pick up the object ." />
+<item slot="2" text="swing your arm ." />
+<item slot="3" text="when you hand is futhest away from your body release the object ." />
+</script>
+<script id="16">
+<item slot="1" text="pick up object ." />
+<item slot="2" text="accelerate object to desired horizontal and vertical velocities ." />
+<item slot="3" text="release object ." />
+</script>
+<script id="17">
+<item slot="1" text="pick up object in hand ." />
+<item slot="2" text="bring up arm ." />
+<item slot="3" text="release object as arm comes forward ." />
+</script>
+<script id="18">
+<item slot="1" text="pick of object ." />
+<item slot="2" text="aim throwing mechanism at destination ." />
+<item slot="3" text="propel object ." />
+<item slot="4" text="release object ." />
+</script>
+<script id="19">
+<item slot="1" text="pick up the object ." />
+<item slot="2" text="pull hand backward for more acceleration room ." />
+<item slot="3" text="push hand forward to launch object ." />
+<item slot="4" text="let go of object ." />
+</script>
+<script id="20">
+<item slot="1" text="pick up object ." />
+<item slot="2" text="throw the object ." />
+</script>
+<script id="21">
+<item slot="1" text="pick up the object ." />
+<item slot="2" text="throw the object ." />
+</script>
+<script id="22">
+<item slot="1" text="place object on hand ." />
+<item slot="2" text="throw the object ." />
+</script>
+<script id="23">
+<item slot="1" text="discern need to throw object ." />
+<item slot="2" text="decide what to throw ." />
+<item slot="3" text="find item to throw ." />
+<item slot="4" text="retrieve item to throw ." />
+<item slot="5" text="clutch item in hand ." />
+<item slot="6" text="move arm backward ." />
+<item slot="7" text="pitch arm forward and release item ." />
+</script>
+<script id="24">
+<item slot="1" text="pick up the object ." />
+<item slot="2" text="hold the object in your hand ." />
+<item slot="3" text="look at the target where the object is to be thrown ." />
+<item slot="4" text="raise your hand holding the object ." />
+<item slot="5" text="bring your hand forward ." />
+<item slot="6" text="release the object from your hand ." />
+</script>
+<script id="25">
+<item slot="1" text="pick up the object ." />
+<item slot="2" text="hold the object in your hand ." />
+<item slot="3" text="look at the target where the object is to be thrown ." />
+<item slot="4" text="raise your hand holding the object ." />
+<item slot="5" text="bring your hand forward ." />
+<item slot="6" text="release the object from your hand ." />
+</script>
+<script id="26">
+<item slot="1" text="pick up object ." />
+<item slot="2" text="throw ." />
+</script>
+<script id="27">
+<item slot="1" text="pick object up on hand ." />
+<item slot="2" text="toss object in air ." />
+</script>
+<script id="28">
+<item slot="1" text="see the object ." />
+<item slot="2" text="touch the object ." />
+<item slot="3" text="pick up the object ." />
+<item slot="4" text="put arm back ." />
+<item slot="5" text="move arm forward quickly ." />
+<item slot="6" text="release object ." />
+<item slot="7" text="watch it fly ." />
+</script>
+<script id="29">
+<item slot="1" text="pick up the object ." />
+<item slot="2" text="set your target ." />
+<item slot="3" text="throw away the object to the target ." />
+</script>
+<script id="30">
+<item slot="1" text="throw the object ." />
+</script>
+<script id="31">
+<item slot="1" text="pick up object ." />
+<item slot="2" text="bring arm back ." />
+<item slot="3" text="swing arm forward ." />
+<item slot="4" text="release the object ." />
+</script>
+<script id="32">
+<item slot="1" text="pick up object ." />
+<item slot="2" text="select target ." />
+<item slot="3" text="throw object towards target ." />
+</script>
+<script id="33">
+<item slot="1" text="pick up the object ." />
+<item slot="2" text="raise your arm ." />
+<item slot="3" text="throw your arm forward ." />
+<item slot="4" text="release the object ." />
+</script>
+<script id="34">
+<item slot="1" text="pick up the object ." />
+<item slot="2" text="raise your arm ." />
+<item slot="3" text="push your arm forward ." />
+<item slot="4" text="release the object ." />
+</script>
+<script id="35">
+<item slot="1" text="find the object ." />
+<item slot="2" text="hold the object ." />
+<item slot="3" text="see the direction ." />
+<item slot="4" text="apply the force ." />
+<item slot="5" text="throw the object ." />
+</script>
+<script id="36">
+<item slot="1" text="hold object in hand ." />
+<item slot="2" text="pull hand back over head ." />
+<item slot="3" text="swiftly move hand over head ." />
+<item slot="4" text="let loose of object ." />
+</script>
+<script id="37">
+<item slot="1" text="look at object ." />
+<item slot="2" text="grab object ." />
+<item slot="3" text="lift object up ." />
+<item slot="4" text="feel how heavy object is ." />
+<item slot="5" text="raise your arm ." />
+<item slot="6" text="move arm fast ." />
+<item slot="7" text="and leave go of object ." />
+</script>
+<script id="38">
+<item slot="1" text="pick up object ." />
+<item slot="2" text="decide where you are aiming ." />
+<item slot="3" text="cock arm back ." />
+<item slot="4" text="sling arm forward then release object ." />
+<item slot="5" text="when object is released your pointer finger should be pointing at your target ." />
+</script>
+<script id="39">
+<item slot="1" text="grasp object in prominent hand ." />
+<item slot="2" text="wind arm back ." />
+<item slot="3" text="aim ." />
+<item slot="4" text="release grasp and fingers ." />
+</script>
+<script id="40">
+<item slot="1" text="grasp object in prominent hand ." />
+<item slot="2" text="wind arm back ." />
+<item slot="3" text="aim ." />
+<item slot="4" text="release grasp and fingers ." />
+</script>
+<script id="41">
+<item slot="1" text="grasp object in prominent hand ." />
+<item slot="2" text="wind arm back ." />
+<item slot="3" text="aim ." />
+<item slot="4" text="release grasp and fingers ." />
+</script>
+<script id="42">
+<item slot="1" text="grasp object in prominent hand ." />
+<item slot="2" text="wind arm back ." />
+<item slot="3" text="aim ." />
+<item slot="4" text="release grasp and fingers ." />
+</script>
+<script id="43">
+<item slot="1" text="pick up the object ." />
+<item slot="2" text="toss the object ." />
+</script>
+<script id="44">
+<item slot="1" text="pick up object ." />
+<item slot="2" text="pull arm back ." />
+<item slot="3" text="toss object away with great force ." />
+</script>
+<script id="45">
+<item slot="1" text="pick it up ." />
+<item slot="2" text="extend your arm ." />
+</script>
+<script id="46">
+<item slot="1" text="pick it up ." />
+<item slot="2" text="extend your arm ." />
+</script>
+<script id="47">
+<item slot="1" text="pick it up ." />
+<item slot="2" text="extend your arm ." />
+</script>
+<script id="48">
+<item slot="1" text="pick it up ." />
+<item slot="2" text="extend your arm ." />
+</script>
+<script id="49">
+<item slot="1" text="pick it up ." />
+<item slot="2" text="extend your arm ." />
+</script>
+<script id="50">
+<item slot="1" text="pick up object ." />
+<item slot="2" text="extend arm ." />
+<item slot="3" text="let go ." />
+</script>
+<script id="51">
+<item slot="1" text="pick up object ." />
+<item slot="2" text="extend arm ." />
+<item slot="3" text="let go ." />
+</script>
+<script id="52">
+<item slot="1" text="pick up object ." />
+<item slot="2" text="draw arm back ." />
+<item slot="3" text="push hand forward ." />
+<item slot="4" text="realease object when arm is fully extended ." />
+</script>
+<script id="53">
+<item slot="1" text="pick up object ." />
+<item slot="2" text="draw arm back ." />
+<item slot="3" text="push hand forward ." />
+<item slot="4" text="realease object when arm is fully extended ." />
+</script>
+<script id="54">
+<item slot="1" text="pick up object ." />
+<item slot="2" text="draw arm back ." />
+<item slot="3" text="push hand forward ." />
+<item slot="4" text="realease object when arm is fully extended ." />
+</script>
+<script id="55">
+<item slot="1" text="pick up object ." />
+<item slot="2" text="hurl it across room ." />
+</script>
+</scripts>

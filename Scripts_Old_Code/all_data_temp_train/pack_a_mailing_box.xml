@@ -1,0 +1,159 @@
+<scripts>
+<script id="1">
+<item slot="1" text="place objects in box ." />
+<item slot="2" text="tape box shut ." />
+</script>
+<script id="2">
+<item slot="1" text="put item in box ." />
+<item slot="2" text="close box ." />
+<item slot="3" text="tape box shut ." />
+</script>
+<script id="3">
+<item slot="1" text="fold box ." />
+<item slot="2" text="secure box with packing tape ." />
+<item slot="3" text="fill box with packing foam ." />
+<item slot="4" text="place item in box ." />
+<item slot="5" text="close lid of box ." />
+<item slot="6" text="secure lid with packing tape ." />
+</script>
+<script id="4">
+<item slot="1" text="tape the bottom of the mailing box ." />
+<item slot="2" text="fill box half way with packing material ." />
+<item slot="3" text="insert object to be packed ." />
+<item slot="4" text="fill box completely with packing material ." />
+<item slot="5" text="seal with tape ." />
+</script>
+<script id="5">
+<item slot="1" text="tape the bottom of the mailing box ." />
+<item slot="2" text="fill box half way with packing material ." />
+<item slot="3" text="insert object to be packed ." />
+<item slot="4" text="fill box completely with packing material ." />
+<item slot="5" text="seal with tape ." />
+</script>
+<script id="6">
+<item slot="1" text="get a mailing box ." />
+<item slot="2" text="insert items in box ." />
+</script>
+<script id="7">
+<item slot="1" text="get a mailing box ." />
+<item slot="2" text="insert items in box ." />
+</script>
+<script id="8">
+<item slot="1" text="put stuff in mailing box ." />
+</script>
+<script id="9">
+<item slot="1" text="put stuff in mailing box ." />
+</script>
+<script id="10">
+<item slot="1" text="obtain box ." />
+<item slot="2" text="fill box with items to mail ." />
+<item slot="3" text="close and seal the box ." />
+<item slot="4" text="fill in the address details ." />
+<item slot="5" text="fill in the return address details ." />
+<item slot="6" text="affix stamps ." />
+<item slot="7" text="give the box to the post office ." />
+</script>
+<script id="11">
+<item slot="1" text="find a sturdy box of the appropriate size ." />
+<item slot="2" text="put the object in the box ." />
+<item slot="3" text="fill the empty spaces in the box with packing materials ." />
+<item slot="4" text="tape the box shut ." />
+<item slot="5" text="address the box ." />
+</script>
+<script id="12">
+<item slot="1" text="place items in box ." />
+<item slot="2" text="tape the box closed with mailing tape ." />
+<item slot="3" text="label the box with address to send to ." />
+<item slot="4" text="apply appropriate postage ." />
+</script>
+<script id="13">
+<item slot="1" text="put mail in mail box ." />
+<item slot="2" text="keep putting mail in till fill ." />
+</script>
+<script id="14">
+<item slot="1" text="place items in box ." />
+<item slot="2" text="place packing material ." />
+<item slot="3" text="seal box with tape ." />
+</script>
+<script id="15">
+<item slot="1" text="walk ." />
+<item slot="2" text="pack mail ." />
+</script>
+<script id="16">
+<item slot="1" text="walk ." />
+<item slot="2" text="pack mail ." />
+</script>
+<script id="17">
+<item slot="1" text="walk ." />
+<item slot="2" text="pack mail ." />
+</script>
+<script id="18">
+<item slot="1" text="walk ." />
+<item slot="2" text="pack mail ." />
+</script>
+<script id="19">
+<item slot="1" text="walk ." />
+<item slot="2" text="pack mail ." />
+</script>
+<script id="20">
+<item slot="1" text="walk ." />
+<item slot="2" text="pack mail ." />
+</script>
+<script id="21">
+<item slot="1" text="insert package ." />
+</script>
+<script id="22">
+<item slot="1" text="insert package ." />
+</script>
+<script id="23">
+<item slot="1" text="insert package ." />
+</script>
+<script id="24">
+<item slot="1" text="insert package ." />
+</script>
+<script id="25">
+<item slot="1" text="insert package ." />
+</script>
+<script id="26">
+<item slot="1" text="insert package ." />
+</script>
+<script id="27">
+<item slot="1" text="take the mailing box ." />
+<item slot="2" text="pack the box ." />
+</script>
+<script id="28">
+<item slot="1" text="locate a mailing box ." />
+<item slot="2" text="fill it up ." />
+</script>
+<script id="29">
+<item slot="1" text="find a mailing box ." />
+<item slot="2" text="pack until full ." />
+</script>
+<script id="30">
+<item slot="1" text="find box ." />
+<item slot="2" text="wrap items ." />
+<item slot="3" text="put item in box ." />
+<item slot="4" text="fill in area so items wont move ." />
+<item slot="5" text="tape box ." />
+<item slot="6" text="address box ." />
+<item slot="7" text="drop off at post office ." />
+</script>
+<script id="31">
+<item slot="1" text="find box ." />
+<item slot="2" text="wrap items ." />
+<item slot="3" text="put item in box ." />
+<item slot="4" text="fill in area so items wont move ." />
+<item slot="5" text="tape box ." />
+<item slot="6" text="address box ." />
+<item slot="7" text="drop off at post office ." />
+</script>
+<script id="32">
+<item slot="1" text="find box ." />
+<item slot="2" text="wrap items ." />
+<item slot="3" text="put item in box ." />
+<item slot="4" text="fill in area so items wont move ." />
+<item slot="5" text="tape box ." />
+<item slot="6" text="address box ." />
+<item slot="7" text="drop off at post office ." />
+</script>
+</scripts>

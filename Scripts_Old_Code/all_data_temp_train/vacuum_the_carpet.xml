@@ -1,0 +1,320 @@
+<scripts>
+<script id="1">
+<item slot="1" text="find a vacuum ." />
+<item slot="2" text="plug vacuum into an electrical outlet ." />
+<item slot="3" text="turn on vacuum ." />
+<item slot="4" text="move vacuum across the carpet ." />
+</script>
+<script id="2">
+<item slot="1" text="find vacuum ." />
+<item slot="2" text="take vacuum to carpet ." />
+<item slot="3" text="turn vacuum on ." />
+<item slot="4" text="run vacuum over carpet ." />
+</script>
+<script id="3">
+<item slot="1" text="find the vacuum ." />
+<item slot="2" text="place the vacuum on the carpet ." />
+<item slot="3" text="plug the vacuum into the electric socket ." />
+<item slot="4" text="turn the vacuum on ." />
+<item slot="5" text="run the vacuum over the carpet ." />
+<item slot="6" text="turn the vacuum off ." />
+<item slot="7" text="put the vacuum away ." />
+</script>
+<script id="4">
+<item slot="1" text="locate vacuum ." />
+<item slot="2" text="pick up vacuum ." />
+<item slot="3" text="place vacuum on carpet ." />
+<item slot="4" text="plug in vacuum ." />
+<item slot="5" text="turn on vacuum ." />
+<item slot="6" text="run vacuum over floor ." />
+<item slot="7" text="turn off vacuum ." />
+</script>
+<script id="5">
+<item slot="1" text="get vacuum ." />
+<item slot="2" text="move any furniture out of the way ." />
+<item slot="3" text="turn on vacuum ." />
+<item slot="4" text="start moving the vacuum back and forth ." />
+<item slot="5" text="turn off vacuum ." />
+</script>
+<script id="6">
+<item slot="1" text="find the vacuum ." />
+<item slot="2" text="plug the vacuum into the wall ." />
+<item slot="3" text="turn the vacuum on ." />
+<item slot="4" text="push the vacuum over the carpet ." />
+<item slot="5" text="turn off the vacuum ." />
+<item slot="6" text="unplug the vacuum ." />
+<item slot="7" text="replace the vacuum ." />
+</script>
+<script id="7">
+<item slot="1" text="turn on the vacuum cleaner ." />
+<item slot="2" text="move the vacuum cleaner back and forth on the carpet ." />
+<item slot="3" text="turn off the vacuum cleaner ." />
+</script>
+<script id="8">
+<item slot="1" text="get vacuum cleaner ." />
+<item slot="2" text="plug vacuum cleaner into outlet ." />
+<item slot="3" text="turn on vacuum cleaner ." />
+<item slot="4" text="move vacuum cleaner to carpet ." />
+<item slot="5" text="move vacuum cleaner back and forth ." />
+<item slot="6" text="switch off vacuum cleaner ." />
+<item slot="7" text="put vacuum cleaner way ." />
+</script>
+<script id="9">
+<item slot="1" text="get vaccum cleaner ." />
+<item slot="2" text="clear obstacles off the carpet ." />
+<item slot="3" text="turn vaccum cleaner on ." />
+<item slot="4" text="push and pull vacuum cleaner across carpet ." />
+<item slot="5" text="turn vacuum cleaner off ." />
+</script>
+<script id="10">
+<item slot="1" text="get the vacuum ." />
+<item slot="2" text="plug in the vacuum ." />
+<item slot="3" text="turn on th vacuum ." />
+<item slot="4" text="push the vacuum over the carpet ." />
+<item slot="5" text="keep pushing the vacuum over the carpet until the entire carpet has been vacuumed ." />
+</script>
+<script id="11">
+<item slot="1" text="plug vacuum cleaner in ." />
+<item slot="2" text="turn vacuum cleaner on ." />
+<item slot="3" text="slide vacuum cleaner across the carpet ." />
+</script>
+<script id="12">
+<item slot="1" text="get vacuum ." />
+<item slot="2" text="plug in vacuum ." />
+<item slot="3" text="turn on vacuum ." />
+<item slot="4" text="pull or push vacuum over all of carpet ." />
+<item slot="5" text="turn off vacuum ." />
+<item slot="6" text="store vacuum ." />
+</script>
+<script id="13">
+<item slot="1" text="plug in vaccum cleaner ." />
+<item slot="2" text="press on/off button ." />
+<item slot="3" text="push vacuum cleaner over the complete surface area of the carpet ." />
+<item slot="4" text="move objects if necessary ." />
+<item slot="5" text="press on/off button when finished ." />
+<item slot="6" text="unplug vacuum cleaner ." />
+</script>
+<script id="14">
+<item slot="1" text="turn on the vacuum ." />
+<item slot="2" text="run repeatedly over the areas needed to be cleaned ." />
+<item slot="3" text="turn off vacuum ." />
+</script>
+<script id="15">
+<item slot="1" text="plug in vacuum ." />
+<item slot="2" text="turn on vacuum ." />
+<item slot="3" text="move vacuum over carpet ." />
+<item slot="4" text="turn off vacuum ." />
+<item slot="5" text="put away vacuum ." />
+</script>
+<script id="16">
+<item slot="1" text="turn on the vacuum ." />
+<item slot="2" text="run over the carpet ." />
+<item slot="3" text="turn off the vacuum ." />
+</script>
+<script id="17">
+<item slot="1" text="get the vacuum cleaner ." />
+<item slot="2" text="plug the vacuum cleaner in ." />
+<item slot="3" text="push the vacuum cleaner around the room ." />
+<item slot="4" text="unplug the vacuum cleaner ." />
+<item slot="5" text="put the vacuum cleaner away ." />
+</script>
+<script id="18">
+<item slot="1" text="take out the vacuum cleaner ." />
+<item slot="2" text="plug in the vacuum cleaner ." />
+<item slot="3" text="turn on the vacuum cleaner ." />
+<item slot="4" text="push the vacuum cleaner about ." />
+<item slot="5" text="turn off the vacuum cleaner ." />
+<item slot="6" text="unplug the vacuum cleaner ." />
+<item slot="7" text="put the vacuum cleaner away ." />
+</script>
+<script id="19">
+<item slot="1" text="set up and plug in cleaner ." />
+<item slot="2" text="pick up clutter ." />
+<item slot="3" text="turn on cleaner ." />
+<item slot="4" text="run cleaner on carpet ." />
+<item slot="5" text="turn off cleaner ." />
+<item slot="6" text="unplug cleaner ." />
+<item slot="7" text="put cleaner away ." />
+</script>
+<script id="20">
+<item slot="1" text="plug in the vacuum ." />
+<item slot="2" text="turn on the switch ." />
+<item slot="3" text="push it back and forth over the carpet ." />
+</script>
+<script id="21">
+<item slot="1" text="obtain a vacuum ." />
+<item slot="2" text="plug it in near the carpet ." />
+<item slot="3" text="turn it on ." />
+<item slot="4" text="push it back and forth over entire carpet ." />
+<item slot="5" text="turn it off ." />
+</script>
+<script id="22">
+<item slot="1" text="identify the area of the carpet to vacuum ." />
+<item slot="2" text="get out the vacuum ." />
+<item slot="3" text="plug the vacuum into the power ." />
+<item slot="4" text="turn on the vacuum ." />
+<item slot="5" text="sweep the vacuum over the floor ." />
+<item slot="6" text="unplug the vacuum ." />
+<item slot="7" text="put the vacuum away ." />
+</script>
+<script id="23">
+<item slot="1" text="get vacuum cleaner ." />
+<item slot="2" text="plug into outlet ." />
+<item slot="3" text="turn on ." />
+<item slot="4" text="push and pull vacuum across floor ." />
+<item slot="5" text="turn off ." />
+<item slot="6" text="change vacuum cleaner bag ." />
+<item slot="7" text="put vacuum cleaner back ." />
+</script>
+<script id="24">
+<item slot="1" text="get vacuum cleaner ." />
+<item slot="2" text="plug into outlet ." />
+<item slot="3" text="turn on ." />
+<item slot="4" text="push and pull vacuum across floor ." />
+<item slot="5" text="turn off ." />
+<item slot="6" text="change vacuum cleaner bag ." />
+<item slot="7" text="put vacuum cleaner back ." />
+</script>
+<script id="25">
+<item slot="1" text="retrieve vacuum ." />
+<item slot="2" text="take to room to be vacuumed ." />
+<item slot="3" text="plug in vacuum ." />
+<item slot="4" text="vacuum carpet ." />
+</script>
+<script id="26">
+<item slot="1" text="pick up toys ." />
+<item slot="2" text="go to closet ." />
+<item slot="3" text="take out vacuum ." />
+<item slot="4" text="pull out vacuum cord ." />
+<item slot="5" text="plug cord into electrical outlet ." />
+<item slot="6" text="turn vacuum on ." />
+<item slot="7" text="push vacuum head back and forth over all of the carpet ." />
+</script>
+<script id="27">
+<item slot="1" text="plug in vacuum ." />
+<item slot="2" text="turn on vacuum ." />
+<item slot="3" text="run vacuum over entire carpet ." />
+<item slot="4" text="turn off vacuum ." />
+<item slot="5" text="unplug vacuum and put away ." />
+</script>
+<script id="28">
+<item slot="1" text="locate vacuum cleaner ." />
+<item slot="2" text="plug in vaccum cleaner to power outlet ." />
+<item slot="3" text="switch on vacuum cleaner ." />
+<item slot="4" text="move vacuum cleaner over carpet ." />
+<item slot="5" text="repeat until carpet is cleaned ." />
+<item slot="6" text="turn off vacuum cleaner ." />
+<item slot="7" text="unplug vacuum cleaner ." />
+</script>
+<script id="29">
+<item slot="1" text="take out vacuum ." />
+<item slot="2" text="plug in vacuum ." />
+<item slot="3" text="clean carpet ." />
+<item slot="4" text="put vacuum away ." />
+</script>
+<script id="30">
+<item slot="1" text="turn on vacuum ." />
+<item slot="2" text="roll over carpet area ." />
+</script>
+<script id="31">
+<item slot="1" text="plug in vacuum ." />
+<item slot="2" text="turn on vacuum ." />
+<item slot="3" text="move vacuum around on the floor ." />
+<item slot="4" text="watch to make sure objects/dirt/etc is sucked up ." />
+</script>
+<script id="32">
+<item slot="1" text="plug in vacuum ." />
+<item slot="2" text="turn on vacuum ." />
+<item slot="3" text="move vacuum around on the floor ." />
+<item slot="4" text="watch to make sure objects/dirt/etc is sucked up ." />
+</script>
+<script id="33">
+<item slot="1" text="plug in vacuum ." />
+<item slot="2" text="turn vacuum on ." />
+<item slot="3" text="hold handle of vacuum and move it back and forth over dirty areas ." />
+<item slot="4" text="turn vacuum off ." />
+<item slot="5" text="unplug vacuum ." />
+</script>
+<script id="34">
+<item slot="1" text="plug in vacuum ." />
+<item slot="2" text="turn vacuum on ." />
+<item slot="3" text="hold handle of vacuum and move it back and forth over dirty areas ." />
+<item slot="4" text="turn vacuum off ." />
+<item slot="5" text="unplug vacuum ." />
+</script>
+<script id="35">
+<item slot="1" text="plug in vacuum ." />
+<item slot="2" text="turn vacuum on ." />
+<item slot="3" text="hold handle of vacuum and move it back and forth over dirty areas ." />
+<item slot="4" text="turn vacuum off ." />
+<item slot="5" text="unplug vacuum ." />
+</script>
+<script id="36">
+<item slot="1" text="plug in vacuum ." />
+<item slot="2" text="turn vacuum on ." />
+<item slot="3" text="hold handle of vacuum and move it back and forth over dirty areas ." />
+<item slot="4" text="turn vacuum off ." />
+<item slot="5" text="unplug vacuum ." />
+</script>
+<script id="37">
+<item slot="1" text="turn on vacuum ." />
+<item slot="2" text="push vacuum over carpet ." />
+</script>
+<script id="38">
+<item slot="1" text="turn on vacuum ." />
+<item slot="2" text="roll vacuum over carpet ." />
+</script>
+<script id="39">
+<item slot="1" text="turn on the vacuum ." />
+<item slot="2" text="run the vacuum over the carpet ." />
+<item slot="3" text="turn off the vacuum ." />
+</script>
+<script id="40">
+<item slot="1" text="attach power head to vacuum cleaner ." />
+<item slot="2" text="plug in vacuum cleaner ." />
+<item slot="3" text="adjust settings for power head ." />
+<item slot="4" text="turn on vacuum cleaner ." />
+<item slot="5" text="run power head over entire carpet ." />
+<item slot="6" text="unplug vacuum cleaner ." />
+<item slot="7" text="put vacuum cleaner away ." />
+</script>
+<script id="41">
+<item slot="1" text="attach power head to vacuum cleaner ." />
+<item slot="2" text="plug in vacuum cleaner ." />
+<item slot="3" text="adjust settings for power head ." />
+<item slot="4" text="turn on vacuum cleaner ." />
+<item slot="5" text="run power head over entire carpet ." />
+<item slot="6" text="unplug vacuum cleaner ." />
+<item slot="7" text="put vacuum cleaner away ." />
+</script>
+<script id="42">
+<item slot="1" text="attach power head to vacuum cleaner ." />
+<item slot="2" text="plug in vacuum cleaner ." />
+<item slot="3" text="adjust settings for power head ." />
+<item slot="4" text="turn on vacuum cleaner ." />
+<item slot="5" text="run power head over entire carpet ." />
+<item slot="6" text="unplug vacuum cleaner ." />
+<item slot="7" text="put vacuum cleaner away ." />
+</script>
+<script id="43">
+<item slot="1" text="go to pantry ." />
+<item slot="2" text="take out vacuum cleaner ." />
+<item slot="3" text="find outlet ." />
+<item slot="4" text="plug into outlet ." />
+<item slot="5" text="turn on vacuum ." />
+<item slot="6" text="move vacuum over carpet ." />
+<item slot="7" text="turn off vacuum ." />
+</script>
+<script id="44">
+<item slot="1" text="take out vacuum cleaner ." />
+<item slot="2" text="plug vacuum into wall ." />
+<item slot="3" text="turn on vacuum ." />
+<item slot="4" text="vacuum carpet ." />
+</script>
+<script id="45">
+<item slot="1" text="turn on vaccum ." />
+<item slot="2" text="clean the carprt ." />
+<item slot="3" text="turn off vaccum ." />
+<item slot="4" text="put back vaccum ." />
+</script>
+</scripts>

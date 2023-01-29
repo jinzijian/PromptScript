@@ -1,0 +1,295 @@
+<?xml version="1.0"?>
+<scripts>
+	<script id="1">
+		<item slot="1" text="get food ."/>
+		<item slot="2" text="put food in cat s bowl ."/>
+		<item slot="3" text="call cat ."/>
+	</script>
+	<script id="2">
+		<item slot="1" text="get out the pet food ."/>
+		<item slot="2" text="pour some pet food into the cat s bowl ."/>
+		<item slot="3" text="replace the pet food ."/>
+	</script>
+	<script id="3">
+		<item slot="1" text="get cat food ."/>
+		<item slot="2" text="put cat food into bowl ."/>
+		<item slot="3" text="call cat ."/>
+	</script>
+	<script id="5">
+		<item slot="1" text="get cat food ."/>
+		<item slot="2" text="pour cat food in cat bowl ."/>
+		<item slot="3" text="call cat ."/>
+	</script>
+	<script id="6">
+		<item slot="1" text="open can of cat food ."/>
+		<item slot="2" text="put cat food on cat dish ."/>
+		<item slot="3" text="put cat dish with food at the usual place ."/>
+		<item slot="4" text="watch cat eat ."/>
+	</script>
+	<script id="7">
+		<item slot="1" text="get food ."/>
+		<item slot="2" text="put food into cat s bowl ."/>
+		<item slot="3" text="put bowl on the floor ."/>
+		<item slot="4" text="call cat ."/>
+	</script>
+	<script id="8">
+		<item slot="1" text="open can of cat food ."/>
+		<item slot="2" text="put cat food in cat dish ."/>
+		<item slot="3" text="get cat ."/>
+	</script>
+	<script id="9">
+		<item slot="1" text="prepare cat food ."/>
+		<item slot="2" text="put cat food on dish ."/>
+		<item slot="3" text="let cat eat ."/>
+	</script>
+	<script id="10">
+		<item slot="1" text="get the cat food dish ."/>
+		<item slot="2" text="open cat food container ."/>
+		<item slot="3" text="pour cat food into cat food dish ."/>
+		<item slot="4" text="put the food dish where the cat eats ."/>
+	</script>
+	<script id="11">
+		<item slot="1" text="get the cat s food bowl ."/>
+		<item slot="2" text="get the cat food can ."/>
+		<item slot="3" text="get a can opener ."/>
+		<item slot="4" text="use the can opener to open the cat food can ."/>
+		<item slot="5" text="empty cat food can into the cat s food bowl ."/>
+		<item slot="6" text="place the bowl near the cat so the cat can eat ."/>
+	</script>
+	<script id="12">
+		<item slot="1" text="get cat food ."/>
+		<item slot="2" text="put food in cat s bowl ."/>
+		<item slot="3" text="call cat ."/>
+	</script>
+	<script id="13">
+		<item slot="1" text="find cat food ."/>
+		<item slot="2" text="find the cat s bowl ."/>
+		<item slot="3" text="pour some cat food into the bowl ."/>
+		<item slot="4" text="place the bowl on the floor ."/>
+		<item slot="5" text="call the cat to come eat the food ."/>
+	</script>
+	<script id="14">
+		<item slot="1" text="get the cat s food dish ."/>
+		<item slot="2" text="get a can opener ."/>
+		<item slot="3" text="open a can of water packed tuna ."/>
+		<item slot="4" text="empty the can of tuna into the cat s food dish ."/>
+		<item slot="5" text="put the cat s food dish down next to the cat ."/>
+	</script>
+	<script id="15">
+		<item slot="1" text="locate cat food ."/>
+		<item slot="2" text="place cat food in bowl ."/>
+		<item slot="3" text="call cat ."/>
+	</script>
+	<script id="16">
+		<item slot="1" text="find cat food ."/>
+		<item slot="2" text="find cat food dish ."/>
+		<item slot="3" text="pour cat food into dish ."/>
+		<item slot="4" text="call cat ."/>
+	</script>
+	<script id="17">
+		<item slot="1" text="open food container ."/>
+		<item slot="2" text="pour food into bowl ."/>
+		<item slot="3" text="place food by cat ."/>
+	</script>
+	<script id="18">
+		<item slot="1" text="getting food ."/>
+		<item slot="2" text="open food ."/>
+		<item slot="3" text="get bowl ."/>
+		<item slot="4" text="pour food into bowl ."/>
+		<item slot="5" text="close food container ."/>
+		<item slot="6" text="put food container away ."/>
+		<item slot="7" text="call the cat ."/>
+	</script>
+	<script id="19">
+		<item slot="1" text="get cat food ."/>
+		<item slot="2" text="open cat food ."/>
+		<item slot="3" text="put cat food in bowl ."/>
+	</script>
+	<script id="20">
+		<item slot="1" text="find cat food ."/>
+		<item slot="2" text="find the cat bowl ."/>
+		<item slot="3" text="put food in bowl ."/>
+		<item slot="4" text="put bowl on floor ."/>
+	</script>
+	<script id="21">
+		<item slot="1" text="get food ."/>
+		<item slot="2" text="find cat ."/>
+		<item slot="3" text="put food in bowl ."/>
+		<item slot="4" text="put bowl on floor ."/>
+	</script>
+	<script id="22">
+		<item slot="1" text="place the cat food in a dish ."/>
+		<item slot="2" text="let the cat know that the food is there by making noises with the can opener ."/>
+	</script>
+	<script id="23">
+		<item slot="1" text="open cat food ."/>
+		<item slot="2" text="pour in bowl ."/>
+		<item slot="3" text="serve to cat ."/>
+	</script>
+	<script id="24">
+		<item slot="1" text="hear hungry cat meowing ."/>
+		<item slot="2" text="find food dish ."/>
+		<item slot="3" text="wash and rinse food dish ."/>
+		<item slot="4" text="find can opener ."/>
+		<item slot="5" text="open can of cat food ."/>
+		<item slot="6" text="spoon out food into dish ."/>
+		<item slot="7" text="set dish on floor for cat ."/>
+	</script>
+	<script id="25">
+		<item slot="1" text="get food ."/>
+		<item slot="2" text="give food to cat ."/>
+	</script>
+	<script id="27">
+		<item slot="1" text="buy catfood ."/>
+		<item slot="2" text="place catfood in bowl ."/>
+		<item slot="3" text="give bowl to cat ."/>
+	</script>
+	<script id="28">
+		<item slot="1" text="buy food ."/>
+		<item slot="2" text="put food in bowl ."/>
+		<item slot="3" text="give bowl to cat ."/>
+	</script>
+	<script id="29">
+		<item slot="1" text="get the cat dish ."/>
+		<item slot="2" text="get the can of cat food ."/>
+		<item slot="3" text="open the can of cat food ."/>
+		<item slot="4" text="empty the can of cat food into the cat dish ."/>
+		<item slot="5" text="put the cat dish down ."/>
+	</script>
+	<script id="30">
+		<item slot="1" text="buying the tuna ."/>
+		<item slot="2" text="putting it into the bowl ."/>
+		<item slot="3" text="calling the cat ."/>
+		<item slot="4" text="watching the  cat eat food ."/>
+		<item slot="5" text="hope the cat doesn t go feral ."/>
+		<item slot="6" text="clean bowl when cat is done ."/>
+		<item slot="7" text="pray cat doesn t throw up on couch ."/>
+	</script>
+	<script id="32">
+		<item slot="1" text="open cat food ."/>
+		<item slot="2" text="locate cat food bowl ."/>
+		<item slot="3" text="tilt bag of cat food into bowl ."/>
+	</script>
+	<script id="33">
+		<item slot="1" text="get food ."/>
+		<item slot="2" text="place food in bowl ."/>
+		<item slot="3" text="give bowl to cat ."/>
+	</script>
+	<script id="34">
+		<item slot="1" text="get a can of food ."/>
+		<item slot="2" text="get a bowl ."/>
+		<item slot="3" text="open can ."/>
+		<item slot="4" text="pour food into bowl ."/>
+		<item slot="5" text="place bowl on floor ."/>
+	</script>
+	<script id="35">
+		<item slot="1" text="get the food ."/>
+		<item slot="2" text="put it in the bowl ."/>
+	</script>
+	<script id="37">
+		<item slot="1" text="using a can opener open a can of cat food ."/>
+		<item slot="2" text="with a spoon put cat food into cat s dish ."/>
+	</script>
+	<script id="38">
+		<item slot="1" text="open cat food ."/>
+		<item slot="2" text="pour cat food in bowl ."/>
+		<item slot="3" text="place bowl on the floor ."/>
+	</script>
+	<script id="39">
+		<item slot="1" text="clean bowl of food ."/>
+		<item slot="2" text="open can of cat food ."/>
+		<item slot="3" text="place food in bowl ."/>
+		<item slot="4" text="place bowl on the floor ."/>
+	</script>
+	<script id="40">
+		<item slot="1" text="put food in bowl ."/>
+		<item slot="2" text="put water in bowl ."/>
+	</script>
+	<script id="41">
+		<item slot="1" text="open cat food ."/>
+		<item slot="2" text="place cat food in dish ."/>
+	</script>
+	<script id="42">
+		<item slot="1" text="take out pet food ."/>
+		<item slot="2" text="place food on dish ."/>
+	</script>
+	<script id="43">
+		<item slot="1" text="get food ."/>
+		<item slot="2" text="pour food ."/>
+		<item slot="3" text="cat eats? ."/>
+	</script>
+	<script id="45">
+		<item slot="1" text="open the cat food box ."/>
+		<item slot="2" text="pour food into the food dish ."/>
+	</script>
+	<script id="50">
+		<item slot="1" text="open can of cat food ."/>
+		<item slot="2" text="place two or three tablespoons full of wet food into bowl ."/>
+		<item slot="3" text="place one-half cup of dry food into bowl ."/>
+		<item slot="4" text="call kitty to dinner ."/>
+	</script>
+	<script id="56">
+		<item slot="1" text="obtain food ."/>
+		<item slot="2" text="dispense food ."/>
+		<item slot="3" text="call cat ."/>
+	</script>
+	<script id="58">
+		<item slot="1" text="open cat food bag ."/>
+		<item slot="2" text="remove cat food ."/>
+		<item slot="3" text="place in cat dish ."/>
+	</script>
+	<script id="61">
+		<item slot="1" text="buy cat food ."/>
+		<item slot="2" text="place handful of food in bowl ."/>
+	</script>
+	<script id="62">
+		<item slot="1" text="open cat food ."/>
+		<item slot="2" text="put some food in a pet bowl ."/>
+		<item slot="3" text="place the bowl where the cat normally eats ."/>
+		<item slot="4" text="call the kitty to dinner ."/>
+	</script>
+	<script id="63">
+		<item slot="1" text="clean out bowl ."/>
+		<item slot="2" text="get cat food ."/>
+		<item slot="3" text="measure out amount needed ."/>
+		<item slot="4" text="place that amount in bowl ."/>
+		<item slot="5" text="clean out water bowl ."/>
+		<item slot="6" text="fill up with clean water ."/>
+		<item slot="7" text="place back in spot ."/>
+	</script>
+	<script id="64">
+		<item slot="1" text="go to where the food is stored ."/>
+		<item slot="2" text="take out the food ."/>
+		<item slot="3" text="bring food to the food dish ."/>
+		<item slot="4" text="fill up the food dish ."/>
+		<item slot="5" text="bring food back to where it is stored ."/>
+		<item slot="6" text="return food ."/>
+		<item slot="7" text="the end ."/>
+	</script>
+	<script id="67">
+		<item slot="1" text="get a tin of cat food ."/>
+		<item slot="2" text="get can opener ."/>
+		<item slot="3" text="use can opener to open tin of food ."/>
+		<item slot="4" text="get spoon to scoop out food ."/>
+		<item slot="5" text="put food in cats dish ."/>
+	</script>
+	<script id="69">
+		<item slot="1" text="open cat food ."/>
+		<item slot="2" text="put cat food in dish ."/>
+		<item slot="3" text="place dish on floor ."/>
+		<item slot="4" text="call the cat ."/>
+	</script>
+	<script id="71">
+		<item slot="1" text="open the bag of cat food ."/>
+		<item slot="2" text="pour some into the dish ."/>
+		<item slot="3" text="call the cat over ."/>
+	</script>
+	<script id="74">
+		<item slot="1" text="open cabinet ."/>
+		<item slot="2" text="take canned cat food out ."/>
+		<item slot="3" text="pull tab on can upwards ."/>
+		<item slot="4" text="remove tabbed lid on can ."/>
+		<item slot="5" text="get cat s bowl ."/>
+		<item slot="6" text="pour canned cat food contents in cat bowl ."/>
+	</script>
+</scripts>

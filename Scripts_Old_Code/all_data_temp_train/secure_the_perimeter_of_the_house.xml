@@ -1,0 +1,115 @@
+<scripts>
+<script id="1">
+<item slot="1" text="lock all the doors ." />
+<item slot="2" text="lock all the windows ." />
+</script>
+<script id="2">
+<item slot="1" text="go to guard dog cage ." />
+<item slot="2" text="open guard dog cage ." />
+<item slot="3" text="go inside the house ." />
+<item slot="4" text="lock door ." />
+<item slot="5" text="lock windows ." />
+</script>
+<script id="3">
+<item slot="1" text="have the dog run around the house ." />
+<item slot="2" text="check for suspisious persons ." />
+<item slot="3" text="lock the gates and doors ." />
+</script>
+<script id="4">
+<item slot="1" text="check the doors are closed ." />
+<item slot="2" text="check the doors are locked ." />
+<item slot="3" text="check the windows are closed ." />
+<item slot="4" text="check the windows are locked ." />
+</script>
+<script id="5">
+<item slot="1" text="lock the windows in the house ." />
+<item slot="2" text="lock the doors in the house ." />
+<item slot="3" text="turn on the security system in the house ." />
+<item slot="4" text="turn on the electric fence outside the house ." />
+</script>
+<script id="6">
+<item slot="1" text="close the windows ." />
+<item slot="2" text="close the doors ." />
+<item slot="3" text="check for strange peoples or animal on the yard ." />
+<item slot="4" text="check for strange peoples or animal on the patio ." />
+<item slot="5" text="check for strange peoples or animal on the house ." />
+</script>
+<script id="7">
+<item slot="1" text="go outside of house ." />
+<item slot="2" text="begin walking around house ." />
+<item slot="3" text="search for unidentified individuals ." />
+<item slot="4" text="complete walking around house ." />
+<item slot="5" text="return inside ." />
+<item slot="6" text="lock door ." />
+<item slot="7" text="make sure all doors and windows are locked ." />
+</script>
+<script id="8">
+<item slot="1" text="bring in all pets ." />
+<item slot="2" text="close all doors and windows ." />
+<item slot="3" text="lock all doors and windows ." />
+<item slot="4" text="activate the security system ." />
+<item slot="5" text="close the blinds ." />
+<item slot="6" text="take a phone ." />
+<item slot="7" text="move to a saferoom ." />
+</script>
+<script id="9">
+<item slot="1" text="go around house ." />
+<item slot="2" text="look for intruders ." />
+<item slot="3" text="report intruders to police ." />
+</script>
+<script id="10">
+<item slot="1" text="lock doors ." />
+<item slot="2" text="lock windows ." />
+<item slot="3" text="check for anything out of the ordinary ." />
+</script>
+<script id="11">
+<item slot="1" text="locking all doors ." />
+<item slot="2" text="locking all windows ." />
+<item slot="3" text="activate alarm ." />
+</script>
+<script id="12">
+<item slot="1" text="put fense around yard ." />
+<item slot="2" text="get 2 aggresive dogs ." />
+<item slot="3" text="put dogs in fensed yard ." />
+</script>
+<script id="13">
+<item slot="1" text="go inside ." />
+<item slot="2" text="close windows ." />
+<item slot="3" text="close doors ." />
+<item slot="4" text="lock windows ." />
+<item slot="5" text="lock doors ." />
+</script>
+<script id="14">
+<item slot="1" text="secure house ." />
+</script>
+<script id="15">
+<item slot="1" text="sending out a team around perimeter ." />
+<item slot="2" text="ensure no intruder ." />
+<item slot="3" text="ensure no security breach ." />
+<item slot="4" text="lock all fence and doors ." />
+</script>
+<script id="16">
+<item slot="1" text="sending out a team around perimeter ." />
+<item slot="2" text="ensure no intruder ." />
+<item slot="3" text="ensure no security breach ." />
+<item slot="4" text="lock all fence and doors ." />
+</script>
+<script id="17">
+<item slot="1" text="go outside ." />
+<item slot="2" text="walk around house ." />
+<item slot="3" text="observe any suspicious looking people ." />
+</script>
+<script id="18">
+<item slot="1" text="go outside ." />
+<item slot="2" text="walk around house ." />
+<item slot="3" text="observe any suspicious looking people ." />
+</script>
+<script id="19">
+<item slot="1" text="go outside ." />
+<item slot="2" text="walk around house ." />
+<item slot="3" text="observe any suspicious looking people ." />
+</script>
+<script id="20">
+<item slot="1" text="turn on the alarm ." />
+</script>
+</scripts>

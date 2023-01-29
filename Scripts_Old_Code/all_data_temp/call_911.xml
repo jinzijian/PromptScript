@@ -1,0 +1,587 @@
+<scripts>
+<script id="1">
+<item slot="1" text="find the phone ." />
+<item slot="2" text="pick up the phone ." />
+<item slot="3" text="dial the digits 911 ." />
+</script>
+<script id="2">
+<item slot="1" text="get phone ." />
+<item slot="2" text="dial 9 ." />
+<item slot="3" text="dial 1 ." />
+<item slot="4" text="dial 1 ." />
+<item slot="5" text="wait for answer ." />
+<item slot="6" text="state emergency ." />
+</script>
+<script id="3">
+<item slot="1" text="go to phone ." />
+<item slot="2" text="pick up receiver ." />
+<item slot="3" text="place receiver to ear/speaker ." />
+<item slot="4" text="dial 9 1 1 ." />
+<item slot="5" text="when requested state emergency ." />
+</script>
+<script id="4">
+<item slot="1" text="pick up the phone ." />
+<item slot="2" text="get a dialtone ." />
+<item slot="3" text="press 9 ." />
+<item slot="4" text="press 1 ." />
+<item slot="5" text="press 1 ." />
+</script>
+<script id="5">
+<item slot="1" text="find a telephone ." />
+<item slot="2" text="lift the receiver or turn the telephone on ." />
+<item slot="3" text="press button 9 on the telephone ." />
+<item slot="4" text="press button 1 on the telephone ." />
+<item slot="5" text="press button 1 on the telephone ." />
+</script>
+<script id="6">
+<item slot="1" text="locate a phone ." />
+<item slot="2" text="pickup the receiver ." />
+<item slot="3" text="dial 9 on the keypad ." />
+<item slot="4" text="dial 1 on the keypad ." />
+<item slot="5" text="dial 1 on the keypad ." />
+<item slot="6" text="when the operator answers state the emergency and your location ." />
+<item slot="7" text="follow the instructions of the 911 operator ." />
+</script>
+<script id="7">
+<item slot="1" text="locate phone ." />
+</script>
+<script id="8">
+<item slot="1" text="locate phone ." />
+<item slot="2" text="pick up phone ." />
+<item slot="3" text="dial 9 ." />
+<item slot="4" text="dial 1 ." />
+<item slot="5" text="dial 1 ." />
+</script>
+<script id="9">
+<item slot="1" text="pick up the telephone receiver and hold it to your ear ." />
+<item slot="2" text="press the numbers 9 then 1 then 1 again and wait for the call to be answered ." />
+</script>
+<script id="10">
+<item slot="1" text="find phone ." />
+<item slot="2" text="diall 911 ." />
+</script>
+<script id="11">
+<item slot="1" text="pick up the phone ." />
+<item slot="2" text="dial 911 ." />
+<item slot="3" text="tell the police what happened ." />
+<item slot="4" text="tell the police where it happened ." />
+</script>
+<script id="12">
+<item slot="1" text="pick up the phone ." />
+<item slot="2" text="press 9 ." />
+<item slot="3" text="press 1 ." />
+<item slot="4" text="press 1 again ." />
+<item slot="5" text="give your name and address information to the emergency operator ." />
+</script>
+<script id="13">
+<item slot="1" text="pick up the telephone receiver ." />
+<item slot="2" text="press the button labeled as 9 ." />
+<item slot="3" text="press the button labeled as 1 twice ." />
+</script>
+<script id="14">
+<item slot="1" text="lift up the phone ." />
+<item slot="2" text="check if there is a dialtone ." />
+<item slot="3" text="dial 9-1-1 ." />
+<item slot="4" text="describe your situation ." />
+</script>
+<script id="15">
+<item slot="1" text="go to the phone ." />
+<item slot="2" text="pick up the phone ." />
+<item slot="3" text="dial 9 ." />
+<item slot="4" text="dial 1 ." />
+<item slot="5" text="dial 1 ." />
+<item slot="6" text="say where and who you are ." />
+<item slot="7" text="describe the emergency ." />
+</script>
+<script id="16">
+<item slot="1" text="go to phone ." />
+<item slot="2" text="pick up phone ." />
+<item slot="3" text="wait for dial tone ." />
+<item slot="4" text="dial 9 ." />
+<item slot="5" text="dial 1 ." />
+<item slot="6" text="dial 1 ." />
+</script>
+<script id="17">
+<item slot="1" text="pick up phone ." />
+<item slot="2" text="press talk ." />
+<item slot="3" text="press 9 ." />
+<item slot="4" text="press 1 ." />
+<item slot="5" text="press 1 ." />
+</script>
+<script id="18">
+<item slot="1" text="pick up phone ." />
+<item slot="2" text="dial 9 ." />
+<item slot="3" text="dial 1 ." />
+<item slot="4" text="dial 1 ." />
+</script>
+<script id="19">
+<item slot="1" text="get the phone ." />
+<item slot="2" text="press the number 9 once ." />
+<item slot="3" text="press the number 1 twice ." />
+<item slot="4" text="wait for the emergency services to answer the call ." />
+</script>
+<script id="20">
+<item slot="1" text="go to a phone ." />
+<item slot="2" text="dial '9 1 1' ." />
+<item slot="3" text="respond to the operator s inquiries ." />
+<item slot="4" text="do as the operator asks ." />
+</script>
+<script id="21">
+<item slot="1" text="find telephone ." />
+<item slot="2" text="pick up telephone ." />
+<item slot="3" text="dial 911 ." />
+<item slot="4" text="state emergency ." />
+<item slot="5" text="state location ." />
+</script>
+<script id="22">
+<item slot="1" text="pick up the phone ." />
+<item slot="2" text="press 9 ." />
+<item slot="3" text="press 1 ." />
+<item slot="4" text="press 1 ." />
+</script>
+<script id="23">
+<item slot="1" text="find a phone ." />
+<item slot="2" text="pick up the reciever ." />
+<item slot="3" text="press 9 on the key pad ." />
+<item slot="4" text="press 1 on the key pad ." />
+<item slot="5" text="press 1 on the key pad ." />
+<item slot="6" text="tell operator the emergency ." />
+<item slot="7" text="stay on phone with operator until requested services arrive ." />
+</script>
+<script id="24">
+<item slot="1" text="locate telephone ." />
+<item slot="2" text="pick up reciever ." />
+<item slot="3" text="listen for dial tone ." />
+</script>
+<script id="25">
+<item slot="1" text="dial 911 ." />
+</script>
+<script id="26">
+<item slot="1" text="take the telephone off the hook ." />
+<item slot="2" text="press the buttons 9 1 and 1 ." />
+</script>
+<script id="27">
+<item slot="1" text="find a working phone ." />
+<item slot="2" text="pick up the phone ." />
+<item slot="3" text="dial 911 ." />
+<item slot="4" text="wait for answer ." />
+<item slot="5" text="tell operator of the emergency ." />
+</script>
+<script id="28">
+<item slot="1" text="pick up phone ." />
+<item slot="2" text="dial 9 ." />
+<item slot="3" text="dial 1 ." />
+<item slot="4" text="dial 1 ." />
+</script>
+<script id="29">
+<item slot="1" text="find phone ." />
+<item slot="2" text="pick up phone ." />
+<item slot="3" text="dial 9 ." />
+<item slot="4" text="dial 1 ." />
+<item slot="5" text="dial 1 ." />
+</script>
+<script id="30">
+<item slot="1" text="pick up phone receiver ." />
+<item slot="2" text="push 'talk' or 'on' ." />
+<item slot="3" text="push '9' button ." />
+<item slot="4" text="push '1' button ." />
+<item slot="5" text="push '1' button ." />
+</script>
+<script id="31">
+<item slot="1" text="pick up handset ." />
+<item slot="2" text="dial 9 1 1 ." />
+</script>
+<script id="32">
+<item slot="1" text="locate phone ." />
+<item slot="2" text="pick up receiver ." />
+<item slot="3" text="press 9 button ." />
+<item slot="4" text="press 1 button ." />
+<item slot="5" text="press 1 button ." />
+<item slot="6" text="speak with dispatcher ." />
+</script>
+<script id="33">
+<item slot="1" text="locate phone ." />
+<item slot="2" text="pick up receiver ." />
+<item slot="3" text="press 9 button ." />
+<item slot="4" text="press 1 button ." />
+<item slot="5" text="press 1 button ." />
+<item slot="6" text="speak with dispatcher ." />
+</script>
+<script id="34">
+<item slot="1" text="pick up phone ." />
+<item slot="2" text="press 9 ." />
+<item slot="3" text="press 1 ." />
+<item slot="4" text="press 1 ." />
+</script>
+<script id="35">
+<item slot="1" text="go to the phone ." />
+<item slot="2" text="pick up the receiver ." />
+<item slot="3" text="press the 9 button ." />
+<item slot="4" text="press the 1 button ." />
+<item slot="5" text="press the 1 button ." />
+</script>
+<script id="36">
+<item slot="1" text="get phone ." />
+<item slot="2" text="push 9 then 1 then 1 ." />
+</script>
+<script id="37">
+<item slot="1" text="get phone ." />
+<item slot="2" text="push 9 then 1 then 1 ." />
+</script>
+<script id="38">
+<item slot="1" text="locate landline telephone ." />
+<item slot="2" text="pick up handset ." />
+<item slot="3" text="dial 9-1-1 on keypad ." />
+<item slot="4" text="talk to initial screener ." />
+<item slot="5" text="choose police fire or ambulance ." />
+<item slot="6" text="talk to dispatcher ." />
+<item slot="7" text="hang up phone ." />
+</script>
+<script id="39">
+<item slot="1" text="locate landline telephone ." />
+<item slot="2" text="pick up handset ." />
+<item slot="3" text="dial 9-1-1 on keypad ." />
+<item slot="4" text="talk to initial screener ." />
+<item slot="5" text="choose police fire or ambulance ." />
+<item slot="6" text="talk to dispatcher ." />
+<item slot="7" text="hang up phone ." />
+</script>
+<script id="40">
+<item slot="1" text="locate landline telephone ." />
+<item slot="2" text="pick up handset ." />
+<item slot="3" text="dial 9-1-1 on keypad ." />
+<item slot="4" text="talk to initial screener ." />
+<item slot="5" text="choose police fire or ambulance ." />
+<item slot="6" text="talk to dispatcher ." />
+<item slot="7" text="hang up phone ." />
+</script>
+<script id="41">
+<item slot="1" text="find phone ." />
+<item slot="2" text="dial 911 ." />
+<item slot="3" text="tell the operator the nature of the emergency ." />
+<item slot="4" text="tell where you are ." />
+<item slot="5" text="tell who you are ." />
+<item slot="6" text="follow instructions from the operator ." />
+</script>
+<script id="42">
+<item slot="1" text="dial 9 ." />
+<item slot="2" text="dial 1 ." />
+<item slot="3" text="dial 1 ." />
+<item slot="4" text="explain your emergency to the operator ." />
+<item slot="5" text="follow operator s instructions ." />
+</script>
+<script id="43">
+<item slot="1" text="pick up phone ." />
+<item slot="2" text="press 9 ." />
+<item slot="3" text="press 1 ." />
+<item slot="4" text="press 1 ." />
+<item slot="5" text="wait for response ." />
+</script>
+<script id="44">
+<item slot="1" text="pick up phone ." />
+<item slot="2" text="press 9 ." />
+<item slot="3" text="press 1 ." />
+<item slot="4" text="press 1 ." />
+<item slot="5" text="wait for response ." />
+</script>
+<script id="45">
+<item slot="1" text="pick up the receiver ." />
+<item slot="2" text="listen for the dial tone ." />
+<item slot="3" text="dial 9 then 1 then 1 ." />
+<item slot="4" text="wait for a voice at the other end ." />
+</script>
+<script id="46">
+<item slot="1" text="pick up a telephone ." />
+<item slot="2" text="dial '911' ." />
+<item slot="3" text="wait for operator ." />
+<item slot="4" text="tell operator location ." />
+<item slot="5" text="tell operator what has happened ." />
+<item slot="6" text="follow operator s instructions ." />
+<item slot="7" text="wait for help ." />
+</script>
+<script id="47">
+<item slot="1" text="pick up receiver ." />
+<item slot="2" text="dial 911 ." />
+<item slot="3" text="talk ." />
+<item slot="4" text="hang up receiver ." />
+</script>
+<script id="48">
+<item slot="1" text="pick up receiver ." />
+<item slot="2" text="dial 911 ." />
+<item slot="3" text="talk ." />
+<item slot="4" text="hang up receiver ." />
+</script>
+<script id="49">
+<item slot="1" text="pick up or turn on phone ." />
+<item slot="2" text="dial 911 ." />
+<item slot="3" text="press send (if applicable) ." />
+</script>
+<script id="50">
+<item slot="1" text="pick up the phone ." />
+<item slot="2" text="dial the numbers 911 ." />
+</script>
+<script id="51">
+<item slot="1" text="pick up the phone ." />
+<item slot="2" text="dial the numbers 911 ." />
+</script>
+<script id="52">
+<item slot="1" text="pick up the phone ." />
+<item slot="2" text="dial the numbers 911 ." />
+</script>
+<script id="53">
+<item slot="1" text="pick up the phone ." />
+<item slot="2" text="press 9 ." />
+<item slot="3" text="press 9 ." />
+<item slot="4" text="press 1 ." />
+</script>
+<script id="54">
+<item slot="1" text="pick up phone ." />
+<item slot="2" text="press 9 ." />
+<item slot="3" text="press 9 ." />
+<item slot="4" text="press 1 ." />
+<item slot="5" text="say your name ." />
+<item slot="6" text="say your address ." />
+<item slot="7" text="say what the emergency is ." />
+</script>
+<script id="55">
+<item slot="1" text="pick up telephone ." />
+<item slot="2" text="press 9 ." />
+<item slot="3" text="press 1 ." />
+<item slot="4" text="press 1 ." />
+<item slot="5" text="wait for answer ." />
+</script>
+<script id="56">
+<item slot="1" text="find phone ." />
+<item slot="2" text="pick up receiver ." />
+<item slot="3" text="dial 9-1-1 ." />
+<item slot="4" text="talk ." />
+</script>
+<script id="57">
+<item slot="1" text="locate telephone ." />
+<item slot="2" text="pick up receiver ." />
+<item slot="3" text="push 9 ." />
+<item slot="4" text="press 1 twice ." />
+<item slot="5" text="wait for operator to answer ." />
+<item slot="6" text="report situation ." />
+<item slot="7" text="give address to operator ." />
+</script>
+<script id="58">
+<item slot="1" text="locate telephone ." />
+<item slot="2" text="pick up receiver ." />
+<item slot="3" text="push 9 ." />
+<item slot="4" text="press 1 twice ." />
+<item slot="5" text="wait for operator to answer ." />
+<item slot="6" text="report situation ." />
+<item slot="7" text="give address to operator ." />
+</script>
+<script id="59">
+<item slot="1" text="locate telephone ." />
+<item slot="2" text="pick up receiver ." />
+<item slot="3" text="push 9 ." />
+<item slot="4" text="press 1 twice ." />
+<item slot="5" text="wait for operator to answer ." />
+<item slot="6" text="report situation ." />
+<item slot="7" text="give address to operator ." />
+</script>
+<script id="60">
+<item slot="1" text="locate telephone ." />
+<item slot="2" text="pick up receiver ." />
+<item slot="3" text="push 9 ." />
+<item slot="4" text="press 1 twice ." />
+<item slot="5" text="wait for operator to answer ." />
+<item slot="6" text="report situation ." />
+<item slot="7" text="give address to operator ." />
+</script>
+<script id="61">
+<item slot="1" text="locate telephone ." />
+<item slot="2" text="pick up receiver ." />
+<item slot="3" text="push 9 ." />
+<item slot="4" text="press 1 twice ." />
+<item slot="5" text="wait for operator to answer ." />
+<item slot="6" text="report situation ." />
+<item slot="7" text="give address to operator ." />
+</script>
+<script id="62">
+<item slot="1" text="locate telephone ." />
+<item slot="2" text="pick up receiver ." />
+<item slot="3" text="push 9 ." />
+<item slot="4" text="press 1 twice ." />
+<item slot="5" text="wait for operator to answer ." />
+<item slot="6" text="report situation ." />
+<item slot="7" text="give address to operator ." />
+</script>
+<script id="63">
+<item slot="1" text="locate telephone ." />
+<item slot="2" text="pick up receiver ." />
+<item slot="3" text="push 9 ." />
+<item slot="4" text="press 1 twice ." />
+<item slot="5" text="wait for operator to answer ." />
+<item slot="6" text="report situation ." />
+<item slot="7" text="give address to operator ." />
+</script>
+<script id="64">
+<item slot="1" text="go to the telephone ." />
+<item slot="2" text="pick up the receiver ." />
+<item slot="3" text="listen for the dial tone ." />
+<item slot="4" text="push the '9' button ." />
+<item slot="5" text="push the '1' button ." />
+<item slot="6" text="push the '1' button again ." />
+<item slot="7" text="listen until someone answers ." />
+</script>
+<script id="65">
+<item slot="1" text="pick up the phone ." />
+<item slot="2" text="dial 911 ." />
+<item slot="3" text="tell the responder your location ." />
+<item slot="4" text="wait ." />
+</script>
+<script id="66">
+<item slot="1" text="pick up phone ." />
+<item slot="2" text="dial 911 ." />
+</script>
+<script id="67">
+<item slot="1" text="walk to phone ." />
+<item slot="2" text="dial 911 ." />
+<item slot="3" text="describe emergency to operator ." />
+<item slot="4" text="answer operator s question ." />
+<item slot="5" text="follow operators instructions ." />
+<item slot="6" text="hang up when situation is resolved ." />
+</script>
+<script id="68">
+<item slot="1" text="determine emergency ." />
+<item slot="2" text="pick up phone ." />
+<item slot="3" text="dial 911 ." />
+</script>
+<script id="69">
+<item slot="1" text="determine emergency ." />
+<item slot="2" text="pick up phone ." />
+<item slot="3" text="dial 911 ." />
+</script>
+<script id="70">
+<item slot="1" text="determine emergency ." />
+<item slot="2" text="pick up phone ." />
+<item slot="3" text="dial 911 ." />
+</script>
+<script id="71">
+<item slot="1" text="determine emergency ." />
+<item slot="2" text="pick up phone ." />
+<item slot="3" text="dial 911 ." />
+</script>
+<script id="72">
+<item slot="1" text="determine emergency ." />
+<item slot="2" text="pick up phone ." />
+<item slot="3" text="dial 911 ." />
+</script>
+<script id="73">
+<item slot="1" text="determine emergency ." />
+<item slot="2" text="pick up phone ." />
+<item slot="3" text="dial 911 ." />
+</script>
+<script id="74">
+<item slot="1" text="determine emergency ." />
+<item slot="2" text="pick up phone ." />
+<item slot="3" text="dial 911 ." />
+</script>
+<script id="75">
+<item slot="1" text="determine emergency ." />
+<item slot="2" text="pick up phone ." />
+<item slot="3" text="dial 911 ." />
+</script>
+<script id="76">
+<item slot="1" text="determine emergency ." />
+<item slot="2" text="pick up phone ." />
+<item slot="3" text="dial 911 ." />
+</script>
+<script id="77">
+<item slot="1" text="pick up receiver ." />
+<item slot="2" text="dial 911 ." />
+<item slot="3" text="explain to the operator what your emergency is ." />
+<item slot="4" text="follow the operator s instructions ." />
+</script>
+<script id="78">
+<item slot="1" text="pick up the phone ." />
+<item slot="2" text="dial 911 ." />
+<item slot="3" text="remain calm ." />
+<item slot="4" text="explain the emergency to the operator ." />
+<item slot="5" text="follow the operator s instructions ." />
+</script>
+<script id="79">
+<item slot="1" text="pick up phone ." />
+<item slot="2" text="listen for dial tone ." />
+<item slot="3" text="press 9-1-1 ." />
+<item slot="4" text="wait for answer ." />
+</script>
+<script id="80">
+<item slot="1" text="pick up phone ." />
+<item slot="2" text="listen for dial tone ." />
+<item slot="3" text="press 9-1-1 ." />
+<item slot="4" text="wait for answer ." />
+</script>
+<script id="81">
+<item slot="1" text="pick up phone ." />
+<item slot="2" text="listen for dial tone ." />
+<item slot="3" text="press 9-1-1 ." />
+<item slot="4" text="wait for answer ." />
+</script>
+<script id="82">
+<item slot="1" text="pick up phone ." />
+<item slot="2" text="dial 911 ." />
+<item slot="3" text="request ambulance/help ." />
+<item slot="4" text="state address ." />
+<item slot="5" text="state issue ." />
+<item slot="6" text="wait ." />
+</script>
+<script id="83">
+<item slot="1" text="pick up phone ." />
+<item slot="2" text="dial 911 ." />
+<item slot="3" text="request ambulance/help ." />
+<item slot="4" text="state address ." />
+<item slot="5" text="state issue ." />
+<item slot="6" text="wait ." />
+</script>
+<script id="84">
+<item slot="1" text="pick up phone ." />
+<item slot="2" text="turn on talk ." />
+<item slot="3" text="punch the digits 9-1-1 ." />
+</script>
+<script id="85">
+<item slot="1" text="pick up phone ." />
+<item slot="2" text="listen for tone ." />
+<item slot="3" text="punch 9-1-1 ." />
+<item slot="4" text="listen for ring ." />
+<item slot="5" text="listen for answer ." />
+</script>
+<script id="86">
+<item slot="1" text="pick up phone ." />
+<item slot="2" text="turn on talk ." />
+<item slot="3" text="punch the digits 9-1-1 ." />
+</script>
+<script id="87">
+<item slot="1" text="pick up phone ." />
+<item slot="2" text="listen for tone ." />
+<item slot="3" text="punch 9-1-1 ." />
+<item slot="4" text="listen for ring ." />
+<item slot="5" text="listen for answer ." />
+</script>
+<script id="88">
+<item slot="1" text="pick up phone ." />
+<item slot="2" text="turn on talk ." />
+<item slot="3" text="punch the digits 9-1-1 ." />
+</script>
+<script id="89">
+<item slot="1" text="pick up phone ." />
+<item slot="2" text="listen for tone ." />
+<item slot="3" text="punch 9-1-1 ." />
+<item slot="4" text="listen for ring ." />
+<item slot="5" text="listen for answer ." />
+</script>
+<script id="90">
+<item slot="1" text="pick up phone ." />
+<item slot="2" text="listen for dial tone ." />
+<item slot="3" text="dial 911 ." />
+<item slot="4" text="wait for answer ." />
+</script>
+<script id="91">
+<item slot="1" text="pick up phone ." />
+<item slot="2" text="dial 911 ." />
+</script>
+</scripts>

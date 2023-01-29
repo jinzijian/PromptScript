@@ -1,0 +1,243 @@
+<scripts>
+<script id="1">
+<item slot="1" text="grasp an edge or corner of the furniture ." />
+<item slot="2" text="slide or shift the furniture ." />
+<item slot="3" text="pick it up and carry it if you can t slide it ." />
+<item slot="4" text="put it in a different place ." />
+</script>
+<script id="2">
+<item slot="1" text="find furniture ." />
+<item slot="2" text="pick up furniture or push it with your hands ." />
+<item slot="3" text="move furniture to new location ." />
+<item slot="4" text="put down furniture or stop pushing it ." />
+</script>
+<script id="3">
+<item slot="1" text="assess size of room ." />
+<item slot="2" text="determine position for new furniture placement ." />
+<item slot="3" text="slowly and carefully move each piece of furniture to its new location ." />
+</script>
+<script id="4">
+<item slot="1" text="move near the furniture ." />
+<item slot="2" text="grasp the furniture ." />
+<item slot="3" text="raise the furniture from the ground ." />
+<item slot="4" text="carry the furniture to it s new location ." />
+<item slot="5" text="set the furniture down on the ground ." />
+</script>
+<script id="5">
+<item slot="1" text="locate furniture to be moved ." />
+<item slot="2" text="if possible pick up the furniture walk to the final location and put it down ." />
+<item slot="3" text="otherwise push the furniture to the final location ." />
+</script>
+<script id="6">
+<item slot="1" text="invite over some friends to help ." />
+<item slot="2" text="each of you grasp the item of furniture ." />
+<item slot="3" text="lift the item in concert ." />
+<item slot="4" text="move the item to its new location ." />
+</script>
+<script id="7">
+<item slot="1" text="fetch a strong man ." />
+<item slot="2" text="get a trolley ." />
+<item slot="3" text="let the strong man put the furniture on the trolley ." />
+<item slot="4" text="let him roll the trolley to the destination ." />
+<item slot="5" text="let him unload the furniture ." />
+<item slot="6" text="thank the strong man ." />
+</script>
+<script id="8">
+<item slot="1" text="make space for furniture ." />
+<item slot="2" text="lift furniture ." />
+<item slot="3" text="move to new place ." />
+<item slot="4" text="let furniture down ." />
+</script>
+<script id="9">
+<item slot="1" text="decide new place for furniture ." />
+<item slot="2" text="make room ." />
+<item slot="3" text="lift furniture ." />
+<item slot="4" text="move to new place ." />
+<item slot="5" text="release furniture ." />
+</script>
+<script id="10">
+<item slot="1" text="get someone to help ." />
+<item slot="2" text="pick up furniture ." />
+<item slot="3" text="carry furniture to new destination ." />
+<item slot="4" text="set down furniture ." />
+</script>
+<script id="11">
+<item slot="1" text="schedule movers ." />
+<item slot="2" text="let movers carry away furniture ." />
+<item slot="3" text="be at destination when the movers arrive ." />
+<item slot="4" text="let movers move in furniture ." />
+</script>
+<script id="12">
+<item slot="1" text="make space for furniture ." />
+<item slot="2" text="lift up furniture ." />
+<item slot="3" text="carry to new place ." />
+<item slot="4" text="place down furniture ." />
+</script>
+<script id="13">
+<item slot="1" text="grab furniture ." />
+<item slot="2" text="push furniture ." />
+</script>
+<script id="14">
+<item slot="1" text="find a piece of furniture ." />
+<item slot="2" text="push pull or carry the furniture to a different location ." />
+<item slot="3" text="repeat until all of the furniture has been moved ." />
+</script>
+<script id="15">
+<item slot="1" text="go to the furniture to move ." />
+<item slot="2" text="push the furniture somewhere else ." />
+</script>
+<script id="16">
+<item slot="1" text="pick up furniture ." />
+<item slot="2" text="carry furniture ." />
+<item slot="3" text="set down furniture ." />
+</script>
+<script id="17">
+<item slot="1" text="select furniture to be moved ." />
+<item slot="2" text="determine where to move furniture ." />
+<item slot="3" text="push or carry furniture to desired location ." />
+</script>
+<script id="18">
+<item slot="1" text="identify furniture ." />
+<item slot="2" text="pick up furniture ." />
+<item slot="3" text="walk ." />
+<item slot="4" text="put furniture down ." />
+</script>
+<script id="19">
+<item slot="1" text="bend down ." />
+<item slot="2" text="grab ." />
+<item slot="3" text="lift ." />
+<item slot="4" text="move ." />
+<item slot="5" text="drop ." />
+<item slot="6" text="adjust ." />
+</script>
+<script id="20">
+<item slot="1" text="go to the furniture ." />
+<item slot="2" text="pick furniture up ." />
+<item slot="3" text="go to new location for furniture ." />
+<item slot="4" text="place furniture on new location ." />
+</script>
+<script id="21">
+<item slot="1" text="pick up furniture ." />
+<item slot="2" text="carry furniture to new location ." />
+<item slot="3" text="put down furniture ." />
+</script>
+<script id="22">
+<item slot="1" text="pick up furniture ." />
+<item slot="2" text="carry furniture to new location ." />
+<item slot="3" text="put down furniture ." />
+</script>
+<script id="23">
+<item slot="1" text="identify new location ." />
+<item slot="2" text="clear new location ." />
+<item slot="3" text="clear path ." />
+<item slot="4" text="lift furniture ." />
+<item slot="5" text="move furniture ." />
+<item slot="6" text="set furniture down ." />
+</script>
+<script id="24">
+<item slot="1" text="decide where to move the couch to ." />
+<item slot="2" text="get behind the couch ." />
+<item slot="3" text="ask your friend to get in front ." />
+<item slot="4" text="both people lift the couch slightly ." />
+<item slot="5" text="both people walk with the couch ." />
+</script>
+<script id="25">
+<item slot="1" text="pack up all furniture ." />
+<item slot="2" text="place furniture in vehicle ." />
+<item slot="3" text="drive vehicle to new location ." />
+<item slot="4" text="unpack furniture ." />
+</script>
+<script id="26">
+<item slot="1" text="deside on where the furniture will go ." />
+<item slot="2" text="deside if require assistance ." />
+<item slot="3" text="know where each peice of furniture will go before you move it ." />
+<item slot="4" text="move furniture to the position ." />
+<item slot="5" text="you are done ." />
+</script>
+<script id="27">
+<item slot="1" text="go near furniture ." />
+<item slot="2" text="grip the furniture ." />
+<item slot="3" text="push furniture ." />
+<item slot="4" text="keep pushing to prefered place ." />
+<item slot="5" text="let go off the furniture ." />
+</script>
+<script id="28">
+<item slot="1" text="identify the furniture ." />
+<item slot="2" text="apply the force to move ." />
+<item slot="3" text="move the furniture in proper direction ." />
+</script>
+<script id="29">
+<item slot="1" text="find the furniture ." />
+<item slot="2" text="take a trolley ." />
+<item slot="3" text="keep the furniture inside the trolley ." />
+<item slot="4" text="move the furniture ." />
+</script>
+<script id="30">
+<item slot="1" text="pick up furniture ." />
+<item slot="2" text="move to new desired location ." />
+<item slot="3" text="slowly lower piece of furniture on the ground ." />
+<item slot="4" text="position piece of furniture to the desired arrangement ." />
+</script>
+<script id="31">
+<item slot="1" text="lift the furniture ." />
+<item slot="2" text="move furniture to desinated area ." />
+</script>
+<script id="32">
+<item slot="1" text="find furniture that needs moving ." />
+<item slot="2" text="pick up furniture ." />
+<item slot="3" text="walk while holding furniture ." />
+</script>
+<script id="33">
+<item slot="1" text="find furniture that needs moving ." />
+<item slot="2" text="pick up furniture ." />
+<item slot="3" text="walk while holding furniture ." />
+</script>
+<script id="34">
+<item slot="1" text="find furniture that needs moving ." />
+<item slot="2" text="pick up furniture ." />
+<item slot="3" text="carry it to wher you want it ." />
+<item slot="4" text="put it down ." />
+</script>
+<script id="35">
+<item slot="1" text="find furniture that needs moving ." />
+<item slot="2" text="pick up furniture ." />
+<item slot="3" text="carry it to wher you want it ." />
+<item slot="4" text="put it down ." />
+</script>
+<script id="36">
+<item slot="1" text="find furniture that needs moving ." />
+<item slot="2" text="pick up furniture ." />
+<item slot="3" text="carry it to wher you want it ." />
+<item slot="4" text="put it down ." />
+</script>
+<script id="37">
+<item slot="1" text="find furniture that needs moving ." />
+<item slot="2" text="pick up furniture ." />
+<item slot="3" text="carry it to wher you want it ." />
+<item slot="4" text="put it down ." />
+</script>
+<script id="38">
+<item slot="1" text="find furniture that needs moving ." />
+<item slot="2" text="pick up furniture ." />
+<item slot="3" text="carry it to wher you want it ." />
+<item slot="4" text="put it down ." />
+</script>
+<script id="39">
+<item slot="1" text="find furniture that needs moving ." />
+<item slot="2" text="pick up furniture ." />
+<item slot="3" text="carry it to wher you want it ." />
+<item slot="4" text="put it down ." />
+</script>
+<script id="40">
+<item slot="1" text="picking it up ." />
+<item slot="2" text="maneuver around corners and spaces ." />
+</script>
+<script id="41">
+<item slot="1" text="picking it up ." />
+<item slot="2" text="maneuver around corners and spaces ." />
+</script>
+<script id="42">
+<item slot="1" text="use hands ." />
+<item slot="2" text="push or lift furniture ." />
+</script>
+</scripts>

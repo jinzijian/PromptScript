@@ -1,0 +1,182 @@
+<scripts>
+<script id="1">
+<item slot="1" text="lift dishes ." />
+</script>
+<script id="2">
+<item slot="1" text="bend over ." />
+<item slot="2" text="grasp the dishes ." />
+<item slot="3" text="stand up again ." />
+<item slot="4" text="place the now dirty dishes in the sink ." />
+</script>
+<script id="3">
+<item slot="1" text="pick a dish up and place it on another dish ." />
+<item slot="2" text="continue until all dishes are in one stack ." />
+<item slot="3" text="pick up the stack ." />
+<item slot="4" text="carry the stack to the kitchen sink ." />
+<item slot="5" text="place the stack in the sink ." />
+</script>
+<script id="4">
+<item slot="1" text="walk into the dining room ." />
+<item slot="2" text="pick up the dishes on the table ." />
+<item slot="3" text="walk into the living room ." />
+<item slot="4" text="pick  up the dishes on the tables ." />
+<item slot="5" text="go to the kitchen ." />
+<item slot="6" text="drop off the dishes ." />
+</script>
+<script id="5">
+<item slot="1" text="extend hand toward dish ." />
+<item slot="2" text="grab dish ." />
+<item slot="3" text="lift dish ." />
+</script>
+<script id="6">
+<item slot="1" text="walk to table ." />
+<item slot="2" text="take dishes ." />
+</script>
+<script id="7">
+<item slot="1" text="go to dishes ." />
+<item slot="2" text="pick them up ." />
+</script>
+<script id="8">
+<item slot="1" text="find a dish ." />
+<item slot="2" text="move to the dish ." />
+<item slot="3" text="pick up the dish ." />
+<item slot="4" text="put the dish in its storage place ." />
+<item slot="5" text="repeat until all dishes have been picked up ." />
+</script>
+<script id="9">
+<item slot="1" text="go the where dishes are ." />
+<item slot="2" text="using hands lift dishes ." />
+<item slot="3" text="take dishes to kitchen ." />
+</script>
+<script id="10">
+<item slot="1" text="gather the dishes into a pile ." />
+<item slot="2" text="raise the dishes up off of where they are sitting ." />
+<item slot="3" text="carry the dishes where they need to be taken ." />
+</script>
+<script id="11">
+<item slot="1" text="bend down ." />
+<item slot="2" text="grab the dishes with your hands from the floor ." />
+<item slot="3" text="raise back up to a standing position while holding the dishes ." />
+</script>
+<script id="12">
+<item slot="1" text="locate dishes in room ." />
+<item slot="2" text="move to first dish ." />
+<item slot="3" text="pick up first dish ." />
+<item slot="4" text="if all dishes have been picked up continue to kitchen ." />
+<item slot="5" text="otherwise locate next dish ." />
+<item slot="6" text="move to next dish and pick it up ." />
+<item slot="7" text="check step 4 ." />
+</script>
+<script id="13">
+<item slot="1" text="get dishes ." />
+<item slot="2" text="take to kitchen ." />
+</script>
+<script id="14">
+<item slot="1" text="bend you knees ." />
+<item slot="2" text="pick up the dishes ." />
+</script>
+<script id="15">
+<item slot="1" text="pick up dishes from dining table ." />
+<item slot="2" text="take dishes to kitchen ." />
+</script>
+<script id="16">
+<item slot="1" text="go to the dishes ." />
+<item slot="2" text="hold the dishes in your hand ." />
+<item slot="3" text="raise your hand ." />
+</script>
+<script id="17">
+<item slot="1" text="pick up dishes ." />
+</script>
+<script id="18">
+<item slot="1" text="pick up the dishes ." />
+</script>
+<script id="19">
+<item slot="1" text="locate a dish in the room ." />
+<item slot="2" text="pick up the dish ." />
+</script>
+<script id="20">
+<item slot="1" text="locate a dish in the room ." />
+<item slot="2" text="pick up the dish ." />
+<item slot="3" text="place it in the sink or dishwasher ." />
+<item slot="4" text="repeat steps 1-3 until all dishes are picked up ." />
+</script>
+<script id="21">
+<item slot="1" text="look around house for any dishes that are dirty ." />
+<item slot="2" text="place all those dishes in the sick for washing ." />
+</script>
+<script id="22">
+<item slot="1" text="look around house for any dishes that are dirty ." />
+<item slot="2" text="place all those dishes in the sick for washing ." />
+</script>
+<script id="23">
+<item slot="1" text="walk to table ." />
+<item slot="2" text="pick up the dishes from the table ." />
+<item slot="3" text="walk to sink ." />
+<item slot="4" text="place them gentle in the sink ." />
+</script>
+<script id="24">
+<item slot="1" text="walk to table ." />
+<item slot="2" text="pick up the dishes from the table ." />
+<item slot="3" text="walk to sink ." />
+<item slot="4" text="place them gentle in the sink ." />
+</script>
+<script id="25">
+<item slot="1" text="walk to table ." />
+<item slot="2" text="pick up the dishes from the table ." />
+<item slot="3" text="walk to sink ." />
+<item slot="4" text="place them gentle in the sink ." />
+</script>
+<script id="26">
+<item slot="1" text="walk over to dishes ." />
+<item slot="2" text="using two hands grab each side of dish ." />
+<item slot="3" text="lift off counter/table ." />
+</script>
+<script id="27">
+<item slot="1" text="bend over ." />
+<item slot="2" text="grap dish ." />
+<item slot="3" text="put down dish ." />
+<item slot="4" text="repeat 1 - 3 until no dishes left ." />
+</script>
+<script id="28">
+<item slot="1" text="bend over ." />
+<item slot="2" text="grap dish ." />
+<item slot="3" text="put down dish ." />
+<item slot="4" text="repeat 1 - 3 until no dishes left ." />
+</script>
+<script id="29">
+<item slot="1" text="pick up dishes ." />
+</script>
+<script id="30">
+<item slot="1" text="reach out your hands ." />
+<item slot="2" text="grasp dishes ." />
+<item slot="3" text="lift them up ." />
+</script>
+<script id="31">
+<item slot="1" text="go to table ." />
+<item slot="2" text="stack a few like dishes neatly ." />
+<item slot="3" text="bring to kitchen ." />
+<item slot="4" text="return and repeat with more dishes ." />
+</script>
+<script id="32">
+<item slot="1" text="go to table ." />
+<item slot="2" text="stack a few like dishes neatly ." />
+<item slot="3" text="bring to kitchen ." />
+<item slot="4" text="return and repeat with more dishes ." />
+</script>
+<script id="33">
+<item slot="1" text="go to table ." />
+<item slot="2" text="stack a few like dishes neatly ." />
+<item slot="3" text="bring to kitchen ." />
+<item slot="4" text="return and repeat with more dishes ." />
+</script>
+<script id="34">
+<item slot="1" text="bend over ." />
+<item slot="2" text="grab dishes ." />
+<item slot="3" text="stand up ." />
+<item slot="4" text="return dishes to a safe place ." />
+</script>
+<script id="35">
+<item slot="1" text="find dishes ." />
+<item slot="2" text="take dishes ." />
+</script>
+</scripts>

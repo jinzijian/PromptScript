@@ -1,0 +1,272 @@
+<?xml version="1.0"?>
+<scripts>
+	<script id="1">
+		<item slot="1" text="break eggs ."/>
+		<item slot="2" text="mix eggs with spices ."/>
+		<item slot="3" text="heat up pan ."/>
+		<item slot="4" text="dump mixed eggs into pan ."/>
+		<item slot="5" text="wait for one side to cook ."/>
+		<item slot="6" text="turn cooked omelete ."/>
+		<item slot="7" text="wait for second side to cook ."/>
+	</script>
+	<script id="2">
+		<item slot="1" text="break eggs ."/>
+		<item slot="2" text="mix eggs together ."/>
+		<item slot="3" text="heat up pan ."/>
+		<item slot="4" text="pour mixed eggs in pan ."/>
+		<item slot="5" text="wait to cook on one side ."/>
+		<item slot="6" text="turn  on the other side ."/>
+		<item slot="7" text="remove pan and omelette ."/>
+	</script>
+	<script id="3">
+		<item slot="1" text="get an egg ."/>
+		<item slot="2" text="get a frying pan ."/>
+		<item slot="3" text="heat the frying pan ."/>
+		<item slot="4" text="break egg ."/>
+		<item slot="5" text="put egg in frying pan ."/>
+		<item slot="6" text="wait to egg is done ."/>
+		<item slot="7" text="put egg on plate ."/>
+	</script>
+	<script id="4">
+		<item slot="1" text="get one or more eggs ."/>
+		<item slot="2" text="heat a frying pan ."/>
+		<item slot="3" text="put oil in frying pan ."/>
+		<item slot="4" text="break eggs in frying pan ."/>
+		<item slot="5" text="wait until eggs are all white ."/>
+		<item slot="6" text="flip the eggs ."/>
+		<item slot="7" text="put eggs on slices of bread ."/>
+	</script>
+	<script id="5">
+		<item slot="1" text="crack eggs into a bowl ."/>
+		<item slot="2" text="scramble eggs ."/>
+		<item slot="3" text="pour eggs into hot skillet ."/>
+		<item slot="4" text="when eggs are almost set sprinkle cheese on eggs ."/>
+		<item slot="5" text="fold omlette in half ."/>
+		<item slot="6" text="wait until eggs have finished cooking ."/>
+		<item slot="7" text="put omlette on plate ."/>
+	</script>
+	<script id="6">
+		<item slot="1" text="get eggs ."/>
+		<item slot="2" text="get a pan ."/>
+		<item slot="3" text="put the pan on the stove ."/>
+		<item slot="4" text="put butter in the pan ."/>
+		<item slot="5" text="break the eggs ."/>
+		<item slot="6" text="put eggs in the pan ."/>
+		<item slot="7" text="wait until eggs are done ."/>
+	</script>
+	<script id="7">
+		<item slot="1" text="crack egg onto pan ."/>
+		<item slot="2" text="put toppings on it ."/>
+		<item slot="3" text="flip egg ."/>
+		<item slot="4" text="let cook ."/>
+		<item slot="5" text="put on plate ."/>
+		<item slot="6" text="get fork and knife ."/>
+		<item slot="7" text="eat ."/>
+	</script>
+	<script id="8">
+		<item slot="1" text="heat frying pan ."/>
+		<item slot="2" text="crack eggs into bowl ."/>
+		<item slot="3" text="mix up eggs ."/>
+		<item slot="4" text="pour eggs onto pan ."/>
+		<item slot="5" text="flip eggs over ."/>
+		<item slot="6" text="put ingredients on top of eggs ."/>
+		<item slot="7" text="fold eggs over ingredients ."/>
+	</script>
+	<script id="9">
+		<item slot="1" text="break eggs into bowl ."/>
+		<item slot="2" text="pour small amount of milk into bowl ."/>
+		<item slot="3" text="beat eggs ."/>
+		<item slot="4" text="heat frying pan on stove ."/>
+		<item slot="5" text="pour eggs into frying pan ."/>
+		<item slot="6" text="wait until eggs are half cooked ."/>
+		<item slot="7" text="flip eggs over and place back in the frying pan ."/>
+	</script>
+	<script id="10">
+		<item slot="1" text="place frying pan over heat ."/>
+		<item slot="2" text="crack eggs into bowl ."/>
+		<item slot="3" text="add omelette ingredients to eggs ."/>
+		<item slot="4" text="stir eggs and omelette ingredients ."/>
+		<item slot="5" text="pour mixture into frying pan ."/>
+		<item slot="6" text="cook ."/>
+	</script>
+	<script id="11">
+		<item slot="1" text="get eggs ."/>
+		<item slot="2" text="break eggs into bowl ."/>
+		<item slot="3" text="beat eggs ."/>
+		<item slot="4" text="heat frying pan ."/>
+		<item slot="5" text="add butter ."/>
+		<item slot="6" text="add eggs ."/>
+		<item slot="7" text="cook ."/>
+	</script>
+	<script id="12">
+		<item slot="1" text="find ingredients ."/>
+		<item slot="2" text="chop vegestables and/or meat ."/>
+		<item slot="3" text="whip eggs together ."/>
+		<item slot="4" text="mix ingredients ."/>
+		<item slot="5" text="add spices ."/>
+		<item slot="6" text="fry the mix in a frying pan ."/>
+	</script>
+	<script id="13">
+		<item slot="1" text="heat frying pan ."/>
+		<item slot="2" text="put oil or butter in pan ."/>
+		<item slot="3" text="beat an egg with salt and pepper ."/>
+		<item slot="4" text="pour egg mixture in pan ."/>
+		<item slot="5" text="turn around after a few minutes ."/>
+	</script>
+	<script id="14">
+		<item slot="1" text="break egg in bowl ."/>
+		<item slot="2" text="add dash of milk ."/>
+		<item slot="3" text="beat egg and milk ."/>
+		<item slot="4" text="add ham mushrooms cheese ."/>
+		<item slot="5" text="heat pan on stove ."/>
+		<item slot="6" text="place mixture in pan on stove ."/>
+		<item slot="7" text="turn when bottom is done ."/>
+	</script>
+	<script id="15">
+		<item slot="1" text="crack eggs into jug ."/>
+		<item slot="2" text="whisk eggs ."/>
+		<item slot="3" text="add salt and peper and whisk in ."/>
+		<item slot="4" text="put whisked eggs in frying pan ."/>
+		<item slot="5" text="pull the edges inwards as it cooks ."/>
+	</script>
+	<script id="16">
+		<item slot="1" text="crack egg ."/>
+		<item slot="2" text="beat egg ."/>
+		<item slot="3" text="place egg in pan on stove ."/>
+		<item slot="4" text="add vegetables ."/>
+		<item slot="5" text="add grated cheese ."/>
+		<item slot="6" text="when egg is cooked fold egg mixture in half ."/>
+		<item slot="7" text="remove egg from pan ."/>
+	</script>
+	<script id="17">
+		<item slot="1" text="buy eggs ."/>
+		<item slot="2" text="cook eggs ."/>
+	</script>
+	<script id="18">
+		<item slot="1" text="buy eggs ."/>
+		<item slot="2" text="cook eggs ."/>
+	</script>
+	<script id="19">
+		<item slot="1" text="buy eggs ."/>
+		<item slot="2" text="cook eggs ."/>
+	</script>
+	<script id="20">
+		<item slot="1" text="buy eggs ."/>
+		<item slot="2" text="cook eggs ."/>
+	</script>
+	<script id="21">
+		<item slot="1" text="buy eggs ."/>
+		<item slot="2" text="cook eggs ."/>
+	</script>
+	<script id="22">
+		<item slot="1" text="buy eggs ."/>
+		<item slot="2" text="cook eggs ."/>
+	</script>
+	<script id="23">
+		<item slot="1" text="buy eggs ."/>
+		<item slot="2" text="cook eggs ."/>
+	</script>
+	<script id="24">
+		<item slot="1" text="buy eggs ."/>
+		<item slot="2" text="cook eggs ."/>
+	</script>
+	<script id="25">
+		<item slot="1" text="buy eggs ."/>
+		<item slot="2" text="cook eggs ."/>
+	</script>
+	<script id="26">
+		<item slot="1" text="buy eggs ."/>
+		<item slot="2" text="cook eggs ."/>
+	</script>
+	<script id="27">
+		<item slot="1" text="buy eggs ."/>
+		<item slot="2" text="cook eggs ."/>
+	</script>
+	<script id="28">
+		<item slot="1" text="buy eggs ."/>
+		<item slot="2" text="cook eggs ."/>
+	</script>
+	<script id="29">
+		<item slot="1" text="buy eggs ."/>
+		<item slot="2" text="cook eggs ."/>
+	</script>
+	<script id="30">
+		<item slot="1" text="buy eggs ."/>
+		<item slot="2" text="cook eggs ."/>
+	</script>
+	<script id="31">
+		<item slot="1" text="buy eggs ."/>
+		<item slot="2" text="cook eggs ."/>
+	</script>
+	<script id="32">
+		<item slot="1" text="omelette ."/>
+	</script>
+	<script id="33">
+		<item slot="1" text="crack egg into bowl ."/>
+		<item slot="2" text="beat egg slightly ."/>
+		<item slot="3" text="place egg in hot oiled pan ."/>
+		<item slot="4" text="cook until half cooked ."/>
+		<item slot="5" text="add vegetables and cheese ."/>
+		<item slot="6" text="when fully cooked fold in half ."/>
+		<item slot="7" text="remove from pan and serve ."/>
+	</script>
+	<script id="34">
+		<item slot="1" text="crack open eggs into bowl ."/>
+		<item slot="2" text="scramble eggs ."/>
+		<item slot="3" text="mix in other vegetables ."/>
+		<item slot="4" text="heat mixture over low heat on a saucepan ."/>
+		<item slot="5" text="serve hot ."/>
+	</script>
+	<script id="35">
+		<item slot="1" text="crack egg ."/>
+		<item slot="2" text="mix egg ."/>
+		<item slot="3" text="cook egg in pan ."/>
+		<item slot="4" text="add vegetables ."/>
+		<item slot="5" text="add cheese ."/>
+		<item slot="6" text="fold egg in half ."/>
+		<item slot="7" text="remove from pan and serve ."/>
+	</script>
+	<script id="36">
+		<item slot="1" text="wash pan and put on stove ."/>
+		<item slot="2" text="turn on stove ."/>
+		<item slot="3" text="crack egg in bowl and beat ."/>
+		<item slot="4" text="cut onions peppers etc and put in pan ."/>
+		<item slot="5" text="put egg in pan ."/>
+		<item slot="6" text="flip omelette ."/>
+		<item slot="7" text="turn off stove and serve omelette on plate ."/>
+	</script>
+	<script id="37">
+		<item slot="1" text="take out pan and bowl ."/>
+		<item slot="2" text="take out eggs and milk abd butter ."/>
+		<item slot="3" text="heat pan on medium with butter ."/>
+		<item slot="4" text="crack 2 eggs in bowl ."/>
+		<item slot="5" text="take out fork to whisk ."/>
+		<item slot="6" text="add milk and mix ."/>
+		<item slot="7" text="add to pan ."/>
+	</script>
+	<script id="38">
+		<item slot="1" text="open fridge ."/>
+		<item slot="2" text="get an egg ."/>
+		<item slot="3" text="crack egg ."/>
+		<item slot="4" text="put in pan ."/>
+		<item slot="5" text="chop preferred vegetables ."/>
+		<item slot="6" text="add vegetables ."/>
+		<item slot="7" text="cook egg ."/>
+	</script>
+	<script id="39">
+		<item slot="1" text="open fridge ."/>
+		<item slot="2" text="get an egg ."/>
+		<item slot="3" text="crack egg ."/>
+		<item slot="4" text="put in pan ."/>
+		<item slot="5" text="chop preferred vegetables ."/>
+		<item slot="6" text="add vegetables ."/>
+		<item slot="7" text="cook egg ."/>
+	</script>
+	<script id="40">
+		<item slot="1" text="crack eggs ."/>
+		<item slot="2" text="put it in the pan ."/>
+		<item slot="3" text="add vegetables ."/>
+		<item slot="4" text="flip half of eggs over ."/>
+		<item slot="5" text="serve with ketchup ."/>
+	</script>
+</scripts>

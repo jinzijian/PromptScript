@@ -1,0 +1,9 @@
+<scripts><script id="35">
+		<item slot="1" text="find phone ."/>
+		<item slot="2" text="go to phone ."/>
+		<item slot="3" text="pick up phone ."/>
+		<item slot="4" text="greet caller ."/>
+		<item slot="5" text="listen to caller ."/>
+		<item slot="6" text="respond to caller ."/>
+		<item slot="7" text="etc ."/>
+	</script></scripts>

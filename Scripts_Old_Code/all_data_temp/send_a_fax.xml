@@ -1,0 +1,306 @@
+<scripts>
+<script id="1">
+<item slot="1" text="put originals in fax machine ." />
+<item slot="2" text="dial destination number ." />
+<item slot="3" text="press send on fax machine ." />
+</script>
+<script id="2">
+<item slot="1" text="get number ." />
+<item slot="2" text="pick up phone ." />
+<item slot="3" text="dial number ." />
+<item slot="4" text="wait for fax tone ." />
+<item slot="5" text="press send ." />
+</script>
+<script id="3">
+<item slot="1" text="type in fax number ." />
+<item slot="2" text="put document to be faxed in paper feeder ." />
+<item slot="3" text="hit send ." />
+<item slot="4" text="wait until document has gone through ." />
+<item slot="5" text="check if send was successful ." />
+</script>
+<script id="4">
+<item slot="1" text="put the paper into the fax ." />
+<item slot="2" text="dial the number ." />
+<item slot="3" text="push start ." />
+<item slot="4" text="watch it finish sending ." />
+<item slot="5" text="remove the sent item from the tray ." />
+</script>
+<script id="5">
+<item slot="1" text="take the document to the fax machine ." />
+<item slot="2" text="put the document in the tray facing down ." />
+<item slot="3" text="dial the fax number ." />
+<item slot="4" text="press the 'start' button ." />
+</script>
+<script id="6">
+<item slot="1" text="write fax ." />
+<item slot="2" text="put fax pages into fax machine ." />
+<item slot="3" text="dial number ." />
+<item slot="4" text="wait for fax tone ." />
+<item slot="5" text="press send ." />
+<item slot="6" text="wait for transmission to end ." />
+</script>
+<script id="7">
+<item slot="1" text="write fax ." />
+<item slot="2" text="put fax in fax machine ." />
+<item slot="3" text="dial number ." />
+<item slot="4" text="wait for fax tone ." />
+<item slot="5" text="press send ." />
+<item slot="6" text="hang up ." />
+</script>
+<script id="8">
+<item slot="1" text="write fax ." />
+<item slot="2" text="insert fax into fax machine ." />
+<item slot="3" text="dial humber ." />
+<item slot="4" text="wait for fax tone ." />
+<item slot="5" text="press send button ." />
+<item slot="6" text="wait until all fax transmitted ." />
+<item slot="7" text="hang up ." />
+</script>
+<script id="9">
+<item slot="1" text="write document and print ." />
+<item slot="2" text="take document to fax machine ." />
+<item slot="3" text="insert document in fax machine ." />
+<item slot="4" text="dial number ." />
+<item slot="5" text="wait for fax tone ." />
+<item slot="6" text="press send ." />
+<item slot="7" text="when finished hang up ." />
+</script>
+<script id="10">
+<item slot="1" text="select options on fax machine ." />
+<item slot="2" text="punch number in fax machine ." />
+<item slot="3" text="put document to be sent in slot ." />
+<item slot="4" text="press send ." />
+</script>
+<script id="11">
+<item slot="1" text="write fax ." />
+<item slot="2" text="place fax in fax machine ." />
+<item slot="3" text="dial number ." />
+<item slot="4" text="wait for fax tone ." />
+<item slot="5" text="press send ." />
+<item slot="6" text="wait for fax to transmit ." />
+</script>
+<script id="12">
+<item slot="1" text="place document to fax into fax machine ." />
+<item slot="2" text="pick up phone ." />
+<item slot="3" text="dial number ." />
+<item slot="4" text="wait for fax tone ." />
+<item slot="5" text="press send ." />
+<item slot="6" text="wait for fax to finish transmission ." />
+<item slot="7" text="hang up ." />
+</script>
+<script id="13">
+<item slot="1" text="locate fax number of recipient ." />
+<item slot="2" text="dial fax number of recipient on a fax machine ." />
+<item slot="3" text="feed message to fax into the fax machine ." />
+<item slot="4" text="transmit the fax to the recipient ." />
+<item slot="5" text="end the call ." />
+</script>
+<script id="14">
+<item slot="1" text="type out the fax ." />
+<item slot="2" text="print it ." />
+<item slot="3" text="enter the fax number in the machine ." />
+<item slot="4" text="feed the fax into the document ." />
+<item slot="5" text="press send ." />
+</script>
+<script id="15">
+<item slot="1" text="insert the fax into the fax machine ." />
+<item slot="2" text="dial the recipient s number ." />
+<item slot="3" text="wait for 'send tone' ." />
+<item slot="4" text="press 'send' button ." />
+</script>
+<script id="16">
+<item slot="1" text="get  fax material to be sent ." />
+<item slot="2" text="go to fax machine ." />
+<item slot="3" text="place fax face side down in fax machine ." />
+<item slot="4" text="dial number to where fax is to be sent ." />
+<item slot="5" text="press send ." />
+</script>
+<script id="17">
+<item slot="1" text="write letter ." />
+<item slot="2" text="print letter ." />
+<item slot="3" text="put letter in fax ." />
+<item slot="4" text="type recepient number ." />
+<item slot="5" text="press send ." />
+</script>
+<script id="18">
+<item slot="1" text="place paper in fax machine ." />
+<item slot="2" text="enter fax number ." />
+<item slot="3" text="press button ." />
+</script>
+<script id="19">
+<item slot="1" text="put fax in fax machine ." />
+<item slot="2" text="dial fax number ." />
+</script>
+<script id="20">
+<item slot="1" text="load the paper in a fax machine ." />
+<item slot="2" text="dial the number ." />
+<item slot="3" text="press start to send ." />
+</script>
+<script id="21">
+<item slot="1" text="put the paper to send in the fax machine ." />
+<item slot="2" text="dial the fax number ." />
+<item slot="3" text="wait for the fax to send ." />
+<item slot="4" text="retrieve the paper from the fax machine ." />
+<item slot="5" text="file the paper that went through the fax machine ." />
+</script>
+<script id="22">
+<item slot="1" text="put the paper in the fax holder ." />
+<item slot="2" text="dial the number ." />
+<item slot="3" text="press start ." />
+</script>
+<script id="23">
+<item slot="1" text="write document ." />
+<item slot="2" text="dial number ." />
+<item slot="3" text="insert document ." />
+<item slot="4" text="send ." />
+</script>
+<script id="24">
+<item slot="1" text="write a message in a paper ." />
+<item slot="2" text="put the paper in a fax machine ." />
+<item slot="3" text="dial the number where you want to send ." />
+<item slot="4" text="then press start ." />
+</script>
+<script id="25">
+<item slot="1" text="put paper in a tray ." />
+<item slot="2" text="dial the number and press start ." />
+</script>
+<script id="26">
+<item slot="1" text="prepare fax ." />
+<item slot="2" text="turn on fax machine ." />
+<item slot="3" text="make sure the feed is clear ." />
+<item slot="4" text="place fax into feed ." />
+<item slot="5" text="dial the appropriate number ." />
+<item slot="6" text="make sure fax call is completed ." />
+<item slot="7" text="hang up ." />
+</script>
+<script id="27">
+<item slot="1" text="insert paper ." />
+<item slot="2" text="input the phone number ." />
+<item slot="3" text="push the start button ." />
+</script>
+<script id="28">
+<item slot="1" text="insert paper ." />
+<item slot="2" text="input the phone number ." />
+<item slot="3" text="push the start button ." />
+</script>
+<script id="29">
+<item slot="1" text="write your message on paper ." />
+<item slot="2" text="go to the fax machine ." />
+<item slot="3" text="place the paper in the machine ." />
+<item slot="4" text="dial the fax number ." />
+<item slot="5" text="press the send button ." />
+</script>
+<script id="30">
+<item slot="1" text="pen mind ." />
+</script>
+<script id="31">
+<item slot="1" text="feed in fax ." />
+<item slot="2" text="type in fax number ." />
+<item slot="3" text="press send ." />
+<item slot="4" text="retrieve confirmation ." />
+</script>
+<script id="32">
+<item slot="1" text="place paper in fax ." />
+<item slot="2" text="dial number ." />
+<item slot="3" text="send fax ." />
+<item slot="4" text="remove page from fax ." />
+</script>
+<script id="33">
+<item slot="1" text="press fax number ." />
+<item slot="2" text="insert document ." />
+<item slot="3" text="send fax ." />
+</script>
+<script id="34">
+<item slot="1" text="press fax number ." />
+<item slot="2" text="insert document ." />
+<item slot="3" text="send fax ." />
+</script>
+<script id="35">
+<item slot="1" text="press fax number ." />
+<item slot="2" text="insert document ." />
+<item slot="3" text="send fax ." />
+</script>
+<script id="36">
+<item slot="1" text="find the fax ." />
+</script>
+<script id="37">
+<item slot="1" text="find the fax ." />
+</script>
+<script id="38">
+<item slot="1" text="find the fax ." />
+</script>
+<script id="39">
+<item slot="1" text="obtain document to fax ." />
+<item slot="2" text="walk to fax machine ." />
+<item slot="3" text="place document face side down onto fax machine ." />
+<item slot="4" text="dail number to fax ." />
+<item slot="5" text="press start ." />
+<item slot="6" text="watch document be faxed ." />
+<item slot="7" text="validate document was faxed ." />
+</script>
+<script id="40">
+<item slot="1" text="obtain document to fax ." />
+<item slot="2" text="walk to fax machine ." />
+<item slot="3" text="place document face side down onto fax machine ." />
+<item slot="4" text="dail number to fax ." />
+<item slot="5" text="press start ." />
+<item slot="6" text="watch document be faxed ." />
+<item slot="7" text="validate document was faxed ." />
+</script>
+<script id="41">
+<item slot="1" text="obtain document to fax ." />
+<item slot="2" text="walk to fax machine ." />
+<item slot="3" text="place document face side down onto fax machine ." />
+<item slot="4" text="dail number to fax ." />
+<item slot="5" text="press start ." />
+<item slot="6" text="watch document be faxed ." />
+<item slot="7" text="validate document was faxed ." />
+</script>
+<script id="42">
+<item slot="1" text="obtain document to fax ." />
+<item slot="2" text="walk to fax machine ." />
+<item slot="3" text="place document face side down onto fax machine ." />
+<item slot="4" text="dail number to fax ." />
+<item slot="5" text="press start ." />
+<item slot="6" text="watch document be faxed ." />
+<item slot="7" text="validate document was faxed ." />
+</script>
+<script id="43">
+<item slot="1" text="obtain document to fax ." />
+<item slot="2" text="walk to fax machine ." />
+<item slot="3" text="place document face side down onto fax machine ." />
+<item slot="4" text="dail number to fax ." />
+<item slot="5" text="press start ." />
+<item slot="6" text="watch document be faxed ." />
+<item slot="7" text="validate document was faxed ." />
+</script>
+<script id="44">
+<item slot="1" text="obtain document to fax ." />
+<item slot="2" text="walk to fax machine ." />
+<item slot="3" text="place document face side down onto fax machine ." />
+<item slot="4" text="dail number to fax ." />
+<item slot="5" text="press start ." />
+<item slot="6" text="watch document be faxed ." />
+<item slot="7" text="validate document was faxed ." />
+</script>
+<script id="45">
+<item slot="1" text="place paper in fax tray ." />
+<item slot="2" text="enter fax number ." />
+<item slot="3" text="press send ." />
+</script>
+<script id="46">
+<item slot="1" text="place paper in fax tray ." />
+<item slot="2" text="enter fax number ." />
+<item slot="3" text="press send ." />
+</script>
+<script id="47">
+<item slot="1" text="place paper in fax tray ." />
+<item slot="2" text="enter fax number ." />
+<item slot="3" text="press send ." />
+</script>
+<script id="48">
+<item slot="1" text="place paper in fax tray ." />
+<item slot="2" text="enter fax number ." />
+<item slot="3" text="press send ." />
+</script>
+</scripts>

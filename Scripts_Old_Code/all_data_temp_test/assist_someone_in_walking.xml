@@ -1,0 +1,285 @@
+<scripts>
+<script id="1">
+<item slot="1" text="hold the person by the elbow ." />
+<item slot="2" text="walk beside the person while supporting them ." />
+</script>
+<script id="2">
+<item slot="1" text="hold person s hand shoulder or arm ." />
+<item slot="2" text="take steps in sync with person ." />
+<item slot="3" text="do not move unless person is moving ." />
+</script>
+<script id="3">
+<item slot="1" text="stand next to them ." />
+<item slot="2" text="offer support ." />
+<item slot="3" text="move alongside them ." />
+</script>
+<script id="4">
+<item slot="1" text="ask if you can help ." />
+<item slot="2" text="if they agree place your arm under their arm so that you can support some of their weight ." />
+<item slot="3" text="walk slowly with them where they want to go ." />
+</script>
+<script id="5">
+<item slot="1" text="go up beside the person ." />
+<item slot="2" text="hold on to the person s arm ." />
+<item slot="3" text="walk at the same rate the person walks ." />
+<item slot="4" text="help the person avoid tripping on objects on the floor ." />
+</script>
+<script id="6">
+<item slot="1" text="hold person s hand ." />
+<item slot="2" text="walk next to person ." />
+<item slot="3" text="if person becomes unstable be prepared to offer support ." />
+</script>
+<script id="7">
+<item slot="1" text="offer them support ." />
+<item slot="2" text="let them lean on you ." />
+<item slot="3" text="walk slowly ." />
+</script>
+<script id="8">
+<item slot="1" text="ask someone if help is needed ." />
+<item slot="2" text="hold arm ." />
+<item slot="3" text="support person ." />
+<item slot="4" text="lead person in correct direction ." />
+</script>
+<script id="9">
+<item slot="1" text="ask person ." />
+<item slot="2" text="hold person s arm ." />
+<item slot="3" text="ask for destination ." />
+<item slot="4" text="walk alongside person ." />
+<item slot="5" text="reach destination ." />
+<item slot="6" text="let go ." />
+</script>
+<script id="10">
+<item slot="1" text="put shoes on ." />
+<item slot="2" text="hold hand ." />
+<item slot="3" text="let lean on ." />
+<item slot="4" text="carry if necessary ." />
+</script>
+<script id="11">
+<item slot="1" text="let person grasp your hand ." />
+<item slot="2" text="walk slowly with them ." />
+</script>
+<script id="12">
+<item slot="1" text="take arm of person ." />
+<item slot="2" text="slowly walk and brace them ." />
+</script>
+<script id="13">
+<item slot="1" text="allow person to grasp your arm ." />
+<item slot="2" text="walk slowly with them ." />
+</script>
+<script id="14">
+<item slot="1" text="allow person to grasp your arm ." />
+<item slot="2" text="walk slowly with them ." />
+</script>
+<script id="15">
+<item slot="1" text="allow person to grasp your arm ." />
+<item slot="2" text="walk slowly with them ." />
+</script>
+<script id="16">
+<item slot="1" text="allow person to grasp your arm ." />
+<item slot="2" text="walk slowly with them ." />
+</script>
+<script id="17">
+<item slot="1" text="allow person to grasp your arm ." />
+<item slot="2" text="walk slowly with them ." />
+</script>
+<script id="18">
+<item slot="1" text="allow person to grasp your arm ." />
+<item slot="2" text="walk slowly with them ." />
+</script>
+<script id="19">
+<item slot="1" text="allow person to grasp your arm ." />
+<item slot="2" text="walk slowly with them ." />
+</script>
+<script id="20">
+<item slot="1" text="allow person to grasp your arm ." />
+<item slot="2" text="walk slowly with them ." />
+</script>
+<script id="21">
+<item slot="1" text="approach the person ." />
+<item slot="2" text="ask the person what kind of assistance they require ." />
+</script>
+<script id="22">
+<item slot="1" text="hold person ." />
+<item slot="2" text="stabalise them as they walk ." />
+</script>
+<script id="23">
+<item slot="1" text="take a person s hand ." />
+<item slot="2" text="allow them to use you as support ." />
+<item slot="3" text="walk forward one step ." />
+<item slot="4" text="let them follow ." />
+<item slot="5" text="repeat 3 and 4 ." />
+</script>
+<script id="24">
+<item slot="1" text="hold them firmly ." />
+<item slot="2" text="gain their trust ." />
+<item slot="3" text="walk slowly ." />
+<item slot="4" text="keep in steps ." />
+<item slot="5" text="be gentle ." />
+<item slot="6" text="be patient ." />
+<item slot="7" text="get to the destination ." />
+</script>
+<script id="25">
+<item slot="1" text="hold them firmly ." />
+<item slot="2" text="gain their trust ." />
+<item slot="3" text="walk slowly ." />
+<item slot="4" text="keep in steps ." />
+<item slot="5" text="be gentle ." />
+<item slot="6" text="be patient ." />
+<item slot="7" text="get to the destination ." />
+</script>
+<script id="26">
+<item slot="1" text="hold them firmly ." />
+<item slot="2" text="gain their trust ." />
+<item slot="3" text="walk slowly ." />
+</script>
+<script id="27">
+<item slot="1" text="hold them firmly ." />
+</script>
+<script id="28">
+<item slot="1" text="keep in steps ." />
+</script>
+<script id="29">
+<item slot="1" text="gain their trust ." />
+</script>
+<script id="30">
+<item slot="1" text="be gentle ." />
+</script>
+<script id="31">
+<item slot="1" text="walk slowly ." />
+</script>
+<script id="32">
+<item slot="1" text="be patient ." />
+</script>
+<script id="33">
+<item slot="1" text="keep in steps ." />
+</script>
+<script id="34">
+<item slot="1" text="get to the destination ." />
+</script>
+<script id="35">
+<item slot="1" text="be gentle ." />
+<item slot="2" text="be patient ." />
+<item slot="3" text="get to the destination ." />
+</script>
+<script id="36">
+<item slot="1" text="hold them firmly ." />
+<item slot="2" text="gain their trust ." />
+<item slot="3" text="walk slowly ." />
+<item slot="4" text="keep in steps ." />
+<item slot="5" text="be gentle ." />
+<item slot="6" text="be patient ." />
+<item slot="7" text="get to the destination ." />
+</script>
+<script id="37">
+<item slot="1" text="hold them firmly ." />
+<item slot="2" text="gain their trust ." />
+<item slot="3" text="walk slowly ." />
+<item slot="4" text="keep in steps ." />
+<item slot="5" text="be gentle ." />
+<item slot="6" text="be patient ." />
+<item slot="7" text="get to the destination ." />
+</script>
+<script id="38">
+<item slot="1" text="assist person ." />
+</script>
+<script id="39">
+<item slot="1" text="push their wheelchair ." />
+</script>
+<script id="40">
+<item slot="1" text="ask if they need help ." />
+<item slot="2" text="offer an arm ." />
+<item slot="3" text="ask where they are going ." />
+<item slot="4" text="carefully help them ." />
+</script>
+<script id="41">
+<item slot="1" text="put arm aroud a person ." />
+<item slot="2" text="support their weight with your arm ." />
+<item slot="3" text="carefully help them walk ." />
+</script>
+<script id="42">
+<item slot="1" text="put arm aroud a person ." />
+<item slot="2" text="support their weight with your arm ." />
+<item slot="3" text="carefully help them walk ." />
+</script>
+<script id="43">
+<item slot="1" text="stand on person s weaker side ." />
+<item slot="2" text="gently take person s arm at elbow or ." />
+<item slot="3" text="put arm around person s waist and their arm around your shoulder ." />
+<item slot="4" text="walk at a pace that is comfortable for individual ." />
+</script>
+<script id="44">
+<item slot="1" text="walk ." />
+<item slot="2" text="find someone that needs help ." />
+<item slot="3" text="make sure that there ok ." />
+<item slot="4" text="make sure that they can walk ." />
+<item slot="5" text="make sure to watch out for thing s ." />
+</script>
+<script id="45">
+<item slot="1" text="walk ." />
+<item slot="2" text="find someone that needs help ." />
+<item slot="3" text="make sure that there ok ." />
+<item slot="4" text="make sure that they can walk ." />
+<item slot="5" text="make sure to watch out for thing s ." />
+</script>
+<script id="46">
+<item slot="1" text="walk ." />
+<item slot="2" text="find someone that needs help ." />
+<item slot="3" text="make sure that there ok ." />
+<item slot="4" text="make sure that they can walk ." />
+<item slot="5" text="make sure to watch out for thing s ." />
+</script>
+<script id="47">
+<item slot="1" text="go over to the person requiring assistance ." />
+<item slot="2" text="obtain a walker ." />
+<item slot="3" text="take walker to person ." />
+<item slot="4" text="have person place both hands on walker ." />
+<item slot="5" text="steady person as s/he begins to walk ." />
+</script>
+<script id="48">
+<item slot="1" text="go over to the person requiring assistance ." />
+<item slot="2" text="obtain a walker ." />
+<item slot="3" text="take walker to person ." />
+<item slot="4" text="have person place both hands on walker ." />
+<item slot="5" text="steady person as s/he begins to walk ." />
+</script>
+<script id="49">
+<item slot="1" text="go over to the person requiring assistance ." />
+<item slot="2" text="obtain a walker ." />
+<item slot="3" text="take walker to person ." />
+<item slot="4" text="have person place both hands on walker ." />
+<item slot="5" text="steady person as s/he begins to walk ." />
+</script>
+<script id="50">
+<item slot="1" text="go over to the person requiring assistance ." />
+<item slot="2" text="obtain a walker ." />
+<item slot="3" text="take walker to person ." />
+<item slot="4" text="have person place both hands on walker ." />
+<item slot="5" text="steady person as s/he begins to walk ." />
+</script>
+<script id="51">
+<item slot="1" text="go over to the person requiring assistance ." />
+<item slot="2" text="obtain a walker ." />
+<item slot="3" text="take walker to person ." />
+<item slot="4" text="have person place both hands on walker ." />
+<item slot="5" text="steady person as s/he begins to walk ." />
+</script>
+<script id="52">
+<item slot="1" text="go over to the person requiring assistance ." />
+<item slot="2" text="obtain a walker ." />
+<item slot="3" text="take walker to person ." />
+<item slot="4" text="have person place both hands on walker ." />
+<item slot="5" text="steady person as s/he begins to walk ." />
+</script>
+<script id="53">
+<item slot="1" text="hold their elbow ." />
+</script>
+<script id="54">
+<item slot="1" text="hold their elbow ." />
+</script>
+<script id="55">
+<item slot="1" text="hold their elbow ." />
+</script>
+<script id="56">
+<item slot="1" text="hold their elbow ." />
+</script>
+</scripts>

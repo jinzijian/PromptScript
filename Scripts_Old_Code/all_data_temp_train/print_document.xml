@@ -1,0 +1,239 @@
+<scripts>
+<script id="1">
+<item slot="1" text="open the document ." />
+<item slot="2" text="swicth on the printer ." />
+<item slot="3" text="put paper in the printer ." />
+<item slot="4" text="click print on the computer ." />
+</script>
+<script id="2">
+<item slot="1" text="make sure the printer is turned on ." />
+<item slot="2" text="make sure the printer has paper ." />
+<item slot="3" text="find the print button in the document s application window ." />
+<item slot="4" text="press the print button ." />
+</script>
+<script id="3">
+<item slot="1" text="open document in computer ." />
+<item slot="2" text="make sure printer is on ." />
+<item slot="3" text="make sure printer is connected to the computer ." />
+<item slot="4" text="press print button on computer screen ." />
+</script>
+<script id="4">
+<item slot="1" text="identify document ." />
+<item slot="2" text="go to file menu ." />
+<item slot="3" text="click print ." />
+<item slot="4" text="click print again ." />
+<item slot="5" text="turn printer on ." />
+<item slot="6" text="print document ." />
+</script>
+<script id="5">
+<item slot="1" text="pressing print ." />
+</script>
+<script id="6">
+<item slot="1" text="link computer with printer ." />
+<item slot="2" text="open document file ." />
+<item slot="3" text="click on print icon ." />
+</script>
+<script id="7">
+<item slot="1" text="turn on computer ." />
+<item slot="2" text="open program ." />
+<item slot="3" text="type document ." />
+<item slot="4" text="check for errors ." />
+<item slot="5" text="turn on printer ." />
+<item slot="6" text="tell program to print ." />
+<item slot="7" text="pick up printed sheet ." />
+</script>
+<script id="8">
+<item slot="1" text="open document ." />
+<item slot="2" text="do print command ." />
+<item slot="3" text="select printer ." />
+<item slot="4" text="select print options ." />
+<item slot="5" text="press go ." />
+<item slot="6" text="retrieve document from printer ." />
+</script>
+<script id="9">
+<item slot="1" text="bring up document on pc ." />
+<item slot="2" text="press print buton ." />
+</script>
+<script id="10">
+<item slot="1" text="load paper into printer ." />
+<item slot="2" text="turn on printer ." />
+<item slot="3" text="print document ." />
+</script>
+<script id="11">
+<item slot="1" text="load paper into printer ." />
+<item slot="2" text="turn on printer ." />
+<item slot="3" text="print document ." />
+</script>
+<script id="12">
+<item slot="1" text="selecting ." />
+<item slot="2" text="page setup ." />
+<item slot="3" text="preview ." />
+<item slot="4" text="draft or text ." />
+<item slot="5" text="orientation ." />
+<item slot="6" text="number of copies ." />
+<item slot="7" text="print command ." />
+</script>
+<script id="13">
+<item slot="1" text="put paper in printer ." />
+<item slot="2" text="turn printer on ." />
+<item slot="3" text="click the print button ." />
+</script>
+<script id="14">
+<item slot="1" text="view document on screen ." />
+<item slot="2" text="click the print option ." />
+</script>
+<script id="15">
+<item slot="1" text="open the program with the document in it ." />
+<item slot="2" text="go to file ." />
+<item slot="3" text="go to print ." />
+<item slot="4" text="turn on printer ." />
+<item slot="5" text="select the desired settings ." />
+<item slot="6" text="say  ok ." />
+<item slot="7" text="wait for printing to complete ." />
+</script>
+<script id="16">
+<item slot="1" text="type document ." />
+<item slot="2" text="click file ." />
+<item slot="3" text="click print ." />
+<item slot="4" text="accept settings ." />
+<item slot="5" text="turn on printer ." />
+<item slot="6" text="put paper in ." />
+<item slot="7" text="paper goes down ." />
+</script>
+<script id="17">
+<item slot="1" text="send document to printer ." />
+</script>
+<script id="18">
+<item slot="1" text="send document to printer ." />
+</script>
+<script id="19">
+<item slot="1" text="send document to printer ." />
+</script>
+<script id="20">
+<item slot="1" text="send document to printer ." />
+</script>
+<script id="21">
+<item slot="1" text="send document to printer ." />
+</script>
+<script id="22">
+<item slot="1" text="send document to printer ." />
+</script>
+<script id="23">
+<item slot="1" text="turn on printer ." />
+<item slot="2" text="connect printer to computer ." />
+<item slot="3" text="open document on computer ." />
+<item slot="4" text="select print ." />
+</script>
+<script id="24">
+<item slot="1" text="turn on printer ." />
+<item slot="2" text="connect printer to computer ." />
+<item slot="3" text="open document on computer ." />
+<item slot="4" text="select print ." />
+</script>
+<script id="25">
+<item slot="1" text="click file ." />
+<item slot="2" text="click print preview ." />
+<item slot="3" text="load paper ." />
+<item slot="4" text="click print ." />
+</script>
+<script id="26">
+<item slot="1" text="go to file ." />
+<item slot="2" text="go to print ." />
+<item slot="3" text="select pages to print ." />
+<item slot="4" text="select copies to prin ." />
+<item slot="5" text="select 'print' ." />
+</script>
+<script id="27">
+<item slot="1" text="go to file ." />
+<item slot="2" text="go to print ." />
+<item slot="3" text="select pages to print ." />
+<item slot="4" text="select copies to prin ." />
+<item slot="5" text="select 'print' ." />
+</script>
+<script id="28">
+<item slot="1" text="go to file ." />
+<item slot="2" text="go to print ." />
+<item slot="3" text="select pages to print ." />
+<item slot="4" text="select copies to prin ." />
+<item slot="5" text="select 'print' ." />
+</script>
+<script id="29">
+<item slot="1" text="click printer ." />
+<item slot="2" text="click print ." />
+</script>
+<script id="30">
+<item slot="1" text="click printer ." />
+<item slot="2" text="click print ." />
+</script>
+<script id="31">
+<item slot="1" text="click printer ." />
+<item slot="2" text="click print ." />
+</script>
+<script id="32">
+<item slot="1" text="open document to print ." />
+<item slot="2" text="select file print ." />
+<item slot="3" text="select ok ." />
+<item slot="4" text="close document ." />
+</script>
+<script id="33">
+<item slot="1" text="open document to print ." />
+<item slot="2" text="select file print ." />
+<item slot="3" text="select ok ." />
+<item slot="4" text="close document ." />
+</script>
+<script id="34">
+<item slot="1" text="open document to print ." />
+<item slot="2" text="select file print ." />
+<item slot="3" text="select ok ." />
+<item slot="4" text="close document ." />
+</script>
+<script id="35">
+<item slot="1" text="click printer ." />
+<item slot="2" text="click ok ." />
+<item slot="3" text="make sure there is paper in printer ." />
+</script>
+<script id="36">
+<item slot="1" text="click printer ." />
+<item slot="2" text="click ok ." />
+<item slot="3" text="make sure there is paper in printer ." />
+</script>
+<script id="37">
+<item slot="1" text="click printer ." />
+<item slot="2" text="click ok ." />
+<item slot="3" text="make sure there is paper in printer ." />
+</script>
+<script id="38">
+<item slot="1" text="click printer ." />
+<item slot="2" text="click ok ." />
+<item slot="3" text="make sure there is paper in printer ." />
+</script>
+<script id="39">
+<item slot="1" text="make sure printer is on ." />
+<item slot="2" text="hit the print icon ." />
+</script>
+<script id="40">
+<item slot="1" text="make sure printer is on ." />
+<item slot="2" text="hit the print icon ." />
+</script>
+<script id="41">
+<item slot="1" text="open up document to print ." />
+<item slot="2" text="select printer icon ." />
+<item slot="3" text="select # of copies ." />
+<item slot="4" text="select page range ." />
+<item slot="5" text="select other document properties ." />
+<item slot="6" text="press okay ." />
+<item slot="7" text="wait for document to print ." />
+</script>
+<script id="42">
+<item slot="1" text="open up document to print ." />
+<item slot="2" text="select printer icon ." />
+<item slot="3" text="select # of copies ." />
+<item slot="4" text="select page range ." />
+<item slot="5" text="select other document properties ." />
+<item slot="6" text="press okay ." />
+<item slot="7" text="wait for document to print ." />
+</script>
+<script id="43">
+<item slot="1" text="click print ." />
+</script>
+</scripts>

@@ -1,0 +1,333 @@
+<scripts>
+<script id="1">
+<item slot="1" text="turn on the computer ." />
+<item slot="2" text="find a game software application on the computer ." />
+<item slot="3" text="start the game software application ." />
+</script>
+<script id="2">
+<item slot="1" text="remove game cd from it s case ." />
+<item slot="2" text="insert the cd into the computer s cd rom drive ." />
+<item slot="3" text="click on the icon labeled as play game ." />
+<item slot="4" text="interact with the game software ." />
+</script>
+<script id="3">
+<item slot="1" text="turn on the computer ." />
+<item slot="2" text="run the execution file of the game ." />
+<item slot="3" text="start the game ." />
+<item slot="4" text="play the game ." />
+</script>
+<script id="4">
+<item slot="1" text="select  a game ." />
+<item slot="2" text="install the game ." />
+<item slot="3" text="familiarize yourself with the rules ." />
+<item slot="4" text="start the game ." />
+</script>
+<script id="5">
+<item slot="1" text="turn on computer ." />
+<item slot="2" text="start game ." />
+<item slot="3" text="using keyboard mouse or joystick interact with computer ." />
+<item slot="4" text="try to achieve the goal set by the game ." />
+</script>
+<script id="6">
+<item slot="1" text="start computer ." />
+<item slot="2" text="start game ." />
+<item slot="3" text="follow game strategy by interacting with computer ." />
+</script>
+<script id="7">
+<item slot="1" text="start game program ." />
+<item slot="2" text="read rules ." />
+<item slot="3" text="start game ." />
+<item slot="4" text="do game moves ." />
+<item slot="5" text="end game ." />
+</script>
+<script id="8">
+<item slot="1" text="start computer ." />
+<item slot="2" text="run game program ." />
+<item slot="3" text="using keyboard or joystick interact with computer ." />
+</script>
+<script id="9">
+<item slot="1" text="turn on the computer ." />
+<item slot="2" text="locate your game ." />
+<item slot="3" text="open the game ." />
+<item slot="4" text="play the game ." />
+</script>
+<script id="10">
+<item slot="1" text="put game disc in computer cd drive ." />
+<item slot="2" text="load the game ." />
+<item slot="3" text="read the manual ." />
+<item slot="4" text="install the game ." />
+<item slot="5" text="start to play ." />
+</script>
+<script id="11">
+<item slot="1" text="choose a game to play on the computer ." />
+<item slot="2" text="activate the game by clicking on its icon on the desktop with the mouse ." />
+<item slot="3" text="follow the game instructions that came with the game ." />
+<item slot="4" text="begin to play the game ." />
+</script>
+<script id="12">
+<item slot="1" text="switch on the computer ." />
+<item slot="2" text="load up the game ." />
+<item slot="3" text="play the game ." />
+</script>
+<script id="13">
+<item slot="1" text="turn on the computer ." />
+<item slot="2" text="find the icon for a game on the computer s desktop ." />
+<item slot="3" text="click the icon to start the game ." />
+<item slot="4" text="press buttons on the keyboard or use the mouse to control the game ." />
+</script>
+<script id="14">
+<item slot="1" text="check to see if joystick keyboard mouse are attached ." />
+<item slot="2" text="turn on computer ." />
+<item slot="3" text="go to menu/icon ." />
+<item slot="4" text="select game ." />
+<item slot="5" text="wait for it to load ." />
+<item slot="6" text="determine if one wants to play an old or new game ." />
+<item slot="7" text="play ." />
+</script>
+<script id="15">
+<item slot="1" text="turn computer on ." />
+<item slot="2" text="locate game on computer ." />
+<item slot="3" text="load game ." />
+<item slot="4" text="play game when loaded ." />
+</script>
+<script id="16">
+<item slot="1" text="use joystick or the arrows in keyboard ." />
+</script>
+<script id="17">
+<item slot="1" text="look for the joy stick ." />
+<item slot="2" text="choose a game ." />
+<item slot="3" text="play the game ." />
+</script>
+<script id="18">
+<item slot="1" text="use joystick to play the game ." />
+</script>
+<script id="19">
+<item slot="1" text="locate game on computer ." />
+<item slot="2" text="launch game ." />
+<item slot="3" text="use keyboard and mouse ." />
+</script>
+<script id="20">
+<item slot="1" text="locate the game ." />
+<item slot="2" text="launch the game ." />
+<item slot="3" text="play the game ." />
+<item slot="4" text="quit the game ." />
+</script>
+<script id="21">
+<item slot="1" text="buy game ." />
+<item slot="2" text="install game on computer ." />
+<item slot="3" text="read instructions ." />
+<item slot="4" text="load game ." />
+<item slot="5" text="start game ." />
+<item slot="6" text="play game ." />
+<item slot="7" text="enjoy game ." />
+</script>
+<script id="22">
+<item slot="1" text="turn computer on ." />
+<item slot="2" text="insert disk ." />
+<item slot="3" text="open game ." />
+<item slot="4" text="play ." />
+</script>
+<script id="23">
+<item slot="1" text="turning on the computer ." />
+<item slot="2" text="loading the game ." />
+<item slot="3" text="reading the instructions ." />
+<item slot="4" text="begin playing ." />
+</script>
+<script id="24">
+<item slot="1" text="turn on the computer ." />
+<item slot="2" text="enter your password ." />
+<item slot="3" text="locate the game ." />
+<item slot="4" text="open the game ." />
+<item slot="5" text="login to the game ." />
+<item slot="6" text="play the game ." />
+</script>
+<script id="25">
+<item slot="1" text="boot up game ." />
+<item slot="2" text="log in ." />
+<item slot="3" text="use computer keyboard controls ." />
+</script>
+<script id="26">
+<item slot="1" text="turn on the computer ." />
+<item slot="2" text="choose a good game ." />
+<item slot="3" text="read the rules ." />
+<item slot="4" text="follow the rules ." />
+<item slot="5" text="try to get the best score possible ." />
+</script>
+<script id="27">
+<item slot="1" text="insert the cd/dvd in the dvd/cd rom drive ." />
+<item slot="2" text="click the shortcut icon for the game ." />
+<item slot="3" text="wait for the game to be loaded ." />
+<item slot="4" text="click the start button ." />
+</script>
+<script id="28">
+<item slot="1" text="switch on the monitor ." />
+<item slot="2" text="switch on tower ." />
+<item slot="3" text="insert disk ." />
+<item slot="4" text="wait for it to load ." />
+<item slot="5" text="read and follow instructions on screen ." />
+<item slot="6" text="play accordingly ." />
+</script>
+<script id="29">
+<item slot="1" text="double click on game ." />
+<item slot="2" text="follow instructions on screen ." />
+<item slot="3" text="press start ." />
+</script>
+<script id="30">
+<item slot="1" text="put in a cd ." />
+<item slot="2" text="start the game ." />
+<item slot="3" text="play it ." />
+</script>
+<script id="31">
+<item slot="1" text="go to folder x ." />
+<item slot="2" text="open folder ." />
+<item slot="3" text="select execautable ." />
+<item slot="4" text="execute it ." />
+</script>
+<script id="32">
+<item slot="1" text="learn the rules of the game ." />
+<item slot="2" text="learn the controls of the game ." />
+<item slot="3" text="start the game ." />
+<item slot="4" text="play the game ." />
+<item slot="5" text="restart the game when it s over ." />
+<item slot="6" text="or shut it off ." />
+</script>
+<script id="33">
+<item slot="1" text="switch on pc ." />
+<item slot="2" text="log into the pc ." />
+<item slot="3" text="start game ." />
+<item slot="4" text="play game ." />
+<item slot="5" text="afterwards switch pc off ." />
+</script>
+<script id="34">
+<item slot="1" text="switch on pc ." />
+<item slot="2" text="log into the pc ." />
+<item slot="3" text="start game ." />
+<item slot="4" text="play game ." />
+<item slot="5" text="afterwards switch pc off ." />
+</script>
+<script id="35">
+<item slot="1" text="switch on pc ." />
+<item slot="2" text="log into the pc ." />
+<item slot="3" text="start game ." />
+<item slot="4" text="play game ." />
+<item slot="5" text="afterwards switch pc off ." />
+</script>
+<script id="36">
+<item slot="1" text="switch on pc ." />
+<item slot="2" text="log into the pc ." />
+<item slot="3" text="start game ." />
+<item slot="4" text="play game ." />
+<item slot="5" text="afterwards switch pc off ." />
+</script>
+<script id="37">
+<item slot="1" text="switch on pc ." />
+<item slot="2" text="log into the pc ." />
+<item slot="3" text="start game ." />
+<item slot="4" text="play game ." />
+<item slot="5" text="afterwards switch pc off ." />
+</script>
+<script id="38">
+<item slot="1" text="turn on computer ." />
+<item slot="2" text="launch game program ." />
+</script>
+<script id="39">
+<item slot="1" text="turn on computer ." />
+<item slot="2" text="launch game program ." />
+</script>
+<script id="40">
+<item slot="1" text="turn on computer ." />
+<item slot="2" text="launch game program ." />
+</script>
+<script id="41">
+<item slot="1" text="turn on computer ." />
+<item slot="2" text="launch game program ." />
+</script>
+<script id="42">
+<item slot="1" text="turn on computer ." />
+<item slot="2" text="launch game program ." />
+</script>
+<script id="43">
+<item slot="1" text="turn on computer ." />
+<item slot="2" text="launch game program ." />
+</script>
+<script id="44">
+<item slot="1" text="turn on computer ." />
+<item slot="2" text="load game program ." />
+<item slot="3" text="follow instructions ." />
+</script>
+<script id="45">
+<item slot="1" text="turn on computer ." />
+<item slot="2" text="load game program ." />
+<item slot="3" text="follow instructions ." />
+</script>
+<script id="46">
+<item slot="1" text="turn on computer ." />
+<item slot="2" text="load game program ." />
+<item slot="3" text="follow instructions ." />
+</script>
+<script id="47">
+<item slot="1" text="walk toward computer ." />
+<item slot="2" text="turn on computer ." />
+<item slot="3" text="click internet ." />
+<item slot="4" text="play a game on the computer ." />
+<item slot="5" text="done ." />
+</script>
+<script id="48">
+<item slot="1" text="turn on computer ." />
+<item slot="2" text="turn on internet ." />
+<item slot="3" text="go to google ." />
+<item slot="4" text="find a game ." />
+<item slot="5" text="go to website ." />
+<item slot="6" text="start game ." />
+<item slot="7" text="play game ." />
+</script>
+<script id="49">
+<item slot="1" text="find instructions ." />
+<item slot="2" text="read instructions ." />
+<item slot="3" text="follow instructions ." />
+</script>
+<script id="50">
+<item slot="1" text="turn on pc ." />
+<item slot="2" text="click on game ." />
+<item slot="3" text="wait for it to load ." />
+<item slot="4" text="play game ." />
+</script>
+<script id="51">
+<item slot="1" text="turn on pc ." />
+<item slot="2" text="click on game ." />
+<item slot="3" text="wait for it to load ." />
+<item slot="4" text="play game ." />
+</script>
+<script id="52">
+<item slot="1" text="turn on pc ." />
+<item slot="2" text="click on game ." />
+<item slot="3" text="wait for it to load ." />
+<item slot="4" text="play game ." />
+</script>
+<script id="53">
+<item slot="1" text="turn on pc ." />
+<item slot="2" text="click on game ." />
+<item slot="3" text="wait for it to load ." />
+<item slot="4" text="play game ." />
+</script>
+<script id="54">
+<item slot="1" text="turn on pc ." />
+<item slot="2" text="click on game ." />
+<item slot="3" text="wait for it to load ." />
+<item slot="4" text="play game ." />
+</script>
+<script id="55">
+<item slot="1" text="turn on pc ." />
+<item slot="2" text="click on game ." />
+<item slot="3" text="wait for it to load ." />
+<item slot="4" text="play game ." />
+</script>
+<script id="56">
+<item slot="1" text="turn on computer ." />
+<item slot="2" text="turn on monitor ." />
+<item slot="3" text="insert disc ." />
+<item slot="4" text="launch start menu ." />
+<item slot="5" text="log in ." />
+<item slot="6" text="play ." />
+</script>
+</scripts>

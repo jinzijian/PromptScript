@@ -1,0 +1,434 @@
+<scripts>
+<script id="1">
+<item slot="1" text="give plants water ." />
+<item slot="2" text="give plants mineral nutrients ." />
+<item slot="3" text="place plants in light ." />
+<item slot="4" text="preen and cut dead parts ." />
+</script>
+<script id="2">
+<item slot="1" text="examine plants daily ." />
+<item slot="2" text="water dry plants ." />
+<item slot="3" text="expose plants to sunlight daily ." />
+</script>
+<script id="3">
+<item slot="1" text="remove dry leaves ." />
+<item slot="2" text="put water in plant ." />
+</script>
+<script id="4">
+<item slot="1" text="water plants ." />
+<item slot="2" text="remove old leaves ." />
+</script>
+<script id="5">
+<item slot="1" text="water plants ." />
+<item slot="2" text="keep plants in sun ." />
+</script>
+<script id="6">
+<item slot="1" text="keep the plants in the correct amount of sunlight ." />
+<item slot="2" text="water the plants as needed ." />
+<item slot="3" text="make sure the plants are in enough soil ." />
+</script>
+<script id="7">
+<item slot="1" text="observe state of plants ." />
+<item slot="2" text="if dry water ." />
+<item slot="3" text="remove old leaves ." />
+<item slot="4" text="add soil if needed ." />
+</script>
+<script id="8">
+<item slot="1" text="for each plant ." />
+<item slot="2" text="water plant ." />
+<item slot="3" text="remove old leaves ." />
+<item slot="4" text="put more soil in pot if needed ." />
+</script>
+<script id="9">
+<item slot="1" text="water plants ." />
+<item slot="2" text="remove dead leaves ." />
+<item slot="3" text="add soil if needed ." />
+</script>
+<script id="10">
+<item slot="1" text="read the care instructions on label ." />
+<item slot="2" text="water often ." />
+<item slot="3" text="place in sunny position ." />
+<item slot="4" text="place out of drafts ." />
+<item slot="5" text="place out of direct sunlight ." />
+<item slot="6" text="feed often in the summer and less often in the winter ." />
+</script>
+<script id="11">
+<item slot="1" text="water plants ." />
+<item slot="2" text="repot plant ." />
+<item slot="3" text="prune plant ." />
+</script>
+<script id="12">
+<item slot="1" text="identify plants ." />
+<item slot="2" text="provide appropriate lighting ." />
+<item slot="3" text="provide appropriate quantity of water ." />
+</script>
+<script id="13">
+<item slot="1" text="water the plants regularly ." />
+<item slot="2" text="have the plants exposed to sunlight regularly ." />
+</script>
+<script id="14">
+<item slot="1" text="providing sun ." />
+<item slot="2" text="watering ." />
+<item slot="3" text="fertilizing ." />
+<item slot="4" text="potting ." />
+<item slot="5" text="weeding ." />
+<item slot="6" text="pruning ." />
+<item slot="7" text="trimming ." />
+</script>
+<script id="15">
+<item slot="1" text="providing sun ." />
+<item slot="2" text="watering ." />
+<item slot="3" text="fertilizing ." />
+<item slot="4" text="potting ." />
+<item slot="5" text="weeding ." />
+<item slot="6" text="pruning ." />
+<item slot="7" text="trimming ." />
+</script>
+<script id="16">
+<item slot="1" text="providing sun ." />
+<item slot="2" text="watering ." />
+<item slot="3" text="fertilizing ." />
+<item slot="4" text="potting ." />
+<item slot="5" text="weeding ." />
+<item slot="6" text="pruning ." />
+<item slot="7" text="trimming ." />
+</script>
+<script id="17">
+<item slot="1" text="providing sun ." />
+<item slot="2" text="watering ." />
+<item slot="3" text="fertilizing ." />
+<item slot="4" text="potting ." />
+<item slot="5" text="weeding ." />
+<item slot="6" text="pruning ." />
+<item slot="7" text="trimming ." />
+</script>
+<script id="18">
+<item slot="1" text="providing sun ." />
+<item slot="2" text="watering ." />
+<item slot="3" text="fertilizing ." />
+<item slot="4" text="potting ." />
+<item slot="5" text="weeding ." />
+<item slot="6" text="pruning ." />
+<item slot="7" text="trimming ." />
+</script>
+<script id="19">
+<item slot="1" text="providing sun ." />
+<item slot="2" text="watering ." />
+<item slot="3" text="fertilizing ." />
+<item slot="4" text="potting ." />
+<item slot="5" text="weeding ." />
+<item slot="6" text="pruning ." />
+<item slot="7" text="trimming ." />
+</script>
+<script id="20">
+<item slot="1" text="water ." />
+<item slot="2" text="give plantfood ." />
+<item slot="3" text="test soil ." />
+</script>
+<script id="21">
+<item slot="1" text="provide proper soil ." />
+<item slot="2" text="provide proper sunlight ." />
+<item slot="3" text="provide proper amounts of water ." />
+</script>
+<script id="22">
+<item slot="1" text="provide proper soil ." />
+<item slot="2" text="provide proper sunlight ." />
+<item slot="3" text="provide proper amounts of water ." />
+</script>
+<script id="23">
+<item slot="1" text="water the plants ." />
+<item slot="2" text="feed the plants ." />
+<item slot="3" text="provide light ." />
+<item slot="4" text="trim dead leaves ." />
+</script>
+<script id="24">
+<item slot="1" text="dig a hole ." />
+<item slot="2" text="place seeds/plants in hole ." />
+</script>
+<script id="25">
+<item slot="1" text="water plants ." />
+<item slot="2" text="feed plants ." />
+<item slot="3" text="prune plants ." />
+</script>
+<script id="26">
+<item slot="1" text="remove dead leaves ." />
+<item slot="2" text="kill bugs ." />
+<item slot="3" text="turn soil ." />
+<item slot="4" text="fertilize ." />
+<item slot="5" text="water plant ." />
+</script>
+<script id="27">
+<item slot="1" text="make sure the plants are getting enough light ." />
+<item slot="2" text="water the plants sufficiently and regularly ." />
+<item slot="3" text="once in a while add nutrients such as phosphates and nitrates to the soil ." />
+</script>
+<script id="28">
+<item slot="1" text="water plant regularily ." />
+<item slot="2" text="keep plant in sunlight ." />
+</script>
+<script id="29">
+<item slot="1" text="water them ." />
+<item slot="2" text="hold them up if slagging ." />
+<item slot="3" text="wait ." />
+</script>
+<script id="30">
+<item slot="1" text="dust plants leaves gently ." />
+</script>
+<script id="31">
+<item slot="1" text="dust plants leaves gently ." />
+<item slot="2" text="pick weeds out of pot ." />
+<item slot="3" text="water the soil w/water at room temperature ." />
+<item slot="4" text="add fertilizer to soil bi-weekly ." />
+</script>
+<script id="32">
+<item slot="1" text="dust plants leaves gently ." />
+<item slot="2" text="pick weeds out of pot ." />
+<item slot="3" text="water the soil w/water at room temperature ." />
+<item slot="4" text="add fertilizer to soil bi-weekly ." />
+</script>
+<script id="33">
+<item slot="1" text="dust plants leaves gently ." />
+</script>
+<script id="34">
+<item slot="1" text="dust plants leaves gently ." />
+</script>
+<script id="35">
+<item slot="1" text="dust plants leaves gently ." />
+<item slot="2" text="pick weeds out of pot ." />
+<item slot="3" text="water the soil w/water at room temperature ." />
+<item slot="4" text="add fertilizer to soil bi-weekly ." />
+</script>
+<script id="36">
+<item slot="1" text="dust plants leaves gently ." />
+</script>
+<script id="37">
+<item slot="1" text="dust plants leaves gently ." />
+</script>
+<script id="38">
+<item slot="1" text="dust plants leaves gently ." />
+<item slot="2" text="pick weeds out of pot ." />
+<item slot="3" text="water the soil w/water at room temperature ." />
+<item slot="4" text="add fertilizer to soil bi-weekly ." />
+</script>
+<script id="39">
+<item slot="1" text="dust plants leaves gently ." />
+<item slot="2" text="pick weeds out of pot ." />
+<item slot="3" text="water the soil w/water at room temperature ." />
+<item slot="4" text="add fertilizer to soil bi-weekly ." />
+</script>
+<script id="40">
+<item slot="1" text="dust plants leaves gently ." />
+</script>
+<script id="41">
+<item slot="1" text="dust plants leaves gently ." />
+<item slot="2" text="pick weeds out of pot ." />
+<item slot="3" text="water the soil w/water at room temperature ." />
+<item slot="4" text="add fertilizer to soil bi-weekly ." />
+</script>
+<script id="42">
+<item slot="1" text="dust plants leaves gently ." />
+</script>
+<script id="43">
+<item slot="1" text="dust plants leaves gently ." />
+<item slot="2" text="pick weeds out of pot ." />
+<item slot="3" text="water the soil w/water at room temperature ." />
+<item slot="4" text="add fertilizer to soil bi-weekly ." />
+</script>
+<script id="44">
+<item slot="1" text="dust plants leaves gently ." />
+</script>
+<script id="45">
+<item slot="1" text="dust plants leaves gently ." />
+<item slot="2" text="pick weeds out of pot ." />
+<item slot="3" text="water the soil w/water at room temperature ." />
+<item slot="4" text="add fertilizer to soil bi-weekly ." />
+</script>
+<script id="46">
+<item slot="1" text="dust plants leaves gently ." />
+</script>
+<script id="47">
+<item slot="1" text="dust plants leaves gently ." />
+<item slot="2" text="pick weeds out of pot ." />
+<item slot="3" text="water the soil w/water at room temperature ." />
+<item slot="4" text="add fertilizer to soil bi-weekly ." />
+</script>
+<script id="48">
+<item slot="1" text="dust plants leaves gently ." />
+</script>
+<script id="49">
+<item slot="1" text="dust plants leaves gently ." />
+<item slot="2" text="pick weeds out of pot ." />
+<item slot="3" text="water the soil w/water at room temperature ." />
+<item slot="4" text="add fertilizer to soil bi-weekly ." />
+</script>
+<script id="50">
+<item slot="1" text="dust plants leaves gently ." />
+</script>
+<script id="51">
+<item slot="1" text="dust plants leaves gently ." />
+<item slot="2" text="pick weeds out of pot ." />
+<item slot="3" text="water the soil w/water at room temperature ." />
+<item slot="4" text="add fertilizer to soil bi-weekly ." />
+</script>
+<script id="52">
+<item slot="1" text="dust plants leaves gently ." />
+</script>
+<script id="53">
+<item slot="1" text="dust plants leaves gently ." />
+<item slot="2" text="pick weeds out of pot ." />
+<item slot="3" text="water the soil w/water at room temperature ." />
+<item slot="4" text="add fertilizer to soil bi-weekly ." />
+</script>
+<script id="54">
+<item slot="1" text="dust plants leaves gently ." />
+</script>
+<script id="55">
+<item slot="1" text="dust plants leaves gently ." />
+<item slot="2" text="pick weeds out of pot ." />
+<item slot="3" text="water the soil w/water at room temperature ." />
+<item slot="4" text="add fertilizer to soil bi-weekly ." />
+</script>
+<script id="56">
+<item slot="1" text="dust plants leaves gently ." />
+</script>
+<script id="57">
+<item slot="1" text="dust plants leaves gently ." />
+<item slot="2" text="pick weeds out of pot ." />
+<item slot="3" text="water the soil w/water at room temperature ." />
+<item slot="4" text="add fertilizer to soil bi-weekly ." />
+</script>
+<script id="58">
+<item slot="1" text="dust plants leaves gently ." />
+</script>
+<script id="59">
+<item slot="1" text="dust plants leaves gently ." />
+<item slot="2" text="pick weeds out of pot ." />
+<item slot="3" text="water the soil w/water at room temperature ." />
+<item slot="4" text="add fertilizer to soil bi-weekly ." />
+</script>
+<script id="60">
+<item slot="1" text="water plants when soil is dry ." />
+<item slot="2" text="prune dead leaves and stems from plants ." />
+<item slot="3" text="add fertilizer to the soil according t directions ." />
+<item slot="4" text="make sure plants get sunlight according to their needs ." />
+</script>
+<script id="61">
+<item slot="1" text="water plants when soil is dry ." />
+<item slot="2" text="prune dead leaves and stems from plants ." />
+<item slot="3" text="add fertilizer to the soil according t directions ." />
+<item slot="4" text="make sure plants get sunlight according to their needs ." />
+</script>
+<script id="62">
+<item slot="1" text="water plants when soil is dry ." />
+<item slot="2" text="prune dead leaves and stems from plants ." />
+<item slot="3" text="add fertilizer to the soil according t directions ." />
+<item slot="4" text="make sure plants get sunlight according to their needs ." />
+</script>
+<script id="63">
+<item slot="1" text="water plants when soil is dry ." />
+<item slot="2" text="prune dead leaves and stems from plants ." />
+<item slot="3" text="add fertilizer to the soil according t directions ." />
+<item slot="4" text="make sure plants get sunlight according to their needs ." />
+</script>
+<script id="64">
+<item slot="1" text="water plants when soil is dry ." />
+<item slot="2" text="prune dead leaves and stems from plants ." />
+<item slot="3" text="add fertilizer to the soil according t directions ." />
+<item slot="4" text="make sure plants get sunlight according to their needs ." />
+</script>
+<script id="65">
+<item slot="1" text="water plants when soil is dry ." />
+<item slot="2" text="prune dead leaves and stems from plants ." />
+<item slot="3" text="add fertilizer to the soil according t directions ." />
+<item slot="4" text="make sure plants get sunlight according to their needs ." />
+</script>
+<script id="66">
+<item slot="1" text="keep plants watered ." />
+<item slot="2" text="remove dead leaves and stems ." />
+<item slot="3" text="make sure plants get appropriate sunlight ." />
+<item slot="4" text="occasionally feed plants with fertilizer ." />
+</script>
+<script id="67">
+<item slot="1" text="water plant ." />
+<item slot="2" text="place plant in sunlight ." />
+<item slot="3" text="rotate plant occasionally ." />
+</script>
+<script id="68">
+<item slot="1" text="water plant ." />
+<item slot="2" text="place plant in sunlight ." />
+<item slot="3" text="rotate plant occasionally ." />
+</script>
+<script id="69">
+<item slot="1" text="water the plants daily ." />
+<item slot="2" text="ensure adequate sunlight ." />
+<item slot="3" text="protect them from insects and animals if necessary ." />
+</script>
+<script id="70">
+<item slot="1" text="water the plants daily ." />
+<item slot="2" text="ensure adequate sunlight ." />
+<item slot="3" text="protect them from insects and animals if necessary ." />
+</script>
+<script id="71">
+<item slot="1" text="water the plants daily ." />
+<item slot="2" text="ensure adequate sunlight ." />
+<item slot="3" text="protect them from insects and animals if necessary ." />
+</script>
+<script id="72">
+<item slot="1" text="fill up water jug ." />
+<item slot="2" text="water plants ." />
+</script>
+<script id="73">
+<item slot="1" text="water plants ." />
+<item slot="2" text="place plants in sun ." />
+</script>
+<script id="74">
+<item slot="1" text="water plants ." />
+<item slot="2" text="place plants in sun ." />
+</script>
+<script id="75">
+<item slot="1" text="water plants ." />
+<item slot="2" text="place plants in sun ." />
+</script>
+<script id="76">
+<item slot="1" text="water plants ." />
+<item slot="2" text="place plants in sun ." />
+</script>
+<script id="77">
+<item slot="1" text="water the plant ." />
+</script>
+<script id="78">
+<item slot="1" text="place plants near window ." />
+<item slot="2" text="check dampness of soil ." />
+<item slot="3" text="if dry get a watering can ." />
+<item slot="4" text="fill with water ." />
+<item slot="5" text="lightly water soil of plants avoiding leaves ." />
+</script>
+<script id="79">
+<item slot="1" text="place the plant in the sunlight ." />
+<item slot="2" text="water the plant every couple of days ." />
+</script>
+<script id="80">
+<item slot="1" text="place the plant in the sunlight ." />
+<item slot="2" text="water the plant every couple of days ." />
+</script>
+<script id="81">
+<item slot="1" text="place the plant in the sunlight ." />
+<item slot="2" text="water the plant every couple of days ." />
+</script>
+<script id="82">
+<item slot="1" text="water plants regularly ." />
+<item slot="2" text="find out of they need sunlight or not ." />
+<item slot="3" text="give plants plant food regularly ." />
+</script>
+<script id="83">
+<item slot="1" text="water plants regularly ." />
+<item slot="2" text="find out of they need sunlight or not ." />
+<item slot="3" text="give plants plant food regularly ." />
+</script>
+<script id="84">
+<item slot="1" text="place plan ts in sunny location ." />
+<item slot="2" text="fertilize plants every two weeks ." />
+<item slot="3" text="water plants every few days ." />
+<item slot="4" text="remove any dead leaves from the plants daily ." />
+</script>
+</scripts>

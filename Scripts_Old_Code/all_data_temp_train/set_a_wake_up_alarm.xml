@@ -1,0 +1,226 @@
+<scripts>
+<script id="1">
+<item slot="1" text="locate an alarm ." />
+<item slot="2" text="determine the time to wake up at ." />
+<item slot="3" text="adjust the alarm to sound a noise at the desired wake up time ." />
+</script>
+<script id="2">
+<item slot="1" text="locate the alarm ." />
+<item slot="2" text="determine the time needed to wake ." />
+<item slot="3" text="locate the control panel on the alarm ." />
+<item slot="4" text="utilize the control panel to change the wake up time on the alarm ." />
+</script>
+<script id="3">
+<item slot="1" text="locate the alarm ." />
+<item slot="2" text="determine the appropriate time to wake ." />
+<item slot="3" text="operate the control panel on the alarm to sound at the designated time ." />
+</script>
+<script id="4">
+<item slot="1" text="set minutes ." />
+<item slot="2" text="set hours ." />
+<item slot="3" text="turn alarm on ." />
+</script>
+<script id="5">
+<item slot="1" text="decide on what time to wake up ." />
+<item slot="2" text="set the time for the alarm to be that time ." />
+<item slot="3" text="check to see if the alarm is set to 'on' ." />
+<item slot="4" text="check to see that the 'am' and 'pm' factors are right ." />
+</script>
+<script id="6">
+<item slot="1" text="set time ." />
+<item slot="2" text="set alarm to on ." />
+</script>
+<script id="7">
+<item slot="1" text="press button to set wake up time ." />
+<item slot="2" text="set alarm to on ." />
+</script>
+<script id="8">
+<item slot="1" text="find alarm ." />
+<item slot="2" text="use keypad to set alarm time ." />
+<item slot="3" text="enable alarm ." />
+</script>
+<script id="9">
+<item slot="1" text="hold 'wake' button ." />
+<item slot="2" text="at the same time click 'hour' button to the hour ." />
+<item slot="3" text="still holding 'wake' button' click 'minute' button to the right minutes ." />
+</script>
+<script id="10">
+<item slot="1" text="find the alarm clock ." />
+<item slot="2" text="press the set alarm button ." />
+<item slot="3" text="select the hour of the alarm ." />
+<item slot="4" text="select the minute of the alarm ." />
+<item slot="5" text="select am or pm ." />
+<item slot="6" text="hit the enter button ." />
+<item slot="7" text="click the type of alarm- music or buzz ." />
+</script>
+<script id="11">
+<item slot="1" text="select the alarm button from the menu ." />
+<item slot="2" text="set the hour to wake up ." />
+<item slot="3" text="set the minute to wake up ." />
+<item slot="4" text="select the ok selection/button ." />
+</script>
+<script id="12">
+<item slot="1" text="find clock with alarm ." />
+<item slot="2" text="set time ." />
+<item slot="3" text="set wake up time ." />
+<item slot="4" text="set clock for alarm ." />
+</script>
+<script id="13">
+<item slot="1" text="set the time format ." />
+<item slot="2" text="adjust the date ." />
+<item slot="3" text="set the time ." />
+<item slot="4" text="keep alarm ." />
+</script>
+<script id="14">
+<item slot="1" text="set time ." />
+<item slot="2" text="press and hold alarm button ." />
+<item slot="3" text="ajust alarm time ." />
+<item slot="4" text="switch alarm switch to on position ." />
+</script>
+<script id="15">
+<item slot="1" text="set time ." />
+<item slot="2" text="press and hold alarm button ." />
+<item slot="3" text="ajust alarm time ." />
+<item slot="4" text="switch alarm switch to on position ." />
+</script>
+<script id="16">
+<item slot="1" text="ask for wake up time ." />
+<item slot="2" text="set alarm time ." />
+</script>
+<script id="17">
+<item slot="1" text="check the time to ensure it s correct ." />
+<item slot="2" text="press alarm button for alarm time set ." />
+<item slot="3" text="press hour/minute to set alarm time ." />
+<item slot="4" text="turn alarm button to on ." />
+</script>
+<script id="18">
+<item slot="1" text="choose wake up time ." />
+<item slot="2" text="set alarm to time ." />
+<item slot="3" text="go to sleep ." />
+</script>
+<script id="19">
+<item slot="1" text="decide on the time ." />
+<item slot="2" text="push button for setting alarm ." />
+<item slot="3" text="set hour ." />
+<item slot="4" text="set minutes ." />
+<item slot="5" text="set either buzzer or radio ." />
+<item slot="6" text="set alarm ." />
+<item slot="7" text="revert display back to regular time ." />
+</script>
+<script id="20">
+<item slot="1" text="pick a time to wake up ." />
+<item slot="2" text="input time into alarm ." />
+<item slot="3" text="make sure alarm is set ." />
+<item slot="4" text="verify am/pm settings ." />
+<item slot="5" text="go to sleep ." />
+</script>
+<script id="21">
+<item slot="1" text="walk ." />
+<item slot="2" text="set alarm ." />
+</script>
+<script id="22">
+<item slot="1" text="walk ." />
+<item slot="2" text="set alarm ." />
+</script>
+<script id="23">
+<item slot="1" text="walk ." />
+<item slot="2" text="set alarm ." />
+</script>
+<script id="24">
+<item slot="1" text="walk ." />
+<item slot="2" text="set alarm ." />
+</script>
+<script id="25">
+<item slot="1" text="walk ." />
+<item slot="2" text="set alarm ." />
+</script>
+<script id="26">
+<item slot="1" text="walk ." />
+<item slot="2" text="set alarm ." />
+</script>
+<script id="27">
+<item slot="1" text="turn on alarm ." />
+<item slot="2" text="set time ." />
+</script>
+<script id="28">
+<item slot="1" text="decide what time you want to wake up ." />
+<item slot="2" text="set clock alarm on ." />
+<item slot="3" text="set clock to alarm setting mode ." />
+<item slot="4" text="set hour to get up at to match ." />
+</script>
+<script id="29">
+<item slot="1" text="turn knob to alarm ." />
+<item slot="2" text="select desired time for alarm ." />
+<item slot="3" text="turn know back to previous position ." />
+<item slot="4" text="light will turn on the clock display when alarm is set ." />
+</script>
+<script id="30">
+<item slot="1" text="turn knob to alarm ." />
+<item slot="2" text="select desired time for alarm ." />
+<item slot="3" text="turn know back to previous position ." />
+<item slot="4" text="light will turn on the clock display when alarm is set ." />
+</script>
+<script id="31">
+<item slot="1" text="turn knob to alarm ." />
+<item slot="2" text="select desired time for alarm ." />
+<item slot="3" text="turn know back to previous position ." />
+<item slot="4" text="light will turn on the clock display when alarm is set ." />
+</script>
+<script id="32">
+<item slot="1" text="turn knob to alarm ." />
+<item slot="2" text="select desired time for alarm ." />
+<item slot="3" text="turn know back to previous position ." />
+<item slot="4" text="light will turn on the clock display when alarm is set ." />
+</script>
+<script id="33">
+<item slot="1" text="locate alarm clock ." />
+<item slot="2" text="determine intended wake up time ." />
+<item slot="3" text="locate button marked alarm ." />
+<item slot="4" text="locate hours and minutes buttons ." />
+<item slot="5" text="press alarm button and hours and minutes button accordingly ." />
+<item slot="6" text="select desired time ." />
+</script>
+<script id="34">
+<item slot="1" text="locate alarm clock ." />
+<item slot="2" text="determine intended wake up time ." />
+<item slot="3" text="locate button marked alarm ." />
+<item slot="4" text="locate hours and minutes buttons ." />
+<item slot="5" text="press alarm button and hours and minutes button accordingly ." />
+<item slot="6" text="select desired time ." />
+</script>
+<script id="35">
+<item slot="1" text="press the buttons until the proper time is set ." />
+<item slot="2" text="adjust the volume ." />
+<item slot="3" text="turn on the alarm button ." />
+</script>
+<script id="36">
+<item slot="1" text="press the buttons until the proper time is set ." />
+<item slot="2" text="adjust the volume ." />
+<item slot="3" text="turn on the alarm button ." />
+</script>
+<script id="37">
+<item slot="1" text="turn up volume ." />
+<item slot="2" text="switch on alarm ." />
+<item slot="3" text="sleep ." />
+</script>
+<script id="38">
+<item slot="1" text="turn up volume ." />
+<item slot="2" text="switch on alarm ." />
+<item slot="3" text="sleep ." />
+</script>
+<script id="39">
+<item slot="1" text="go to alarm clock ." />
+<item slot="2" text="press wake setting ." />
+<item slot="3" text="set the desired time ." />
+</script>
+<script id="40">
+<item slot="1" text="go to alarm clock ." />
+<item slot="2" text="press wake setting ." />
+<item slot="3" text="set the desired time ." />
+</script>
+<script id="41">
+<item slot="1" text="go to alarm clock ." />
+<item slot="2" text="press wake setting ." />
+<item slot="3" text="set the desired time ." />
+</script>
+</scripts>

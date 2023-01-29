@@ -1,0 +1,286 @@
+<scripts>
+<script id="1">
+<item slot="1" text="find the off switch or knob ." />
+<item slot="2" text="move the switch or knob to the off position ." />
+</script>
+<script id="2">
+<item slot="1" text="locate the heat switch ." />
+<item slot="2" text="move to off position ." />
+</script>
+<script id="3">
+<item slot="1" text="find the thermostat ." />
+<item slot="2" text="flip the thermostat switch to off ." />
+</script>
+<script id="4">
+<item slot="1" text="go to the stove ." />
+<item slot="2" text="turn the knob on the stove ." />
+<item slot="3" text="make sure the fire is gone and there s no gas leaking out ." />
+</script>
+<script id="5">
+<item slot="1" text="locate the rheostat ." />
+<item slot="2" text="approach the rheostat ." />
+<item slot="3" text="locate the heat and cold switch ." />
+<item slot="4" text="push the switch into the off position ." />
+</script>
+<script id="6">
+<item slot="1" text="go to heater ." />
+<item slot="2" text="push button to off position ." />
+</script>
+<script id="7">
+<item slot="1" text="go to air conditioner ." />
+<item slot="2" text="push button to off position ." />
+</script>
+<script id="8">
+<item slot="1" text="go to heater ." />
+<item slot="2" text="find on/off button ." />
+<item slot="3" text="press off button ." />
+</script>
+<script id="9">
+<item slot="1" text="locate the heater ." />
+<item slot="2" text="locate the power switch ." />
+<item slot="3" text="turn the switch to 'off' ." />
+</script>
+<script id="10">
+<item slot="1" text="go to heater ." />
+<item slot="2" text="press off button ." />
+</script>
+<script id="11">
+<item slot="1" text="go to heater ." />
+<item slot="2" text="turn switch to off position ." />
+</script>
+<script id="12">
+<item slot="1" text="locating the thermostat ." />
+<item slot="2" text="lowering the temperature setting on the thermostat until the heater turns off ." />
+</script>
+<script id="13">
+<item slot="1" text="go to thermostat ." />
+<item slot="2" text="turn thermostat to off position ." />
+</script>
+<script id="14">
+<item slot="1" text="go over to the heating control ." />
+<item slot="2" text="grasp the heating control switch ." />
+<item slot="3" text="move the control switch to the off position ." />
+</script>
+<script id="15">
+<item slot="1" text="go to heater ." />
+<item slot="2" text="turn knob to off position ." />
+</script>
+<script id="16">
+<item slot="1" text="conduct a logical search of the walls in a house for the thermostat ." />
+<item slot="2" text="relocate to the thermostat ." />
+<item slot="3" text="adjust control panel on the thermostat to lower the desired temperature ." />
+</script>
+<script id="17">
+<item slot="1" text="go the thermostat ." />
+<item slot="2" text="press the off switch ." />
+</script>
+<script id="18">
+<item slot="1" text="locate thermostat ." />
+<item slot="2" text="switch to off position ." />
+</script>
+<script id="19">
+<item slot="1" text="locate thermostat ." />
+<item slot="2" text="turn down thermostat ." />
+</script>
+<script id="20">
+<item slot="1" text="walk to immediate vicinity of thermostat ." />
+<item slot="2" text="turn the thermostat down until the heat turns off ." />
+</script>
+<script id="21">
+<item slot="1" text="walk toward heater ." />
+<item slot="2" text="turn switch or knob to off ." />
+</script>
+<script id="22">
+<item slot="1" text="going to heating system ." />
+<item slot="2" text="switching the power off ." />
+</script>
+<script id="23">
+<item slot="1" text="locate thermostat ." />
+<item slot="2" text="locate control dial on thermostat ." />
+<item slot="3" text="turn control dial to cooler temperature ." />
+<item slot="4" text="wait for heat to be turned off ." />
+</script>
+<script id="24">
+<item slot="1" text="locate the switch ." />
+<item slot="2" text="turn off the heat ." />
+</script>
+<script id="25">
+<item slot="1" text="go to the thermostat ." />
+<item slot="2" text="set heat to off ." />
+</script>
+<script id="26">
+<item slot="1" text="walk to switch ." />
+<item slot="2" text="turn switch off ." />
+</script>
+<script id="27">
+<item slot="1" text="find the thermostat ." />
+<item slot="2" text="set the temperature lower ." />
+</script>
+<script id="28">
+<item slot="1" text="get up ." />
+<item slot="2" text="go to the thermostat ." />
+<item slot="3" text="turn the thermostat down ." />
+</script>
+<script id="29">
+<item slot="1" text="get up ." />
+<item slot="2" text="go to the thermostat ." />
+<item slot="3" text="turn the thermostat down ." />
+</script>
+<script id="30">
+<item slot="1" text="get up ." />
+<item slot="2" text="go to the thermostat ." />
+<item slot="3" text="turn the thermostat down ." />
+</script>
+<script id="31">
+<item slot="1" text="get up ." />
+<item slot="2" text="go to the thermostat ." />
+<item slot="3" text="turn the thermostat down ." />
+</script>
+<script id="32">
+<item slot="1" text="get up ." />
+<item slot="2" text="go to the thermostat ." />
+<item slot="3" text="turn the thermostat down ." />
+</script>
+<script id="33">
+<item slot="1" text="get up ." />
+<item slot="2" text="go to the thermostat ." />
+<item slot="3" text="turn the thermostat down ." />
+</script>
+<script id="34">
+<item slot="1" text="get up ." />
+<item slot="2" text="go to the thermostat ." />
+<item slot="3" text="turn the thermostat down ." />
+</script>
+<script id="35">
+<item slot="1" text="get up ." />
+<item slot="2" text="go to the thermostat ." />
+<item slot="3" text="turn the thermostat down ." />
+</script>
+<script id="36">
+<item slot="1" text="walk to thermometer ." />
+<item slot="2" text="turn dial to off or lowest setting ." />
+</script>
+<script id="37">
+<item slot="1" text="turn down thermostat ." />
+</script>
+<script id="38">
+<item slot="1" text="check the current temperature ." />
+<item slot="2" text="turn the thermostat don to a temperature below the current one ." />
+</script>
+<script id="39">
+<item slot="1" text="find the heat controller ." />
+<item slot="2" text="turn it to the off position ." />
+</script>
+<script id="40">
+<item slot="1" text="find the heat controller ." />
+<item slot="2" text="turn it to the off position ." />
+</script>
+<script id="41">
+<item slot="1" text="turn the thermostat to the left ." />
+</script>
+<script id="42">
+<item slot="1" text="turning the knob ." />
+</script>
+<script id="43">
+<item slot="1" text="turning the knob ." />
+</script>
+<script id="44">
+<item slot="1" text="find thermostat ." />
+<item slot="2" text="turn switch labeled 'heat' to  the 'off' position ." />
+</script>
+<script id="45">
+<item slot="1" text="find thermostat ." />
+<item slot="2" text="turn switch labeled 'heat' to  the 'off' position ." />
+</script>
+<script id="46">
+<item slot="1" text="go to the thermostat ." />
+<item slot="2" text="turn dial to off position ." />
+</script>
+<script id="47">
+<item slot="1" text="go to the thermostat ." />
+<item slot="2" text="turn dial to off position ." />
+</script>
+<script id="48">
+<item slot="1" text="go to the thermostat ." />
+<item slot="2" text="turn dial to off position ." />
+</script>
+<script id="49">
+<item slot="1" text="go to the thermostat ." />
+<item slot="2" text="turn dial to off position ." />
+</script>
+<script id="50">
+<item slot="1" text="go to the thermostat ." />
+<item slot="2" text="turn dial to off position ." />
+</script>
+<script id="51">
+<item slot="1" text="go to the thermostat ." />
+<item slot="2" text="turn dial to off position ." />
+</script>
+<script id="52">
+<item slot="1" text="turn ." />
+</script>
+<script id="53">
+<item slot="1" text="find thermostat ." />
+<item slot="2" text="find heat 'on/off' switch ." />
+<item slot="3" text="turn switch to 'off' ." />
+</script>
+<script id="54">
+<item slot="1" text="find thermostat ." />
+<item slot="2" text="find heat 'on/off' switch ." />
+<item slot="3" text="turn switch to 'off' ." />
+</script>
+<script id="55">
+<item slot="1" text="find thermostat ." />
+<item slot="2" text="find heat 'on/off' switch ." />
+<item slot="3" text="turn switch to 'off' ." />
+</script>
+<script id="56">
+<item slot="1" text="turn heat switch off ." />
+</script>
+<script id="57">
+<item slot="1" text="turn heat switch off ." />
+</script>
+<script id="58">
+<item slot="1" text="find the heat source ." />
+<item slot="2" text="reach for the knob switch or button ." />
+<item slot="3" text="turn the knob switch or button to the off position ." />
+</script>
+<script id="59">
+<item slot="1" text="walk to thermostat ." />
+<item slot="2" text="turn off thermostat ." />
+</script>
+<script id="60">
+<item slot="1" text="walk to swich ." />
+<item slot="2" text="pull it ." />
+</script>
+<script id="61">
+<item slot="1" text="turn the switch off ." />
+<item slot="2" text="don t put anything on top of the stove ." />
+</script>
+<script id="62">
+<item slot="1" text="find dial ." />
+<item slot="2" text="turn counter clockwise ." />
+<item slot="3" text="stop ion the blue section ." />
+<item slot="4" text="find fan dial ." />
+<item slot="5" text="turn left ." />
+</script>
+<script id="63">
+<item slot="1" text="find dial ." />
+<item slot="2" text="turn counter clockwise ." />
+<item slot="3" text="stop ion the blue section ." />
+<item slot="4" text="find fan dial ." />
+<item slot="5" text="turn left ." />
+</script>
+<script id="64">
+<item slot="1" text="find dial ." />
+<item slot="2" text="turn counter clockwise ." />
+<item slot="3" text="stop ion the blue section ." />
+<item slot="4" text="find fan dial ." />
+<item slot="5" text="turn left ." />
+</script>
+<script id="65">
+<item slot="1" text="walk to the thermalstat ." />
+<item slot="2" text="place hand on dial ." />
+<item slot="3" text="turn the dial ." />
+</script>
+</scripts>

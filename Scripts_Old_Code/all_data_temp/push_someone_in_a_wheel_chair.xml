@@ -1,0 +1,227 @@
+<scripts>
+<script id="1">
+<item slot="1" text="grip chair ." />
+<item slot="2" text="move forward ." />
+<item slot="3" text="turn in direction requested ." />
+<item slot="4" text="stop when requested ." />
+</script>
+<script id="2">
+<item slot="1" text="go to wheelchair ." />
+<item slot="2" text="grip wheelchair ." />
+<item slot="3" text="push in direction requested ." />
+<item slot="4" text="stop when requested ." />
+</script>
+<script id="3">
+<item slot="1" text="push ." />
+</script>
+<script id="4">
+<item slot="1" text="move behind chair ." />
+<item slot="2" text="place hands on handles ." />
+<item slot="3" text="push forward ." />
+<item slot="4" text="walk forward ." />
+</script>
+<script id="5">
+<item slot="1" text="place someone into a wheelchair ." />
+<item slot="2" text="push the chair with your hands ." />
+</script>
+<script id="6">
+<item slot="1" text="place person in wheelchair ." />
+<item slot="2" text="step behind wheelchair ." />
+<item slot="3" text="take hold of the handles on the wheelchair ." />
+<item slot="4" text="push and walk behind the chair ." />
+<item slot="5" text="do not let go as long as you are pushing ." />
+</script>
+<script id="7">
+<item slot="1" text="help someone to sit in a wheelchair ." />
+<item slot="2" text="push the wheelchair to the location to which the person wishes to go ." />
+</script>
+<script id="8">
+<item slot="1" text="grasp the wheel chair handles ." />
+<item slot="2" text="walk forward ." />
+</script>
+<script id="9">
+<item slot="1" text="face wheel chair in the desired direction ." />
+<item slot="2" text="position yourself behind the wheel chair ." />
+<item slot="3" text="move forward ." />
+<item slot="4" text="continue moving until wheel chair is at the desired location ." />
+</script>
+<script id="10">
+<item slot="1" text="ask someone to sit in the wheel chair ." />
+<item slot="2" text="hold the wheel chair handles ." />
+<item slot="3" text="push the wheel chair ." />
+</script>
+<script id="11">
+<item slot="1" text="grab the handles of the weelchair ." />
+<item slot="2" text="start walking ." />
+</script>
+<script id="12">
+<item slot="1" text="ask whether you can assist ." />
+<item slot="2" text="push wheel chair ." />
+</script>
+<script id="13">
+<item slot="1" text="hold wheel chair handles ." />
+<item slot="2" text="start walking and push hand forward ." />
+<item slot="3" text="make sure wheel chair at safe distance in front of you ." />
+</script>
+<script id="14">
+<item slot="1" text="get behind the wheel chair ." />
+<item slot="2" text="lean against wheel chair so that it moves slowly ." />
+<item slot="3" text="start waking still leaning forward ." />
+</script>
+<script id="15">
+<item slot="1" text="get behind the person s wheelchair ." />
+<item slot="2" text="grab on to the wheelchair handles ." />
+<item slot="3" text="walk while applying pressure forward to the wheelchair ." />
+</script>
+<script id="16">
+<item slot="1" text="hold onto wheel chair handles ." />
+<item slot="2" text="push wheel chair forward ." />
+</script>
+<script id="17">
+<item slot="1" text="hold the handle of the wheel chair ." />
+<item slot="2" text="ask the person if he s ready ." />
+<item slot="3" text="push the wheel chair slowly ." />
+</script>
+<script id="18">
+<item slot="1" text="ask the person where they want to go ." />
+<item slot="2" text="grab the handles of the wheelchair ." />
+<item slot="3" text="lean a little forward and start walking ." />
+</script>
+<script id="19">
+<item slot="1" text="unlock wheels ." />
+<item slot="2" text="push ." />
+</script>
+<script id="20">
+<item slot="1" text="find someone in a wheel chair ." />
+<item slot="2" text="understand direction ." />
+<item slot="3" text="exert force on the wheel chair ." />
+</script>
+<script id="21">
+<item slot="1" text="ask the person where they d like to go ." />
+<item slot="2" text="walk behind wheelchair ." />
+<item slot="3" text="take hold of handles ." />
+<item slot="4" text="walk slowly and smoothly pushing ." />
+</script>
+<script id="22">
+<item slot="1" text="push on  the back handles ." />
+</script>
+<script id="23">
+<item slot="1" text="stand behind wheel chair ." />
+<item slot="2" text="grab handles ." />
+<item slot="3" text="ensure person is properly in chair ." />
+<item slot="4" text="walk forward slowly whilst holding handles ." />
+<item slot="5" text="move hands in direction needed to go ." />
+</script>
+<script id="24">
+<item slot="1" text="grasp handles ." />
+<item slot="2" text="push slowly ." />
+</script>
+<script id="25">
+<item slot="1" text="grab onto wheelchair handles ." />
+<item slot="2" text="release wheelchair brakes ." />
+<item slot="3" text="push wheelchair ." />
+</script>
+<script id="26">
+<item slot="1" text="push ." />
+</script>
+<script id="27">
+<item slot="1" text="push ." />
+</script>
+<script id="28">
+<item slot="1" text="push ." />
+</script>
+<script id="29">
+<item slot="1" text="push ." />
+</script>
+<script id="30">
+<item slot="1" text="push ." />
+</script>
+<script id="31">
+<item slot="1" text="push ." />
+</script>
+<script id="32">
+<item slot="1" text="grab handles ." />
+<item slot="2" text="push forward ." />
+</script>
+<script id="33">
+<item slot="1" text="find wheel chair ." />
+<item slot="2" text="have person sit in chair ." />
+<item slot="3" text="push chair from behind ." />
+</script>
+<script id="34">
+<item slot="1" text="find wheel chair ." />
+<item slot="2" text="have person sit in chair ." />
+<item slot="3" text="push chair from behind ." />
+</script>
+<script id="35">
+<item slot="1" text="find wheel chair ." />
+<item slot="2" text="have person sit in chair ." />
+<item slot="3" text="push chair from behind ." />
+</script>
+<script id="36">
+<item slot="1" text="find wheel chair ." />
+<item slot="2" text="have person sit in chair ." />
+<item slot="3" text="push chair from behind ." />
+</script>
+<script id="37">
+<item slot="1" text="find wheel chair ." />
+<item slot="2" text="have person sit in chair ." />
+<item slot="3" text="push chair from behind ." />
+</script>
+<script id="38">
+<item slot="1" text="find wheel chair ." />
+<item slot="2" text="have person sit in chair ." />
+<item slot="3" text="push chair from behind ." />
+</script>
+<script id="39">
+<item slot="1" text="release the brake ." />
+<item slot="2" text="grab both handles firmly in each hand ." />
+<item slot="3" text="push the wheel chair in the deseried direction ." />
+</script>
+<script id="40">
+<item slot="1" text="release the brake ." />
+<item slot="2" text="grab both handles firmly in each hand ." />
+<item slot="3" text="push the wheel chair in the deseried direction ." />
+</script>
+<script id="41">
+<item slot="1" text="release the brake ." />
+<item slot="2" text="grab both handles firmly in each hand ." />
+<item slot="3" text="push the wheel chair in the deseried direction ." />
+</script>
+<script id="42">
+<item slot="1" text="release the brake ." />
+<item slot="2" text="grab both handles firmly in each hand ." />
+<item slot="3" text="push the wheel chair in the deseried direction ." />
+</script>
+<script id="43">
+<item slot="1" text="take hold of the handles ." />
+<item slot="2" text="push with gentle force ." />
+<item slot="3" text="walk with the chair in front of you ." />
+</script>
+<script id="44">
+<item slot="1" text="put hands on handle ." />
+<item slot="2" text="walk and push chair ." />
+</script>
+<script id="45">
+<item slot="1" text="put hands on handle ." />
+<item slot="2" text="walk and push chair ." />
+</script>
+<script id="46">
+<item slot="1" text="take wheel chair ." />
+<item slot="2" text="grab handle ." />
+<item slot="3" text="push the chair ." />
+</script>
+<script id="47">
+<item slot="1" text="take wheel chair ." />
+<item slot="2" text="grab handle ." />
+<item slot="3" text="push the chair ." />
+</script>
+<script id="48">
+<item slot="1" text="take hold of the handles ." />
+<item slot="2" text="push wheelchair ." />
+</script>
+<script id="49">
+<item slot="1" text="take hold of the handles ." />
+<item slot="2" text="push wheelchair ." />
+</script>
+</scripts>

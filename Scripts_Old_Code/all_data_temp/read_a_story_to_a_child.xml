@@ -1,0 +1,497 @@
+<scripts>
+<script id="1">
+<item slot="1" text="pick up a story book ." />
+<item slot="2" text="move close to the child ." />
+<item slot="3" text="turn to page one of the book ." />
+<item slot="4" text="start reading from the book ." />
+<item slot="5" text="once end of a page is reached move to the next page ." />
+<item slot="6" text="stop when child is asleep or asked to stop ." />
+</script>
+<script id="2">
+<item slot="1" text="get book ." />
+<item slot="2" text="open at begining of story ." />
+<item slot="3" text="start reading from book ." />
+<item slot="4" text="pause at important moments ." />
+<item slot="5" text="end story ." />
+</script>
+<script id="3">
+<item slot="1" text="choose a story with the child ." />
+<item slot="2" text="open the book at the beginning of the story ." />
+<item slot="3" text="read the story out loud ." />
+</script>
+<script id="4">
+<item slot="1" text="get book ." />
+<item slot="2" text="open book to desired page ." />
+<item slot="3" text="read story ." />
+<item slot="4" text="close book ." />
+</script>
+<script id="5">
+<item slot="1" text="find a story ." />
+<item slot="2" text="find a child ." />
+<item slot="3" text="read the words on a page of the story to the child ." />
+<item slot="4" text="turn the page ." />
+<item slot="5" text="repeat until you have read all of the pages ." />
+</script>
+<script id="6">
+<item slot="1" text="choose a story to read to the child ." />
+<item slot="2" text="sit down in a chair with the child in your lap ." />
+<item slot="3" text="open the book to the beginning of the story ." />
+<item slot="4" text="begin to read the book ." />
+<item slot="5" text="turn the pages when necessary ." />
+</script>
+<script id="7">
+<item slot="1" text="locate a child ." />
+<item slot="2" text="locate an appropriate children s story to read ." />
+<item slot="3" text="recite the text from the story from beginning to end ." />
+</script>
+<script id="8">
+<item slot="1" text="get a book ." />
+<item slot="2" text="sit down with a child ." />
+<item slot="3" text="open the book ." />
+<item slot="4" text="read the book out loud to the child ." />
+</script>
+<script id="9">
+<item slot="1" text="get child in bed ." />
+<item slot="2" text="get book ." />
+<item slot="3" text="open book at the correct page ." />
+<item slot="4" text="start reading ." />
+<item slot="5" text="when child is asleep stop reading ." />
+<item slot="6" text="mark the page ." />
+<item slot="7" text="close book ." />
+</script>
+<script id="10">
+<item slot="1" text="choose book ." />
+<item slot="2" text="open book ." />
+<item slot="3" text="read book ." />
+</script>
+<script id="11">
+<item slot="1" text="get book ." />
+<item slot="2" text="open book ." />
+<item slot="3" text="read aloud to child ." />
+</script>
+<script id="12">
+<item slot="1" text="select a book ." />
+<item slot="2" text="sit next to the child ." />
+<item slot="3" text="open the book ." />
+<item slot="4" text="read the words written in the book ." />
+<item slot="5" text="close the book ." />
+<item slot="6" text="return the book ." />
+</script>
+<script id="13">
+<item slot="1" text="get a story book ." />
+<item slot="2" text="open the story book where you stoped yesterday (if not new) ." />
+<item slot="3" text="breif the child about what you read yesterday ." />
+<item slot="4" text="begine reading the story ." />
+</script>
+<script id="14">
+<item slot="1" text="find the child ." />
+<item slot="2" text="find a story ." />
+<item slot="3" text="open story to first page ." />
+<item slot="4" text="read story to child ." />
+</script>
+<script id="15">
+<item slot="1" text="find comfortable place to sit ." />
+<item slot="2" text="sit down with child ." />
+<item slot="3" text="find age appropreate book for child ." />
+<item slot="4" text="open book ." />
+<item slot="5" text="read book with child ." />
+<item slot="6" text="look at pictures with child ." />
+<item slot="7" text="tell child name or author of book ." />
+</script>
+<script id="16">
+<item slot="1" text="determine if child wants to be read to ." />
+<item slot="2" text="ask what they want to hear ." />
+<item slot="3" text="listen to their answer ." />
+<item slot="4" text="find the book ." />
+<item slot="5" text="find a comfortable setting to read ." />
+<item slot="6" text="read the story ." />
+<item slot="7" text="tuck in sleeping child ." />
+</script>
+<script id="17">
+<item slot="1" text="sit child down ." />
+<item slot="2" text="open book ." />
+<item slot="3" text="read book ." />
+</script>
+<script id="18">
+<item slot="1" text="sit child down ." />
+<item slot="2" text="open book ." />
+<item slot="3" text="read book ." />
+</script>
+<script id="19">
+<item slot="1" text="discern if child wants to hear a story ." />
+<item slot="2" text="ask child for story suggestions ." />
+<item slot="3" text="decide on story ." />
+<item slot="4" text="find book ." />
+<item slot="5" text="find place to read ." />
+<item slot="6" text="read to child ." />
+<item slot="7" text="tuck in sleeping child ." />
+</script>
+<script id="20">
+<item slot="1" text="choose a book ." />
+<item slot="2" text="sit down next to child ." />
+<item slot="3" text="read the words in the book ." />
+<item slot="4" text="put book away ." />
+</script>
+<script id="21">
+<item slot="1" text="sit a child down ." />
+<item slot="2" text="sit near the child ." />
+<item slot="3" text="open book ." />
+<item slot="4" text="find first page ." />
+<item slot="5" text="start reading sentences ." />
+</script>
+<script id="22">
+<item slot="1" text="select a story ." />
+<item slot="2" text="ask the child to sit and be still ." />
+<item slot="3" text="open the story to the beginning ." />
+<item slot="4" text="read the page ." />
+<item slot="5" text="pause to let child see pictures ." />
+<item slot="6" text="turn page ." />
+<item slot="7" text="read ." />
+</script>
+<script id="23">
+<item slot="1" text="select a story ." />
+<item slot="2" text="ask the child to sit and be still ." />
+<item slot="3" text="open the story to the beginning ." />
+<item slot="4" text="read the page ." />
+<item slot="5" text="pause to let child see pictures ." />
+<item slot="6" text="turn page ." />
+<item slot="7" text="repeat steps 4 - 6 until the story is finished ." />
+</script>
+<script id="24">
+<item slot="1" text="choose a book ." />
+<item slot="2" text="sit with child ." />
+<item slot="3" text="read the first page ." />
+<item slot="4" text="turn the page ." />
+<item slot="5" text="repeat steps three and four ." />
+</script>
+<script id="25">
+<item slot="1" text="choose a book ." />
+<item slot="2" text="read the book aloud ." />
+</script>
+<script id="26">
+<item slot="1" text="choose a book ." />
+<item slot="2" text="read the book aloud ." />
+</script>
+<script id="27">
+<item slot="1" text="choose a book ." />
+<item slot="2" text="read the book aloud ." />
+</script>
+<script id="28">
+<item slot="1" text="find a book ." />
+</script>
+<script id="29">
+<item slot="1" text="find a book ." />
+<item slot="2" text="open the book ." />
+<item slot="3" text="read the words ." />
+</script>
+<script id="30">
+<item slot="1" text="find a book ." />
+<item slot="2" text="open the book ." />
+<item slot="3" text="read the words ." />
+</script>
+<script id="31">
+<item slot="1" text="find a book ." />
+</script>
+<script id="32">
+<item slot="1" text="choose a story book ." />
+</script>
+<script id="33">
+<item slot="1" text="choose a story book ." />
+</script>
+<script id="34">
+<item slot="1" text="choose a book ." />
+<item slot="2" text="sit down with the child ." />
+<item slot="3" text="open the book ." />
+<item slot="4" text="turn the pages as the words are read ." />
+<item slot="5" text="show the pictures in the book to the child if there are any ." />
+</script>
+<script id="35">
+<item slot="1" text="ask the child what he/she wants to read ." />
+<item slot="2" text="get the book ." />
+<item slot="3" text="have the child sit next to you ." />
+<item slot="4" text="read the book ." />
+</script>
+<script id="36">
+<item slot="1" text="pick out a children s book ." />
+<item slot="2" text="find a story ." />
+</script>
+<script id="37">
+<item slot="1" text="pick out a children s book ." />
+<item slot="2" text="find a story ." />
+<item slot="3" text="read the story while showing the pictures to the child ." />
+</script>
+<script id="38">
+<item slot="1" text="pick out a children s book ." />
+<item slot="2" text="find a story ." />
+</script>
+<script id="39">
+<item slot="1" text="pick out a children s book ." />
+<item slot="2" text="find a story ." />
+<item slot="3" text="read the story while showing the pictures to the child ." />
+</script>
+<script id="40">
+<item slot="1" text="pick out a children s book ." />
+<item slot="2" text="find a story ." />
+</script>
+<script id="41">
+<item slot="1" text="pick out a children s book ." />
+<item slot="2" text="find a story ." />
+</script>
+<script id="42">
+<item slot="1" text="pick out a children s book ." />
+<item slot="2" text="find a story ." />
+<item slot="3" text="read the story while showing the pictures to the child ." />
+</script>
+<script id="43">
+<item slot="1" text="pick out a children s book ." />
+<item slot="2" text="find a story ." />
+<item slot="3" text="read the story while showing the pictures to the child ." />
+</script>
+<script id="44">
+<item slot="1" text="pick out a children s book ." />
+<item slot="2" text="find a story ." />
+</script>
+<script id="45">
+<item slot="1" text="pick out a children s book ." />
+<item slot="2" text="find a story ." />
+</script>
+<script id="46">
+<item slot="1" text="pick out a children s book ." />
+<item slot="2" text="find a story ." />
+</script>
+<script id="47">
+<item slot="1" text="pick out a children s book ." />
+<item slot="2" text="find a story ." />
+<item slot="3" text="read the story while showing the pictures to the child ." />
+</script>
+<script id="48">
+<item slot="1" text="pick out a children s book ." />
+<item slot="2" text="find a story ." />
+<item slot="3" text="read the story while showing the pictures to the child ." />
+</script>
+<script id="49">
+<item slot="1" text="pick out a children s book ." />
+<item slot="2" text="find a story ." />
+<item slot="3" text="read the story while showing the pictures to the child ." />
+</script>
+<script id="50">
+<item slot="1" text="pick out a children s book ." />
+<item slot="2" text="find a story ." />
+</script>
+<script id="51">
+<item slot="1" text="pick out a children s book ." />
+<item slot="2" text="find a story ." />
+<item slot="3" text="read the story while showing the pictures to the child ." />
+</script>
+<script id="52">
+<item slot="1" text="pick out a children s book ." />
+<item slot="2" text="find a story ." />
+</script>
+<script id="53">
+<item slot="1" text="pick out a children s book ." />
+<item slot="2" text="find a story ." />
+<item slot="3" text="read the story while showing the pictures to the child ." />
+</script>
+<script id="54">
+<item slot="1" text="pick out a children s book ." />
+<item slot="2" text="find a story ." />
+</script>
+<script id="55">
+<item slot="1" text="pick out a children s book ." />
+<item slot="2" text="find a story ." />
+<item slot="3" text="read the story while showing the pictures to the child ." />
+</script>
+<script id="56">
+<item slot="1" text="pick out a children s book ." />
+<item slot="2" text="find a story ." />
+</script>
+<script id="57">
+<item slot="1" text="pick out a children s book ." />
+<item slot="2" text="find a story ." />
+<item slot="3" text="read the story while showing the pictures to the child ." />
+</script>
+<script id="58">
+<item slot="1" text="pick out a children s book ." />
+<item slot="2" text="find a story ." />
+<item slot="3" text="read the story while showing the pictures to the child ." />
+</script>
+<script id="59">
+<item slot="1" text="pick out a children s book ." />
+<item slot="2" text="find a story ." />
+</script>
+<script id="60">
+<item slot="1" text="pick out a children s book ." />
+<item slot="2" text="find a story ." />
+</script>
+<script id="61">
+<item slot="1" text="pick out a children s book ." />
+<item slot="2" text="find a story ." />
+<item slot="3" text="read the story while showing the pictures to the child ." />
+</script>
+<script id="62">
+<item slot="1" text="pick out a children s book ." />
+<item slot="2" text="find a story ." />
+</script>
+<script id="63">
+<item slot="1" text="pick out a children s book ." />
+<item slot="2" text="find a story ." />
+<item slot="3" text="read the story while showing the pictures to the child ." />
+</script>
+<script id="64">
+<item slot="1" text="pick out a children s book ." />
+<item slot="2" text="find a story ." />
+</script>
+<script id="65">
+<item slot="1" text="pick out a children s book ." />
+<item slot="2" text="find a story ." />
+<item slot="3" text="read the story while showing the pictures to the child ." />
+</script>
+<script id="66">
+<item slot="1" text="choose book ." />
+<item slot="2" text="sit on sofa ." />
+<item slot="3" text="open book ." />
+<item slot="4" text="read words ." />
+<item slot="5" text="point to pictures ." />
+</script>
+<script id="67">
+<item slot="1" text="choose book ." />
+<item slot="2" text="sit on sofa ." />
+<item slot="3" text="open book ." />
+<item slot="4" text="read words ." />
+<item slot="5" text="point to pictures ." />
+</script>
+<script id="68">
+<item slot="1" text="choose book ." />
+<item slot="2" text="sit on sofa ." />
+<item slot="3" text="open book ." />
+<item slot="4" text="read words ." />
+<item slot="5" text="point to pictures ." />
+</script>
+<script id="69">
+<item slot="1" text="read the book ." />
+</script>
+<script id="70">
+<item slot="1" text="tuck child in bed ." />
+<item slot="2" text="select favorite bedtime book ." />
+<item slot="3" text="read story ." />
+<item slot="4" text="when child falls asleep stop reading ." />
+</script>
+<script id="71">
+<item slot="1" text="go to the child s room with child ." />
+<item slot="2" text="ask child what book she d like ." />
+<item slot="3" text="find that book ." />
+<item slot="4" text="open the book ." />
+<item slot="5" text="read page flip page ." />
+<item slot="6" text="repeat # 5 until end of book ." />
+<item slot="7" text="put book away ." />
+</script>
+<script id="72">
+<item slot="1" text="go to the child s room with child ." />
+<item slot="2" text="ask child what book she d like ." />
+<item slot="3" text="find that book ." />
+<item slot="4" text="open the book ." />
+<item slot="5" text="read page flip page ." />
+<item slot="6" text="repeat # 5 until end of book ." />
+<item slot="7" text="put book away ." />
+</script>
+<script id="73">
+<item slot="1" text="go to the child s room with child ." />
+<item slot="2" text="ask child what book she d like ." />
+<item slot="3" text="find that book ." />
+<item slot="4" text="open the book ." />
+<item slot="5" text="read page flip page ." />
+<item slot="6" text="repeat # 5 until end of book ." />
+<item slot="7" text="put book away ." />
+</script>
+<script id="74">
+<item slot="1" text="go to the child s room with child ." />
+<item slot="2" text="ask child what book she d like ." />
+<item slot="3" text="find that book ." />
+<item slot="4" text="open the book ." />
+<item slot="5" text="read page flip page ." />
+<item slot="6" text="repeat # 5 until end of book ." />
+<item slot="7" text="put book away ." />
+</script>
+<script id="75">
+<item slot="1" text="choose a story to read ." />
+<item slot="2" text="read the words in the story with enthusiasm ." />
+<item slot="3" text="include actions and sound effects ." />
+</script>
+<script id="76">
+<item slot="1" text="pick book ." />
+<item slot="2" text="read pages from begining ." />
+<item slot="3" text="close book when done ." />
+</script>
+<script id="77">
+<item slot="1" text="get book ." />
+<item slot="2" text="read page 1 ." />
+<item slot="3" text="turn the page ." />
+<item slot="4" text="repeat step 2 adding 1 ." />
+<item slot="5" text="close book ." />
+</script>
+<script id="78">
+<item slot="1" text="get book ." />
+<item slot="2" text="read page 1 ." />
+<item slot="3" text="turn the page ." />
+<item slot="4" text="repeat step 2 adding 1 ." />
+<item slot="5" text="close book ." />
+</script>
+<script id="79">
+<item slot="1" text="get book ." />
+<item slot="2" text="read page 1 ." />
+<item slot="3" text="turn the page ." />
+<item slot="4" text="repeat step 2 adding 1 ." />
+<item slot="5" text="close book ." />
+</script>
+<script id="80">
+<item slot="1" text="open book ." />
+<item slot="2" text="read contents ." />
+<item slot="3" text="close book ." />
+</script>
+<script id="81">
+<item slot="1" text="open book ." />
+<item slot="2" text="read contents ." />
+<item slot="3" text="close book ." />
+</script>
+<script id="82">
+<item slot="1" text="open book ." />
+<item slot="2" text="read contents ." />
+<item slot="3" text="close book ." />
+</script>
+<script id="83">
+<item slot="1" text="have child sit ." />
+<item slot="2" text="get book ." />
+<item slot="3" text="sit next to child ." />
+<item slot="4" text="open book ." />
+<item slot="5" text="read through book ." />
+</script>
+<script id="84">
+<item slot="1" text="ask child which story to read ." />
+<item slot="2" text="walk over to bookcase ." />
+<item slot="3" text="pick up desired book ." />
+<item slot="4" text="walk over to child ." />
+<item slot="5" text="sit down with child ." />
+<item slot="6" text="open to page 1 ." />
+<item slot="7" text="begin to read to child ." />
+</script>
+<script id="85">
+<item slot="1" text="ask child which story to read ." />
+<item slot="2" text="walk over to bookcase ." />
+<item slot="3" text="pick up desired book ." />
+<item slot="4" text="walk over to child ." />
+<item slot="5" text="sit down with child ." />
+<item slot="6" text="open to page 1 ." />
+<item slot="7" text="begin to read to child ." />
+</script>
+<script id="86">
+<item slot="1" text="get book ." />
+<item slot="2" text="open book ." />
+<item slot="3" text="read the story ." />
+</script>
+<script id="87">
+<item slot="1" text="get a book ." />
+<item slot="2" text="sit down with child ." />
+<item slot="3" text="open book ." />
+<item slot="4" text="read book to child ." />
+</script>
+</scripts>

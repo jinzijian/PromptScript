@@ -1,0 +1,368 @@
+<scripts>
+<script id="1">
+<item slot="1" text="locate building exit ." />
+<item slot="2" text="walk to the exit ." />
+<item slot="3" text="open the door ." />
+<item slot="4" text="walk outside ." />
+<item slot="5" text="close the door behind you ." />
+</script>
+<script id="2">
+<item slot="1" text="put on the socks ." />
+<item slot="2" text="put on the shoes ." />
+<item slot="3" text="bring the keys ." />
+<item slot="4" text="open the door ." />
+<item slot="5" text="lock the door ." />
+<item slot="6" text="start walking ." />
+</script>
+<script id="3">
+<item slot="1" text="move to the exterior door ." />
+<item slot="2" text="open the door ." />
+<item slot="3" text="walk through the doorway ." />
+<item slot="4" text="close the door behind you ." />
+</script>
+<script id="4">
+<item slot="1" text="go to exit door ." />
+<item slot="2" text="open door ." />
+<item slot="3" text="exit house ." />
+<item slot="4" text="close door ." />
+</script>
+<script id="5">
+<item slot="1" text="walk to door ." />
+<item slot="2" text="open door ." />
+<item slot="3" text="exit the house ." />
+<item slot="4" text="close door ." />
+</script>
+<script id="6">
+<item slot="1" text="open door ." />
+<item slot="2" text="walk outside ." />
+<item slot="3" text="close door ." />
+</script>
+<script id="7">
+<item slot="1" text="walk to the exit ." />
+<item slot="2" text="open door ." />
+<item slot="3" text="walk outside ." />
+<item slot="4" text="close door ." />
+</script>
+<script id="8">
+<item slot="1" text="put on shoes ." />
+<item slot="2" text="unlock door ." />
+<item slot="3" text="open door ." />
+<item slot="4" text="walk out ." />
+<item slot="5" text="close door ." />
+<item slot="6" text="lock door ." />
+</script>
+<script id="9">
+<item slot="1" text="put on shoes ." />
+<item slot="2" text="go to door ." />
+<item slot="3" text="open door ." />
+<item slot="4" text="walk outside ." />
+<item slot="5" text="close door ." />
+</script>
+<script id="10">
+<item slot="1" text="go to the front door of the house ." />
+<item slot="2" text="open the door ." />
+<item slot="3" text="walk through the door ." />
+</script>
+<script id="11">
+<item slot="1" text="go to a window inside the house ." />
+<item slot="2" text="open the window ." />
+<item slot="3" text="climb through the opening of the window ." />
+</script>
+<script id="12">
+<item slot="1" text="put shoes on ." />
+<item slot="2" text="open door ." />
+<item slot="3" text="walk outside ." />
+</script>
+<script id="13">
+<item slot="1" text="locate door ." />
+<item slot="2" text="go out door ." />
+</script>
+<script id="14">
+<item slot="1" text="open external door ." />
+<item slot="2" text="pass through door ." />
+<item slot="3" text="close external door ." />
+</script>
+<script id="15">
+<item slot="1" text="dress in appropriate clothing for the weather ." />
+<item slot="2" text="open door to the outside ." />
+<item slot="3" text="step across door sill ." />
+<item slot="4" text="close door ." />
+</script>
+<script id="16">
+<item slot="1" text="locate front door ." />
+<item slot="2" text="open front door ." />
+<item slot="3" text="walk outside door ." />
+</script>
+<script id="17">
+<item slot="1" text="open the door ." />
+<item slot="2" text="go outside ." />
+</script>
+<script id="18">
+<item slot="1" text="pick up things ." />
+<item slot="2" text="walk to outside door ." />
+<item slot="3" text="open outside door ." />
+<item slot="4" text="step through outside door ." />
+<item slot="5" text="close outside door ." />
+</script>
+<script id="19">
+<item slot="1" text="walk to door ." />
+<item slot="2" text="open door ." />
+<item slot="3" text="pass through doorway ." />
+<item slot="4" text="close door ." />
+</script>
+<script id="20">
+<item slot="1" text="put on shoes ." />
+<item slot="2" text="put on jacket or coat ." />
+<item slot="3" text="open door ." />
+<item slot="4" text="walk through door ." />
+<item slot="5" text="close door ." />
+</script>
+<script id="21">
+<item slot="1" text="walk to door ." />
+<item slot="2" text="open door ." />
+</script>
+<script id="22">
+<item slot="1" text="find exit to enclosure ." />
+<item slot="2" text="go through exit ." />
+</script>
+<script id="23">
+<item slot="1" text="open door ." />
+<item slot="2" text="go outside ." />
+</script>
+<script id="24">
+<item slot="1" text="open door ." />
+<item slot="2" text="go outside ." />
+</script>
+<script id="25">
+<item slot="1" text="walk to door ." />
+</script>
+<script id="26">
+<item slot="1" text="walk to door ." />
+<item slot="2" text="open door ." />
+<item slot="3" text="go through doorway ." />
+<item slot="4" text="close door ." />
+</script>
+<script id="27">
+<item slot="1" text="open the door ." />
+<item slot="2" text="walk outside ." />
+</script>
+<script id="28">
+<item slot="1" text="get up ." />
+<item slot="2" text="put on shoes ." />
+<item slot="3" text="check weather ." />
+<item slot="4" text="put on jacket ." />
+<item slot="5" text="move to doorway ." />
+<item slot="6" text="turn door handle ." />
+<item slot="7" text="open door and walk outside ." />
+</script>
+<script id="29">
+<item slot="1" text="walk to the door ." />
+<item slot="2" text="open the door ." />
+<item slot="3" text="go outside ." />
+<item slot="4" text="close the door ." />
+</script>
+<script id="30">
+<item slot="1" text="go to door ." />
+<item slot="2" text="put hand on door knob ." />
+<item slot="3" text="turn the door knob to  he right ." />
+<item slot="4" text="pull on the door ." />
+<item slot="5" text="walk through threshold ." />
+<item slot="6" text="pull door closed behind you ." />
+</script>
+<script id="31">
+<item slot="1" text="walk to the door ." />
+<item slot="2" text="turn handleon the door ." />
+<item slot="3" text="pull the door open ." />
+<item slot="4" text="walk through the door ." />
+<item slot="5" text="pull the door shut ." />
+<item slot="6" text="walk away from door ." />
+</script>
+<script id="32">
+<item slot="1" text="walk to the door ." />
+<item slot="2" text="turn handleon the door ." />
+<item slot="3" text="pull the door open ." />
+<item slot="4" text="walk through the door ." />
+<item slot="5" text="pull the door shut ." />
+<item slot="6" text="walk away from door ." />
+</script>
+<script id="33">
+<item slot="1" text="open the door ." />
+<item slot="2" text="exit the house ." />
+</script>
+<script id="34">
+<item slot="1" text="open the door ." />
+<item slot="2" text="exit the house ." />
+</script>
+<script id="35">
+<item slot="1" text="select the place to go outside ." />
+<item slot="2" text="select the transport ." />
+<item slot="3" text="go to the place ." />
+</script>
+<script id="36">
+<item slot="1" text="proceed to outside door ." />
+<item slot="2" text="unlock and open door ." />
+<item slot="3" text="go outside ." />
+<item slot="4" text="shut door ." />
+</script>
+<script id="37">
+<item slot="1" text="put on coat ." />
+<item slot="2" text="ensure you have your keys ." />
+<item slot="3" text="open the door ." />
+<item slot="4" text="step out ." />
+<item slot="5" text="close door ." />
+<item slot="6" text="lock the door ." />
+<item slot="7" text="walk ." />
+</script>
+<script id="38">
+<item slot="1" text="open the door ." />
+<item slot="2" text="step outside ." />
+<item slot="3" text="close the door ." />
+</script>
+<script id="39">
+<item slot="1" text="put on shoes ." />
+<item slot="2" text="put on coat ." />
+<item slot="3" text="unlock door ." />
+<item slot="4" text="open door ." />
+<item slot="5" text="walk outside ." />
+</script>
+<script id="40">
+<item slot="1" text="put outdoor clothing on and put on shoes ." />
+<item slot="2" text="open doors ." />
+<item slot="3" text="walk outside ." />
+</script>
+<script id="41">
+<item slot="1" text="walk ." />
+<item slot="2" text="walk outside ." />
+<item slot="3" text="walk ." />
+<item slot="4" text="walk ." />
+<item slot="5" text="walk around ." />
+<item slot="6" text="walk inside ." />
+<item slot="7" text="sit down on couch ." />
+</script>
+<script id="42">
+<item slot="1" text="open door ." />
+<item slot="2" text="go outside ." />
+</script>
+<script id="43">
+<item slot="1" text="open door ." />
+<item slot="2" text="go outside ." />
+</script>
+<script id="44">
+<item slot="1" text="open door ." />
+<item slot="2" text="go outside ." />
+</script>
+<script id="45">
+<item slot="1" text="open door ." />
+<item slot="2" text="go outside ." />
+</script>
+<script id="46">
+<item slot="1" text="open door ." />
+<item slot="2" text="go outside ." />
+</script>
+<script id="47">
+<item slot="1" text="open door ." />
+<item slot="2" text="go outside ." />
+</script>
+<script id="48">
+<item slot="1" text="walk to door ." />
+<item slot="2" text="turn door knob ." />
+<item slot="3" text="open door ." />
+<item slot="4" text="step outside ." />
+<item slot="5" text="close door ." />
+</script>
+<script id="49">
+<item slot="1" text="walk to door ." />
+<item slot="2" text="turn door knob ." />
+<item slot="3" text="open door ." />
+<item slot="4" text="step outside ." />
+<item slot="5" text="close door ." />
+</script>
+<script id="50">
+<item slot="1" text="walk to door ." />
+<item slot="2" text="open door ." />
+<item slot="3" text="step through door ." />
+<item slot="4" text="close door ." />
+<item slot="5" text="walk forward ." />
+</script>
+<script id="51">
+<item slot="1" text="put on appropriate footwear ." />
+<item slot="2" text="put on jacket or sweater if outdoor temperature is cool ." />
+<item slot="3" text="open door ." />
+<item slot="4" text="step outside ." />
+<item slot="5" text="close door behind you ." />
+</script>
+<script id="52">
+<item slot="1" text="put on appropriate footwear ." />
+<item slot="2" text="put on jacket or sweater if outdoor temperature is cool ." />
+<item slot="3" text="open door ." />
+<item slot="4" text="step outside ." />
+<item slot="5" text="close door behind you ." />
+</script>
+<script id="53">
+<item slot="1" text="put on appropriate footwear ." />
+<item slot="2" text="put on jacket or sweater if outdoor temperature is cool ." />
+<item slot="3" text="open door ." />
+<item slot="4" text="step outside ." />
+<item slot="5" text="close door behind you ." />
+</script>
+<script id="54">
+<item slot="1" text="get up ." />
+<item slot="2" text="walk down stairs ." />
+<item slot="3" text="put on shoes ." />
+<item slot="4" text="open door ." />
+<item slot="5" text="go outside ." />
+</script>
+<script id="55">
+<item slot="1" text="get up ." />
+<item slot="2" text="walk down stairs ." />
+<item slot="3" text="put on shoes ." />
+<item slot="4" text="open door ." />
+<item slot="5" text="go outside ." />
+</script>
+<script id="56">
+<item slot="1" text="put on shoes ." />
+<item slot="2" text="open door ." />
+<item slot="3" text="walk outside ." />
+</script>
+<script id="57">
+<item slot="1" text="put on shoes ." />
+<item slot="2" text="open door ." />
+<item slot="3" text="walk outside ." />
+</script>
+<script id="58">
+<item slot="1" text="put on shoes ." />
+<item slot="2" text="open door ." />
+<item slot="3" text="walk outside ." />
+</script>
+<script id="59">
+<item slot="1" text="get up ." />
+<item slot="2" text="go to the front door ." />
+<item slot="3" text="put on shoes ." />
+<item slot="4" text="open door ." />
+<item slot="5" text="walk outside ." />
+</script>
+<script id="60">
+<item slot="1" text="get up ." />
+<item slot="2" text="go to the front door ." />
+<item slot="3" text="put on shoes ." />
+<item slot="4" text="open door ." />
+<item slot="5" text="walk outside ." />
+</script>
+<script id="61">
+<item slot="1" text="get up ." />
+<item slot="2" text="go to the front door ." />
+<item slot="3" text="put on shoes ." />
+<item slot="4" text="open door ." />
+<item slot="5" text="walk outside ." />
+</script>
+<script id="62">
+<item slot="1" text="put on shoes ." />
+<item slot="2" text="open the door ." />
+<item slot="3" text="walk outside ." />
+</script>
+<script id="63">
+<item slot="1" text="open the door ." />
+<item slot="2" text="step outside ." />
+<item slot="3" text="close the door behind you ." />
+</script>
+</scripts>

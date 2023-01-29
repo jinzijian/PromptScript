@@ -1,0 +1,304 @@
+<scripts>
+<script id="1">
+<item slot="1" text="locate vcr or dvd player ." />
+<item slot="2" text="get tape or dvd ." />
+<item slot="3" text="insert tape or dvd ." />
+<item slot="4" text="press play ." />
+</script>
+<script id="2">
+<item slot="1" text="find a movie casette or disc ." />
+<item slot="2" text="place movie casette or disc into movie playing device ." />
+<item slot="3" text="turn playing device on ." />
+<item slot="4" text="press the playing device s play button ." />
+</script>
+<script id="3">
+<item slot="1" text="turn on the dvd player ." />
+<item slot="2" text="turn on the television ." />
+<item slot="3" text="put the dvd into the dvd player ." />
+<item slot="4" text="connect the dvd player to the television ." />
+<item slot="5" text="set the television for dvd player input ." />
+<item slot="6" text="press play on the dvd player remote ." />
+</script>
+<script id="4">
+<item slot="1" text="get movie ." />
+<item slot="2" text="insert movie into player ." />
+<item slot="3" text="press play ." />
+</script>
+<script id="5">
+<item slot="1" text="get movie ." />
+<item slot="2" text="place movie into player ." />
+<item slot="3" text="start player ." />
+</script>
+<script id="6">
+<item slot="1" text="put tape into videoplayer ." />
+<item slot="2" text="turn on tv on video channel ." />
+<item slot="3" text="press start on videoplayer ." />
+</script>
+<script id="7">
+<item slot="1" text="insert movie into player ." />
+<item slot="2" text="turn on tv ." />
+<item slot="3" text="start movie player ." />
+</script>
+<script id="8">
+<item slot="1" text="turn the dvd player on ." />
+<item slot="2" text="put movie in dvd player ." />
+<item slot="3" text="turn the tv on ." />
+<item slot="4" text="put appropriate channel ." />
+<item slot="5" text="press play ." />
+</script>
+<script id="9">
+<item slot="1" text="extract movie media from case ." />
+<item slot="2" text="insert movie media into player ." />
+<item slot="3" text="press play ." />
+<item slot="4" text="turn on tv if needed ." />
+</script>
+<script id="10">
+<item slot="1" text="locate movie ." />
+<item slot="2" text="locate dvd player ." />
+<item slot="3" text="turn on dvd player ." />
+<item slot="4" text="insert movie into dvd player ." />
+<item slot="5" text="press play ." />
+</script>
+<script id="11">
+<item slot="1" text="select movie to play ." />
+<item slot="2" text="determine media of movie ." />
+<item slot="3" text="put movie in vhs player or dvd player ." />
+<item slot="4" text="press start ." />
+<item slot="5" text="switch television set op ." />
+</script>
+<script id="12">
+<item slot="1" text="find dvd ." />
+<item slot="2" text="put dvd into dvd player ." />
+<item slot="3" text="press the play button on the dvd player ." />
+</script>
+<script id="13">
+<item slot="1" text="find movie ." />
+<item slot="2" text="remove movie from case ." />
+<item slot="3" text="put movie in player ." />
+<item slot="4" text="start movie ." />
+<item slot="5" text="watch movie ." />
+<item slot="6" text="rewind movie (if necessary) ." />
+<item slot="7" text="put movie away ." />
+</script>
+<script id="14">
+<item slot="1" text="acquire a dvd or vhs tape ." />
+<item slot="2" text="put the tape or dvd in the player ." />
+<item slot="3" text="push the play button ." />
+</script>
+<script id="15">
+<item slot="1" text="remove movie from box ." />
+<item slot="2" text="turn on player ." />
+<item slot="3" text="insert movie into player ." />
+<item slot="4" text="turn on tv ." />
+<item slot="5" text="press play button on player ." />
+</script>
+<script id="16">
+<item slot="1" text="put the movie in a player ." />
+<item slot="2" text="press on to start playing the movie ." />
+</script>
+<script id="17">
+<item slot="1" text="choose a movie ." />
+<item slot="2" text="put the movie in the player ." />
+<item slot="3" text="turn the player on ." />
+<item slot="4" text="press the play button on the player ." />
+</script>
+<script id="18">
+<item slot="1" text="buy/rent dvd ." />
+<item slot="2" text="take it home ." />
+<item slot="3" text="turn on tv ." />
+<item slot="4" text="turn on dvd player ." />
+<item slot="5" text="put dvd in dvd player ." />
+<item slot="6" text="press play ." />
+<item slot="7" text="select 'watch movie' from the menu ." />
+</script>
+<script id="19">
+<item slot="1" text="buy/rent dvd ." />
+<item slot="2" text="take it home ." />
+<item slot="3" text="turn on tv ." />
+<item slot="4" text="turn on dvd player ." />
+<item slot="5" text="put dvd in dvd player ." />
+<item slot="6" text="press play ." />
+<item slot="7" text="select 'watch movie' from the menu ." />
+</script>
+<script id="20">
+<item slot="1" text="put movie in dvd player ." />
+<item slot="2" text="push the play button ." />
+</script>
+<script id="21">
+<item slot="1" text="put movie in dvd player ." />
+<item slot="2" text="push the play button ." />
+</script>
+<script id="22">
+<item slot="1" text="turn on tv ." />
+<item slot="2" text="turn on player ." />
+<item slot="3" text="insert movie ." />
+<item slot="4" text="press play ." />
+</script>
+<script id="23">
+<item slot="1" text="insert  movie into player ." />
+<item slot="2" text="turn on player ." />
+<item slot="3" text="hit play ." />
+</script>
+<script id="24">
+<item slot="1" text="choose a movie ." />
+<item slot="2" text="open the movie case ." />
+<item slot="3" text="remove movie from case ." />
+<item slot="4" text="turn dvd player on ." />
+<item slot="5" text="open dvd tray ." />
+<item slot="6" text="insert movie ." />
+<item slot="7" text="close tray ." />
+</script>
+<script id="25">
+<item slot="1" text="open dvd player door ." />
+<item slot="2" text="insert dvd ." />
+<item slot="3" text="close dvd playe door ." />
+<item slot="4" text="turn on tv ." />
+</script>
+<script id="26">
+<item slot="1" text="put movie in dvd player ." />
+<item slot="2" text="press play ." />
+</script>
+<script id="27">
+<item slot="1" text="remove movie dvd from case ." />
+<item slot="2" text="place dvd in tray in dvd player ." />
+<item slot="3" text="turn tv to channel 3 ." />
+<item slot="4" text="press play ." />
+<item slot="5" text="when menu shows select 'play movie' ." />
+</script>
+<script id="28">
+<item slot="1" text="turn on dvd player ." />
+<item slot="2" text="take movie out of sleeve ." />
+<item slot="3" text="put into dvd player ." />
+<item slot="4" text="close disc drawer ." />
+<item slot="5" text="press play on dvd player ." />
+</script>
+<script id="29">
+<item slot="1" text="insert dvd ." />
+<item slot="2" text="select play ." />
+</script>
+<script id="30">
+<item slot="1" text="insert dvd ." />
+<item slot="2" text="select play ." />
+</script>
+<script id="31">
+<item slot="1" text="insert dvd ." />
+<item slot="2" text="select play ." />
+</script>
+<script id="32">
+<item slot="1" text="insert dvd ." />
+<item slot="2" text="select play ." />
+</script>
+<script id="33">
+<item slot="1" text="insert dvd ." />
+<item slot="2" text="select play ." />
+</script>
+<script id="34">
+<item slot="1" text="insert dvd ." />
+<item slot="2" text="select play ." />
+</script>
+<script id="35">
+<item slot="1" text="turn on dvd player ." />
+<item slot="2" text="insert dvd into dvd player ." />
+<item slot="3" text="close dvd tray ." />
+<item slot="4" text="turn on tv ." />
+<item slot="5" text="switch to dvd mode ." />
+<item slot="6" text="push play ." />
+</script>
+<script id="36">
+<item slot="1" text="turn on dvd player ." />
+<item slot="2" text="insert dvd into dvd player ." />
+<item slot="3" text="close dvd tray ." />
+<item slot="4" text="turn on tv ." />
+<item slot="5" text="switch to dvd mode ." />
+<item slot="6" text="push play ." />
+</script>
+<script id="37">
+<item slot="1" text="turn on dvd player ." />
+<item slot="2" text="insert dvd into dvd player ." />
+<item slot="3" text="close dvd tray ." />
+<item slot="4" text="turn on tv ." />
+<item slot="5" text="switch to dvd mode ." />
+<item slot="6" text="push play ." />
+</script>
+<script id="38">
+<item slot="1" text="turn on dvd player ." />
+<item slot="2" text="insert dvd into dvd player ." />
+<item slot="3" text="close dvd tray ." />
+<item slot="4" text="turn on tv ." />
+<item slot="5" text="switch to dvd mode ." />
+<item slot="6" text="push play ." />
+</script>
+<script id="39">
+<item slot="1" text="turn on dvd player ." />
+<item slot="2" text="insert dvd into dvd player ." />
+<item slot="3" text="close dvd tray ." />
+<item slot="4" text="turn on tv ." />
+<item slot="5" text="switch to dvd mode ." />
+<item slot="6" text="push play ." />
+</script>
+<script id="40">
+<item slot="1" text="turn on dvd player ." />
+<item slot="2" text="insert dvd into dvd player ." />
+<item slot="3" text="close dvd tray ." />
+<item slot="4" text="turn on tv ." />
+<item slot="5" text="switch to dvd mode ." />
+<item slot="6" text="push play ." />
+</script>
+<script id="41">
+<item slot="1" text="get dvd ." />
+<item slot="2" text="insert dvd into dvd player ." />
+<item slot="3" text="turn tv on correct channel ." />
+<item slot="4" text="press play on dvd player ." />
+<item slot="5" text="watch move ." />
+</script>
+<script id="42">
+<item slot="1" text="acqiring the dvd ." />
+<item slot="2" text="inserting the dvd into the dvd player ." />
+<item slot="3" text="commanding the player to begin playing ." />
+</script>
+<script id="43">
+<item slot="1" text="turn on tv ." />
+<item slot="2" text="turn on dvd player ." />
+<item slot="3" text="insert dvd into dvd player ." />
+<item slot="4" text="set machine to dvd setting ." />
+<item slot="5" text="set channel to correct setting ." />
+<item slot="6" text="press play ." />
+<item slot="7" text="adjust volume ." />
+</script>
+<script id="44">
+<item slot="1" text="turn on tv ." />
+<item slot="2" text="turn on dvd player ." />
+<item slot="3" text="insert dvd into dvd player ." />
+<item slot="4" text="set machine to dvd setting ." />
+<item slot="5" text="set channel to correct setting ." />
+<item slot="6" text="press play ." />
+<item slot="7" text="adjust volume ." />
+</script>
+<script id="45">
+<item slot="1" text="turn on tv ." />
+<item slot="2" text="turn on dvd player ." />
+<item slot="3" text="insert dvd into dvd player ." />
+<item slot="4" text="set machine to dvd setting ." />
+<item slot="5" text="set channel to correct setting ." />
+<item slot="6" text="press play ." />
+<item slot="7" text="adjust volume ." />
+</script>
+<script id="46">
+<item slot="1" text="turn on tv ." />
+<item slot="2" text="turn on dvd player ." />
+<item slot="3" text="insert dvd into dvd player ." />
+<item slot="4" text="set machine to dvd setting ." />
+<item slot="5" text="set channel to correct setting ." />
+<item slot="6" text="press play ." />
+<item slot="7" text="adjust volume ." />
+</script>
+<script id="47">
+<item slot="1" text="take movie ." />
+<item slot="2" text="place movie in player ." />
+<item slot="3" text="push play button ." />
+</script>
+<script id="48">
+<item slot="1" text="insert dvd into dvd player ." />
+<item slot="2" text="press play ." />
+</script>
+</scripts>

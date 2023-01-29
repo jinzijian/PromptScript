@@ -1,0 +1,492 @@
+<scripts>
+<script id="1">
+<item slot="1" text="pour milk into a sausepan ." />
+<item slot="2" text="turn the stove on ." />
+<item slot="3" text="wait for milk to boil ." />
+</script>
+<script id="2">
+<item slot="1" text="get milk into container ." />
+<item slot="2" text="turn on stove ." />
+<item slot="3" text="put container on the stove ." />
+<item slot="4" text="watch milk ." />
+<item slot="5" text="turn stove off ." />
+</script>
+<script id="3">
+<item slot="1" text="pour milk in pot ." />
+<item slot="2" text="put pot on stove ." />
+<item slot="3" text="turn on stove ." />
+<item slot="4" text="watch for milk to boil ." />
+<item slot="5" text="remove milk ." />
+<item slot="6" text="turn off stove ." />
+</script>
+<script id="4">
+<item slot="1" text="put the milk in a pan ." />
+<item slot="2" text="place the pan on the stove ." />
+<item slot="3" text="turn on the stove ." />
+<item slot="4" text="set the stove temperature to high heat ." />
+<item slot="5" text="allow the milk to boil ." />
+<item slot="6" text="turn off the stove ." />
+</script>
+<script id="5">
+<item slot="1" text="turn on the stove ." />
+<item slot="2" text="place milk in a pan ." />
+<item slot="3" text="place the pan on the stove ." />
+<item slot="4" text="wait until the milk is boiling ." />
+</script>
+<script id="6">
+<item slot="1" text="take out the milk from the fridge ." />
+<item slot="2" text="take a pan ." />
+<item slot="3" text="pour the milk into the pan ." />
+<item slot="4" text="put the pan on the top of the stove ." />
+<item slot="5" text="turn on the stove ." />
+<item slot="6" text="wait until the milk boils ." />
+</script>
+<script id="7">
+<item slot="1" text="put milk in pan ." />
+<item slot="2" text="put pan on cooking gas ." />
+<item slot="3" text="turn heat on ." />
+<item slot="4" text="wait for milk to boil ." />
+</script>
+<script id="8">
+<item slot="1" text="pour milk in pot ." />
+<item slot="2" text="turnon stove ." />
+<item slot="3" text="put pot on stove ." />
+<item slot="4" text="wait to boil ." />
+<item slot="5" text="remove pot ." />
+<item slot="6" text="turn off stove ." />
+</script>
+<script id="9">
+<item slot="1" text="pour milk in pot ." />
+<item slot="2" text="put pot on stove ." />
+<item slot="3" text="turn on stove ." />
+<item slot="4" text="wait for milk to boil ." />
+<item slot="5" text="remove pot from stove ." />
+<item slot="6" text="turn off stove ." />
+</script>
+<script id="10">
+<item slot="1" text="pour milk into pot ." />
+<item slot="2" text="place pot on stove ." />
+<item slot="3" text="turn on stove ." />
+<item slot="4" text="wait for milk to boil ." />
+<item slot="5" text="remove pot from stove ." />
+<item slot="6" text="turn off stove ." />
+</script>
+<script id="11">
+<item slot="1" text="pour milk out of bottle into a pan ." />
+<item slot="2" text="put the pan of milk onto the burner on the stove ." />
+<item slot="3" text="turn the stove knob to set it to boil the milk ." />
+</script>
+<script id="12">
+<item slot="1" text="get out a sausepan ." />
+<item slot="2" text="get the milk ." />
+<item slot="3" text="pour the milk in the saucepan ." />
+<item slot="4" text="put the pan on the stove ." />
+<item slot="5" text="turn on the stove ." />
+</script>
+<script id="13">
+<item slot="1" text="pour milk in pot ." />
+<item slot="2" text="place pot on stove ." />
+<item slot="3" text="turn on stove ." />
+<item slot="4" text="wait for milk to boil ." />
+<item slot="5" text="remove pot from stove ." />
+<item slot="6" text="turn off  stove ." />
+</script>
+<script id="14">
+<item slot="1" text="pour milk into pot ." />
+<item slot="2" text="put pon on stove ." />
+<item slot="3" text="turn on stove ." />
+<item slot="4" text="wait for milk to boil ." />
+</script>
+<script id="15">
+<item slot="1" text="get a pan ." />
+<item slot="2" text="light the stove ." />
+<item slot="3" text="put milk in the pan ." />
+<item slot="4" text="put lid on pan ." />
+<item slot="5" text="wait until milk is hot ." />
+<item slot="6" text="switch off the stove ." />
+</script>
+<script id="16">
+<item slot="1" text="put milk into pan ." />
+<item slot="2" text="light ring on cooker ." />
+<item slot="3" text="place pan on cooker ." />
+<item slot="4" text="watch until boiled ." />
+</script>
+<script id="17">
+<item slot="1" text="put the milk in a stovepot ." />
+<item slot="2" text="heat the pot over a heat source until the milk is boiling ." />
+</script>
+<script id="18">
+<item slot="1" text="put milk in saucepan ." />
+<item slot="2" text="turn on stove ." />
+<item slot="3" text="wait until milk starts bubbling ." />
+</script>
+<script id="19">
+<item slot="1" text="discover need to boil milk ." />
+<item slot="2" text="find container ." />
+<item slot="3" text="light fire or turn on burner ." />
+<item slot="4" text="pour milk into container ." />
+<item slot="5" text="place container on heat ." />
+<item slot="6" text="adjust heat ." />
+<item slot="7" text="remove when completed ." />
+</script>
+<script id="20">
+<item slot="1" text="get the milk from the fridge ." />
+<item slot="2" text="put a pan on the stove ." />
+<item slot="3" text="turn the stove on ." />
+<item slot="4" text="pour the milk into the pan ." />
+<item slot="5" text="wait for the milk to boil ." />
+<item slot="6" text="turn the stove off ." />
+</script>
+<script id="21">
+<item slot="1" text="get a pan ." />
+<item slot="2" text="put milk in pan ." />
+<item slot="3" text="put pan on stove ." />
+<item slot="4" text="turn stove on ." />
+<item slot="5" text="wait for milk to boil ." />
+</script>
+<script id="22">
+<item slot="1" text="get out a pan ." />
+<item slot="2" text="place milk in pan ." />
+<item slot="3" text="place pan on stove ." />
+<item slot="4" text="turn on burner to low ." />
+<item slot="5" text="watch for small bubbles to form on the surface ." />
+<item slot="6" text="turn off burner ." />
+</script>
+<script id="23">
+<item slot="1" text="put the milk in a pan ." />
+<item slot="2" text="turn burner on medium ." />
+<item slot="3" text="place pan on burner ." />
+<item slot="4" text="milk is boiling when it bubbles ." />
+</script>
+<script id="24">
+<item slot="1" text="place pot on stove ." />
+<item slot="2" text="turn on heat ." />
+<item slot="3" text="pour milk into pot ." />
+<item slot="4" text="gently bring to boil ." />
+</script>
+<script id="25">
+<item slot="1" text="place pot on stove ." />
+<item slot="2" text="turn on heat ." />
+<item slot="3" text="pour milk into pot ." />
+<item slot="4" text="gently bring to boil ." />
+</script>
+<script id="26">
+<item slot="1" text="place pot on stove ." />
+<item slot="2" text="turn on heat ." />
+<item slot="3" text="pour milk into pot ." />
+<item slot="4" text="gently bring to boil ." />
+</script>
+<script id="27">
+<item slot="1" text="put milk in pan ." />
+<item slot="2" text="put pan on cooker hob ." />
+<item slot="3" text="turn on cooker hob ." />
+<item slot="4" text="wait till milk bubbles ." />
+</script>
+<script id="28">
+<item slot="1" text="put milk in saucepan ." />
+<item slot="2" text="put saucepan on gas ." />
+<item slot="3" text="ignite gas ." />
+<item slot="4" text="wait till milk boils ." />
+</script>
+<script id="29">
+<item slot="1" text="measure the milk ." />
+<item slot="2" text="pour milk in pan ." />
+<item slot="3" text="turn on the burner ." />
+</script>
+<script id="30">
+<item slot="1" text="pour milk into a pot ." />
+<item slot="2" text="turn on burner to medium heat ." />
+<item slot="3" text="place pot on burner ." />
+<item slot="4" text="stir milk constantly until boiled ." />
+</script>
+<script id="31">
+<item slot="1" text="pour milk into a pot ." />
+<item slot="2" text="turn on burner to medium heat ." />
+<item slot="3" text="place pot on burner ." />
+<item slot="4" text="stir milk constantly until boiled ." />
+</script>
+<script id="32">
+<item slot="1" text="pour milk into a pot ." />
+<item slot="2" text="turn on burner to medium heat ." />
+<item slot="3" text="place pot on burner ." />
+<item slot="4" text="stir milk constantly until boiled ." />
+</script>
+<script id="33">
+<item slot="1" text="pour milk into a pot ." />
+<item slot="2" text="turn on burner to medium heat ." />
+<item slot="3" text="place pot on burner ." />
+<item slot="4" text="stir milk constantly until boiled ." />
+</script>
+<script id="34">
+<item slot="1" text="pour milk into a pot ." />
+<item slot="2" text="turn on burner to medium heat ." />
+<item slot="3" text="place pot on burner ." />
+<item slot="4" text="stir milk constantly until boiled ." />
+</script>
+<script id="35">
+<item slot="1" text="pour milk into a pot ." />
+<item slot="2" text="turn on burner to medium heat ." />
+<item slot="3" text="place pot on burner ." />
+<item slot="4" text="stir milk constantly until boiled ." />
+</script>
+<script id="36">
+<item slot="1" text="put a pan on the stove ." />
+<item slot="2" text="pour milk into the pan ." />
+<item slot="3" text="turn the burner on under the pan ." />
+<item slot="4" text="stirring constantly bring the milk to a boil ." />
+</script>
+<script id="37">
+<item slot="1" text="add milk to pot ." />
+<item slot="2" text="turn on stove boil pot ." />
+</script>
+<script id="38">
+<item slot="1" text="turn on stove ." />
+<item slot="2" text="fill pot with desired amount of milk ." />
+<item slot="3" text="heat pot on stove ." />
+<item slot="4" text="heat milk to a boil ." />
+<item slot="5" text="turn off stove ." />
+<item slot="6" text="consume milk ." />
+</script>
+<script id="39">
+<item slot="1" text="pour milk into pot ." />
+<item slot="2" text="place pot on stove ." />
+<item slot="3" text="turn on stove to medium heat ." />
+<item slot="4" text="stir occasionally ." />
+<item slot="5" text="let boil ." />
+<item slot="6" text="remove from stove ." />
+<item slot="7" text="turn burner off ." />
+</script>
+<script id="40">
+<item slot="1" text="pour milk into pot ." />
+<item slot="2" text="place pot on stove ." />
+<item slot="3" text="turn on stove to medium heat ." />
+<item slot="4" text="stir occasionally ." />
+<item slot="5" text="let boil ." />
+<item slot="6" text="remove from stove ." />
+<item slot="7" text="turn burner off ." />
+</script>
+<script id="41">
+<item slot="1" text="getting the milk from the fridge ." />
+<item slot="2" text="getting the pot from the cupboard ." />
+<item slot="3" text="pouring the milk in the pot ." />
+<item slot="4" text="placing the pot on the stove ." />
+<item slot="5" text="turning the stove on ." />
+<item slot="6" text="letting the milk heat up and boil ." />
+<item slot="7" text="removing pot from burner ." />
+</script>
+<script id="42">
+<item slot="1" text="getting the milk from the fridge ." />
+<item slot="2" text="getting the pot from the cupboard ." />
+<item slot="3" text="pouring the milk in the pot ." />
+<item slot="4" text="placing the pot on the stove ." />
+<item slot="5" text="turning the stove on ." />
+<item slot="6" text="letting the milk heat up and boil ." />
+<item slot="7" text="removing pot from burner ." />
+</script>
+<script id="43">
+<item slot="1" text="getting the milk from the fridge ." />
+<item slot="2" text="getting the pot from the cupboard ." />
+<item slot="3" text="pouring the milk in the pot ." />
+<item slot="4" text="placing the pot on the stove ." />
+<item slot="5" text="turning the stove on ." />
+<item slot="6" text="letting the milk heat up and boil ." />
+<item slot="7" text="removing pot from burner ." />
+</script>
+<script id="44">
+<item slot="1" text="pour milk into pot ." />
+<item slot="2" text="place pot on stove ." />
+<item slot="3" text="turn on element ." />
+<item slot="4" text="stir occasionally ." />
+<item slot="5" text="wait for boil ." />
+<item slot="6" text="remove from stove ." />
+<item slot="7" text="turn stove off ." />
+</script>
+<script id="45">
+<item slot="1" text="pour milk into pot ." />
+<item slot="2" text="place pot on stove ." />
+<item slot="3" text="turn on element ." />
+<item slot="4" text="stir occasionally ." />
+<item slot="5" text="wait for boil ." />
+<item slot="6" text="remove from stove ." />
+<item slot="7" text="turn stove off ." />
+</script>
+<script id="46">
+<item slot="1" text="pour milk into pot ." />
+<item slot="2" text="place pot on stove ." />
+<item slot="3" text="turn on element ." />
+<item slot="4" text="stir occasionally ." />
+<item slot="5" text="wait for boil ." />
+<item slot="6" text="remove from stove ." />
+<item slot="7" text="turn stove off ." />
+</script>
+<script id="47">
+<item slot="1" text="place pot on stove ." />
+<item slot="2" text="pour milk into pot ." />
+<item slot="3" text="turn on stove ." />
+<item slot="4" text="stir until boiled ." />
+</script>
+<script id="48">
+<item slot="1" text="pour milk in pot ." />
+<item slot="2" text="turn up stove ." />
+<item slot="3" text="when boiling turn off stove ." />
+</script>
+<script id="49">
+<item slot="1" text="turn on stove ." />
+<item slot="2" text="pour milk into a saucepan ." />
+<item slot="3" text="place saucepan on stove ." />
+<item slot="4" text="wait until the milk boils ." />
+</script>
+<script id="50">
+<item slot="1" text="turn on stove ." />
+<item slot="2" text="pour milk into a saucepan ." />
+<item slot="3" text="place saucepan on stove ." />
+<item slot="4" text="wait until the milk boils ." />
+</script>
+<script id="51">
+<item slot="1" text="pour cold milk in pan ." />
+<item slot="2" text="put pan on burner ." />
+<item slot="3" text="turn burner on high ." />
+<item slot="4" text="stir milk occasionally with a spoon ." />
+<item slot="5" text="wait for milk to heat up and form large bubbles ." />
+<item slot="6" text="turn off burner ." />
+</script>
+<script id="52">
+<item slot="1" text="pour cold milk in pan ." />
+<item slot="2" text="put pan on burner ." />
+<item slot="3" text="turn burner on high ." />
+<item slot="4" text="stir milk occasionally with a spoon ." />
+<item slot="5" text="wait for milk to heat up and form large bubbles ." />
+<item slot="6" text="turn off burner ." />
+</script>
+<script id="53">
+<item slot="1" text="pour cold milk in pan ." />
+<item slot="2" text="put pan on burner ." />
+<item slot="3" text="turn burner on high ." />
+<item slot="4" text="stir milk occasionally with a spoon ." />
+<item slot="5" text="wait for milk to heat up and form large bubbles ." />
+<item slot="6" text="turn off burner ." />
+</script>
+<script id="54">
+<item slot="1" text="get milk from fridge ." />
+<item slot="2" text="get pot ." />
+<item slot="3" text="put pot on stove ." />
+<item slot="4" text="turn on stove ." />
+<item slot="5" text="pour milk in pot ." />
+<item slot="6" text="boil ." />
+</script>
+<script id="55">
+<item slot="1" text="get milk from fridge ." />
+<item slot="2" text="get pot ." />
+<item slot="3" text="put pot on stove ." />
+<item slot="4" text="turn on stove ." />
+<item slot="5" text="pour milk in pot ." />
+<item slot="6" text="boil ." />
+</script>
+<script id="56">
+<item slot="1" text="get milk from fridge ." />
+<item slot="2" text="get pot ." />
+<item slot="3" text="put pot on stove ." />
+<item slot="4" text="turn on stove ." />
+<item slot="5" text="pour milk in pot ." />
+<item slot="6" text="boil ." />
+</script>
+<script id="57">
+<item slot="1" text="get milk from fridge ." />
+<item slot="2" text="get pot ." />
+<item slot="3" text="put pot on stove ." />
+<item slot="4" text="turn on stove ." />
+<item slot="5" text="pour milk in pot ." />
+<item slot="6" text="boil ." />
+</script>
+<script id="58">
+<item slot="1" text="get milk from fridge ." />
+<item slot="2" text="get pot ." />
+<item slot="3" text="put pot on stove ." />
+<item slot="4" text="turn on stove ." />
+<item slot="5" text="pour milk in pot ." />
+<item slot="6" text="boil ." />
+</script>
+<script id="59">
+<item slot="1" text="get milk from fridge ." />
+<item slot="2" text="get pot ." />
+<item slot="3" text="put pot on stove ." />
+<item slot="4" text="turn on stove ." />
+<item slot="5" text="pour milk in pot ." />
+<item slot="6" text="boil ." />
+</script>
+<script id="60">
+<item slot="1" text="put pot on stove ." />
+<item slot="2" text="turn on stove ." />
+<item slot="3" text="pour milk into pot ." />
+<item slot="4" text="wait for it to boil ." />
+</script>
+<script id="61">
+<item slot="1" text="put pot on stove ." />
+<item slot="2" text="turn on stove ." />
+<item slot="3" text="pour milk into pot ." />
+<item slot="4" text="wait for it to boil ." />
+</script>
+<script id="62">
+<item slot="1" text="take out pan ." />
+<item slot="2" text="take out milk from fridge ." />
+<item slot="3" text="measure milk ." />
+<item slot="4" text="pour in pan ." />
+<item slot="5" text="turn on heating element to high ." />
+<item slot="6" text="place pan on stove ." />
+<item slot="7" text="watch milk ." />
+</script>
+<script id="63">
+<item slot="1" text="take out pan ." />
+<item slot="2" text="take out milk from fridge ." />
+<item slot="3" text="measure milk ." />
+<item slot="4" text="pour in pan ." />
+<item slot="5" text="turn on heating element to high ." />
+<item slot="6" text="place pan on stove ." />
+<item slot="7" text="watch milk ." />
+</script>
+<script id="64">
+<item slot="1" text="take out pan ." />
+<item slot="2" text="take out milk from fridge ." />
+<item slot="3" text="measure milk ." />
+<item slot="4" text="pour in pan ." />
+<item slot="5" text="turn on heating element to high ." />
+<item slot="6" text="place pan on stove ." />
+<item slot="7" text="watch milk ." />
+</script>
+<script id="65">
+<item slot="1" text="put pot on stove ." />
+<item slot="2" text="get milk ." />
+<item slot="3" text="pour milk in pot ." />
+<item slot="4" text="turn on stove ." />
+</script>
+<script id="66">
+<item slot="1" text="put pot on stove ." />
+<item slot="2" text="get milk ." />
+<item slot="3" text="pour milk in pot ." />
+<item slot="4" text="turn on stove ." />
+</script>
+<script id="67">
+<item slot="1" text="put pot on stove ." />
+<item slot="2" text="get milk ." />
+<item slot="3" text="pour milk in pot ." />
+<item slot="4" text="turn on stove ." />
+</script>
+<script id="68">
+<item slot="1" text="take milk ." />
+<item slot="2" text="place milk in pot ." />
+<item slot="3" text="place pot on stove ." />
+<item slot="4" text="heat the pot ." />
+</script>
+<script id="69">
+<item slot="1" text="put pot on stove ." />
+<item slot="2" text="turn heat on ." />
+<item slot="3" text="pour milk into pot ." />
+<item slot="4" text="wait for it to boil ." />
+</script>
+<script id="70">
+<item slot="1" text="put milk in pot ." />
+<item slot="2" text="turn on burner ." />
+<item slot="3" text="put burner on pot until milk is boiling ." />
+<item slot="4" text="turn off burner ." />
+</script>
+</scripts>

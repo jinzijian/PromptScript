@@ -1,0 +1,205 @@
+<scripts>
+<script id="1">
+<item slot="1" text="take groceries ." />
+<item slot="2" text="open trash can ." />
+<item slot="3" text="put groceries to trash can ." />
+<item slot="4" text="close trash can ." />
+<item slot="5" text="walk away ." />
+<item slot="6" text="take a beer ." />
+<item slot="7" text="drink it ." />
+</script>
+<script id="2">
+<item slot="1" text="place groceries on table or counter ." />
+<item slot="2" text="lift item out of bag ." />
+<item slot="3" text="move to location item belongs ." />
+<item slot="4" text="place item in proper location ." />
+<item slot="5" text="return to table or counter ." />
+<item slot="6" text="repeat ." />
+</script>
+<script id="3">
+<item slot="1" text="take the grocery items out of the bags ." />
+<item slot="2" text="place each item in it storage location ." />
+</script>
+<script id="4">
+<item slot="1" text="remove each item from its grocery bag ." />
+<item slot="2" text="place the item where it goes ." />
+<item slot="3" text="discard the empty grocery bags ." />
+</script>
+<script id="5">
+<item slot="1" text="open the fridge ." />
+<item slot="2" text="take item out of the grocery bag ." />
+<item slot="3" text="put item into the fridge ." />
+<item slot="4" text="repeat with all objects in grocery bag ." />
+</script>
+<script id="6">
+<item slot="1" text="remove groceries from bags ." />
+<item slot="2" text="put groceries into pantry or fridge ." />
+</script>
+<script id="7">
+<item slot="1" text="take items form the bags ." />
+<item slot="2" text="put them in the cabinet or refrigerator ." />
+</script>
+<script id="8">
+<item slot="1" text="remove groceries from bags ." />
+<item slot="2" text="take groceries to fridge or pantry ." />
+<item slot="3" text="store bags ." />
+</script>
+<script id="9">
+<item slot="1" text="remove groceries from bags ." />
+<item slot="2" text="put perishables in the fridge ." />
+<item slot="3" text="put others in pantry ." />
+</script>
+<script id="10">
+<item slot="1" text="take groceries out of bag ." />
+<item slot="2" text="put groceries in refridgerator or pantry ." />
+</script>
+<script id="11">
+<item slot="1" text="pick up the groceries ." />
+<item slot="2" text="move to the location where the groceries are stored ." />
+<item slot="3" text="place one grocery item in the place where it belongs ." />
+<item slot="4" text="repeat until all groceries are put away ." />
+</script>
+<script id="12">
+<item slot="1" text="empty grocery bag ." />
+<item slot="2" text="place each object in cabinet or fridge ." />
+</script>
+<script id="13">
+<item slot="1" text="bring groceries in from car ." />
+<item slot="2" text="unpack groceries from bags ." />
+<item slot="3" text="put cold items in refrigerator ." />
+<item slot="4" text="put frozen items in freezer ." />
+<item slot="5" text="put canned goods in pantry ." />
+<item slot="6" text="fold bags and store for recycling ." />
+</script>
+<script id="14">
+<item slot="1" text="remove items from the bags ." />
+<item slot="2" text="recycle or throw away bags ." />
+<item slot="3" text="organize items ." />
+<item slot="4" text="place them where desired in kitchen ." />
+</script>
+<script id="15">
+<item slot="1" text="take groceries out of bags ." />
+<item slot="2" text="sort groceries out ." />
+<item slot="3" text="place groceries in their specified places ." />
+<item slot="4" text="put or throw bags away ." />
+</script>
+<script id="16">
+<item slot="1" text="carry groceries into kitchen ." />
+<item slot="2" text="put perishables in fridge ." />
+<item slot="3" text="put canned goods in pantry ." />
+<item slot="4" text="put toiletries into bathroom ." />
+<item slot="5" text="put laundry soap in laundry room ." />
+<item slot="6" text="check over receipt ." />
+<item slot="7" text="put away shopping bags ." />
+</script>
+<script id="17">
+<item slot="1" text="take groceries ." />
+<item slot="2" text="eat groceries ." />
+</script>
+<script id="18">
+<item slot="1" text="grab bag of groceries ." />
+<item slot="2" text="identify the desired locations of the grocery items ." />
+<item slot="3" text="put items in respective locations ." />
+<item slot="4" text="save bag for future trips ." />
+</script>
+<script id="19">
+<item slot="1" text="take out groceries from bag ." />
+<item slot="2" text="store in cabinet ." />
+</script>
+<script id="20">
+<item slot="1" text="take out groceries from bag ." />
+<item slot="2" text="store in cabinet ." />
+</script>
+<script id="21">
+<item slot="1" text="take out groceries from bag ." />
+<item slot="2" text="store in cabinet ." />
+</script>
+<script id="22">
+<item slot="1" text="take out groceries from bag ." />
+<item slot="2" text="store in cabinet ." />
+</script>
+<script id="23">
+<item slot="1" text="take out groceries from bag ." />
+<item slot="2" text="store in cabinet ." />
+</script>
+<script id="24">
+<item slot="1" text="take out groceries from bag ." />
+<item slot="2" text="store in cabinet ." />
+</script>
+<script id="25">
+<item slot="1" text="put away food ." />
+</script>
+<script id="26">
+<item slot="1" text="take groceries inside ." />
+<item slot="2" text="empty bags ." />
+<item slot="3" text="put groceries where they belong ." />
+</script>
+<script id="27">
+<item slot="1" text="take groceries inside ." />
+<item slot="2" text="empty bags ." />
+<item slot="3" text="put groceries where they belong ." />
+</script>
+<script id="28">
+<item slot="1" text="take groceries inside ." />
+<item slot="2" text="empty bags ." />
+<item slot="3" text="put groceries where they belong ." />
+</script>
+<script id="29">
+<item slot="1" text="get groceries ." />
+<item slot="2" text="put on kitchen table ." />
+<item slot="3" text="grab grocery ." />
+<item slot="4" text="put in cupboard/fridge ." />
+</script>
+<script id="30">
+<item slot="1" text="get groceries ." />
+<item slot="2" text="put on kitchen table ." />
+<item slot="3" text="grab grocery ." />
+<item slot="4" text="put in cupboard/fridge ." />
+</script>
+<script id="31">
+<item slot="1" text="get groceries ." />
+<item slot="2" text="put on kitchen table ." />
+<item slot="3" text="grab grocery ." />
+<item slot="4" text="put in cupboard/fridge ." />
+</script>
+<script id="32">
+<item slot="1" text="get groceries ." />
+<item slot="2" text="put some in fridge ." />
+<item slot="3" text="put some in cupboards ." />
+<item slot="4" text="put some in freezer ." />
+</script>
+<script id="33">
+<item slot="1" text="get groceries ." />
+<item slot="2" text="put some in fridge ." />
+<item slot="3" text="put some in cupboards ." />
+<item slot="4" text="put some in freezer ." />
+</script>
+<script id="34">
+<item slot="1" text="get groceries ." />
+<item slot="2" text="put some in fridge ." />
+<item slot="3" text="put some in cupboards ." />
+<item slot="4" text="put some in freezer ." />
+</script>
+<script id="35">
+<item slot="1" text="take groceries out of bags ." />
+<item slot="2" text="sort out ." />
+<item slot="3" text="put cold things in fridge ." />
+<item slot="4" text="put rest away in cabinets ." />
+</script>
+<script id="36">
+<item slot="1" text="open refrigerator ." />
+<item slot="2" text="put away perishables ." />
+<item slot="3" text="open cupboards ." />
+<item slot="4" text="put away nonperishables ." />
+</script>
+<script id="37">
+<item slot="1" text="open refrigerator ." />
+<item slot="2" text="put away perishables ." />
+<item slot="3" text="open cupboards ." />
+<item slot="4" text="put away nonperishables ." />
+</script>
+<script id="38">
+<item slot="1" text="take groceries ." />
+<item slot="2" text="place in shelf ." />
+</script>
+</scripts>

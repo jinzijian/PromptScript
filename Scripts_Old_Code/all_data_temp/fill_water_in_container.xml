@@ -1,0 +1,396 @@
+<scripts>
+<script id="1">
+<item slot="1" text="open container ." />
+<item slot="2" text="hold container under faucet ." />
+<item slot="3" text="turn faucet on ." />
+<item slot="4" text="turn faucet off when containter is full ." />
+</script>
+<script id="2">
+<item slot="1" text="get container ." />
+<item slot="2" text="hold container under tap ." />
+<item slot="3" text="open tap ." />
+<item slot="4" text="wait until container is filled ." />
+<item slot="5" text="close tap ." />
+<item slot="6" text="take container out from underneath tap ." />
+</script>
+<script id="3">
+<item slot="1" text="get the container ." />
+<item slot="2" text="put the container under the source of water ." />
+<item slot="3" text="turn on the water ." />
+</script>
+<script id="4">
+<item slot="1" text="get container ." />
+<item slot="2" text="put container under tap ." />
+<item slot="3" text="turn on water ." />
+<item slot="4" text="wait for container to fill up ." />
+<item slot="5" text="turn water off ." />
+<item slot="6" text="remove container ." />
+</script>
+<script id="5">
+<item slot="1" text="grab water container ." />
+<item slot="2" text="put under faucet ." />
+<item slot="3" text="turn on water ." />
+<item slot="4" text="wait until container full ." />
+<item slot="5" text="turn water off ." />
+<item slot="6" text="remove container ." />
+</script>
+<script id="6">
+<item slot="1" text="place water container under faucet ." />
+<item slot="2" text="let water run until container is full ." />
+<item slot="3" text="turn off water faucet ." />
+<item slot="4" text="remove container ." />
+</script>
+<script id="7">
+<item slot="1" text="take container ." />
+<item slot="2" text="put in kitchen sink ." />
+<item slot="3" text="open water tap ." />
+<item slot="4" text="fill the container ." />
+<item slot="5" text="close the container ." />
+</script>
+<script id="8">
+<item slot="1" text="find water container ." />
+<item slot="2" text="place water container under water faucet ." />
+<item slot="3" text="turn on faucet ." />
+<item slot="4" text="fill container with water ." />
+<item slot="5" text="turn off faucet ." />
+</script>
+<script id="9">
+<item slot="1" text="get container ." />
+<item slot="2" text="put the container under a tap or water source ." />
+<item slot="3" text="turn on tap ." />
+<item slot="4" text="wait for the container fills up ." />
+<item slot="5" text="turn off the tap ." />
+<item slot="6" text="remove the container ." />
+</script>
+<script id="10">
+<item slot="1" text="take the container ." />
+<item slot="2" text="put it under the tap ." />
+<item slot="3" text="turn on the tap ." />
+<item slot="4" text="switch of tap when the container is fulkl ." />
+</script>
+<script id="11">
+<item slot="1" text="place container under water faucet ." />
+<item slot="2" text="let water run into container ." />
+<item slot="3" text="when container full turn off water ." />
+<item slot="4" text="remove container ." />
+</script>
+<script id="12">
+<item slot="1" text="find a container for water ." />
+<item slot="2" text="move to an outside water tap ." />
+<item slot="3" text="place the container under the tap ." />
+<item slot="4" text="turn on the tap ." />
+<item slot="5" text="when the container is full turn off the tap ." />
+</script>
+<script id="13">
+<item slot="1" text="get the container ." />
+<item slot="2" text="take it to the sink ." />
+<item slot="3" text="turn on the tap ." />
+</script>
+<script id="14">
+<item slot="1" text="take the container to the sink ." />
+<item slot="2" text="put it under the tap ." />
+<item slot="3" text="turn on the tap ." />
+<item slot="4" text="turn off the tap when full ." />
+</script>
+<script id="15">
+<item slot="1" text="place container under water faucet ." />
+<item slot="2" text="turn on water ." />
+<item slot="3" text="when container is full turn off water ." />
+</script>
+<script id="16">
+<item slot="1" text="get water ." />
+<item slot="2" text="fill in a container ." />
+</script>
+<script id="17">
+<item slot="1" text="locate water source ." />
+<item slot="2" text="place container in a position to receive water ." />
+<item slot="3" text="start water source ." />
+<item slot="4" text="wait until container is full ." />
+<item slot="5" text="stop water source ." />
+</script>
+<script id="18">
+<item slot="1" text="open container ." />
+<item slot="2" text="place container near water source ." />
+<item slot="3" text="wait until container is filled ." />
+<item slot="4" text="close container ." />
+</script>
+<script id="19">
+<item slot="1" text="open container ." />
+<item slot="2" text="fill container with water ." />
+<item slot="3" text="close container ." />
+</script>
+<script id="20">
+<item slot="1" text="get container ." />
+<item slot="2" text="open container ." />
+<item slot="3" text="place water in container ." />
+<item slot="4" text="remove container when full ." />
+</script>
+<script id="21">
+<item slot="1" text="get container ." />
+<item slot="2" text="open container ." />
+<item slot="3" text="place water in container ." />
+<item slot="4" text="remove container when full ." />
+</script>
+<script id="22">
+<item slot="1" text="get container ." />
+<item slot="2" text="open container ." />
+<item slot="3" text="place water in container ." />
+<item slot="4" text="remove container when full ." />
+</script>
+<script id="23">
+<item slot="1" text="get container ." />
+<item slot="2" text="open container ." />
+<item slot="3" text="place water in container ." />
+<item slot="4" text="remove container when full ." />
+</script>
+<script id="24">
+<item slot="1" text="get container ." />
+<item slot="2" text="open container ." />
+<item slot="3" text="place water in container ." />
+<item slot="4" text="remove container when full ." />
+</script>
+<script id="25">
+<item slot="1" text="get container ." />
+<item slot="2" text="open container ." />
+<item slot="3" text="place water in container ." />
+<item slot="4" text="remove container when full ." />
+</script>
+<script id="26">
+<item slot="1" text="get container ." />
+<item slot="2" text="open container ." />
+<item slot="3" text="place water in container ." />
+<item slot="4" text="remove container when full ." />
+</script>
+<script id="27">
+<item slot="1" text="get container ." />
+<item slot="2" text="open container ." />
+<item slot="3" text="place water in container ." />
+<item slot="4" text="remove container when full ." />
+</script>
+<script id="28">
+<item slot="1" text="get container ." />
+<item slot="2" text="turn water faucet on ." />
+<item slot="3" text="put container under faucet ." />
+<item slot="4" text="let water run until container is full ." />
+<item slot="5" text="turn off water ." />
+</script>
+<script id="29">
+<item slot="1" text="get container ." />
+<item slot="2" text="turn water faucet on ." />
+<item slot="3" text="put container under faucet ." />
+<item slot="4" text="let water run until container is full ." />
+<item slot="5" text="turn off water ." />
+</script>
+<script id="30">
+<item slot="1" text="get container ." />
+<item slot="2" text="turn water faucet on ." />
+<item slot="3" text="put container under faucet ." />
+<item slot="4" text="let water run until container is full ." />
+<item slot="5" text="turn off water ." />
+</script>
+<script id="31">
+<item slot="1" text="get container ." />
+<item slot="2" text="turn water faucet on ." />
+<item slot="3" text="put container under faucet ." />
+<item slot="4" text="let water run until container is full ." />
+<item slot="5" text="turn off water ." />
+</script>
+<script id="32">
+<item slot="1" text="get container ." />
+<item slot="2" text="turn water faucet on ." />
+<item slot="3" text="put container under faucet ." />
+<item slot="4" text="let water run until container is full ." />
+<item slot="5" text="turn off water ." />
+</script>
+<script id="33">
+<item slot="1" text="get container ." />
+<item slot="2" text="turn water faucet on ." />
+<item slot="3" text="put container under faucet ." />
+<item slot="4" text="let water run until container is full ." />
+<item slot="5" text="turn off water ." />
+</script>
+<script id="34">
+<item slot="1" text="get container ." />
+<item slot="2" text="turn water faucet on ." />
+<item slot="3" text="put container under faucet ." />
+<item slot="4" text="let water run until container is full ." />
+<item slot="5" text="turn off water ." />
+</script>
+<script id="35">
+<item slot="1" text="get container ." />
+<item slot="2" text="turn water faucet on ." />
+<item slot="3" text="put container under faucet ." />
+<item slot="4" text="let water run until container is full ." />
+<item slot="5" text="turn off water ." />
+</script>
+<script id="36">
+<item slot="1" text="get container ." />
+<item slot="2" text="turn water faucet on ." />
+<item slot="3" text="put container under faucet ." />
+<item slot="4" text="let water run until container is full ." />
+<item slot="5" text="turn off water ." />
+</script>
+<script id="37">
+<item slot="1" text="get container ." />
+<item slot="2" text="walk to sink ." />
+<item slot="3" text="turn on faucet ." />
+<item slot="4" text="fill container ." />
+</script>
+<script id="38">
+<item slot="1" text="go near water ." />
+<item slot="2" text="open lid of container ." />
+<item slot="3" text="fill container with water ." />
+<item slot="4" text="close the lid of the container off ." />
+</script>
+<script id="39">
+<item slot="1" text="take water container to tap ." />
+<item slot="2" text="put container under tap ." />
+</script>
+<script id="40">
+<item slot="1" text="get container with no holes/leaks ." />
+<item slot="2" text="find water source ." />
+<item slot="3" text="place container opening against flow of water ." />
+<item slot="4" text="allow container to be filled ." />
+<item slot="5" text="remove container from water ." />
+</script>
+<script id="41">
+<item slot="1" text="get container ." />
+<item slot="2" text="put container under tap ." />
+<item slot="3" text="turn on the tap ." />
+<item slot="4" text="fill the container ." />
+<item slot="5" text="turn off the tap ." />
+</script>
+<script id="42">
+<item slot="1" text="turn on water ." />
+<item slot="2" text="place container under running water ." />
+<item slot="3" text="fill container ." />
+<item slot="4" text="turn off water ." />
+</script>
+<script id="43">
+<item slot="1" text="open the container ." />
+<item slot="2" text="turn on the tap ." />
+<item slot="3" text="hold container opening under the flow of the water ." />
+<item slot="4" text="when full remove and close the contariner ." />
+</script>
+<script id="44">
+<item slot="1" text="locate container which can hold liquids ." />
+<item slot="2" text="decide which container to fill ." />
+<item slot="3" text="select container ." />
+<item slot="4" text="find water source ." />
+<item slot="5" text="get water from water source ." />
+<item slot="6" text="pour water into container ." />
+<item slot="7" text="fill water to desired level ." />
+</script>
+<script id="45">
+<item slot="1" text="locate container which can hold liquids ." />
+<item slot="2" text="decide which container to fill ." />
+<item slot="3" text="select container ." />
+<item slot="4" text="find water source ." />
+<item slot="5" text="get water from water source ." />
+<item slot="6" text="pour water into container ." />
+<item slot="7" text="fill water to desired level ." />
+</script>
+<script id="46">
+<item slot="1" text="pour water in container until full ." />
+</script>
+<script id="47">
+<item slot="1" text="open container ." />
+<item slot="2" text="turn faucet on ." />
+<item slot="3" text="place open container under faucet ." />
+<item slot="4" text="fill container with water until full ." />
+<item slot="5" text="turn off faucet ." />
+<item slot="6" text="replace lid on container ." />
+</script>
+<script id="48">
+<item slot="1" text="open container ." />
+<item slot="2" text="turn faucet on ." />
+<item slot="3" text="place open container under faucet ." />
+<item slot="4" text="fill container with water until full ." />
+<item slot="5" text="turn off faucet ." />
+<item slot="6" text="replace lid on container ." />
+</script>
+<script id="49">
+<item slot="1" text="open container ." />
+<item slot="2" text="turn faucet on ." />
+<item slot="3" text="place open container under faucet ." />
+<item slot="4" text="fill container with water until full ." />
+<item slot="5" text="turn off faucet ." />
+<item slot="6" text="replace lid on container ." />
+</script>
+<script id="50">
+<item slot="1" text="open container ." />
+<item slot="2" text="turn faucet on ." />
+<item slot="3" text="place open container under faucet ." />
+<item slot="4" text="fill container with water until full ." />
+<item slot="5" text="turn off faucet ." />
+<item slot="6" text="replace lid on container ." />
+</script>
+<script id="51">
+<item slot="1" text="choose container ." />
+<item slot="2" text="place container below tap ." />
+<item slot="3" text="turn on tap ." />
+</script>
+<script id="52">
+<item slot="1" text="bring container to sink ." />
+<item slot="2" text="turn on faucet ." />
+<item slot="3" text="place container under water ." />
+<item slot="4" text="wait until full ." />
+<item slot="5" text="turn off water ." />
+</script>
+<script id="53">
+<item slot="1" text="find container ." />
+<item slot="2" text="pick up container ." />
+<item slot="3" text="walk to sink ." />
+<item slot="4" text="turn on tap ." />
+<item slot="5" text="place container under tap ." />
+<item slot="6" text="fill container ." />
+<item slot="7" text="turn off tap ." />
+</script>
+<script id="54">
+<item slot="1" text="hold container in hand ." />
+<item slot="2" text="place in a sink ." />
+<item slot="3" text="make sure the tap is directly above the container ." />
+<item slot="4" text="turn on the tap ." />
+<item slot="5" text="turn off when desired amount of water is collected ." />
+</script>
+<script id="55">
+<item slot="1" text="turn on tape ." />
+</script>
+<script id="56">
+<item slot="1" text="turn on tape ." />
+</script>
+<script id="57">
+<item slot="1" text="turn on tape ." />
+</script>
+<script id="58">
+<item slot="1" text="unscrew container lid ." />
+<item slot="2" text="place container under water flow ." />
+<item slot="3" text="wait until container is completely filled ." />
+<item slot="4" text="remove from water source ." />
+<item slot="5" text="tighten lid back on container ." />
+</script>
+<script id="59">
+<item slot="1" text="get container ." />
+<item slot="2" text="put container under tap ." />
+<item slot="3" text="turn on tap ." />
+<item slot="4" text="fill container with water ." />
+</script>
+<script id="60">
+<item slot="1" text="get container ." />
+<item slot="2" text="put container under tap ." />
+<item slot="3" text="turn on tap ." />
+<item slot="4" text="fill container with water ." />
+</script>
+<script id="61">
+<item slot="1" text="take water ." />
+<item slot="2" text="pour water in container ." />
+<item slot="3" text="wait until full ." />
+</script>
+<script id="62">
+<item slot="1" text="get container ." />
+<item slot="2" text="put container under water faucet ." />
+<item slot="3" text="turn on water faucet ." />
+<item slot="4" text="fill container ." />
+<item slot="5" text="turn off tap ." />
+</script>
+</scripts>

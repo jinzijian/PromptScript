@@ -1,0 +1,447 @@
+<scripts>
+<script id="1">
+<item slot="1" text="pick up baby ." />
+<item slot="2" text="place baby in baby chair ." />
+<item slot="3" text="find baby food jar ." />
+<item slot="4" text="open baby food jar ." />
+<item slot="5" text="find spoon ." />
+<item slot="6" text="place spoon in jar fill with food ." />
+<item slot="7" text="place spoon in baby s mouth ." />
+</script>
+<script id="2">
+<item slot="1" text="find baby food ." />
+<item slot="2" text="open baby food ." />
+<item slot="3" text="obtain a baby spoon ." />
+<item slot="4" text="hand feed the baby the baby food ." />
+</script>
+<script id="3">
+<item slot="1" text="put infant on seat ." />
+<item slot="2" text="get food ." />
+<item slot="3" text="give food to infant ." />
+<item slot="4" text="wipe infant s mouth ." />
+</script>
+<script id="4">
+<item slot="1" text="warm milk ." />
+<item slot="2" text="put milk into bottle ." />
+<item slot="3" text="give bottle to child ." />
+</script>
+<script id="5">
+<item slot="1" text="warm up food ." />
+<item slot="2" text="give food to infant ." />
+</script>
+<script id="6">
+<item slot="1" text="warm up milk ." />
+<item slot="2" text="pour milk in bottle ." />
+<item slot="3" text="hold infant in your arms ." />
+<item slot="4" text="tilt bottle so that infant can eat from it ." />
+</script>
+<script id="7">
+<item slot="1" text="warm up milk ." />
+<item slot="2" text="put milk into milk bottle ." />
+<item slot="3" text="give bottle to infant ." />
+<item slot="4" text="tilt bottle so that infant can suck on it ." />
+</script>
+<script id="8">
+<item slot="1" text="get infant s food ." />
+<item slot="2" text="get an infant spoon ." />
+<item slot="3" text="move to the infant ." />
+<item slot="4" text="feed the infant s food to it with the infant spoon ." />
+</script>
+<script id="9">
+<item slot="1" text="locate a hungry infant ." />
+<item slot="2" text="locate baby formula ." />
+<item slot="3" text="prepare baby formula according to directions ." />
+<item slot="4" text="place forumla in a baby bottle ." />
+<item slot="5" text="utilize bottle to feed formula to infant ." />
+</script>
+<script id="10">
+<item slot="1" text="locate baby formula ." />
+<item slot="2" text="properly prepare baby formula according to directions ." />
+<item slot="3" text="heat baby formula to proper temperature ." />
+<item slot="4" text="serve formula to infant ." />
+</script>
+<script id="11">
+<item slot="1" text="get a bottle of milk ." />
+<item slot="2" text="heat the bottle of milk on the stove ." />
+<item slot="3" text="let the milk cool off for a few minutes ." />
+<item slot="4" text="put the nipple of the bottle in the infant s mouth ." />
+<item slot="5" text="wait for the infant to have drunk all the milk ." />
+</script>
+<script id="12">
+<item slot="1" text="get a bottle ." />
+<item slot="2" text="fill the bottle with milk ." />
+<item slot="3" text="warm the bottle ." />
+<item slot="4" text="determine the bottle to be a safe temperature ." />
+<item slot="5" text="give the bottle to the infant ." />
+</script>
+<script id="13">
+<item slot="1" text="obtain food for the infant ." />
+<item slot="2" text="prepare food for the infant ." />
+<item slot="3" text="give food to infant ." />
+</script>
+<script id="14">
+<item slot="1" text="locate infant ." />
+<item slot="2" text="locate food ." />
+<item slot="3" text="get food ." />
+<item slot="4" text="bring to infant location ." />
+<item slot="5" text="put food in/on dispenser ." />
+<item slot="6" text="place in infants mouth ." />
+</script>
+<script id="15">
+<item slot="1" text="put infant in high chair ." />
+<item slot="2" text="put bib on infant ." />
+<item slot="3" text="open food ." />
+<item slot="4" text="feed infant with spoon ." />
+</script>
+<script id="16">
+<item slot="1" text="heat water ." />
+<item slot="2" text="mix in milk ." />
+<item slot="3" text="close bottle ." />
+<item slot="4" text="give bottle to baby ." />
+</script>
+<script id="17">
+<item slot="1" text="hold the infant ." />
+<item slot="2" text="elevate his head ." />
+<item slot="3" text="put nipple on the side of his mouth ." />
+<item slot="4" text="guide it to his mouth ." />
+</script>
+<script id="18">
+<item slot="1" text="put the bottle nipple on the left or right side of the mouth ." />
+<item slot="2" text="push little bit to guide the baby for sucking ." />
+<item slot="3" text="elevate the head of the baby while feeding ." />
+<item slot="4" text="help the baby hold her bottle ." />
+</script>
+<script id="19">
+<item slot="1" text="get a banana ." />
+<item slot="2" text="peel the banana ." />
+<item slot="3" text="put the banana in a bowl ." />
+<item slot="4" text="mash the banana with a fork ." />
+<item slot="5" text="hold the infant ." />
+<item slot="6" text="spoon the mashed banana into its mouth ." />
+</script>
+<script id="20">
+<item slot="1" text="prepare food ." />
+<item slot="2" text="get infant ." />
+<item slot="3" text="feed infant ." />
+</script>
+<script id="21">
+<item slot="1" text="prepare food ." />
+<item slot="2" text="get infant ." />
+<item slot="3" text="feed infant ." />
+</script>
+<script id="22">
+<item slot="1" text="fell infant s bottle with formula ." />
+<item slot="2" text="place nipple on bottle ." />
+<item slot="3" text="warm bottle ." />
+<item slot="4" text="insert nipple into infant s mouth ." />
+<item slot="5" text="wait while infant sucks bottle ." />
+<item slot="6" text="remove nipple from infants mouth ." />
+<item slot="7" text="pat infant on back to burp ." />
+</script>
+<script id="23">
+<item slot="1" text="put baby into high chair ." />
+<item slot="2" text="put on a bib ." />
+<item slot="3" text="choose food ." />
+<item slot="4" text="get a spoon ." />
+<item slot="5" text="feed baby ." />
+</script>
+<script id="24">
+<item slot="1" text="mix formula ." />
+<item slot="2" text="pour into bottle ." />
+<item slot="3" text="heat formula ." />
+<item slot="4" text="test temperature of formula ." />
+<item slot="5" text="feed baby ." />
+</script>
+<script id="25">
+<item slot="1" text="mix formula ." />
+<item slot="2" text="pour into bottle ." />
+<item slot="3" text="heat formula ." />
+<item slot="4" text="test temperature of formula ." />
+<item slot="5" text="feed baby ." />
+</script>
+<script id="26">
+<item slot="1" text="mix formula ." />
+<item slot="2" text="pour into bottle ." />
+<item slot="3" text="heat formula ." />
+<item slot="4" text="test temperature of formula ." />
+<item slot="5" text="feed baby ." />
+</script>
+<script id="27">
+<item slot="1" text="find infant ." />
+<item slot="2" text="find food ." />
+<item slot="3" text="place food in infants mouth ." />
+<item slot="4" text="repeat step 3 until infant is full ." />
+<item slot="5" text="burp infant ." />
+<item slot="6" text="return infant to crib ." />
+<item slot="7" text="return food to shelf ." />
+</script>
+<script id="28">
+<item slot="1" text="hold infant in cradle hold ." />
+<item slot="2" text="unclip bra ." />
+<item slot="3" text="let infant latch onto breast ." />
+<item slot="4" text="let infant nurse until full ." />
+<item slot="5" text="unlatch baby from breast ." />
+</script>
+<script id="29">
+<item slot="1" text="take baby in arms suppoting its head ." />
+<item slot="2" text="pull down shirt and brassier to expose one s breast ." />
+<item slot="3" text="place nipple into infant s mouth ." />
+<item slot="4" text="hope that baby does not bite ." />
+<item slot="5" text="allow infant to suckle ." />
+<item slot="6" text="wait for infant to be full ." />
+</script>
+<script id="30">
+<item slot="1" text="put baby in high chair ." />
+<item slot="2" text="prepare food ." />
+<item slot="3" text="tie bib on ." />
+<item slot="4" text="feed baby ." />
+<item slot="5" text="clean baby up ." />
+<item slot="6" text="burp baby ." />
+</script>
+<script id="31">
+<item slot="1" text="put baby in high chair ." />
+<item slot="2" text="prepare food ." />
+<item slot="3" text="tie bib on ." />
+<item slot="4" text="feed baby ." />
+<item slot="5" text="clean baby up ." />
+<item slot="6" text="burp baby ." />
+</script>
+<script id="32">
+<item slot="1" text="put baby in high chair ." />
+<item slot="2" text="prepare food ." />
+<item slot="3" text="tie bib on ." />
+<item slot="4" text="feed baby ." />
+<item slot="5" text="clean baby up ." />
+<item slot="6" text="burp baby ." />
+</script>
+<script id="33">
+<item slot="1" text="put baby in high chair ." />
+<item slot="2" text="prepare food ." />
+<item slot="3" text="tie bib on ." />
+<item slot="4" text="feed baby ." />
+<item slot="5" text="clean baby up ." />
+<item slot="6" text="burp baby ." />
+</script>
+<script id="34">
+<item slot="1" text="put baby in high chair ." />
+<item slot="2" text="prepare food ." />
+<item slot="3" text="tie bib on ." />
+<item slot="4" text="feed baby ." />
+<item slot="5" text="clean baby up ." />
+<item slot="6" text="burp baby ." />
+</script>
+<script id="35">
+<item slot="1" text="put baby in high chair ." />
+<item slot="2" text="prepare food ." />
+<item slot="3" text="tie bib on ." />
+<item slot="4" text="feed baby ." />
+<item slot="5" text="clean baby up ." />
+<item slot="6" text="burp baby ." />
+</script>
+<script id="36">
+<item slot="1" text="put baby in high chair ." />
+<item slot="2" text="prepare food ." />
+<item slot="3" text="tie bib on ." />
+<item slot="4" text="feed baby ." />
+<item slot="5" text="clean baby up ." />
+<item slot="6" text="burp baby ." />
+</script>
+<script id="37">
+<item slot="1" text="put baby in high chair ." />
+<item slot="2" text="prepare food ." />
+<item slot="3" text="tie bib on ." />
+<item slot="4" text="feed baby ." />
+<item slot="5" text="clean baby up ." />
+<item slot="6" text="burp baby ." />
+</script>
+<script id="38">
+<item slot="1" text="put baby in high chair ." />
+<item slot="2" text="prepare food ." />
+<item slot="3" text="tie bib on ." />
+<item slot="4" text="feed baby ." />
+<item slot="5" text="clean baby up ." />
+<item slot="6" text="burp baby ." />
+</script>
+<script id="39">
+<item slot="1" text="walk ." />
+<item slot="2" text="feed infant ." />
+</script>
+<script id="40">
+<item slot="1" text="walk ." />
+<item slot="2" text="feed infant ." />
+</script>
+<script id="41">
+<item slot="1" text="walk ." />
+<item slot="2" text="feed infant ." />
+</script>
+<script id="42">
+<item slot="1" text="walk ." />
+<item slot="2" text="feed infant ." />
+</script>
+<script id="43">
+<item slot="1" text="walk ." />
+<item slot="2" text="feed infant ." />
+</script>
+<script id="44">
+<item slot="1" text="walk ." />
+<item slot="2" text="feed infant ." />
+</script>
+<script id="45">
+<item slot="1" text="open baby food jar ." />
+<item slot="2" text="place food on small spoon ." />
+<item slot="3" text="place spoon in infant s mouth ." />
+<item slot="4" text="repeat until finished ." />
+</script>
+<script id="46">
+<item slot="1" text="open baby food jar ." />
+<item slot="2" text="place food on small spoon ." />
+<item slot="3" text="place spoon in infant s mouth ." />
+<item slot="4" text="repeat until finished ." />
+</script>
+<script id="47">
+<item slot="1" text="open jar ." />
+<item slot="2" text="get sppon ." />
+<item slot="3" text="put food on spoon ." />
+<item slot="4" text="put in kids mouth ." />
+<item slot="5" text="repeat ." />
+</script>
+<script id="48">
+<item slot="1" text="blend up food ." />
+<item slot="2" text="put food in bowl ." />
+<item slot="3" text="get spoon ." />
+<item slot="4" text="scoop food with spoon ." />
+<item slot="5" text="put spoon in baby s mouth ." />
+</script>
+<script id="49">
+<item slot="1" text="blend up food ." />
+<item slot="2" text="put food in bowl ." />
+<item slot="3" text="get spoon ." />
+<item slot="4" text="scoop food with spoon ." />
+<item slot="5" text="put spoon in baby s mouth ." />
+</script>
+<script id="50">
+<item slot="1" text="blend up food ." />
+<item slot="2" text="put food in bowl ." />
+<item slot="3" text="get spoon ." />
+<item slot="4" text="scoop food with spoon ." />
+<item slot="5" text="put spoon in baby s mouth ." />
+</script>
+<script id="51">
+<item slot="1" text="blend up food ." />
+<item slot="2" text="put food in bowl ." />
+<item slot="3" text="get spoon ." />
+<item slot="4" text="scoop food with spoon ." />
+<item slot="5" text="put spoon in baby s mouth ." />
+</script>
+<script id="52">
+<item slot="1" text="fill bottle ." />
+<item slot="2" text="warm bottle ." />
+<item slot="3" text="test bottle ." />
+<item slot="4" text="give bottle to infant ." />
+</script>
+<script id="53">
+<item slot="1" text="fill bottle ." />
+<item slot="2" text="warm bottle ." />
+<item slot="3" text="test bottle ." />
+<item slot="4" text="give bottle to infant ." />
+</script>
+<script id="54">
+<item slot="1" text="get the infant ready by putting him in a highchair ." />
+<item slot="2" text="put a bib on him ." />
+<item slot="3" text="heat his food up ." />
+<item slot="4" text="make sure it is not too hot or cold ." />
+<item slot="5" text="get a plate and spoon ." />
+<item slot="6" text="feed him little bites ." />
+<item slot="7" text="clean him when done ." />
+</script>
+<script id="55">
+<item slot="1" text="get the infant ready by putting him in a highchair ." />
+<item slot="2" text="put a bib on him ." />
+<item slot="3" text="heat his food up ." />
+<item slot="4" text="make sure it is not too hot or cold ." />
+<item slot="5" text="get a plate and spoon ." />
+<item slot="6" text="feed him little bites ." />
+<item slot="7" text="clean him when done ." />
+</script>
+<script id="56">
+<item slot="1" text="get the infant ready by putting him in a highchair ." />
+<item slot="2" text="put a bib on him ." />
+<item slot="3" text="heat his food up ." />
+<item slot="4" text="make sure it is not too hot or cold ." />
+<item slot="5" text="get a plate and spoon ." />
+<item slot="6" text="feed him little bites ." />
+<item slot="7" text="clean him when done ." />
+</script>
+<script id="57">
+<item slot="1" text="get the infant ready by putting him in a highchair ." />
+<item slot="2" text="put a bib on him ." />
+<item slot="3" text="heat his food up ." />
+<item slot="4" text="make sure it is not too hot or cold ." />
+<item slot="5" text="get a plate and spoon ." />
+<item slot="6" text="feed him little bites ." />
+<item slot="7" text="clean him when done ." />
+</script>
+<script id="58">
+<item slot="1" text="heat milk ." />
+<item slot="2" text="pour hot milk in baby bottle ." />
+<item slot="3" text="go to baby ." />
+<item slot="4" text="make baby drink from bottle ." />
+</script>
+<script id="59">
+<item slot="1" text="heat milk ." />
+<item slot="2" text="pour hot milk in baby bottle ." />
+<item slot="3" text="go to baby ." />
+<item slot="4" text="make baby drink from bottle ." />
+</script>
+<script id="60">
+<item slot="1" text="warm the bottle ." />
+<item slot="2" text="put a receiving blanket over your shoulder ." />
+<item slot="3" text="place bottle in childs mouth ." />
+<item slot="4" text="feed baby ." />
+</script>
+<script id="61">
+<item slot="1" text="warm the bottle ." />
+<item slot="2" text="put a receiving blanket over your shoulder ." />
+<item slot="3" text="place bottle in childs mouth ." />
+<item slot="4" text="feed baby ." />
+</script>
+<script id="62">
+<item slot="1" text="warm the bottle ." />
+<item slot="2" text="put a receiving blanket over your shoulder ." />
+<item slot="3" text="place bottle in childs mouth ." />
+<item slot="4" text="feed baby ." />
+</script>
+<script id="63">
+<item slot="1" text="warm the bottle ." />
+<item slot="2" text="put a receiving blanket over your shoulder ." />
+<item slot="3" text="place bottle in childs mouth ." />
+<item slot="4" text="feed baby ." />
+</script>
+<script id="64">
+<item slot="1" text="warm the bottle ." />
+<item slot="2" text="put a receiving blanket over your shoulder ." />
+<item slot="3" text="place bottle in childs mouth ." />
+<item slot="4" text="feed baby ." />
+</script>
+<script id="65">
+<item slot="1" text="get jar of baby food ." />
+<item slot="2" text="open jar ." />
+<item slot="3" text="get spoon ." />
+<item slot="4" text="scoop out some food ." />
+<item slot="5" text="stick spoon in baby s mouth ." />
+</script>
+<script id="66">
+<item slot="1" text="get jar of baby food ." />
+<item slot="2" text="open jar ." />
+<item slot="3" text="get spoon ." />
+<item slot="4" text="scoop out some food ." />
+<item slot="5" text="stick spoon in baby s mouth ." />
+</script>
+<script id="67">
+<item slot="1" text="get jar of baby food ." />
+<item slot="2" text="open jar ." />
+<item slot="3" text="get spoon ." />
+<item slot="4" text="scoop out some food ." />
+<item slot="5" text="stick spoon in baby s mouth ." />
+</script>
+</scripts>

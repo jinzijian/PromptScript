@@ -1,0 +1,436 @@
+<scripts>
+<script id="1">
+<item slot="1" text="go to kitchen ." />
+<item slot="2" text="open refrigerator ." />
+<item slot="3" text="find a drink ." />
+<item slot="4" text="pick up drink ." />
+<item slot="5" text="close refrigerator door ." />
+</script>
+<script id="2">
+<item slot="1" text="getting out of the chair ." />
+<item slot="2" text="walking to the kitchen ." />
+<item slot="3" text="getting a cup ." />
+<item slot="4" text="putting ice in the cup ." />
+<item slot="5" text="pouring the drink into the cup ." />
+</script>
+<script id="3">
+<item slot="1" text="find a refigerator ." />
+<item slot="2" text="open the refrigerator ." />
+<item slot="3" text="find a cold drink in the refrigerator ." />
+<item slot="4" text="get the cold drink ." />
+<item slot="5" text="close the refrigerator ." />
+<item slot="6" text="return to your starting position ." />
+</script>
+<script id="4">
+<item slot="1" text="locate cold drink ." />
+<item slot="2" text="walk towards cold drink ." />
+<item slot="3" text="pick up cold drink ." />
+<item slot="4" text="carry cold drink to original position ." />
+</script>
+<script id="5">
+<item slot="1" text="stand up ." />
+<item slot="2" text="go to the fridge ." />
+<item slot="3" text="open the fridge ." />
+<item slot="4" text="find the drink ." />
+<item slot="5" text="take the drink ." />
+<item slot="6" text="close the fridge ." />
+<item slot="7" text="walk back with the drink ." />
+</script>
+<script id="6">
+<item slot="1" text="go to refrigerator ." />
+<item slot="2" text="if cold drink in fridge pour drink in glass ." />
+<item slot="3" text="if no cold drink get ice into glass and pour drink over ice ." />
+<item slot="4" text="bring cold drink ." />
+</script>
+<script id="7">
+<item slot="1" text="go to fridge ." />
+<item slot="2" text="open fridge ." />
+<item slot="3" text="get drink ." />
+<item slot="4" text="pour drink in glass ." />
+<item slot="5" text="close fridge ." />
+<item slot="6" text="bring drink ." />
+</script>
+<script id="8">
+<item slot="1" text="walk to refridgerator ." />
+<item slot="2" text="open refridgerator ." />
+<item slot="3" text="get out cold drink ." />
+<item slot="4" text="get glass ." />
+<item slot="5" text="pour cold drink in glass ." />
+<item slot="6" text="come back ." />
+</script>
+<script id="9">
+<item slot="1" text="go to refrigerator ." />
+<item slot="2" text="get cold drink ." />
+<item slot="3" text="pour drink in a glass ." />
+<item slot="4" text="bring glass back ." />
+</script>
+<script id="10">
+<item slot="1" text="get a glass ." />
+<item slot="2" text="go to the fridge ." />
+<item slot="3" text="openthe fridge ." />
+<item slot="4" text="pour cold water in to the glass ." />
+<item slot="5" text="close the fridge ." />
+</script>
+<script id="11">
+<item slot="1" text="move to refrigerator ." />
+<item slot="2" text="open refrigerator ." />
+<item slot="3" text="remove a cold drink from inside the refrigerator ." />
+<item slot="4" text="return the cold drink to the person who requested it ." />
+</script>
+<script id="12">
+<item slot="1" text="decide which cold drink to get ." />
+<item slot="2" text="get cold drink out of the refrigerator ." />
+<item slot="3" text="bring cold drink to a person ." />
+</script>
+<script id="13">
+<item slot="1" text="go to refridgerator ." />
+<item slot="2" text="open refridgerator ." />
+<item slot="3" text="pick up a drink ." />
+<item slot="4" text="bring it to whomever asked for the drink ." />
+</script>
+<script id="14">
+<item slot="1" text="go to refridgerator ." />
+<item slot="2" text="get bottle of soda ." />
+<item slot="3" text="get glass ." />
+<item slot="4" text="poor soda into glass ." />
+<item slot="5" text="put bottle of soda in fridgerator ." />
+<item slot="6" text="put ice cubes in glass ." />
+</script>
+<script id="15">
+<item slot="1" text="get up ." />
+<item slot="2" text="go to the fridge ." />
+<item slot="3" text="choose a drink ." />
+<item slot="4" text="open freezer ." />
+<item slot="5" text="get ice cubes ." />
+<item slot="6" text="put ice cubes in glass ." />
+<item slot="7" text="pour drink in glass ." />
+</script>
+<script id="16">
+<item slot="1" text="go to the refrigerator ." />
+<item slot="2" text="look for the drink ." />
+<item slot="3" text="if it is there then remove it ." />
+<item slot="4" text="get a clean glass ." />
+<item slot="5" text="poor the drink into the glass ." />
+<item slot="6" text="put the remaining drink back into the fridge ." />
+<item slot="7" text="serve the cold drink ." />
+</script>
+<script id="17">
+<item slot="1" text="get a glass ." />
+<item slot="2" text="fill the glass with a cold drink ." />
+</script>
+<script id="18">
+<item slot="1" text="go to the kitchen ." />
+<item slot="2" text="open the cabinet ." />
+<item slot="3" text="get a glass ." />
+<item slot="4" text="put the glass on the counter ." />
+<item slot="5" text="open the refrigerator ." />
+<item slot="6" text="get the juice ." />
+<item slot="7" text="pour the juice into the glass ." />
+</script>
+<script id="19">
+<item slot="1" text="find a vending machine ." />
+<item slot="2" text="take out one s wallet ." />
+<item slot="3" text="take out a dollar ." />
+<item slot="4" text="put dollar in vending machine ." />
+<item slot="5" text="push button for desired drink ." />
+<item slot="6" text="drink is dispensed by machine ." />
+<item slot="7" text="take drink out of machine ." />
+</script>
+<script id="20">
+<item slot="1" text="go to the refrigerator ." />
+<item slot="2" text="open the door ." />
+<item slot="3" text="select a beverage ." />
+<item slot="4" text="take it out ." />
+<item slot="5" text="get a glass ." />
+<item slot="6" text="pour the beverage into the glass ." />
+<item slot="7" text="pick up the glass ." />
+</script>
+<script id="21">
+<item slot="1" text="go to refrigerator ." />
+<item slot="2" text="open refrigerator ." />
+<item slot="3" text="grab a soda ." />
+<item slot="4" text="drink soda ." />
+</script>
+<script id="22">
+<item slot="1" text="open refrigerator ." />
+<item slot="2" text="remove water pitcher ." />
+<item slot="3" text="get glass ." />
+<item slot="4" text="pour water in glass ." />
+</script>
+<script id="23">
+<item slot="1" text="go to soda machine ." />
+<item slot="2" text="put coins in machine ." />
+<item slot="3" text="select flavor of soda ." />
+<item slot="4" text="press button ." />
+<item slot="5" text="remove soda from machine ." />
+</script>
+<script id="24">
+<item slot="1" text="open the refrigerator ." />
+<item slot="2" text="take out abottle of soda ." />
+<item slot="3" text="pour the soda into a glass ." />
+</script>
+<script id="25">
+<item slot="1" text="open the refrigerator ." />
+<item slot="2" text="take out a bottle of soda ." />
+<item slot="3" text="take the cap off ." />
+<item slot="4" text="pour the soda into a glass ." />
+<item slot="5" text="recap the bottle ." />
+<item slot="6" text="put the bottle back in the refrigerator ." />
+<item slot="7" text="close the door ." />
+</script>
+<script id="26">
+<item slot="1" text="find cold drink ." />
+<item slot="2" text="get it ." />
+</script>
+<script id="27">
+<item slot="1" text="open refrigerator door ." />
+<item slot="2" text="locate drink ." />
+<item slot="3" text="grab drink ." />
+<item slot="4" text="close refrigerator ." />
+</script>
+<script id="28">
+<item slot="1" text="walk to the kitchen ." />
+<item slot="2" text="open refrigerator ." />
+<item slot="3" text="select drink ." />
+<item slot="4" text="poor into glass ." />
+</script>
+<script id="29">
+<item slot="1" text="go into kitchen ." />
+<item slot="2" text="get a glass ." />
+<item slot="3" text="open freezer ." />
+<item slot="4" text="put ice into glass ." />
+<item slot="5" text="close freezer ." />
+<item slot="6" text="open fridge ." />
+<item slot="7" text="pour desired liquid into glass ." />
+</script>
+<script id="30">
+<item slot="1" text="go to the refrigerator ." />
+<item slot="2" text="open the fridge door ." />
+<item slot="3" text="take out the beverage container ." />
+<item slot="4" text="put container on counter ." />
+<item slot="5" text="close the fridge door ." />
+<item slot="6" text="remove cap from container ." />
+<item slot="7" text="pour beverage into a glass ." />
+</script>
+<script id="31">
+<item slot="1" text="open the cupboard door ." />
+<item slot="2" text="take a drinking glass ." />
+<item slot="3" text="open the refrigerator door ." />
+<item slot="4" text="take out container of juice ." />
+<item slot="5" text="open container ." />
+<item slot="6" text="pour juice into glass ." />
+<item slot="7" text="close container ." />
+</script>
+<script id="32">
+<item slot="1" text="open the cupboard door ." />
+<item slot="2" text="take a drinking glass ." />
+<item slot="3" text="open the refrigerator door ." />
+<item slot="4" text="take out container of juice ." />
+<item slot="5" text="open container ." />
+<item slot="6" text="pour juice into glass ." />
+<item slot="7" text="close container ." />
+</script>
+<script id="33">
+<item slot="1" text="select the cold drink ." />
+<item slot="2" text="open the bottle ." />
+<item slot="3" text="fetch the drink ." />
+</script>
+<script id="34">
+<item slot="1" text="open cubboard ." />
+<item slot="2" text="remove glass ." />
+<item slot="3" text="open freezer ." />
+<item slot="4" text="remove ice cubes and add to glass ." />
+<item slot="5" text="close freezer ." />
+<item slot="6" text="turn on water faucet ." />
+<item slot="7" text="fill the glass ." />
+</script>
+<script id="35">
+<item slot="1" text="open cubboard ." />
+<item slot="2" text="remove glass ." />
+<item slot="3" text="open freezer ." />
+<item slot="4" text="remove ice cubes and add to glass ." />
+<item slot="5" text="close freezer ." />
+<item slot="6" text="turn on water faucet ." />
+<item slot="7" text="fill the glass ." />
+</script>
+<script id="36">
+<item slot="1" text="going to the fridge ." />
+<item slot="2" text="open fridge ." />
+<item slot="3" text="take out drink ." />
+</script>
+<script id="37">
+<item slot="1" text="get up ." />
+<item slot="2" text="go to fridge ." />
+<item slot="3" text="open fridge ." />
+<item slot="4" text="choose a drink ." />
+<item slot="5" text="retrieve drink ." />
+</script>
+<script id="38">
+<item slot="1" text="get up ." />
+<item slot="2" text="go to fridge ." />
+<item slot="3" text="open fridge ." />
+<item slot="4" text="choose a drink ." />
+<item slot="5" text="retrieve drink ." />
+</script>
+<script id="39">
+<item slot="1" text="get up ." />
+<item slot="2" text="go to fridge ." />
+<item slot="3" text="open fridge ." />
+<item slot="4" text="choose a drink ." />
+<item slot="5" text="retrieve drink ." />
+</script>
+<script id="40">
+<item slot="1" text="walk ." />
+<item slot="2" text="get cold drink ." />
+</script>
+<script id="41">
+<item slot="1" text="walk ." />
+<item slot="2" text="get cold drink ." />
+</script>
+<script id="42">
+<item slot="1" text="walk ." />
+<item slot="2" text="get cold drink ." />
+</script>
+<script id="43">
+<item slot="1" text="walk ." />
+<item slot="2" text="get cold drink ." />
+</script>
+<script id="44">
+<item slot="1" text="walk ." />
+<item slot="2" text="get cold drink ." />
+</script>
+<script id="45">
+<item slot="1" text="walk ." />
+<item slot="2" text="get cold drink ." />
+</script>
+<script id="46">
+<item slot="1" text="open fridge door ." />
+<item slot="2" text="grab a can of soda ." />
+<item slot="3" text="close the fridge door ." />
+<item slot="4" text="open the soda drink ." />
+</script>
+<script id="47">
+<item slot="1" text="open fridge door ." />
+<item slot="2" text="grab a can of soda ." />
+<item slot="3" text="close the fridge door ." />
+<item slot="4" text="open the soda drink ." />
+</script>
+<script id="48">
+<item slot="1" text="open fridge door ." />
+<item slot="2" text="grab a can of soda ." />
+<item slot="3" text="close the fridge door ." />
+<item slot="4" text="open the soda drink ." />
+</script>
+<script id="49">
+<item slot="1" text="open fridge door ." />
+<item slot="2" text="grab a can of soda ." />
+<item slot="3" text="close the fridge door ." />
+<item slot="4" text="open the soda drink ." />
+</script>
+<script id="50">
+<item slot="1" text="open fridge door ." />
+<item slot="2" text="grab a can of soda ." />
+<item slot="3" text="close the fridge door ." />
+<item slot="4" text="open the soda drink ." />
+</script>
+<script id="51">
+<item slot="1" text="open fridge door ." />
+<item slot="2" text="grab a can of soda ." />
+<item slot="3" text="close the fridge door ." />
+<item slot="4" text="open the soda drink ." />
+</script>
+<script id="52">
+<item slot="1" text="walk ." />
+<item slot="2" text="get cold water ." />
+</script>
+<script id="53">
+<item slot="1" text="enter kitchen ." />
+<item slot="2" text="open fridge ." />
+</script>
+<script id="54">
+<item slot="1" text="walk to refrigerator or cooler ." />
+<item slot="2" text="open door ." />
+<item slot="3" text="grad desired cold beverage ." />
+<item slot="4" text="open and drink beverage ." />
+</script>
+<script id="55">
+<item slot="1" text="take out a glass ." />
+<item slot="2" text="take out the jug of drink ." />
+<item slot="3" text="pour the drink into the glass ." />
+<item slot="4" text="return the jug of drink ." />
+<item slot="5" text="serve the glass to peson ." />
+</script>
+<script id="56">
+<item slot="1" text="take out a glass ." />
+<item slot="2" text="take out the jug of drink ." />
+<item slot="3" text="pour the drink into the glass ." />
+<item slot="4" text="return the jug of drink ." />
+<item slot="5" text="serve the glass to peson ." />
+</script>
+<script id="57">
+<item slot="1" text="get a glass ." />
+<item slot="2" text="get the drink container ." />
+<item slot="3" text="pour the drink into the glass ." />
+<item slot="4" text="put the drink container back ." />
+<item slot="5" text="serve the drink ." />
+</script>
+<script id="58">
+<item slot="1" text="stand up ." />
+<item slot="2" text="right foot ." />
+<item slot="3" text="left foot ." />
+</script>
+<script id="59">
+<item slot="1" text="stand up ." />
+<item slot="2" text="right foot ." />
+<item slot="3" text="left foot ." />
+</script>
+<script id="60">
+<item slot="1" text="stand up ." />
+<item slot="2" text="right foot ." />
+<item slot="3" text="left foot ." />
+<item slot="4" text="right foot ." />
+<item slot="5" text="left foot ." />
+<item slot="6" text="open fridge ." />
+<item slot="7" text="take out drink ." />
+</script>
+<script id="61">
+<item slot="1" text="stand up ." />
+<item slot="2" text="right foot ." />
+<item slot="3" text="left foot ." />
+<item slot="4" text="right foot ." />
+<item slot="5" text="left foot ." />
+<item slot="6" text="open fridge ." />
+<item slot="7" text="take out drink ." />
+</script>
+<script id="62">
+<item slot="1" text="open freezer ." />
+<item slot="2" text="take drink out ." />
+</script>
+<script id="63">
+<item slot="1" text="go to the kitchen ." />
+<item slot="2" text="open fridge ." />
+<item slot="3" text="get drink ." />
+<item slot="4" text="pour in glass ." />
+</script>
+<script id="64">
+<item slot="1" text="go to the kitchen ." />
+<item slot="2" text="open fridge ." />
+<item slot="3" text="get drink ." />
+<item slot="4" text="pour in glass ." />
+</script>
+<script id="65">
+<item slot="1" text="go to kitchen ." />
+<item slot="2" text="open fridge ." />
+<item slot="3" text="get pitcher ." />
+<item slot="4" text="get cup ." />
+<item slot="5" text="pour drink ." />
+<item slot="6" text="swallow ." />
+<item slot="7" text="enjoy ." />
+</script>
+<script id="66">
+<item slot="1" text="getting a cup ." />
+<item slot="2" text="turining cold water tap on ." />
+<item slot="3" text="waiting for water to run cold ." />
+<item slot="4" text="filing glass and turning off tap ." />
+</script>
+</scripts>

@@ -1,0 +1,133 @@
+<scripts>
+<script id="1">
+<item slot="1" text="look for person ." />
+<item slot="2" text="go to person ." />
+<item slot="3" text="announce person is found ." />
+</script>
+<script id="2">
+<item slot="1" text="locate person ." />
+<item slot="2" text="go to person ." />
+<item slot="3" text="announce that the person is found ." />
+</script>
+<script id="3">
+<item slot="1" text="figure out where the person might be ." />
+<item slot="2" text="look there ." />
+</script>
+<script id="4">
+<item slot="1" text="yell 'where are you?' ." />
+<item slot="2" text="follow the persons voice ." />
+</script>
+<script id="5">
+<item slot="1" text="look for person in room ." />
+<item slot="2" text="continue to next room until found ." />
+</script>
+<script id="6">
+<item slot="1" text="go to where person might be ." />
+<item slot="2" text="look around for person ." />
+<item slot="3" text="of not found ask people if they saw person ." />
+</script>
+<script id="7">
+<item slot="1" text="look for person ." />
+</script>
+<script id="8">
+<item slot="1" text="look for person ." />
+<item slot="2" text="report when person is found ." />
+</script>
+<script id="9">
+<item slot="1" text="enter the person s name into google ." />
+</script>
+<script id="10">
+<item slot="1" text="look for person ." />
+<item slot="2" text="search for person ." />
+<item slot="3" text="seek a person ." />
+</script>
+<script id="11">
+<item slot="1" text="look for person ." />
+<item slot="2" text="search for person ." />
+<item slot="3" text="seek a person ." />
+</script>
+<script id="12">
+<item slot="1" text="look for person ." />
+<item slot="2" text="search for person ." />
+<item slot="3" text="seek a person ." />
+</script>
+<script id="13">
+<item slot="1" text="look for person ." />
+<item slot="2" text="search for person ." />
+<item slot="3" text="seek a person ." />
+</script>
+<script id="14">
+<item slot="1" text="walk ." />
+<item slot="2" text="ask ." />
+<item slot="3" text="walk ." />
+<item slot="4" text="ask ." />
+<item slot="5" text="walk ." />
+<item slot="6" text="ask ." />
+<item slot="7" text="found person ." />
+</script>
+<script id="15">
+<item slot="1" text="walk ." />
+<item slot="2" text="find person ." />
+</script>
+<script id="16">
+<item slot="1" text="walk ." />
+<item slot="2" text="find person ." />
+</script>
+<script id="17">
+<item slot="1" text="walk ." />
+<item slot="2" text="find person ." />
+</script>
+<script id="18">
+<item slot="1" text="walk ." />
+<item slot="2" text="find person ." />
+</script>
+<script id="19">
+<item slot="1" text="have an idea where person is ." />
+<item slot="2" text="go there ." />
+<item slot="3" text="look for person there ." />
+</script>
+<script id="20">
+<item slot="1" text="have an idea where person is ." />
+<item slot="2" text="go there ." />
+<item slot="3" text="look for person there ." />
+</script>
+<script id="21">
+<item slot="1" text="have an idea where person is ." />
+<item slot="2" text="go there ." />
+<item slot="3" text="look for person there ." />
+</script>
+<script id="22">
+<item slot="1" text="have an idea where person is ." />
+<item slot="2" text="go there ." />
+<item slot="3" text="look for person there ." />
+</script>
+<script id="23">
+<item slot="1" text="have an idea where person is ." />
+<item slot="2" text="go there ." />
+<item slot="3" text="look for person there ." />
+</script>
+<script id="24">
+<item slot="1" text="look for person ." />
+<item slot="2" text="locate person ." />
+</script>
+<script id="25">
+<item slot="1" text="look for person ." />
+<item slot="2" text="locate person ." />
+</script>
+<script id="26">
+<item slot="1" text="look for person ." />
+<item slot="2" text="locate person ." />
+</script>
+<script id="27">
+<item slot="1" text="look for person ." />
+<item slot="2" text="locate person ." />
+</script>
+<script id="28">
+<item slot="1" text="look for person ." />
+<item slot="2" text="locate person ." />
+</script>
+<script id="29">
+<item slot="1" text="look for person ." />
+<item slot="2" text="locate person ." />
+</script>
+</scripts>

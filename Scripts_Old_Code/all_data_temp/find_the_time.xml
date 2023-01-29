@@ -1,0 +1,254 @@
+<scripts>
+<script id="1">
+<item slot="1" text="find a clock or watch ." />
+<item slot="2" text="say the time ." />
+</script>
+<script id="2">
+<item slot="1" text="find a watch or clock ." />
+<item slot="2" text="read the time from the watch or clock ." />
+</script>
+<script id="3">
+<item slot="1" text="find a clock or watch ." />
+<item slot="2" text="read the time from the clock or watch ." />
+</script>
+<script id="4">
+<item slot="1" text="look at the watch/clock/computer ." />
+<item slot="2" text="read the time displayed on it ." />
+</script>
+<script id="5">
+<item slot="1" text="try to schedule better activities ." />
+</script>
+<script id="6">
+<item slot="1" text="check your calendar ." />
+<item slot="2" text="change appointments if necessary ." />
+</script>
+<script id="7">
+<item slot="1" text="treat the task as an appointment ." />
+<item slot="2" text="place task in your  appointment book for a specific time ." />
+<item slot="3" text="do task at that time ." />
+</script>
+<script id="8">
+<item slot="1" text="get calendar ." />
+<item slot="2" text="find a time slot for activity ." />
+<item slot="3" text="move around other appoinements ." />
+</script>
+<script id="9">
+<item slot="1" text="turn on the tv ." />
+<item slot="2" text="change the channel to one which shows the time ." />
+<item slot="3" text="take note of the time ." />
+</script>
+<script id="10">
+<item slot="1" text="find a person s watch ." />
+<item slot="2" text="look at the face of the watch to see the time ." />
+</script>
+<script id="11">
+<item slot="1" text="find an electrical appliance with a clock ." />
+<item slot="2" text="move to the appliance ." />
+<item slot="3" text="read the time from the appliance s clock ." />
+</script>
+<script id="12">
+<item slot="1" text="look at schedule ." />
+<item slot="2" text="determine available time slots ." />
+<item slot="3" text="schedule desired activity in available slot ." />
+</script>
+<script id="13">
+<item slot="1" text="find a time keeping device ." />
+<item slot="2" text="look at the device ." />
+</script>
+<script id="14">
+<item slot="1" text="look at the watch ." />
+</script>
+<script id="15">
+<item slot="1" text="check the clock ." />
+</script>
+<script id="16">
+<item slot="1" text="find a clock ." />
+<item slot="2" text="look at it ." />
+</script>
+<script id="17">
+<item slot="1" text="arrange your time schedule ." />
+<item slot="2" text="then find the time ." />
+</script>
+<script id="18">
+<item slot="1" text="look at a clock ." />
+</script>
+<script id="19">
+<item slot="1" text="check a clock ." />
+<item slot="2" text="report the time ." />
+</script>
+<script id="20">
+<item slot="1" text="find a clock ." />
+<item slot="2" text="interpret the clock ." />
+<item slot="3" text="report the time ." />
+</script>
+<script id="21">
+<item slot="1" text="find a clock ." />
+<item slot="2" text="interpret the clock ." />
+<item slot="3" text="report the time ." />
+</script>
+<script id="22">
+<item slot="1" text="nothing ." />
+</script>
+<script id="23">
+<item slot="1" text="figure out what is scheduled ." />
+<item slot="2" text="identify empty slots ." />
+</script>
+<script id="24">
+<item slot="1" text="look at watch or clock ." />
+<item slot="2" text="read the time ." />
+</script>
+<script id="25">
+<item slot="1" text="identify things to do ." />
+<item slot="2" text="assign timeslots to accomplish things to do ." />
+<item slot="3" text="identify open time slots ." />
+</script>
+<script id="26">
+<item slot="1" text="find a watch or clock ." />
+<item slot="2" text="read the time ." />
+</script>
+<script id="27">
+<item slot="1" text="look for a clock ." />
+<item slot="2" text="note the time ." />
+<item slot="3" text="decide what chores can be put off a bit ." />
+<item slot="4" text="decide what chores can be skipped entirely ." />
+<item slot="5" text="figure out if this gives you enough time to do 'x' ." />
+</script>
+<script id="28">
+<item slot="1" text="look for a clock ." />
+<item slot="2" text="note the time ." />
+<item slot="3" text="decide what chores can be put off a bit ." />
+<item slot="4" text="decide what chores can be skipped entirely ." />
+<item slot="5" text="figure out if this gives you enough time to do 'x' ." />
+</script>
+<script id="29">
+<item slot="1" text="look for a clock ." />
+<item slot="2" text="note the time ." />
+<item slot="3" text="decide what chores can be put off a bit ." />
+<item slot="4" text="decide what chores can be skipped entirely ." />
+<item slot="5" text="figure out if this gives you enough time to do 'x' ." />
+</script>
+<script id="30">
+<item slot="1" text="look for a clock ." />
+<item slot="2" text="note the time ." />
+<item slot="3" text="decide what chores can be put off a bit ." />
+<item slot="4" text="decide what chores can be skipped entirely ." />
+<item slot="5" text="figure out if this gives you enough time to do 'x' ." />
+</script>
+<script id="31">
+<item slot="1" text="look for a clock ." />
+<item slot="2" text="note the time ." />
+<item slot="3" text="decide what chores can be put off a bit ." />
+<item slot="4" text="decide what chores can be skipped entirely ." />
+<item slot="5" text="figure out if this gives you enough time to do 'x' ." />
+</script>
+<script id="32">
+<item slot="1" text="look for a clock ." />
+<item slot="2" text="note the time ." />
+<item slot="3" text="decide what chores can be put off a bit ." />
+<item slot="4" text="decide what chores can be skipped entirely ." />
+<item slot="5" text="figure out if this gives you enough time to do 'x' ." />
+</script>
+<script id="33">
+<item slot="1" text="look for a clock ." />
+<item slot="2" text="note the time ." />
+<item slot="3" text="decide what chores can be put off a bit ." />
+<item slot="4" text="decide what chores can be skipped entirely ." />
+<item slot="5" text="figure out if this gives you enough time to do 'x' ." />
+</script>
+<script id="34">
+<item slot="1" text="look for a clock ." />
+<item slot="2" text="note the time ." />
+<item slot="3" text="decide what chores can be put off a bit ." />
+<item slot="4" text="decide what chores can be skipped entirely ." />
+<item slot="5" text="figure out if this gives you enough time to do 'x' ." />
+</script>
+<script id="35">
+<item slot="1" text="look for a clock ." />
+<item slot="2" text="note the time ." />
+<item slot="3" text="decide what chores can be put off a bit ." />
+<item slot="4" text="decide what chores can be skipped entirely ." />
+<item slot="5" text="figure out if this gives you enough time to do 'x' ." />
+</script>
+<script id="36">
+<item slot="1" text="look for a clock ." />
+<item slot="2" text="note the time ." />
+<item slot="3" text="decide what chores can be put off a bit ." />
+<item slot="4" text="decide what chores can be skipped entirely ." />
+<item slot="5" text="figure out if this gives you enough time to do 'x' ." />
+</script>
+<script id="37">
+<item slot="1" text="look for a clock ." />
+<item slot="2" text="note the time ." />
+<item slot="3" text="decide what chores can be put off a bit ." />
+<item slot="4" text="decide what chores can be skipped entirely ." />
+<item slot="5" text="figure out if this gives you enough time to do 'x' ." />
+</script>
+<script id="38">
+<item slot="1" text="look for a clock ." />
+<item slot="2" text="note the time ." />
+<item slot="3" text="decide what chores can be put off a bit ." />
+<item slot="4" text="decide what chores can be skipped entirely ." />
+<item slot="5" text="figure out if this gives you enough time to do 'x' ." />
+</script>
+<script id="39">
+<item slot="1" text="look for a clock ." />
+<item slot="2" text="note the time ." />
+<item slot="3" text="decide what chores can be put off a bit ." />
+<item slot="4" text="decide what chores can be skipped entirely ." />
+<item slot="5" text="figure out if this gives you enough time to do 'x' ." />
+</script>
+<script id="40">
+<item slot="1" text="look for a clock ." />
+<item slot="2" text="note the time ." />
+<item slot="3" text="decide what chores can be put off a bit ." />
+<item slot="4" text="decide what chores can be skipped entirely ." />
+<item slot="5" text="figure out if this gives you enough time to do 'x' ." />
+</script>
+<script id="41">
+<item slot="1" text="look for a clock ." />
+<item slot="2" text="note the time ." />
+<item slot="3" text="decide what chores can be put off a bit ." />
+<item slot="4" text="decide what chores can be skipped entirely ." />
+<item slot="5" text="figure out if this gives you enough time to do 'x' ." />
+</script>
+<script id="42">
+<item slot="1" text="thinking about all obligations ." />
+<item slot="2" text="stop current activity ." />
+<item slot="3" text="find the time ." />
+</script>
+<script id="43">
+<item slot="1" text="find a clock ." />
+<item slot="2" text="look at time ." />
+</script>
+<script id="44">
+<item slot="1" text="find a clock ." />
+<item slot="2" text="look at time ." />
+</script>
+<script id="45">
+<item slot="1" text="looking at watch ." />
+</script>
+<script id="46">
+<item slot="1" text="looking at watch ." />
+</script>
+<script id="47">
+<item slot="1" text="looking at watch ." />
+</script>
+<script id="48">
+<item slot="1" text="check the clock ." />
+<item slot="2" text="relay the time ." />
+</script>
+<script id="49">
+<item slot="1" text="check the clock ." />
+<item slot="2" text="relay the time ." />
+</script>
+<script id="50">
+<item slot="1" text="find clock ." />
+<item slot="2" text="look at clock ." />
+<item slot="3" text="take note of the time ." />
+<item slot="4" text="tell requester the time ." />
+</script>
+<script id="51">
+<item slot="1" text="find a clock ." />
+<item slot="2" text="check the time ." />
+</script>
+</scripts>

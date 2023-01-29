@@ -1,0 +1,309 @@
+<scripts>
+<script id="1">
+<item slot="1" text="get shower cleaning chemicals and sponges ." />
+<item slot="2" text="spray or pur chemicals on the shower surfaces ." />
+<item slot="3" text="scrub the shower surfaces with sponges ." />
+<item slot="4" text="rinse the surfaces with water ." />
+</script>
+<script id="2">
+<item slot="1" text="prepare cleaning products ." />
+<item slot="2" text="spray pour or scrub cleaning products where necessary ." />
+<item slot="3" text="use appropriate cleaning tool with product ." />
+<item slot="4" text="wipe or rinse shower surfaces with water ." />
+<item slot="5" text="allow time for shower to dry ." />
+</script>
+<script id="3">
+<item slot="1" text="obtain cleaning detergent and sponge ." />
+<item slot="2" text="go to shower ." />
+<item slot="3" text="spray cleaning detergent on shower ." />
+<item slot="4" text="scrub shower with sponge ." />
+<item slot="5" text="rinse shower wtih water ." />
+</script>
+<script id="4">
+<item slot="1" text="locate cleaning materials ." />
+<item slot="2" text="locate shower ." />
+<item slot="3" text="use cleaning materials to clean the shower ." />
+</script>
+<script id="5">
+<item slot="1" text="walk over to the shower ." />
+<item slot="2" text="spray glass cleaner all around the shower walls ." />
+<item slot="3" text="spray bathtub cleaner on the shower floor ." />
+<item slot="4" text="wait one minute ." />
+<item slot="5" text="turn on the shower and make sure all of the cleaners are washed away ." />
+</script>
+<script id="6">
+<item slot="1" text="obtain a bottle of bathroom spray cleaner ." />
+<item slot="2" text="obtain a sponge ." />
+<item slot="3" text="spray the shower walls and surface with cleaner ." />
+<item slot="4" text="let stand for ten minutes ." />
+<item slot="5" text="scrub the shower with the sponge ." />
+<item slot="6" text="rinse the cleaner away with fresh water ." />
+</script>
+<script id="7">
+<item slot="1" text="spray soap in tub ." />
+<item slot="2" text="scrub tub with a brush ." />
+<item slot="3" text="rinse soap away ." />
+<item slot="4" text="spray cleaner on walls ." />
+<item slot="5" text="wipe away cleaner ." />
+</script>
+<script id="8">
+<item slot="1" text="clean drain clog ." />
+<item slot="2" text="clean shower room ." />
+</script>
+<script id="9">
+<item slot="1" text="clean drain ." />
+<item slot="2" text="clean shower room ." />
+<item slot="3" text="clean shower curtain ." />
+</script>
+<script id="10">
+<item slot="1" text="spray cleanig substance inside shower ." />
+<item slot="2" text="with sponge gather all substance ." />
+<item slot="3" text="wash with water ." />
+</script>
+<script id="11">
+<item slot="1" text="spray cleaner on shower walls ." />
+<item slot="2" text="clean shower floor ." />
+<item slot="3" text="clean shower drain ." />
+</script>
+<script id="12">
+<item slot="1" text="locate a cleaning solvent ." />
+<item slot="2" text="locate a cleaning rag ." />
+<item slot="3" text="spray cleaning solvent in shower stall ." />
+<item slot="4" text="utilize rag to wipe the cleaning solvent on the wall ." />
+<item slot="5" text="allow cleaning solvent to evaporate off of wall ." />
+</script>
+<script id="13">
+<item slot="1" text="turn on shower ." />
+<item slot="2" text="spray cleaning agent onto walls floor ." />
+<item slot="3" text="scrub agent into walls floor ." />
+<item slot="4" text="rinse agent off and into drain ." />
+</script>
+<script id="14">
+<item slot="1" text="apply cleanser to shower walls ." />
+<item slot="2" text="scrub walls with sponge ." />
+<item slot="3" text="turn on shower ." />
+<item slot="4" text="rinse walls with shower water ." />
+<item slot="5" text="turn off shower ." />
+</script>
+<script id="15">
+<item slot="1" text="spray cleaner in shower ." />
+<item slot="2" text="scrub shower ." />
+<item slot="3" text="rinse shower ." />
+</script>
+<script id="16">
+<item slot="1" text="open the shower door ." />
+<item slot="2" text="apply cleaner to shower surface ." />
+<item slot="3" text="wipe cleaner ." />
+<item slot="4" text="rinse off cleaner with water ." />
+<item slot="5" text="close shower door ." />
+</script>
+<script id="17">
+<item slot="1" text="get bucket and water ." />
+<item slot="2" text="go to the shower ." />
+<item slot="3" text="clean the shower head ." />
+<item slot="4" text="clean the walls ." />
+<item slot="5" text="clean the floor ." />
+<item slot="6" text="rinse entire shower with fresh water ." />
+</script>
+<script id="18">
+<item slot="1" text="obtain disinfecting cleaner ." />
+<item slot="2" text="spray disinfecting cleaner on soiled surface ." />
+<item slot="3" text="wait approximately 5 minutes to allow cleaner to penetrate ." />
+<item slot="4" text="wipe soiled surface with damp sponge or cloth ." />
+</script>
+<script id="19">
+<item slot="1" text="brush the shower ." />
+</script>
+<script id="20">
+<item slot="1" text="putting on gloves ." />
+<item slot="2" text="spraying the shower with cleaning spray ." />
+<item slot="3" text="scrubbing the shower ." />
+<item slot="4" text="rinsing the soap off ." />
+</script>
+<script id="21">
+<item slot="1" text="remove all personal effects from shower ." />
+<item slot="2" text="clean the tile ." />
+<item slot="3" text="clean the bath tub ." />
+</script>
+<script id="22">
+<item slot="1" text="wet shower tiles ." />
+<item slot="2" text="apply cleaner to shower tiles ." />
+<item slot="3" text="scrub tiles ." />
+<item slot="4" text="rinse cleaner from tiles ." />
+</script>
+<script id="23">
+<item slot="1" text="open shower door ." />
+<item slot="2" text="spray cleaner all over shower ." />
+<item slot="3" text="wait five minutes for it to work ." />
+<item slot="4" text="wipe off the cleaner ." />
+<item slot="5" text="spray rinse water all over shower ." />
+<item slot="6" text="clear plug hole of any debris ." />
+<item slot="7" text="close shower door ." />
+</script>
+<script id="24">
+<item slot="1" text="gather cleaning materials ." />
+<item slot="2" text="lay out cleaning materials ." />
+<item slot="3" text="spray cleaning material ." />
+<item slot="4" text="let it soak in ." />
+<item slot="5" text="wipe dirty area ." />
+<item slot="6" text="reclean or dry area ." />
+<item slot="7" text="check your work ." />
+</script>
+<script id="25">
+<item slot="1" text="discern that shower needs cleaning ." />
+<item slot="2" text="gather cleaning items ." />
+<item slot="3" text="take items to shower ." />
+<item slot="4" text="rinse area to be cleaned ." />
+<item slot="5" text="spread cleaning material ." />
+<item slot="6" text="apply sponge and elbow grease ." />
+<item slot="7" text="rinse now clean shower ." />
+</script>
+<script id="26">
+<item slot="1" text="open the shower door ." />
+<item slot="2" text="spray the shower with cleaning product ." />
+<item slot="3" text="get a cloth ." />
+<item slot="4" text="wet the cloth with water ." />
+<item slot="5" text="wipe the cleaning product off the shower ." />
+</script>
+<script id="27">
+<item slot="1" text="wet shower ." />
+<item slot="2" text="scrub with cleanser ." />
+<item slot="3" text="rinse shower ." />
+</script>
+<script id="28">
+<item slot="1" text="take cleaner ." />
+<item slot="2" text="take brush ." />
+<item slot="3" text="clean shower with brush ." />
+</script>
+<script id="29">
+<item slot="1" text="rinse tub ." />
+<item slot="2" text="apply all-purpose cleaner ." />
+<item slot="3" text="scrub tub ." />
+<item slot="4" text="scrub tiles with tile cleaner ." />
+<item slot="5" text="leave cleaning agents in for 15 minutes ." />
+<item slot="6" text="apply hot water to all areas ." />
+<item slot="7" text="rinse again ." />
+</script>
+<script id="30">
+<item slot="1" text="wet a cloth ." />
+<item slot="2" text="put soap on it ." />
+<item slot="3" text="rub wall ." />
+</script>
+<script id="31">
+<item slot="1" text="turn the tap off ." />
+<item slot="2" text="get some cleaning solutions ." />
+<item slot="3" text="pour cleaning solution around bathtub ." />
+<item slot="4" text="use a sponge and rub the tiles and bathtub ." />
+<item slot="5" text="rinse tiles and bathtub with water ." />
+<item slot="6" text="put your cleaning solutions and sponge away ." />
+</script>
+<script id="32">
+<item slot="1" text="turn the tap off ." />
+<item slot="2" text="get some cleaning solutions ." />
+<item slot="3" text="pour cleaning solution around bathtub ." />
+<item slot="4" text="use a sponge and rub the tiles and bathtub ." />
+<item slot="5" text="rinse tiles and bathtub with water ." />
+<item slot="6" text="put your cleaning solutions and sponge away ." />
+</script>
+<script id="33">
+<item slot="1" text="turn the tap off ." />
+<item slot="2" text="get some cleaning solutions ." />
+<item slot="3" text="pour cleaning solution around bathtub ." />
+<item slot="4" text="use a sponge and rub the tiles and bathtub ." />
+<item slot="5" text="rinse tiles and bathtub with water ." />
+<item slot="6" text="put your cleaning solutions and sponge away ." />
+</script>
+<script id="34">
+<item slot="1" text="turn the tap off ." />
+<item slot="2" text="get some cleaning solutions ." />
+<item slot="3" text="pour cleaning solution around bathtub ." />
+<item slot="4" text="use a sponge and rub the tiles and bathtub ." />
+<item slot="5" text="rinse tiles and bathtub with water ." />
+<item slot="6" text="put your cleaning solutions and sponge away ." />
+</script>
+<script id="35">
+<item slot="1" text="turn the tap off ." />
+<item slot="2" text="get some cleaning solutions ." />
+<item slot="3" text="pour cleaning solution around bathtub ." />
+<item slot="4" text="use a sponge and rub the tiles and bathtub ." />
+<item slot="5" text="rinse tiles and bathtub with water ." />
+<item slot="6" text="put your cleaning solutions and sponge away ." />
+</script>
+<script id="36">
+<item slot="1" text="walk toward bathroom ." />
+<item slot="2" text="get sponge ." />
+<item slot="3" text="get cleaning spray ." />
+<item slot="4" text="spray the spray on sponge ." />
+<item slot="5" text="use sponge to wipe dirt ." />
+<item slot="6" text="wipe all dirt ." />
+<item slot="7" text="rinse bathroom ." />
+</script>
+<script id="37">
+<item slot="1" text="spray with cleanser ." />
+<item slot="2" text="wait ." />
+<item slot="3" text="scrub ." />
+<item slot="4" text="turn on shower ." />
+<item slot="5" text="wash tub with water ." />
+<item slot="6" text="let dry ." />
+<item slot="7" text="write dry ." />
+</script>
+<script id="38">
+<item slot="1" text="wash shower ." />
+</script>
+<script id="39">
+<item slot="1" text="get the cleanser ." />
+<item slot="2" text="turn on the water ." />
+<item slot="3" text="scrub the walls ." />
+<item slot="4" text="scrub the bottom ." />
+<item slot="5" text="rinse thoroughly ." />
+</script>
+<script id="40">
+<item slot="1" text="open shower door ." />
+<item slot="2" text="remove items from shower ." />
+<item slot="3" text="get shower spray cleaner ." />
+<item slot="4" text="spray entire surface of shower evenly ." />
+<item slot="5" text="wait 5-10 minutes ." />
+<item slot="6" text="wipe off spray and dirt with clean cloth ." />
+<item slot="7" text="rinse shower thoroughly with water ." />
+</script>
+<script id="41">
+<item slot="1" text="get the cleaner ." />
+<item slot="2" text="go to shower ." />
+<item slot="3" text="remove any bottles/products ." />
+<item slot="4" text="spray the shower with cleaner ." />
+<item slot="5" text="wipe or scrub shower down ." />
+<item slot="6" text="rinse shower ." />
+<item slot="7" text="replace bottles ." />
+</script>
+<script id="42">
+<item slot="1" text="getting the cleaner ." />
+<item slot="2" text="spraying the shower ." />
+<item slot="3" text="letting the cleaner sit ." />
+<item slot="4" text="scrubbing shower ." />
+</script>
+<script id="43">
+<item slot="1" text="getting the cleaner ." />
+<item slot="2" text="spraying the shower ." />
+<item slot="3" text="letting the cleaner sit ." />
+<item slot="4" text="scrubbing shower ." />
+</script>
+<script id="44">
+<item slot="1" text="getting the cleaner ." />
+<item slot="2" text="spraying the shower ." />
+<item slot="3" text="letting the cleaner sit ." />
+<item slot="4" text="scrubbing shower ." />
+</script>
+<script id="45">
+<item slot="1" text="open door ." />
+<item slot="2" text="hold nozle of spray cleaner towards shower ." />
+<item slot="3" text="spray cleaner evenly over entire shower ." />
+<item slot="4" text="wait 5-10 minutes ." />
+<item slot="5" text="wipe spray and dirt away with a clean cloth ." />
+<item slot="6" text="rinse thoroughly with clean water ." />
+</script>
+<script id="46">
+<item slot="1" text="take soap ." />
+<item slot="2" text="take brush ." />
+<item slot="3" text="scrub shower ." />
+</script>
+</scripts>

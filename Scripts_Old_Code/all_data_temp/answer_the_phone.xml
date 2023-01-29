@@ -1,0 +1,381 @@
+<?xml version="1.0"?>
+<scripts>
+	<script id="1">
+		<item slot="1" text="find the phone ."/>
+		<item slot="2" text="pick up the phone ."/>
+		<item slot="3" text="say hello ."/>
+	</script>
+	<script id="2">
+		<item slot="1" text="locate phone ."/>
+		<item slot="2" text="pick up receiver ."/>
+		<item slot="3" text="place receiver to ear ."/>
+		<item slot="4" text="say hello ."/>
+	</script>
+	<script id="3">
+		<item slot="1" text="get phone ."/>
+		<item slot="2" text="pick up receiver ."/>
+		<item slot="3" text="place receiver to ear/speaker ."/>
+		<item slot="4" text="say hello ."/>
+	</script>
+	<script id="4">
+		<item slot="1" text="go to the phone ."/>
+		<item slot="2" text="pick it up ."/>
+		<item slot="3" text="say hello ."/>
+	</script>
+	<script id="5">
+		<item slot="1" text="hear the phone ring ."/>
+		<item slot="2" text="pick up the phone ."/>
+		<item slot="3" text="say hello ."/>
+	</script>
+	<script id="6">
+		<item slot="1" text="pick up the receiver ."/>
+	</script>
+	<script id="7">
+		<item slot="1" text="pick phone up ."/>
+		<item slot="2" text="push talk button ."/>
+		<item slot="3" text="answer phone ."/>
+	</script>
+	<script id="8">
+		<item slot="1" text="taking the phone in hand ."/>
+		<item slot="2" text="pressing answer button ."/>
+	</script>
+	<script id="9">
+		<item slot="1" text="move to phone ."/>
+		<item slot="2" text="pick up receiver ."/>
+		<item slot="3" text="say hello ."/>
+		<item slot="4" text="ask who is calling ."/>
+	</script>
+	<script id="10">
+		<item slot="1" text="find the telephone ."/>
+		<item slot="2" text="pick up the telephone receiver ."/>
+		<item slot="3" text="speak a greeting into the receiver s microphone ."/>
+	</script>
+	<script id="11">
+		<item slot="1" text="find the phone ."/>
+		<item slot="2" text="pick up the phone s receiver ."/>
+		<item slot="3" text="speak a greeting such as 'hello' ."/>
+	</script>
+	<script id="12">
+		<item slot="1" text="walk to the phone ."/>
+		<item slot="2" text="pick up the receiver ."/>
+		<item slot="3" text="say 'hello' ."/>
+	</script>
+	<script id="13">
+		<item slot="1" text="hearing the phone ringing ."/>
+		<item slot="2" text="picking up the phone ."/>
+		<item slot="3" text="answering the call by saying 'hello' ."/>
+	</script>
+	<script id="14">
+		<item slot="1" text="monitor the telephone ."/>
+		<item slot="2" text="if the telephone rings pick up the receiver ."/>
+		<item slot="3" text="greet the person that is calling ."/>
+		<item slot="4" text="converse with the caller ."/>
+		<item slot="5" text="assist the caller ."/>
+		<item slot="6" text="replace receiver upon conclusion of conversation ."/>
+	</script>
+	<script id="15">
+		<item slot="1" text="hear the phone ring ."/>
+		<item slot="2" text="get the phone ."/>
+		<item slot="3" text="answer it ."/>
+	</script>
+	<script id="16">
+		<item slot="1" text="go to the phone ."/>
+		<item slot="2" text="pick up the phone ."/>
+		<item slot="3" text="say hello ."/>
+	</script>
+	<script id="17">
+		<item slot="1" text="find ringing telephone ."/>
+		<item slot="2" text="pick up the handset for the phone ."/>
+		<item slot="3" text="press the 'talk' button ."/>
+		<item slot="4" text="greet the person on the telephone ."/>
+	</script>
+	<script id="18">
+		<item slot="1" text="when the phone rings pick up the receiver ."/>
+		<item slot="2" text="listen to the receiver ."/>
+		<item slot="3" text="greet the person that is calling ."/>
+	</script>
+	<script id="19">
+		<item slot="1" text="walk in the direction of the phone ."/>
+		<item slot="2" text="lowe your arm and grab the receiver ."/>
+		<item slot="3" text="bring the receiver to your ear so that you may hear ."/>
+		<item slot="4" text="ask who is calling ."/>
+	</script>
+	<script id="20">
+		<item slot="1" text="walk over to the phone ."/>
+		<item slot="2" text="pick up the receiver ."/>
+		<item slot="3" text="say a greeting ."/>
+		<item slot="4" text="listen ."/>
+	</script>
+	<script id="21">
+		<item slot="1" text="go to phone ."/>
+		<item slot="2" text="pick up receiver ."/>
+		<item slot="3" text="press talk button ."/>
+	</script>
+	<script id="22">
+		<item slot="1" text="walk to the phone ."/>
+		<item slot="2" text="pick up the receiver ."/>
+		<item slot="3" text="say a greeting ."/>
+		<item slot="4" text="listen ."/>
+	</script>
+	<script id="23">
+		<item slot="1" text="go to phone ."/>
+		<item slot="2" text="pick up receiver ."/>
+		<item slot="3" text="press tak button ."/>
+		<item slot="4" text="say hi ."/>
+	</script>
+	<script id="24">
+		<item slot="1" text="listen for the phone to ring ."/>
+		<item slot="2" text="lift the receiver from the base ."/>
+		<item slot="3" text="bring the receiver to your mouth and ear ."/>
+		<item slot="4" text="say hello ."/>
+	</script>
+	<script id="25">
+		<item slot="1" text="go over to the phone ."/>
+		<item slot="2" text="pick up the receiver on the phone ."/>
+		<item slot="3" text="begin to speak to the person on the phone ."/>
+	</script>
+	<script id="26">
+		<item slot="1" text="find the telephone ."/>
+		<item slot="2" text="pick up the telephone receiver ."/>
+		<item slot="3" text="say hello or some other greeting ."/>
+		<item slot="4" text="listen for someone on the telephone to speak ."/>
+	</script>
+	<script id="27">
+		<item slot="1" text="hear the phone ring ."/>
+		<item slot="2" text="go to the phone ."/>
+		<item slot="3" text="pick up the phone ."/>
+	</script>
+	<script id="28">
+		<item slot="1" text="hear the phone ring ."/>
+		<item slot="2" text="go to the phone ."/>
+		<item slot="3" text="pick up the phone ."/>
+		<item slot="4" text="say 'hello?' ."/>
+		<item slot="5" text="continue the conversation ."/>
+	</script>
+	<script id="29">
+		<item slot="1" text="hear the ring ."/>
+		<item slot="2" text="locate receiver ."/>
+		<item slot="3" text="pick up receiver ."/>
+	</script>
+	<script id="30">
+		<item slot="1" text="locate ringing phone ."/>
+		<item slot="2" text="pick up handset ."/>
+		<item slot="3" text="say hello ."/>
+	</script>
+	<script id="31">
+		<item slot="1" text="hear the phone ring ."/>
+		<item slot="2" text="move to telephone ."/>
+		<item slot="3" text="pick up telephone horn ."/>
+		<item slot="4" text="state hello and name ."/>
+		<item slot="5" text="listen to telephone horn ."/>
+	</script>
+	<script id="32">
+		<item slot="1" text="listen to telephone ringing ."/>
+		<item slot="2" text="move to telephone ."/>
+		<item slot="3" text="pick up reciever ."/>
+		<item slot="4" text="talk to receiver ."/>
+	</script>
+	<script id="33">
+		<item slot="1" text="locate phone ."/>
+		<item slot="2" text="lift phone receiver ."/>
+		<item slot="3" text="say hello ."/>
+		<item slot="4" text="listen to response ."/>
+	</script>
+	<script id="34">
+		<item slot="1" text="pick up the receiver ."/>
+		<item slot="2" text="say hello ."/>
+	</script>
+	<script id="35">
+		<item slot="1" text="find phone ."/>
+		<item slot="2" text="go to phone ."/>
+		<item slot="3" text="pick up phone ."/>
+		<item slot="4" text="greet caller ."/>
+		<item slot="5" text="listen to caller ."/>
+		<item slot="6" text="respond to caller ."/>
+		<item slot="7" text="etc ."/>
+	</script>
+	<script id="36">
+		<item slot="1" text="go to phone ."/>
+		<item slot="2" text="pick phone up ."/>
+		<item slot="3" text="press on button ."/>
+		<item slot="4" text="answer with 'hello' ."/>
+	</script>
+	<script id="37">
+		<item slot="1" text="pick up receiver ."/>
+		<item slot="2" text="hold receiver to head ."/>
+		<item slot="3" text="say hello ."/>
+	</script>
+	<script id="38">
+		<item slot="1" text="pick up receiver ."/>
+		<item slot="2" text="put receiver to ear ."/>
+		<item slot="3" text="say hello ."/>
+	</script>
+	<script id="39">
+		<item slot="1" text="pick up the phone ."/>
+		<item slot="2" text="then say hello ."/>
+	</script>
+	<script id="40">
+		<item slot="1" text="pick up receiver ."/>
+		<item slot="2" text="if necessary push talk button to answer phone ."/>
+		<item slot="3" text="put receiver to ear ."/>
+		<item slot="4" text="say  hello ."/>
+	</script>
+	<script id="41">
+		<item slot="1" text="notice the phone ringing ."/>
+		<item slot="2" text="pickup handset ."/>
+		<item slot="3" text="press on or talk ."/>
+		<item slot="4" text="say 'hello' ."/>
+	</script>
+	<script id="42">
+		<item slot="1" text="locate the phone ."/>
+		<item slot="2" text="pick up the receiver ."/>
+		<item slot="3" text="say 'hello' into the mouthpiece ."/>
+	</script>
+	<script id="43">
+		<item slot="1" text="look at caller id ."/>
+		<item slot="2" text="pick up phone ."/>
+		<item slot="3" text="say hello ."/>
+	</script>
+	<script id="44">
+		<item slot="1" text="hear ring ."/>
+		<item slot="2" text="see location ."/>
+		<item slot="3" text="go to location ."/>
+		<item slot="4" text="pick up reciever ."/>
+		<item slot="5" text="say hello ."/>
+		<item slot="6" text="listen for response ."/>
+		<item slot="7" text="recognize message ."/>
+	</script>
+	<script id="45">
+		<item slot="1" text="pick up handset ."/>
+		<item slot="2" text="speak into the microphone ."/>
+		<item slot="3" text="say hello ."/>
+	</script>
+	<script id="46">
+		<item slot="1" text="go to the phone ."/>
+		<item slot="2" text="pick up the handset ."/>
+		<item slot="3" text="say 'hello?' ."/>
+	</script>
+	<script id="47">
+		<item slot="1" text="locate rining phone ."/>
+		<item slot="2" text="pick up receiver ."/>
+		<item slot="3" text="say 'hello' ."/>
+	</script>
+	<script id="48">
+		<item slot="1" text="hear the telephone ring ."/>
+		<item slot="2" text="pick up the receiver ."/>
+		<item slot="3" text="press the talk button ."/>
+		<item slot="4" text="say hello into the mouthpiece while positioning the ear piece over your ear ."/>
+	</script>
+	<script id="49">
+		<item slot="1" text="hear the telephone ring ."/>
+		<item slot="2" text="pick up the receiver ."/>
+		<item slot="3" text="press the talk button ."/>
+		<item slot="4" text="say hello into the mouthpiece while positioning the ear piece over your ear ."/>
+	</script>
+	<script id="50">
+		<item slot="1" text="hear the telephone ring ."/>
+		<item slot="2" text="pick up the receiver ."/>
+		<item slot="3" text="press the talk button ."/>
+		<item slot="4" text="say hello into the mouthpiece while positioning the ear piece over your ear ."/>
+	</script>
+	<script id="51">
+		<item slot="1" text="hear the telephone ring ."/>
+		<item slot="2" text="pick up the receiver ."/>
+		<item slot="3" text="press the talk button ."/>
+		<item slot="4" text="say hello into the mouthpiece while positioning the ear piece over your ear ."/>
+	</script>
+	<script id="52">
+		<item slot="1" text="hear the telephone ring ."/>
+		<item slot="2" text="pick up the receiver ."/>
+		<item slot="3" text="press the talk button ."/>
+		<item slot="4" text="say hello into the mouthpiece while positioning the ear piece over your ear ."/>
+	</script>
+	<script id="53">
+		<item slot="1" text="hear the telephone ring ."/>
+		<item slot="2" text="pick up the receiver ."/>
+		<item slot="3" text="press the talk button ."/>
+		<item slot="4" text="say hello into the mouthpiece while positioning the ear piece over your ear ."/>
+	</script>
+	<script id="54">
+		<item slot="1" text="walk to phone ."/>
+		<item slot="2" text="pick up headset ."/>
+		<item slot="3" text="say hello ."/>
+	</script>
+	<script id="55">
+		<item slot="1" text="walk to phone ."/>
+		<item slot="2" text="pick up headset ."/>
+		<item slot="3" text="say hello ."/>
+	</script>
+	<script id="56">
+		<item slot="1" text="pick up receiver ."/>
+		<item slot="2" text="say hello ."/>
+	</script>
+	<script id="57">
+		<item slot="1" text="hear phone ringing ."/>
+		<item slot="2" text="go to sound ."/>
+		<item slot="3" text="get phone ."/>
+	</script>
+	<script id="58">
+		<item slot="1" text="walk over to phone ."/>
+		<item slot="2" text="pick up receiver ."/>
+	</script>
+	<script id="59">
+		<item slot="1" text="walk over to phone ."/>
+		<item slot="2" text="pick up receiver ."/>
+	</script>
+	<script id="60">
+		<item slot="1" text="walk to phone ."/>
+		<item slot="2" text="pick up phone ."/>
+		<item slot="3" text="say hellow ."/>
+	</script>
+	<script id="61">
+		<item slot="1" text="walk to phone ."/>
+		<item slot="2" text="pick up phone ."/>
+		<item slot="3" text="say hellow ."/>
+	</script>
+	<script id="62">
+		<item slot="1" text="walk to phone ."/>
+		<item slot="2" text="pick up phone ."/>
+		<item slot="3" text="say hellow ."/>
+	</script>
+	<script id="63">
+		<item slot="1" text="walk to phone ."/>
+		<item slot="2" text="pick up phone ."/>
+		<item slot="3" text="say hellow ."/>
+	</script>
+	<script id="64">
+		<item slot="1" text="walk to phone ."/>
+		<item slot="2" text="pick up phone ."/>
+		<item slot="3" text="say hellow ."/>
+	</script>
+	<script id="65">
+		<item slot="1" text="walk up to phone ."/>
+		<item slot="2" text="look at call display ."/>
+		<item slot="3" text="call your wife over ."/>
+		<item slot="4" text="tell her it s for her ."/>
+		<item slot="5" text="make her pick up receiver ."/>
+		<item slot="6" text="she says hello ."/>
+		<item slot="7" text="you drift away quietly ."/>
+	</script>
+	<script id="66">
+		<item slot="1" text="walk up to phone ."/>
+		<item slot="2" text="look at call display ."/>
+		<item slot="3" text="call your wife over ."/>
+		<item slot="4" text="tell her it s for her ."/>
+		<item slot="5" text="make her pick up receiver ."/>
+		<item slot="6" text="she says hello ."/>
+		<item slot="7" text="you drift away quietly ."/>
+	</script>
+	<script id="67">
+		<item slot="1" text="walk up to phone ."/>
+		<item slot="2" text="look at call display ."/>
+		<item slot="3" text="call your wife over ."/>
+		<item slot="4" text="tell her it s for her ."/>
+		<item slot="5" text="make her pick up receiver ."/>
+		<item slot="6" text="she says hello ."/>
+		<item slot="7" text="you drift away quietly ."/>
+	</script>
+	<script id="68">
+		<item slot="1" text="pick up the handle ."/>
+	</script>
+</scripts>

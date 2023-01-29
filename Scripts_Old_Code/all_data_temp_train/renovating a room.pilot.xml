@@ -1,0 +1,54 @@
+<scripts><script id="1" source="1"><item slot="1" original="Draw up some plans for the room" ></item>
+<item slot="2" original="Go and get the supplies" ></item>
+<item slot="3" original="Go to the room with supplies" ></item>
+<item slot="4" original="Move things out of the room" ></item>
+<item slot="5" original="Cover and tape as needed" ></item>
+<item slot="6" original="Start renovating the room" ></item>
+</script><script id="2" source="1"><item slot="1" original="Research / brainstorm how to reconfigure the room" ></item>
+<item slot="2" original="Schedule / plan the renovation in advance" ></item>
+<item slot="3" original="Purchase all the materials necessary for the process" ></item>
+<item slot="4" original="Renovate for room as planned" ></item>
+<item slot="5" original="Clean up all the scraps produced from the renovation" ></item>
+</script><script id="3" source="1"><item slot="1" original="Choose a design. " ></item>
+<item slot="2" original="Purchase all necessary materials. " ></item>
+<item slot="3" original="Demolish old room style " ></item>
+<item slot="4" original="Construct the new design starting with walls and ceilings " ></item>
+<item slot="5" original="Paint walls and install lighting " ></item>
+<item slot="6" original="Work on the floor. " ></item>
+<item slot="7" original="Add window treatments and other decorations " ></item>
+<item slot="8" original="Clean the room. " ></item>
+</script><script id="4" source="1"><item slot="1" original="Clean out room by removing everything " ></item>
+<item slot="2" original="Take out carpet or other flooring" ></item>
+<item slot="3" original="Take out baseboards" ></item>
+<item slot="4" original="Paint walls with at least 2 coats of paint" ></item>
+<item slot="5" original="Install new flooring " ></item>
+<item slot="6" original="Paint new baseboards" ></item>
+<item slot="7" original="Install new baseboards" ></item>
+<item slot="8" original="Bring furniture back in room " ></item>
+</script><script id="5" source="1"><item slot="1" original="decide which room to renovate" ></item>
+<item slot="2" original="make list of renovations to be made" ></item>
+<item slot="3" original="make list of items to buy and contractors to get estimates from" ></item>
+<item slot="4" original="call contractors and get prices" ></item>
+<item slot="5" original="get prices from stores for items to buy myself" ></item>
+<item slot="6" original="buy items" ></item>
+<item slot="7" original="select contractor" ></item>
+<item slot="8" original="pay deposit for contractor" ></item>
+<item slot="9" original="have work done within the time set by contractor" ></item>
+<item slot="10" original="pay contracto" ></item>
+<item slot="11" original="install or paint or assemble new furniture I chose to do myself" ></item>
+<item slot="12" original="set up room" ></item>
+<item slot="13" original="enjoy renovated room" ></item>
+</script><script id="6" source="1"><item slot="1" original="Decide on a design scheme " ></item>
+<item slot="2" original="Remove furniture" ></item>
+<item slot="3" original="Paint walls" ></item>
+<item slot="4" original="Hang curtains" ></item>
+<item slot="5" original="Install lights" ></item>
+<item slot="6" original="Arrange Furniture" ></item>
+</script><script id="7" source="1"><item slot="1" original="Tear out existing" ></item>
+<item slot="2" original="Decide what new materials will be needede" ></item>
+<item slot="3" original="Go to home improvement store" ></item>
+<item slot="4" original="Purchase all materials" ></item>
+<item slot="5" original="Go home" ></item>
+<item slot="6" original="Begin work on new room renovation" ></item>
+<item slot="7" original="Clean up" ></item>
+</script></scripts>

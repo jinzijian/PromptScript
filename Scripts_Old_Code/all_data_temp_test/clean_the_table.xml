@@ -1,0 +1,320 @@
+<scripts>
+<script id="1">
+<item slot="1" text="remove all items from the table surface ." />
+<item slot="2" text="place the items in a different location ." />
+<item slot="3" text="obtain a wet rag ." />
+<item slot="4" text="wipe the entire surface area of the table with the rag ." />
+</script>
+<script id="2">
+<item slot="1" text="take a napkin ." />
+<item slot="2" text="wet the napkin ." />
+<item slot="3" text="wipe the table with the wet napkin ." />
+</script>
+<script id="3">
+<item slot="1" text="clear table ." />
+<item slot="2" text="wipe table with wet cloth ." />
+</script>
+<script id="4">
+<item slot="1" text="pick up dishes ." />
+<item slot="2" text="put dishes in sink or dishwasher ." />
+<item slot="3" text="pick up placemats ." />
+<item slot="4" text="wipe table with damp cloth ." />
+<item slot="5" text="empty cloth into trash or sink ." />
+</script>
+<script id="5">
+<item slot="1" text="remove dirty dishes ." />
+<item slot="2" text="put dishes into dishwasher ." />
+<item slot="3" text="remove silverware ." />
+<item slot="4" text="remove table cloth ." />
+</script>
+<script id="6">
+<item slot="1" text="remove all dishes ." />
+<item slot="2" text="remove table cover ." />
+<item slot="3" text="wipe table top ." />
+</script>
+<script id="7">
+<item slot="1" text="remove all dishes ." />
+<item slot="2" text="remove table cover ." />
+<item slot="3" text="wipe table ." />
+<item slot="4" text="put new table cover ." />
+</script>
+<script id="8">
+<item slot="1" text="get a cleaning cloth ." />
+<item slot="2" text="make the cleaning cloth damp ." />
+<item slot="3" text="wipe table with cleaning cloth ." />
+</script>
+<script id="9">
+<item slot="1" text="remove everything from the table that is on it ." />
+<item slot="2" text="get a bucket of water ." />
+<item slot="3" text="get some soap ." />
+<item slot="4" text="get a rag ." />
+<item slot="5" text="get the rag wet and soapy ." />
+<item slot="6" text="rub the table all over it until it is clean ." />
+</script>
+<script id="10">
+<item slot="1" text="remove all objects from the table ." />
+<item slot="2" text="wipe cleaning cloth around the surface of table ." />
+<item slot="3" text="replace objects that are to remain on the table ." />
+</script>
+<script id="11">
+<item slot="1" text="take away all the stuff from the table ." />
+<item slot="2" text="wipe the table ." />
+</script>
+<script id="12">
+<item slot="1" text="identify dishes ." />
+<item slot="2" text="remove dishes ." />
+<item slot="3" text="place dishes in sink ." />
+<item slot="4" text="identify rag ." />
+<item slot="5" text="use rag to wipe down table ." />
+</script>
+<script id="13">
+<item slot="1" text="take all objects off table top ." />
+<item slot="2" text="apply cleaning fluid to table top ." />
+<item slot="3" text="wipe down table top ." />
+</script>
+<script id="14">
+<item slot="1" text="remove dishes from table ." />
+<item slot="2" text="wipe table with wet rag ." />
+</script>
+<script id="15">
+<item slot="1" text="take any objects off the table ." />
+<item slot="2" text="get a cloth ." />
+<item slot="3" text="wet the cloth with water ." />
+<item slot="4" text="wipe the table with the cloth ." />
+</script>
+<script id="16">
+<item slot="1" text="pick up the objects on the table ." />
+<item slot="2" text="spray the table with cleaning solution ." />
+<item slot="3" text="get a cloth ." />
+<item slot="4" text="wipe the cleaning solution over the table ." />
+</script>
+<script id="17">
+<item slot="1" text="remove all objects ." />
+<item slot="2" text="spray with cleaner ." />
+<item slot="3" text="wipe with rag ." />
+</script>
+<script id="18">
+<item slot="1" text="remove eveything off of table ." />
+<item slot="2" text="wipe table with damp clothe ." />
+<item slot="3" text="apply appropriate tabe conditioner to table and allow to dry ." />
+</script>
+<script id="19">
+<item slot="1" text="remove everything from table ." />
+<item slot="2" text="add cleansor to table ." />
+<item slot="3" text="use cloth to wipe entire surface ." />
+<item slot="4" text="let table dry ." />
+</script>
+<script id="20">
+<item slot="1" text="clear the table ." />
+<item slot="2" text="wet cloth ." />
+<item slot="3" text="clean surface of table with cloth ." />
+<item slot="4" text="dry surface with dry cloth ." />
+</script>
+<script id="21">
+<item slot="1" text="clear all thrash from the table ." />
+<item slot="2" text="replace the used tablecloth with a new tablecloth ." />
+</script>
+<script id="22">
+<item slot="1" text="clear all thrash from the table ." />
+<item slot="2" text="replace the used tablecloth with a new tablecloth ." />
+</script>
+<script id="23">
+<item slot="1" text="remove all items from the table ." />
+<item slot="2" text="use a wet cloth to wipe the table ." />
+</script>
+<script id="24">
+<item slot="1" text="gather all the dishes ." />
+<item slot="2" text="put in the sink ." />
+<item slot="3" text="gather all teh napkins ." />
+<item slot="4" text="put in the laundry basket ." />
+<item slot="5" text="grab a rag ." />
+<item slot="6" text="wipe teh crumbs from the table into your hand ." />
+<item slot="7" text="dump crumbs in trash ." />
+</script>
+<script id="25">
+<item slot="1" text="gather all the dishes ." />
+<item slot="2" text="put in the sink ." />
+<item slot="3" text="gather all teh napkins ." />
+<item slot="4" text="put in the laundry basket ." />
+<item slot="5" text="grab a rag ." />
+<item slot="6" text="wipe teh crumbs from the table into your hand ." />
+<item slot="7" text="dump crumbs in trash ." />
+</script>
+<script id="26">
+<item slot="1" text="remove all dishes from the table ." />
+<item slot="2" text="remoetablecloth and put in laundry room ." />
+</script>
+<script id="27">
+<item slot="1" text="remove all dishes from the table ." />
+<item slot="2" text="remoetable cloth and put in laundry room ." />
+<item slot="3" text="get sponge damp ." />
+<item slot="4" text="wipe down table with sponge ." />
+</script>
+<script id="28">
+<item slot="1" text="get a damp cloth ." />
+<item slot="2" text="wipe the table ." />
+</script>
+<script id="29">
+<item slot="1" text="remove everything from the table first ." />
+<item slot="2" text="follow the instructions on a type of furniture cleaner appropriate for the table ." />
+<item slot="3" text="use the furniture cleaner to clean the table ." />
+</script>
+<script id="30">
+<item slot="1" text="remove dishes cups and utensils from the table ." />
+<item slot="2" text="put those items in the dishwasher or sink ." />
+<item slot="3" text="remove napkins and other items from the table ." />
+<item slot="4" text="wipe the table ." />
+</script>
+<script id="31">
+<item slot="1" text="take everything off the table ." />
+<item slot="2" text="use a damp cloth and wipe surface ." />
+<item slot="3" text="use a towel to dry table top ." />
+</script>
+<script id="32">
+<item slot="1" text="take everything off the table ." />
+<item slot="2" text="use a damp cloth and wipe surface ." />
+<item slot="3" text="use a towel to dry table top ." />
+</script>
+<script id="33">
+<item slot="1" text="take everything off the table ." />
+<item slot="2" text="use a damp cloth and wipe surface ." />
+<item slot="3" text="use a towel to dry table top ." />
+</script>
+<script id="34">
+<item slot="1" text="take everything off the table ." />
+<item slot="2" text="use a damp cloth and wipe surface ." />
+<item slot="3" text="use a towel to dry table top ." />
+</script>
+<script id="35">
+<item slot="1" text="take everything off the table ." />
+<item slot="2" text="use a damp cloth and wipe surface ." />
+<item slot="3" text="use a towel to dry table top ." />
+</script>
+<script id="36">
+<item slot="1" text="take everything off the table ." />
+<item slot="2" text="use a damp cloth and wipe surface ." />
+<item slot="3" text="use a towel to dry table top ." />
+</script>
+<script id="37">
+<item slot="1" text="pick up and remove all plates silverware and serving utensils ." />
+<item slot="2" text="remove any napkins glasses food ." />
+<item slot="3" text="wipe the table to remove any messes ." />
+</script>
+<script id="38">
+<item slot="1" text="pick up and remove all plates silverware and serving utensils ." />
+<item slot="2" text="remove any napkins glasses food ." />
+<item slot="3" text="wipe the table to remove any messes ." />
+</script>
+<script id="39">
+<item slot="1" text="pick up and remove all plates silverware and serving utensils ." />
+<item slot="2" text="remove any napkins glasses food ." />
+<item slot="3" text="wipe the table to remove any messes ." />
+</script>
+<script id="40">
+<item slot="1" text="pick up and remove all plates silverware and serving utensils ." />
+<item slot="2" text="remove any napkins glasses food ." />
+<item slot="3" text="wipe the table to remove any messes ." />
+</script>
+<script id="41">
+<item slot="1" text="pick up and remove all plates silverware and serving utensils ." />
+<item slot="2" text="remove any napkins glasses food ." />
+<item slot="3" text="wipe the table to remove any messes ." />
+</script>
+<script id="42">
+<item slot="1" text="pick up and remove all plates silverware and serving utensils ." />
+<item slot="2" text="remove any napkins glasses food ." />
+<item slot="3" text="wipe the table to remove any messes ." />
+</script>
+<script id="43">
+<item slot="1" text="get a sponge ." />
+<item slot="2" text="wet the sponge ." />
+<item slot="3" text="add soap to the sponge ." />
+<item slot="4" text="wipe the table ." />
+</script>
+<script id="44">
+<item slot="1" text="get a sponge ." />
+<item slot="2" text="wet the sponge ." />
+<item slot="3" text="add soap to the sponge ." />
+<item slot="4" text="wipe the table ." />
+</script>
+<script id="45">
+<item slot="1" text="remove items from table ." />
+<item slot="2" text="rinse dishrag in hot water soap if preferred ." />
+<item slot="3" text="wipe down table with dishrag ." />
+</script>
+<script id="46">
+<item slot="1" text="remove items from table ." />
+<item slot="2" text="rinse dishrag in hot water soap if preferred ." />
+<item slot="3" text="wipe down table with dishrag ." />
+</script>
+<script id="47">
+<item slot="1" text="remove items from table ." />
+<item slot="2" text="rinse dishrag in hot water soap if preferred ." />
+<item slot="3" text="wipe down table with dishrag ." />
+</script>
+<script id="48">
+<item slot="1" text="remove items from table ." />
+<item slot="2" text="rinse dishrag in hot water soap if preferred ." />
+<item slot="3" text="wipe down table with dishrag ." />
+</script>
+<script id="49">
+<item slot="1" text="remove items from table ." />
+<item slot="2" text="rinse dishrag in hot water soap if preferred ." />
+<item slot="3" text="wipe down table with dishrag ." />
+</script>
+<script id="50">
+<item slot="1" text="remove items from table ." />
+<item slot="2" text="rinse dishrag in hot water soap if preferred ." />
+<item slot="3" text="wipe down table with dishrag ." />
+</script>
+<script id="51">
+<item slot="1" text="get cloth for wiping ." />
+<item slot="2" text="wet it ." />
+<item slot="3" text="clear off all things on table ." />
+<item slot="4" text="put cloth on table ." />
+<item slot="5" text="wipe all area catching dirt ." />
+<item slot="6" text="take cloth and dirt and dump dirt in garbage ." />
+<item slot="7" text="put cloth away ." />
+</script>
+<script id="52">
+<item slot="1" text="take dishes off table ." />
+<item slot="2" text="put them in the sink ." />
+<item slot="3" text="get cloth ." />
+<item slot="4" text="wet it ." />
+<item slot="5" text="wipe down table ." />
+<item slot="6" text="call your wife ." />
+<item slot="7" text="tell her she missed a spot ." />
+</script>
+<script id="53">
+<item slot="1" text="take dishes off table ." />
+<item slot="2" text="put them in the sink ." />
+<item slot="3" text="get cloth ." />
+<item slot="4" text="wet it ." />
+<item slot="5" text="wipe down table ." />
+<item slot="6" text="call your wife ." />
+<item slot="7" text="tell her she missed a spot ." />
+</script>
+<script id="54">
+<item slot="1" text="take dishes off table ." />
+<item slot="2" text="put them in the sink ." />
+<item slot="3" text="get cloth ." />
+<item slot="4" text="wet it ." />
+<item slot="5" text="wipe down table ." />
+<item slot="6" text="call your wife ." />
+<item slot="7" text="tell her she missed a spot ." />
+</script>
+<script id="55">
+<item slot="1" text="get towel ." />
+<item slot="2" text="wet towel ." />
+<item slot="3" text="wipe table ." />
+</script>
+<script id="56">
+<item slot="1" text="get towel ." />
+<item slot="2" text="wet towel ." />
+<item slot="3" text="wipe table ." />
+</script>
+<script id="57">
+<item slot="1" text="remove all dirty dishes ." />
+<item slot="2" text="wipe table down ." />
+</script>
+</scripts>

@@ -1,0 +1,312 @@
+<scripts>
+<script id="1">
+<item slot="1" text="pick up infant ." />
+<item slot="2" text="offer infant bottle if hungry ." />
+<item slot="3" text="gently pat back ." />
+<item slot="4" text="sing to infant ." />
+</script>
+<script id="2">
+<item slot="1" text="shake the baby gently ." />
+<item slot="2" text="sing to the baby ." />
+</script>
+<script id="3">
+<item slot="1" text="pick up infant ." />
+<item slot="2" text="make soothing sounds to infant ." />
+<item slot="3" text="gently pat infant on the back ." />
+<item slot="4" text="check infant for dirty diaper ." />
+<item slot="5" text="change infant diaper if dirty ." />
+<item slot="6" text="try feeding infant ." />
+</script>
+<script id="4">
+<item slot="1" text="pick up an infant ." />
+<item slot="2" text="rock infant ." />
+<item slot="3" text="sing to infant ." />
+<item slot="4" text="say shhh to infant ." />
+<item slot="5" text="give infant a bottle if needed ." />
+<item slot="6" text="place infant in crib ." />
+</script>
+<script id="5">
+<item slot="1" text="hold infant ." />
+<item slot="2" text="sing a soothing song to the infant ." />
+<item slot="3" text="talk to the infant ." />
+<item slot="4" text="rock the infant gently in your arms ." />
+</script>
+<script id="6">
+<item slot="1" text="hold the infant ." />
+<item slot="2" text="pat the infant until it stops crying ." />
+</script>
+<script id="7">
+<item slot="1" text="locate infant ." />
+<item slot="2" text="identify cause ." />
+<item slot="3" text="seach for solutions ." />
+<item slot="4" text="excute the best solution ." />
+<item slot="5" text="check to see if it works ." />
+<item slot="6" text="task complete ." />
+</script>
+<script id="8">
+<item slot="1" text="hold the infant ." />
+<item slot="2" text="pat the infant ." />
+<item slot="3" text="talk to the infant in a soft voice when necessary ." />
+</script>
+<script id="9">
+<item slot="1" text="hold the infant and move slowly ." />
+<item slot="2" text="sing apeasing song ." />
+<item slot="3" text="feed infant ." />
+</script>
+<script id="10">
+<item slot="1" text="take infant in your arms ." />
+<item slot="2" text="start swinging arms gently ." />
+<item slot="3" text="sing a lullaby ." />
+<item slot="4" text="put infant in bed ." />
+</script>
+<script id="11">
+<item slot="1" text="pick infant up ." />
+<item slot="2" text="rock infant ." />
+<item slot="3" text="sing to infant ." />
+<item slot="4" text="distract infant ." />
+</script>
+<script id="12">
+<item slot="1" text="pick up the infant ." />
+<item slot="2" text="hold the infant ." />
+<item slot="3" text="rock the infant back and forth ." />
+<item slot="4" text="pat the infant s back ." />
+<item slot="5" text="make a shushing noise into the infant s ear ." />
+<item slot="6" text="sing a song to the infant quietly ." />
+</script>
+<script id="13">
+<item slot="1" text="go to infant ." />
+<item slot="2" text="show toy to infant ." />
+<item slot="3" text="pick up infant ." />
+<item slot="4" text="slowly rock infant ." />
+</script>
+<script id="14">
+<item slot="1" text="pickup the infant ." />
+<item slot="2" text="talk soothingly to the infant ." />
+<item slot="3" text="rock the infant back and forth ." />
+</script>
+<script id="15">
+<item slot="1" text="hold infant in arms ." />
+<item slot="2" text="gently rock infant ." />
+<item slot="3" text="feed infant milk ." />
+</script>
+<script id="16">
+<item slot="1" text="carry the infant ." />
+<item slot="2" text="show some colorful toys to the infants ." />
+</script>
+<script id="17">
+<item slot="1" text="pick up infant ." />
+<item slot="2" text="slowly rock infant back and forth ." />
+</script>
+<script id="18">
+<item slot="1" text="pick up infant ." />
+<item slot="2" text="slowly rock infant back and forth ." />
+</script>
+<script id="19">
+<item slot="1" text="pick up infant ." />
+<item slot="2" text="walk back and forth ." />
+<item slot="3" text="pat infants back ." />
+<item slot="4" text="sing ." />
+</script>
+<script id="20">
+<item slot="1" text="pick up infant ." />
+<item slot="2" text="rock the infant ." />
+</script>
+<script id="21">
+<item slot="1" text="pat the infant s back ." />
+<item slot="2" text="give the infant milk ." />
+<item slot="3" text="change the infant s diaper ." />
+<item slot="4" text="coddle the infant ." />
+<item slot="5" text="sing to the infant ." />
+<item slot="6" text="rock the infant ." />
+</script>
+<script id="22">
+<item slot="1" text="pick up infant ." />
+<item slot="2" text="rock infant ." />
+<item slot="3" text="give infant pacifyer ." />
+<item slot="4" text="make soothing noices to infant ." />
+<item slot="5" text="hope to god the infant stops  crying soon ." />
+</script>
+<script id="23">
+<item slot="1" text="touch baby ." />
+<item slot="2" text="check temperature ." />
+<item slot="3" text="check wetness ." />
+<item slot="4" text="pick up baby ." />
+<item slot="5" text="hug and cradle baby ." />
+<item slot="6" text="feed baby ." />
+<item slot="7" text="pat on back steadily until burps ." />
+</script>
+<script id="24">
+<item slot="1" text="pick baby up ." />
+<item slot="2" text="talk soothingly ." />
+<item slot="3" text="check if diaper needs changing ." />
+<item slot="4" text="pat to encourage burping ." />
+<item slot="5" text="offer breast (or bottle) ." />
+<item slot="6" text="rock gently ." />
+<item slot="7" text="sing ." />
+</script>
+<script id="25">
+<item slot="1" text="pick up infant ." />
+<item slot="2" text="hold and love infant ." />
+</script>
+<script id="26">
+<item slot="1" text="pick up infant ." />
+<item slot="2" text="hold and love infant ." />
+</script>
+<script id="27">
+<item slot="1" text="pick up infant ." />
+<item slot="2" text="hold and love infant ." />
+</script>
+<script id="28">
+<item slot="1" text="pick up infant ." />
+<item slot="2" text="hold and love infant ." />
+</script>
+<script id="29">
+<item slot="1" text="talk to infant ." />
+<item slot="2" text="say reasuring things ." />
+<item slot="3" text="repeat if nessecary ." />
+</script>
+<script id="30">
+<item slot="1" text="picking the infant up ." />
+<item slot="2" text="holding them to your chest ." />
+<item slot="3" text="rest their head on your shoulder ." />
+<item slot="4" text="pat them on the back ." />
+</script>
+<script id="31">
+<item slot="1" text="pick up baby ." />
+<item slot="2" text="rub back ." />
+<item slot="3" text="walk aroun ." />
+<item slot="4" text="soothe ." />
+</script>
+<script id="32">
+<item slot="1" text="pick up baby ." />
+<item slot="2" text="rub back ." />
+<item slot="3" text="walk aroun ." />
+<item slot="4" text="soothe ." />
+</script>
+<script id="33">
+<item slot="1" text="pick up baby ." />
+<item slot="2" text="rub back ." />
+<item slot="3" text="walk aroun ." />
+<item slot="4" text="soothe ." />
+</script>
+<script id="34">
+<item slot="1" text="pick up baby ." />
+<item slot="2" text="rub back ." />
+<item slot="3" text="walk aroun ." />
+<item slot="4" text="soothe ." />
+</script>
+<script id="35">
+<item slot="1" text="pick up baby ." />
+<item slot="2" text="rub back ." />
+<item slot="3" text="walk aroun ." />
+<item slot="4" text="soothe ." />
+</script>
+<script id="36">
+<item slot="1" text="pick up baby ." />
+<item slot="2" text="rub back ." />
+<item slot="3" text="walk aroun ." />
+<item slot="4" text="soothe ." />
+</script>
+<script id="37">
+<item slot="1" text="pick up baby ." />
+<item slot="2" text="rub back ." />
+<item slot="3" text="walk aroun ." />
+<item slot="4" text="soothe ." />
+</script>
+<script id="38">
+<item slot="1" text="pick up baby ." />
+<item slot="2" text="rub back ." />
+<item slot="3" text="walk aroun ." />
+<item slot="4" text="soothe ." />
+</script>
+<script id="39">
+<item slot="1" text="pick up baby ." />
+<item slot="2" text="rub back ." />
+<item slot="3" text="walk aroun ." />
+<item slot="4" text="soothe ." />
+</script>
+<script id="40">
+<item slot="1" text="pick up baby ." />
+<item slot="2" text="rub back ." />
+<item slot="3" text="walk aroun ." />
+<item slot="4" text="soothe ." />
+</script>
+<script id="41">
+<item slot="1" text="pick up baby ." />
+<item slot="2" text="be in a quiet room ." />
+<item slot="3" text="put baby on shoulder ." />
+<item slot="4" text="pat baby bottom lightly ." />
+<item slot="5" text="sing silently ." />
+<item slot="6" text="talk quietly to baby ." />
+<item slot="7" text="rock baby gently ." />
+</script>
+<script id="42">
+<item slot="1" text="pick up infant ." />
+<item slot="2" text="gently rock ." />
+<item slot="3" text="talk softly to the infant ." />
+<item slot="4" text="try to make infant laugh ." />
+</script>
+<script id="43">
+<item slot="1" text="pick up the baby ." />
+<item slot="2" text="rock the baby ." />
+<item slot="3" text="murmur soothing sounds ." />
+</script>
+<script id="44">
+<item slot="1" text="pick up the baby ." />
+<item slot="2" text="rock the baby ." />
+<item slot="3" text="murmur soothing sounds ." />
+</script>
+<script id="45">
+<item slot="1" text="pick up the infant ." />
+<item slot="2" text="hold the infant close to your chest ." />
+<item slot="3" text="gently rock the infant ." />
+<item slot="4" text="speak or sing softly to the infant ." />
+</script>
+<script id="46">
+<item slot="1" text="talk quietly ." />
+<item slot="2" text="pick them up ." />
+</script>
+<script id="47">
+<item slot="1" text="talk quietly ." />
+<item slot="2" text="pick them up ." />
+</script>
+<script id="48">
+<item slot="1" text="talk quietly ." />
+<item slot="2" text="pick them up ." />
+</script>
+<script id="49">
+<item slot="1" text="talk quietly ." />
+<item slot="2" text="pick them up ." />
+</script>
+<script id="50">
+<item slot="1" text="talk quietly ." />
+<item slot="2" text="pick them up ." />
+</script>
+<script id="51">
+<item slot="1" text="talk quietly ." />
+<item slot="2" text="pick them up ." />
+</script>
+<script id="52">
+<item slot="1" text="go to crying infant ." />
+<item slot="2" text="assess what infant wants ." />
+<item slot="3" text="is he hungry? ." />
+<item slot="4" text="is he wet? ." />
+<item slot="5" text="is he hurt? ." />
+<item slot="6" text="did his toy fall? ." />
+<item slot="7" text="sooth infant ." />
+</script>
+<script id="53">
+<item slot="1" text="pick up the baby ." />
+<item slot="2" text="rock the baby ." />
+<item slot="3" text="murmer soothing sounds ." />
+</script>
+<script id="54">
+<item slot="1" text="walk over to crib where infant is ." />
+<item slot="2" text="reach down to infant ." />
+<item slot="3" text="pick up infant ." />
+<item slot="4" text="rock infant gently ." />
+<item slot="5" text="sing to infant ." />
+<item slot="6" text="wait for infant to fall back asleep ." />
+<item slot="7" text="place infant back into crib ." />
+</script>
+</scripts>

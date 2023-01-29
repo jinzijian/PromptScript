@@ -1,0 +1,78 @@
+<scripts>
+<script id="1">
+<item slot="1" text="wear gloves ." />
+<item slot="2" text="wear a mask ." />
+<item slot="3" text="read the label ." />
+<item slot="4" text="keep away from children ." />
+</script>
+<script id="2">
+<item slot="1" text="put on protective clothing ." />
+<item slot="2" text="gather toxic materials into protective container ." />
+<item slot="3" text="put container into safe location for throwing away toxic materials ." />
+</script>
+<script id="3">
+<item slot="1" text="read handling instructions ." />
+</script>
+<script id="4">
+<item slot="1" text="get a pair of gloves ." />
+<item slot="2" text="wear the gloves ." />
+<item slot="3" text="hold the toxic material firmly ." />
+</script>
+<script id="5">
+<item slot="1" text="put on protective gloved ." />
+<item slot="2" text="put on breathing apparatus ." />
+<item slot="3" text="put on hazmat suit ." />
+</script>
+<script id="6">
+<item slot="1" text="know procedures for task ." />
+<item slot="2" text="assess dangers ." />
+<item slot="3" text="plan course ." />
+<item slot="4" text="don protections ." />
+<item slot="5" text="handle materials ." />
+<item slot="6" text="conclude procedures ." />
+<item slot="7" text="mop up ." />
+</script>
+<script id="7">
+<item slot="1" text="put on protective suit ." />
+<item slot="2" text="pick up materials ." />
+<item slot="3" text="put them in container ." />
+</script>
+<script id="8">
+<item slot="1" text="put on protective suit ." />
+<item slot="2" text="pick up materials ." />
+<item slot="3" text="put them in container ." />
+</script>
+<script id="9">
+<item slot="1" text="wear protective clothing ." />
+<item slot="2" text="pick up material ." />
+</script>
+<script id="10">
+<item slot="1" text="wear protective clothing ." />
+<item slot="2" text="pick up material ." />
+</script>
+<script id="11">
+<item slot="1" text="read msds sheets ." />
+<item slot="2" text="wear proper gear ." />
+<item slot="3" text="do not ingest inhale items ." />
+<item slot="4" text="perform task with the toxic chemical ." />
+<item slot="5" text="contain unused chemicals ." />
+</script>
+<script id="12">
+<item slot="1" text="wear gloves ." />
+<item slot="2" text="put on mouth mask ." />
+<item slot="3" text="clear area of use ." />
+<item slot="4" text="use material ." />
+<item slot="5" text="use water as well ." />
+<item slot="6" text="put materials away ." />
+<item slot="7" text="throw trash ." />
+</script>
+<script id="13">
+<item slot="1" text="wear gloves ." />
+<item slot="2" text="dispose material properly ." />
+</script>
+<script id="14">
+<item slot="1" text="put gloves on ." />
+<item slot="2" text="package contents appropriately ." />
+<item slot="3" text="dispose of package ." />
+</script>
+</scripts>

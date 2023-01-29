@@ -1,0 +1,453 @@
+<scripts>
+<script id="1">
+<item slot="1" text="find new batteries ." />
+<item slot="2" text="take new batteries ." />
+<item slot="3" text="find a toy with old batteries ." />
+<item slot="4" text="take the toy ." />
+<item slot="5" text="remove old batteries from the toy ." />
+<item slot="6" text="put new batteries inside the toy ." />
+<item slot="7" text="put old batteries in the recycle bin ." />
+</script>
+<script id="2">
+<item slot="1" text="open battery cover ." />
+<item slot="2" text="remove expired batteries ." />
+<item slot="3" text="replace new batteries ." />
+<item slot="4" text="close battery cover ." />
+</script>
+<script id="3">
+<item slot="1" text="take out the old batteries ." />
+<item slot="2" text="get new batteries ." />
+<item slot="3" text="turn the batteries the right way according to the toy ." />
+<item slot="4" text="put the new batteries into the toy ." />
+<item slot="5" text="close the toy ." />
+</script>
+<script id="4">
+<item slot="1" text="locate the battery compartment on the toy ." />
+<item slot="2" text="remove the old batteries ." />
+<item slot="3" text="locate new batteries ." />
+<item slot="4" text="place new batteries in the toy ." />
+</script>
+<script id="5">
+<item slot="1" text="open toy s battery case ." />
+<item slot="2" text="take old batteries out of toy ." />
+<item slot="3" text="pick up new batteries ." />
+<item slot="4" text="place new batteries in toy ." />
+<item slot="5" text="close toy s battery case ." />
+</script>
+<script id="6">
+<item slot="1" text="open battery compartment ." />
+<item slot="2" text="remove old batteries ." />
+<item slot="3" text="install fresh batteries ." />
+<item slot="4" text="close battery compartment ." />
+</script>
+<script id="7">
+<item slot="1" text="open batteries compartment in toy ." />
+<item slot="2" text="trash old batteries ." />
+<item slot="3" text="get new batteries ." />
+<item slot="4" text="put new batteries ." />
+<item slot="5" text="close batteries compatment in toy ." />
+</script>
+<script id="8">
+<item slot="1" text="remove battery cover ." />
+<item slot="2" text="remove batteries from toy ." />
+<item slot="3" text="place new batteries inside toy ." />
+<item slot="4" text="place back cover ." />
+</script>
+<script id="9">
+<item slot="1" text="get toy ." />
+<item slot="2" text="open battery case ." />
+<item slot="3" text="remove old batteries ." />
+<item slot="4" text="put in new batteries ." />
+<item slot="5" text="close battery case ." />
+</script>
+<script id="10">
+<item slot="1" text="find battery compartment ." />
+<item slot="2" text="open battery compartment ." />
+<item slot="3" text="take batteries out ." />
+<item slot="4" text="get new batteries of the same kind ." />
+<item slot="5" text="put new batteries in ." />
+<item slot="6" text="close battery compartment ." />
+</script>
+<script id="11">
+<item slot="1" text="open the battery compartment on the toy ." />
+<item slot="2" text="remove the old batteries from the toy ." />
+<item slot="3" text="open the new battery package ." />
+<item slot="4" text="remove the new batteries from the package ." />
+<item slot="5" text="place the new batteries into the toy ." />
+</script>
+<script id="12">
+<item slot="1" text="locate the toy ." />
+<item slot="2" text="locate the batteries ." />
+<item slot="3" text="attempt to locate replacement batteries of the same type ." />
+<item slot="4" text="remove old batteries from the toy ." />
+<item slot="5" text="insert new batteries in the toy ." />
+</script>
+<script id="13">
+<item slot="1" text="finding the compartment where the batteries are kept ." />
+<item slot="2" text="taking out the old batteries ." />
+</script>
+<script id="14">
+<item slot="1" text="open battery case with screwdriver if needed ." />
+<item slot="2" text="take old batteries out ." />
+<item slot="3" text="dispose of old batteries ." />
+<item slot="4" text="follow + and - directions inside the toy ." />
+<item slot="5" text="put new batteries in ." />
+<item slot="6" text="replace cover for battery case ." />
+</script>
+<script id="15">
+<item slot="1" text="get new batteries ." />
+<item slot="2" text="get toy ." />
+<item slot="3" text="open toy ." />
+<item slot="4" text="remove batteries ." />
+<item slot="5" text="insert new batteries ." />
+<item slot="6" text="close toy ." />
+</script>
+<script id="16">
+<item slot="1" text="get the toy ." />
+<item slot="2" text="open battery holder ." />
+<item slot="3" text="remove old batteries ." />
+<item slot="4" text="place new batteries ." />
+<item slot="5" text="close battery holder ." />
+</script>
+<script id="17">
+<item slot="1" text="locate batteries ." />
+<item slot="2" text="locate toy ." />
+<item slot="3" text="open toy battery compartment ." />
+<item slot="4" text="remove old batteries by prising them out ." />
+<item slot="5" text="fit new batteries ." />
+<item slot="6" text="close battery compartment door ." />
+<item slot="7" text="turn on toy to check it is working again ." />
+</script>
+<script id="18">
+<item slot="1" text="open battery compartment ." />
+<item slot="2" text="take out old batteries ." />
+<item slot="3" text="find new batteries ." />
+<item slot="4" text="place new batteries in compartment ." />
+<item slot="5" text="close battery compartment ." />
+</script>
+<script id="19">
+<item slot="1" text="get batteries needed for toy ." />
+<item slot="2" text="open battery shield from toy ." />
+<item slot="3" text="remove old batteries if they are there ." />
+<item slot="4" text="place new batteries in toy ." />
+<item slot="5" text="close battery shield ." />
+<item slot="6" text="check if toy works with new batteries ." />
+</script>
+<script id="20">
+<item slot="1" text="remove battery cover ." />
+<item slot="2" text="find batteries of correct size ." />
+<item slot="3" text="remove old batteries ." />
+<item slot="4" text="install new batteries ." />
+<item slot="5" text="replace cover ." />
+<item slot="6" text="recycle old batteries ." />
+</script>
+<script id="21">
+<item slot="1" text="open toy ." />
+<item slot="2" text="take out batteries ." />
+<item slot="3" text="put new batteries in ." />
+<item slot="4" text="close battery panel ." />
+<item slot="5" text="play with toy ." />
+</script>
+<script id="22">
+<item slot="1" text="open battery cover ." />
+<item slot="2" text="remove current batteries ." />
+<item slot="3" text="replace with same type of battery ." />
+<item slot="4" text="replace battery cover ." />
+</script>
+<script id="23">
+<item slot="1" text="open battery compartment on toy ." />
+<item slot="2" text="remove old batteries ." />
+<item slot="3" text="find identical new batteries ." />
+<item slot="4" text="discern placement of batteries ." />
+<item slot="5" text="place batteries inside toy ." />
+<item slot="6" text="close lid ." />
+<item slot="7" text="check operation ." />
+</script>
+<script id="24">
+<item slot="1" text="pick up the toy ." />
+<item slot="2" text="open the battery compartment ." />
+<item slot="3" text="remove the old batteries ." />
+<item slot="4" text="find some new batteries ." />
+<item slot="5" text="put the new batteries in the battery compartment ." />
+<item slot="6" text="close the battery compartment ." />
+</script>
+<script id="25">
+<item slot="1" text="open battery compartment ." />
+<item slot="2" text="remove old batteries ." />
+<item slot="3" text="insert new batteries ." />
+<item slot="4" text="close battery compartment ." />
+<item slot="5" text="turn on toy ." />
+</script>
+<script id="26">
+<item slot="1" text="get screwdriver ." />
+<item slot="2" text="unscrew battery cover ." />
+<item slot="3" text="remove old cells ." />
+<item slot="4" text="clean out battery case ." />
+<item slot="5" text="find fresh batteries ." />
+<item slot="6" text="install new batteries ." />
+<item slot="7" text="rescrew cover lid ." />
+</script>
+<script id="27">
+<item slot="1" text="take out the old batteries ." />
+<item slot="2" text="look at the size ." />
+<item slot="3" text="get 2 of the same size ." />
+<item slot="4" text="put the new ones in facing the same way ." />
+</script>
+<script id="28">
+<item slot="1" text="open cover ." />
+<item slot="2" text="remove old batteries ." />
+<item slot="3" text="place new batteries with + at + and - at - ." />
+</script>
+<script id="29">
+<item slot="1" text="pick up the toy ." />
+<item slot="2" text="open the battery compartment ." />
+<item slot="3" text="remove the batteries ." />
+<item slot="4" text="discard the used batteries ." />
+<item slot="5" text="place new batteries in the battery compartment ." />
+<item slot="6" text="close the battery compartment ." />
+</script>
+<script id="30">
+<item slot="1" text="locate battery compartment on toy ." />
+<item slot="2" text="identify type of screwdriver required ." />
+<item slot="3" text="retrieve correct screwdriver ." />
+<item slot="4" text="unscrew battery cover ." />
+<item slot="5" text="remove old batteries ." />
+<item slot="6" text="insert new batteries ." />
+<item slot="7" text="replace cover ." />
+</script>
+<script id="31">
+<item slot="1" text="remove battery cover ." />
+<item slot="2" text="remove dead batteries ." />
+<item slot="3" text="place fresh batteries into the toy ." />
+<item slot="4" text="replace the battery cover ." />
+</script>
+<script id="32">
+<item slot="1" text="remove battery cover ." />
+<item slot="2" text="remove old batteries ." />
+<item slot="3" text="insert new batteries ." />
+<item slot="4" text="replace battery cover ." />
+</script>
+<script id="33">
+<item slot="1" text="opening the case ." />
+<item slot="2" text="remove batteries ." />
+<item slot="3" text="put back new ones ." />
+<item slot="4" text="close case ." />
+</script>
+<script id="34">
+<item slot="1" text="open battery hole ." />
+<item slot="2" text="remove dead batteries ." />
+<item slot="3" text="dispose of dead batteries ." />
+<item slot="4" text="place new batteries in hole ." />
+<item slot="5" text="replace cover ." />
+<item slot="6" text="test out the new batteries ." />
+<item slot="7" text="dispose of discarded packaging ." />
+</script>
+<script id="35">
+<item slot="1" text="open battery hole ." />
+<item slot="2" text="remove dead batteries ." />
+<item slot="3" text="dispose of dead batteries ." />
+<item slot="4" text="place new batteries in hole ." />
+<item slot="5" text="replace cover ." />
+<item slot="6" text="test out the new batteries ." />
+<item slot="7" text="dispose of discarded packaging ." />
+</script>
+<script id="36">
+<item slot="1" text="open battery hole ." />
+<item slot="2" text="remove dead batteries ." />
+<item slot="3" text="dispose of dead batteries ." />
+<item slot="4" text="place new batteries in hole ." />
+<item slot="5" text="replace cover ." />
+<item slot="6" text="test out the new batteries ." />
+<item slot="7" text="dispose of discarded packaging ." />
+</script>
+<script id="37">
+<item slot="1" text="open battery hole ." />
+<item slot="2" text="remove dead batteries ." />
+<item slot="3" text="dispose of dead batteries ." />
+<item slot="4" text="place new batteries in hole ." />
+<item slot="5" text="replace cover ." />
+<item slot="6" text="test out the new batteries ." />
+<item slot="7" text="dispose of discarded packaging ." />
+</script>
+<script id="38">
+<item slot="1" text="open battery hole ." />
+<item slot="2" text="remove dead batteries ." />
+<item slot="3" text="dispose of dead batteries ." />
+<item slot="4" text="place new batteries in hole ." />
+<item slot="5" text="replace cover ." />
+<item slot="6" text="test out the new batteries ." />
+<item slot="7" text="dispose of discarded packaging ." />
+</script>
+<script id="39">
+<item slot="1" text="open battery hole ." />
+<item slot="2" text="remove dead batteries ." />
+<item slot="3" text="dispose of dead batteries ." />
+<item slot="4" text="place new batteries in hole ." />
+<item slot="5" text="replace cover ." />
+<item slot="6" text="test out the new batteries ." />
+<item slot="7" text="dispose of discarded packaging ." />
+</script>
+<script id="40">
+<item slot="1" text="open battery hole ." />
+<item slot="2" text="remove dead batteries ." />
+<item slot="3" text="dispose of dead batteries ." />
+<item slot="4" text="place new batteries in hole ." />
+<item slot="5" text="replace cover ." />
+<item slot="6" text="test out the new batteries ." />
+<item slot="7" text="dispose of discarded packaging ." />
+</script>
+<script id="41">
+<item slot="1" text="open battery hole ." />
+<item slot="2" text="remove dead batteries ." />
+<item slot="3" text="dispose of dead batteries ." />
+<item slot="4" text="place new batteries in hole ." />
+<item slot="5" text="replace cover ." />
+<item slot="6" text="test out the new batteries ." />
+<item slot="7" text="dispose of discarded packaging ." />
+</script>
+<script id="42">
+<item slot="1" text="open battery hole ." />
+<item slot="2" text="remove dead batteries ." />
+<item slot="3" text="dispose of dead batteries ." />
+<item slot="4" text="place new batteries in hole ." />
+<item slot="5" text="replace cover ." />
+<item slot="6" text="test out the new batteries ." />
+<item slot="7" text="dispose of discarded packaging ." />
+</script>
+<script id="43">
+<item slot="1" text="open battery hole ." />
+<item slot="2" text="remove dead batteries ." />
+<item slot="3" text="dispose of dead batteries ." />
+<item slot="4" text="place new batteries in hole ." />
+<item slot="5" text="replace cover ." />
+<item slot="6" text="test out the new batteries ." />
+<item slot="7" text="dispose of discarded packaging ." />
+</script>
+<script id="44">
+<item slot="1" text="open battery hole ." />
+<item slot="2" text="remove dead batteries ." />
+<item slot="3" text="dispose of dead batteries ." />
+<item slot="4" text="place new batteries in hole ." />
+<item slot="5" text="replace cover ." />
+<item slot="6" text="test out the new batteries ." />
+<item slot="7" text="dispose of discarded packaging ." />
+</script>
+<script id="45">
+<item slot="1" text="open battery hole ." />
+<item slot="2" text="remove dead batteries ." />
+<item slot="3" text="dispose of dead batteries ." />
+<item slot="4" text="place new batteries in hole ." />
+<item slot="5" text="replace cover ." />
+<item slot="6" text="test out the new batteries ." />
+<item slot="7" text="dispose of discarded packaging ." />
+</script>
+<script id="46">
+<item slot="1" text="open battery hole ." />
+<item slot="2" text="remove dead batteries ." />
+<item slot="3" text="dispose of dead batteries ." />
+<item slot="4" text="place new batteries in hole ." />
+<item slot="5" text="replace cover ." />
+<item slot="6" text="test out the new batteries ." />
+<item slot="7" text="dispose of discarded packaging ." />
+</script>
+<script id="47">
+<item slot="1" text="open battery hole ." />
+<item slot="2" text="remove dead batteries ." />
+<item slot="3" text="dispose of dead batteries ." />
+<item slot="4" text="place new batteries in hole ." />
+<item slot="5" text="replace cover ." />
+<item slot="6" text="test out the new batteries ." />
+<item slot="7" text="dispose of discarded packaging ." />
+</script>
+<script id="48">
+<item slot="1" text="get screwdriver ." />
+<item slot="2" text="unscrew the screw ." />
+<item slot="3" text="open the battery compartment ." />
+<item slot="4" text="remove battery ." />
+<item slot="5" text="put new battery in ." />
+<item slot="6" text="close compartment ." />
+<item slot="7" text="screw in the screw ." />
+</script>
+<script id="49">
+<item slot="1" text="get screwdriver ." />
+<item slot="2" text="unscrew the screw ." />
+<item slot="3" text="open the battery compartment ." />
+<item slot="4" text="remove battery ." />
+<item slot="5" text="put new battery in ." />
+<item slot="6" text="close compartment ." />
+<item slot="7" text="screw in the screw ." />
+</script>
+<script id="50">
+<item slot="1" text="get screwdriver ." />
+<item slot="2" text="unscrew the screw ." />
+<item slot="3" text="open the battery compartment ." />
+<item slot="4" text="remove battery ." />
+<item slot="5" text="put new battery in ." />
+<item slot="6" text="close compartment ." />
+<item slot="7" text="screw in the screw ." />
+</script>
+<script id="51">
+<item slot="1" text="get screwdriver ." />
+<item slot="2" text="unscrew the screw ." />
+<item slot="3" text="open the battery compartment ." />
+<item slot="4" text="remove battery ." />
+<item slot="5" text="put new battery in ." />
+<item slot="6" text="close compartment ." />
+<item slot="7" text="screw in the screw ." />
+</script>
+<script id="52">
+<item slot="1" text="get screwdriver ." />
+<item slot="2" text="unscrew the screw ." />
+<item slot="3" text="open the battery compartment ." />
+<item slot="4" text="remove battery ." />
+<item slot="5" text="put new battery in ." />
+<item slot="6" text="close compartment ." />
+<item slot="7" text="screw in the screw ." />
+</script>
+<script id="53">
+<item slot="1" text="get screwdriver ." />
+<item slot="2" text="unscrew the screw ." />
+<item slot="3" text="open the battery compartment ." />
+<item slot="4" text="remove battery ." />
+<item slot="5" text="put new battery in ." />
+<item slot="6" text="close compartment ." />
+<item slot="7" text="screw in the screw ." />
+</script>
+<script id="54">
+<item slot="1" text="repalce ." />
+</script>
+<script id="55">
+<item slot="1" text="take old batteries out ." />
+</script>
+<script id="56">
+<item slot="1" text="get new batteries ." />
+<item slot="2" text="get toy ." />
+<item slot="3" text="open battery cover on toy ." />
+<item slot="4" text="remove batteries ." />
+<item slot="5" text="place new batteries in toy ." />
+<item slot="6" text="replace battery cover on toy ." />
+</script>
+<script id="57">
+<item slot="1" text="remove old batteries ." />
+<item slot="2" text="insert new batteries ." />
+</script>
+<script id="58">
+<item slot="1" text="remove old batteries ." />
+<item slot="2" text="insert new batteries ." />
+</script>
+<script id="59">
+<item slot="1" text="remove old batteries ." />
+<item slot="2" text="insert new batteries ." />
+</script>
+<script id="60">
+<item slot="1" text="open toy ." />
+<item slot="2" text="remove old batteries ." />
+<item slot="3" text="place new batteries ." />
+</script>
+<script id="61">
+<item slot="1" text="removing battery cover ." />
+<item slot="2" text="removing old batteries ." />
+<item slot="3" text="putting in new batteries ." />
+<item slot="4" text="replacing battery cover ." />
+</script>
+</scripts>

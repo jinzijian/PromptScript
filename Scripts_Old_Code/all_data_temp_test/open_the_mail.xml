@@ -1,0 +1,382 @@
+<scripts>
+<script id="1">
+<item slot="1" text="pick up envelope ." />
+<item slot="2" text="open flap of envelope ." />
+<item slot="3" text="remove contents of envelope ." />
+<item slot="4" text="place envelope on counter ." />
+<item slot="5" text="place contents of envelope in separate pile ." />
+</script>
+<script id="2">
+<item slot="1" text="take hold of indicated mail ." />
+<item slot="2" text="tear envelope along top fold of envelope being careful not to tear contents ." />
+<item slot="3" text="remove contents ." />
+</script>
+<script id="3">
+<item slot="1" text="locate a sharp object ." />
+<item slot="2" text="utilize the sharp object to cut open the piece of mail ." />
+<item slot="3" text="remove the contents of the envelope or package ." />
+</script>
+<script id="4">
+<item slot="1" text="get knife ." />
+<item slot="2" text="take letters one by one ." />
+<item slot="3" text="open using knife ." />
+<item slot="4" text="read mail ." />
+<item slot="5" text="next mail ." />
+</script>
+<script id="5">
+<item slot="1" text="pick up each envelope ." />
+<item slot="2" text="cut a quarter of an inch off the top of the envelope ." />
+<item slot="3" text="remove the contents of the envelope ." />
+</script>
+<script id="6">
+<item slot="1" text="get knife ." />
+<item slot="2" text="cut letter ." />
+<item slot="3" text="get next letter ." />
+</script>
+<script id="7">
+<item slot="1" text="pick up a letter ." />
+<item slot="2" text="cut open the letter with a letter opener ." />
+<item slot="3" text="remove the letter s contents ." />
+<item slot="4" text="repeat for all letters ." />
+</script>
+<script id="8">
+<item slot="1" text="go to mailbox ." />
+<item slot="2" text="get mail ." />
+<item slot="3" text="bring mail in house ." />
+<item slot="4" text="open the envelopes with letter opener ." />
+<item slot="5" text="take out paper inside envelopes ." />
+</script>
+<script id="9">
+<item slot="1" text="take letters one by one ." />
+<item slot="2" text="open letter using cutter ." />
+<item slot="3" text="place letter aside ." />
+</script>
+<script id="10">
+<item slot="1" text="get paper cutter ." />
+<item slot="2" text="get envelopes one by one ." />
+<item slot="3" text="cut envelope open ." />
+<item slot="4" text="get letter from envelope ." />
+</script>
+<script id="11">
+<item slot="1" text="take the mail ." />
+<item slot="2" text="open the envelope ." />
+<item slot="3" text="take out the stationary inside the envelope ." />
+<item slot="4" text="unfold the stationary ." />
+</script>
+<script id="12">
+<item slot="1" text="go to the door ." />
+<item slot="2" text="pick up the mail ." />
+<item slot="3" text="take the mail to the table ." />
+<item slot="4" text="open the mail ." />
+</script>
+<script id="13">
+<item slot="1" text="hold mail in one hand ." />
+<item slot="2" text="get letter opener ." />
+<item slot="3" text="slice open seal of mail with letter opener ." />
+<item slot="4" text="remove papers out of open envelopes ." />
+</script>
+<script id="14">
+<item slot="1" text="find the mail ." />
+<item slot="2" text="find a letter opener ." />
+<item slot="3" text="pick up a piece of mail ." />
+<item slot="4" text="slice the top of the letter open with the mail opener ." />
+<item slot="5" text="repeat until all envelopes have been opened ." />
+</script>
+<script id="15">
+<item slot="1" text="get letter opener ." />
+<item slot="2" text="cut letter on the edge ." />
+<item slot="3" text="extract letter from envelope ." />
+<item slot="4" text="open next letter ." />
+</script>
+<script id="16">
+<item slot="1" text="gather all the mail into one pile ." />
+<item slot="2" text="pick up each piece of mail individually ." />
+<item slot="3" text="rip open the sealed flap on the envelopes ." />
+<item slot="4" text="be careful of not ripping the paper in the envelopes ." />
+</script>
+<script id="17">
+<item slot="1" text="locate the mail ." />
+<item slot="2" text="locate an envelope opener ." />
+<item slot="3" text="utilize the envelope opener on each piece of mail ." />
+<item slot="4" text="remove the contents of each envelope ." />
+<item slot="5" text="read the contents of each envelope ." />
+</script>
+<script id="18">
+<item slot="1" text="pick up one envelope ." />
+<item slot="2" text="pick up a letter-opener ." />
+<item slot="3" text="insert the letter-opener into the back-flap of the envelope ." />
+<item slot="4" text="pull the letter-opener towards the top of the envelope ." />
+<item slot="5" text="set down this envelope ." />
+</script>
+<script id="19">
+<item slot="1" text="aquire mail ." />
+<item slot="2" text="aquire sharp object ." />
+<item slot="3" text="cut open mail ." />
+</script>
+<script id="20">
+<item slot="1" text="pick up mail ." />
+<item slot="2" text="carefully open envelope without tearing contents ." />
+<item slot="3" text="remove contents ." />
+<item slot="4" text="read contents ." />
+</script>
+<script id="21">
+<item slot="1" text="get the mail ." />
+<item slot="2" text="get the letter opener ." />
+<item slot="3" text="slice open the mail ." />
+</script>
+<script id="22">
+<item slot="1" text="get mail ." />
+<item slot="2" text="get opener ." />
+<item slot="3" text="open top of mail with the opener ." />
+<item slot="4" text="get contents out of the envelope ." />
+</script>
+<script id="23">
+<item slot="1" text="get letter opener ." />
+<item slot="2" text="slide under sealed letter flap ." />
+<item slot="3" text="carefully pull upward cutting the paper ." />
+<item slot="4" text="pull out the letter ." />
+</script>
+<script id="24">
+<item slot="1" text="get the mail ." />
+<item slot="2" text="open the envelopes ." />
+<item slot="3" text="remove contents of envelopes ." />
+</script>
+<script id="25">
+<item slot="1" text="get the mail from the mailbox ." />
+<item slot="2" text="open each envelope ." />
+<item slot="3" text="look at the stuff inside ." />
+</script>
+<script id="26">
+<item slot="1" text="get the mail from the mailbox ." />
+<item slot="2" text="take a single letter at a time ." />
+<item slot="3" text="unseal the adhesive strip ." />
+</script>
+<script id="27">
+<item slot="1" text="hold the envelope in one hand ." />
+<item slot="2" text="pick up letter opener ." />
+<item slot="3" text="slide letter opener under edge of envelope flap ." />
+<item slot="4" text="move letter opener across top of envelope ." />
+<item slot="5" text="put down letter opener ." />
+<item slot="6" text="remove contents from envelope ." />
+</script>
+<script id="28">
+<item slot="1" text="use letter opener ." />
+<item slot="2" text="slide letter opener under envelope flap ." />
+<item slot="3" text="slice open ." />
+</script>
+<script id="29">
+<item slot="1" text="use letter opener ." />
+<item slot="2" text="slide letter opener under envelope flap ." />
+<item slot="3" text="slice open ." />
+</script>
+<script id="30">
+<item slot="1" text="pick up am envelope ." />
+<item slot="2" text="pick up a letter opener ." />
+<item slot="3" text="insert the blade of the opener into the back of the envelope ." />
+<item slot="4" text="tear along the top edge of the envelope with the blade ." />
+<item slot="5" text="pull the letter out of the envelope ." />
+</script>
+<script id="31">
+<item slot="1" text="rip open envelope ." />
+</script>
+<script id="32">
+<item slot="1" text="check address ." />
+<item slot="2" text="open ." />
+<item slot="3" text="pull contents out ." />
+<item slot="4" text="read ." />
+</script>
+<script id="33">
+<item slot="1" text="check address ." />
+<item slot="2" text="open ." />
+<item slot="3" text="pull contents out ." />
+<item slot="4" text="read ." />
+</script>
+<script id="34">
+<item slot="1" text="check address ." />
+<item slot="2" text="open ." />
+<item slot="3" text="pull contents out ." />
+<item slot="4" text="read ." />
+</script>
+<script id="35">
+<item slot="1" text="check address ." />
+<item slot="2" text="open ." />
+<item slot="3" text="pull contents out ." />
+<item slot="4" text="read ." />
+</script>
+<script id="36">
+<item slot="1" text="check address ." />
+<item slot="2" text="open ." />
+<item slot="3" text="pull contents out ." />
+<item slot="4" text="read ." />
+</script>
+<script id="37">
+<item slot="1" text="check address ." />
+<item slot="2" text="open ." />
+<item slot="3" text="pull contents out ." />
+<item slot="4" text="read ." />
+</script>
+<script id="38">
+<item slot="1" text="check address ." />
+<item slot="2" text="open ." />
+<item slot="3" text="pull contents out ." />
+<item slot="4" text="read ." />
+</script>
+<script id="39">
+<item slot="1" text="check address ." />
+<item slot="2" text="open ." />
+<item slot="3" text="pull contents out ." />
+<item slot="4" text="read ." />
+</script>
+<script id="40">
+<item slot="1" text="check address ." />
+<item slot="2" text="open ." />
+<item slot="3" text="pull contents out ." />
+<item slot="4" text="read ." />
+</script>
+<script id="41">
+<item slot="1" text="get the mail ." />
+<item slot="2" text="pick up envelope ." />
+<item slot="3" text="open the top ." />
+<item slot="4" text="pull out paper inside ." />
+<item slot="5" text="repeat steps 2-4 for each envelope ." />
+</script>
+<script id="42">
+<item slot="1" text="go to mailbox ." />
+<item slot="2" text="open mailbox ." />
+<item slot="3" text="take out mail ." />
+<item slot="4" text="put on table ." />
+<item slot="5" text="tear top of envelope ." />
+<item slot="6" text="take out contents from envelope ." />
+</script>
+<script id="43">
+<item slot="1" text="go to the mail box ." />
+<item slot="2" text="get the mail ." />
+<item slot="3" text="open it ." />
+</script>
+<script id="44">
+<item slot="1" text="pick up mail ." />
+<item slot="2" text="use finger to tear top of envelope ." />
+<item slot="3" text="remove mail from envelope ." />
+</script>
+<script id="45">
+<item slot="1" text="type the mail address ." />
+<item slot="2" text="open the mail ." />
+</script>
+<script id="46">
+<item slot="1" text="pick up mail tear open at top ." />
+</script>
+<script id="47">
+<item slot="1" text="hold enevelops ." />
+<item slot="2" text="put finger under flap of envelop ." />
+<item slot="3" text="push finger away from you while tearing the paper ." />
+<item slot="4" text="take items out of enveop ." />
+</script>
+<script id="48">
+<item slot="1" text="hold enevelops ." />
+<item slot="2" text="put finger under flap of envelop ." />
+<item slot="3" text="push finger away from you while tearing the paper ." />
+<item slot="4" text="take items out of enveop ." />
+</script>
+<script id="49">
+<item slot="1" text="receive letter ." />
+<item slot="2" text="open envelope ." />
+</script>
+<script id="50">
+<item slot="1" text="receive letter ." />
+<item slot="2" text="open envelope ." />
+</script>
+<script id="51">
+<item slot="1" text="receive letter ." />
+<item slot="2" text="open envelope ." />
+</script>
+<script id="52">
+<item slot="1" text="receive letter ." />
+<item slot="2" text="open envelope ." />
+</script>
+<script id="53">
+<item slot="1" text="receive letter ." />
+<item slot="2" text="open envelope ." />
+</script>
+<script id="54">
+<item slot="1" text="receive letter ." />
+<item slot="2" text="open envelope ." />
+</script>
+<script id="55">
+<item slot="1" text="take the letter ." />
+<item slot="2" text="find a letter opener ." />
+<item slot="3" text="slide the letter opener under the envelope flap ." />
+<item slot="4" text="pull ." />
+<item slot="5" text="take out letter ." />
+<item slot="6" text="read letter ." />
+</script>
+<script id="56">
+<item slot="1" text="take the letter ." />
+<item slot="2" text="find a letter opener ." />
+<item slot="3" text="slide the letter opener under the envelope flap ." />
+<item slot="4" text="pull ." />
+<item slot="5" text="take out letter ." />
+<item slot="6" text="read letter ." />
+</script>
+<script id="57">
+<item slot="1" text="hold mail in hand ." />
+<item slot="2" text="slide finger along opening of envelope ." />
+<item slot="3" text="open envelope ." />
+<item slot="4" text="pull out mail ." />
+</script>
+<script id="58">
+<item slot="1" text="open envelope ." />
+<item slot="2" text="take out letter ." />
+</script>
+<script id="59">
+<item slot="1" text="pick up the envelope ." />
+<item slot="2" text="turn it around so flap faces you ." />
+<item slot="3" text="insert envelope opener into left corner of flap ." />
+<item slot="4" text="tear along the top of the envelop with flap ." />
+<item slot="5" text="take out the mail inside the envelope ." />
+<item slot="6" text="recycle the envelope ." />
+</script>
+<script id="60">
+<item slot="1" text="pick up the envelope ." />
+<item slot="2" text="turn it around so flap faces you ." />
+<item slot="3" text="insert envelope opener into left corner of flap ." />
+<item slot="4" text="tear along the top of the envelop with flap ." />
+<item slot="5" text="take out the mail inside the envelope ." />
+<item slot="6" text="recycle the envelope ." />
+</script>
+<script id="61">
+<item slot="1" text="pick up the envelope ." />
+<item slot="2" text="turn it around so flap faces you ." />
+<item slot="3" text="insert envelope opener into left corner of flap ." />
+<item slot="4" text="tear along the top of the envelop with flap ." />
+<item slot="5" text="take out the mail inside the envelope ." />
+<item slot="6" text="recycle the envelope ." />
+</script>
+<script id="62">
+<item slot="1" text="pick up the envelope ." />
+<item slot="2" text="turn it around so flap faces you ." />
+<item slot="3" text="insert envelope opener into left corner of flap ." />
+<item slot="4" text="tear along the top of the envelop with flap ." />
+<item slot="5" text="take out the mail inside the envelope ." />
+<item slot="6" text="recycle the envelope ." />
+</script>
+<script id="63">
+<item slot="1" text="obtain mail ." />
+<item slot="2" text="take 1st envelope ." />
+<item slot="3" text="rip open the envelope ." />
+<item slot="4" text="read contents ." />
+<item slot="5" text="throw out any garbage ." />
+</script>
+<script id="64">
+<item slot="1" text="obtain mail ." />
+<item slot="2" text="take 1st envelope ." />
+<item slot="3" text="rip open the envelope ." />
+<item slot="4" text="read contents ." />
+<item slot="5" text="throw out any garbage ." />
+</script>
+<script id="65">
+<item slot="1" text="go to mail box ." />
+<item slot="2" text="get mail ." />
+<item slot="3" text="open letter ." />
+<item slot="4" text="pull out note ." />
+</script>
+</scripts>

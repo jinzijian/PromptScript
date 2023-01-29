@@ -1,0 +1,268 @@
+<scripts>
+<script id="1">
+<item slot="1" text="look up store number ." />
+<item slot="2" text="pick up phone ." />
+<item slot="3" text="dial number of store ." />
+<item slot="4" text="when someone answers ask store hours ." />
+<item slot="5" text="say thank you ." />
+<item slot="6" text="turn phone off ." />
+</script>
+<script id="2">
+<item slot="1" text="find the store s phone number in a phonebook ." />
+<item slot="2" text="call the store using a telephone ." />
+<item slot="3" text="ask if the store is open ." />
+</script>
+<script id="3">
+<item slot="1" text="go to the store location ." />
+<item slot="2" text="if the lights are off then it is closed ." />
+<item slot="3" text="otherwise it is open ." />
+</script>
+<script id="4">
+<item slot="1" text="find out store phone number ." />
+<item slot="2" text="call store ." />
+<item slot="3" text="ask for store hours if answer ." />
+<item slot="4" text="listen to message if outside store hours ." />
+<item slot="5" text="check website ." />
+</script>
+<script id="5">
+<item slot="1" text="find the phone book ." />
+<item slot="2" text="look up the store in the phone book ." />
+<item slot="3" text="find the phone ." />
+<item slot="4" text="call the number you looked up ." />
+<item slot="5" text="ask if the store is open ." />
+<item slot="6" text="hang up the phone ." />
+</script>
+<script id="6">
+<item slot="1" text="walking up to the entrance ." />
+<item slot="2" text="yanking at the door ." />
+<item slot="3" text="checking posted opening hours ." />
+</script>
+<script id="7">
+<item slot="1" text="get phone number ." />
+<item slot="2" text="call store ." />
+<item slot="3" text="ask about hours of business ." />
+</script>
+<script id="8">
+<item slot="1" text="locate the store ." />
+<item slot="2" text="go to the entrance of the store ." />
+<item slot="3" text="if the door is open and there are people shopping in the store then it is open ." />
+</script>
+<script id="9">
+<item slot="1" text="find the store in the phone directory ." />
+<item slot="2" text="call the number ." />
+</script>
+<script id="10">
+<item slot="1" text="go to the store ." />
+<item slot="2" text="try to open door ." />
+<item slot="3" text="if door does not open look at sign on door for hours that it is open ." />
+</script>
+<script id="11">
+<item slot="1" text="call the store to ask for operating hours ." />
+<item slot="2" text="check online for store operating hours ." />
+<item slot="3" text="visit the store and check the operating hours ." />
+</script>
+<script id="12">
+<item slot="1" text="look up the phone number of the store ." />
+<item slot="2" text="call the store on the telephone ." />
+<item slot="3" text="ask the store clerk to tell you the hours of operation for the store ." />
+</script>
+<script id="13">
+<item slot="1" text="go to the computer ." />
+<item slot="2" text="open a web browser on the computer ." />
+<item slot="3" text="find the web page of the store in a search engine ." />
+<item slot="4" text="open the web page ." />
+<item slot="5" text="look for information on the web page about the store s hours ." />
+</script>
+<script id="14">
+<item slot="1" text="call store ." />
+<item slot="2" text="ask person if store open ." />
+<item slot="3" text="if automated message check store hours ." />
+</script>
+<script id="15">
+<item slot="1" text="going to the storefront ." />
+<item slot="2" text="trying the door ." />
+<item slot="3" text="if the door does not open then the store is closed ." />
+<item slot="4" text="if the door does open then the store is open ." />
+</script>
+<script id="16">
+<item slot="1" text="call the store s telephone number and inquire about their hours of business ." />
+<item slot="2" text="if the hour you are calling is within their hours of business then they are open ." />
+</script>
+<script id="17">
+<item slot="1" text="go to the store ." />
+<item slot="2" text="look to see if people are inside ." />
+<item slot="3" text="look to see if lights are on ." />
+<item slot="4" text="look to see if there is an open sign ." />
+<item slot="5" text="try to open the door ." />
+</script>
+<script id="18">
+<item slot="1" text="call store ." />
+<item slot="2" text="ask for store hours ." />
+</script>
+<script id="19">
+<item slot="1" text="call store ." />
+<item slot="2" text="ask for store hours ." />
+</script>
+<script id="20">
+<item slot="1" text="call store ." />
+<item slot="2" text="ask for store hours ." />
+</script>
+<script id="21">
+<item slot="1" text="find a phone ." />
+<item slot="2" text="find a phonebook ." />
+<item slot="3" text="look up stores number ." />
+<item slot="4" text="call store ." />
+<item slot="5" text="ask for opening hours ." />
+</script>
+<script id="22">
+<item slot="1" text="communicate with store ." />
+<item slot="2" text="inquire store hours ." />
+<item slot="3" text="determine if store is open ." />
+</script>
+<script id="23">
+<item slot="1" text="contact store ." />
+<item slot="2" text="inquire hours ." />
+<item slot="3" text="report findings ." />
+</script>
+<script id="24">
+<item slot="1" text="contact store ." />
+<item slot="2" text="inquire hours ." />
+<item slot="3" text="report findings ." />
+</script>
+<script id="25">
+<item slot="1" text="contact store ." />
+<item slot="2" text="inquire hours ." />
+<item slot="3" text="report findings ." />
+</script>
+<script id="26">
+<item slot="1" text="contact store ." />
+<item slot="2" text="inquire hours ." />
+<item slot="3" text="report findings ." />
+</script>
+<script id="27">
+<item slot="1" text="call store ." />
+<item slot="2" text="ask operating hours ." />
+</script>
+<script id="28">
+<item slot="1" text="call the store ." />
+<item slot="2" text="listen to the answering machine ." />
+<item slot="3" text="if the current time is within the store hours then you know the store is open ." />
+</script>
+<script id="29">
+<item slot="1" text="do one of the following ." />
+<item slot="2" text="go online the the store s webpage to see the store s hours ." />
+<item slot="3" text="go to the store and see its hours of operation ." />
+</script>
+<script id="30">
+<item slot="1" text="find store telephone number ." />
+<item slot="2" text="dial store ." />
+<item slot="3" text="ask for store hours ." />
+</script>
+<script id="31">
+<item slot="1" text="call store ." />
+</script>
+<script id="32">
+<item slot="1" text="call store ." />
+</script>
+<script id="33">
+<item slot="1" text="call store ." />
+</script>
+<script id="34">
+<item slot="1" text="call store ." />
+</script>
+<script id="35">
+<item slot="1" text="call store ." />
+</script>
+<script id="36">
+<item slot="1" text="call store ." />
+</script>
+<script id="37">
+<item slot="1" text="google store name ." />
+<item slot="2" text="search on website for hours of operation ." />
+<item slot="3" text="if not available call store for info ." />
+</script>
+<script id="38">
+<item slot="1" text="google store name ." />
+<item slot="2" text="search on website for hours of operation ." />
+<item slot="3" text="if not available call store for info ." />
+</script>
+<script id="39">
+<item slot="1" text="google store name ." />
+<item slot="2" text="search on website for hours of operation ." />
+<item slot="3" text="if not available call store for info ." />
+</script>
+<script id="40">
+<item slot="1" text="go to the store ." />
+<item slot="2" text="see if the open sign is lit ." />
+</script>
+<script id="41">
+<item slot="1" text="drive to store ." />
+<item slot="2" text="park car ." />
+<item slot="3" text="shut off car ." />
+<item slot="4" text="get out of car ." />
+<item slot="5" text="lock car ." />
+<item slot="6" text="walk to store door ." />
+<item slot="7" text="pull store door handle ." />
+</script>
+<script id="42">
+<item slot="1" text="drive to store ." />
+<item slot="2" text="park car ." />
+<item slot="3" text="shut off car ." />
+<item slot="4" text="get out of car ." />
+<item slot="5" text="lock car ." />
+<item slot="6" text="walk to store door ." />
+<item slot="7" text="pull store door handle ." />
+</script>
+<script id="43">
+<item slot="1" text="drive to store ." />
+<item slot="2" text="park car ." />
+<item slot="3" text="shut off car ." />
+<item slot="4" text="get out of car ." />
+<item slot="5" text="lock car ." />
+<item slot="6" text="walk to store door ." />
+<item slot="7" text="pull store door handle ." />
+</script>
+<script id="44">
+<item slot="1" text="go to the open ." />
+<item slot="2" text="see if the open sign is on ." />
+</script>
+<script id="45">
+<item slot="1" text="go to the store ." />
+<item slot="2" text="look at the store hours posted on the door ." />
+<item slot="3" text="check for an open sign ." />
+<item slot="4" text="check for people in the store ." />
+<item slot="5" text="try the door to see if it is locked ." />
+</script>
+<script id="46">
+<item slot="1" text="get into car ." />
+<item slot="2" text="drive to the mall ." />
+<item slot="3" text="go into the mall ." />
+<item slot="4" text="walk over to the store ." />
+<item slot="5" text="try the door ." />
+<item slot="6" text="go inside if open ." />
+<item slot="7" text="check the hours on the door ." />
+</script>
+<script id="47">
+<item slot="1" text="take out phone book ." />
+<item slot="2" text="look up store s number in telephone book ." />
+<item slot="3" text="pick up phone ." />
+<item slot="4" text="dial store s number ." />
+<item slot="5" text="ask person who answers what the store hours are ." />
+<item slot="6" text="hang up phone ." />
+</script>
+<script id="48">
+<item slot="1" text="take out phone book ." />
+<item slot="2" text="look up store s number in telephone book ." />
+<item slot="3" text="pick up phone ." />
+<item slot="4" text="dial store s number ." />
+<item slot="5" text="ask person who answers what the store hours are ." />
+<item slot="6" text="hang up phone ." />
+</script>
+<script id="49">
+<item slot="1" text="go to the store ." />
+<item slot="2" text="see if it is open ." />
+</script>
+<script id="50">
+<item slot="1" text="call the store ." />
+</script>
+</scripts>

@@ -1,0 +1,237 @@
+<scripts>
+<script id="1">
+<item slot="1" text="visually locate all out of place toys ." />
+<item slot="2" text="move each toy to a central location ." />
+<item slot="3" text="repeat until all toys are in a pile ." />
+</script>
+<script id="2">
+<item slot="1" text="one by one pick up each toy ." />
+<item slot="2" text="place each toy on its shelf ." />
+</script>
+<script id="3">
+<item slot="1" text="locate toys ." />
+<item slot="2" text="get box ." />
+</script>
+<script id="4">
+<item slot="1" text="locate toys ." />
+<item slot="2" text="get box ." />
+<item slot="3" text="pick up each toy in turn ." />
+<item slot="4" text="put toy into box ." />
+</script>
+<script id="5">
+<item slot="1" text="idenfy which items are toys ." />
+<item slot="2" text="pick up the toys ." />
+<item slot="3" text="put the toys where they are usually stored ." />
+</script>
+<script id="6">
+<item slot="1" text="locate toys in room ." />
+<item slot="2" text="locate toy box ." />
+<item slot="3" text="open toy box ." />
+<item slot="4" text="collect each toy ." />
+<item slot="5" text="place each toy in toy box ." />
+<item slot="6" text="close toy box ." />
+</script>
+<script id="7">
+<item slot="1" text="for each toy ." />
+<item slot="2" text="lift it and move it to toy box ." />
+<item slot="3" text="until there are no more toys ." />
+</script>
+<script id="8">
+<item slot="1" text="for each toy ." />
+<item slot="2" text="go to toy and pick it up ." />
+<item slot="3" text="take toy to box ." />
+<item slot="4" text="until no more toys on the floor ." />
+</script>
+<script id="9">
+<item slot="1" text="pick up toy ." />
+<item slot="2" text="put in toy box ." />
+<item slot="3" text="walk over to next toy ." />
+<item slot="4" text="repeat until all toys are in box ." />
+</script>
+<script id="10">
+<item slot="1" text="locating the toys ." />
+<item slot="2" text="picking up the toys ." />
+<item slot="3" text="sorting the toys acording to where they can be stored ." />
+<item slot="4" text="place the toys where they are best stored ." />
+</script>
+<script id="11">
+<item slot="1" text="find a scattered toy ." />
+<item slot="2" text="put the toy away ." />
+<item slot="3" text="repeat until all scattered toys have been gathered ." />
+</script>
+<script id="12">
+<item slot="1" text="pick up toys from the floor with your hands ." />
+<item slot="2" text="place toys in one pile or group on a table ." />
+<item slot="3" text="place toys in appropriate container or location ." />
+</script>
+<script id="13">
+<item slot="1" text="find a scattered toy ." />
+<item slot="2" text="pick up the toy ." />
+<item slot="3" text="place the toy in the proper location ." />
+<item slot="4" text="repeat until all scattered toys have been placed in the proper location ." />
+</script>
+<script id="14">
+<item slot="1" text="open toy box ." />
+<item slot="2" text="pick up toys ." />
+<item slot="3" text="put toys in toy box ." />
+</script>
+<script id="15">
+<item slot="1" text="find a toy on the floor ." />
+<item slot="2" text="place the toy into a pile ." />
+<item slot="3" text="find another toy and place it on the pile ." />
+<item slot="4" text="repeat until all scattered toys are gathered ." />
+</script>
+<script id="16">
+<item slot="1" text="identify toys ." />
+<item slot="2" text="identify place to put them ." />
+<item slot="3" text="gather toys ." />
+<item slot="4" text="put in place identified in step 2 ." />
+</script>
+<script id="17">
+<item slot="1" text="take out box for toys ." />
+<item slot="2" text="put toys in box ." />
+</script>
+<script id="18">
+<item slot="1" text="locate scattered toys ." />
+<item slot="2" text="pick up scattered toys ." />
+<item slot="3" text="place toys into toy recepticle ." />
+</script>
+<script id="19">
+<item slot="1" text="identify toys ." />
+<item slot="2" text="pick up toys ." />
+<item slot="3" text="place toys in container ." />
+</script>
+<script id="20">
+<item slot="1" text="find bin ." />
+<item slot="2" text="pick up toy ." />
+<item slot="3" text="place in bin ." />
+<item slot="4" text="repeat as needed ." />
+</script>
+<script id="21">
+<item slot="1" text="walk around and pick up toys ." />
+<item slot="2" text="place toys all in one place ." />
+</script>
+<script id="22">
+<item slot="1" text="locate the toys ." />
+<item slot="2" text="move them to a center location ." />
+</script>
+<script id="23">
+<item slot="1" text="locate the toys ." />
+<item slot="2" text="move them to a center location ." />
+</script>
+<script id="24">
+<item slot="1" text="walk around the area ." />
+<item slot="2" text="pick up toys ." />
+</script>
+<script id="25">
+<item slot="1" text="grap basket for toys ." />
+<item slot="2" text="push toys into one area ." />
+<item slot="3" text="pick up first toy ." />
+<item slot="4" text="put in basket ." />
+<item slot="5" text="pick up second toy ." />
+<item slot="6" text="put in basket ." />
+<item slot="7" text="continue until done ." />
+</script>
+<script id="26">
+<item slot="1" text="pick up toys ." />
+<item slot="2" text="stach them in a pile ." />
+</script>
+<script id="27">
+<item slot="1" text="locate toy ." />
+<item slot="2" text="pick up ." />
+<item slot="3" text="place toy in toy recepticle ." />
+<item slot="4" text="repeat until no more toys ." />
+</script>
+<script id="28">
+<item slot="1" text="walk towards object ." />
+<item slot="2" text="get toys ." />
+<item slot="3" text="hold toys ." />
+<item slot="4" text="gather toys ." />
+<item slot="5" text="put away toys ." />
+<item slot="6" text="put away all ." />
+<item slot="7" text="done ." />
+</script>
+<script id="29">
+<item slot="1" text="pick up toys one by one ." />
+<item slot="2" text="stack them in a neat place ." />
+</script>
+<script id="30">
+<item slot="1" text="pick up toys one by one ." />
+<item slot="2" text="stack them in a neat place ." />
+</script>
+<script id="31">
+<item slot="1" text="open toy bin ." />
+<item slot="2" text="put all toys in bin ." />
+</script>
+<script id="32">
+<item slot="1" text="pick up toy ." />
+<item slot="2" text="walk with toy to toybox ." />
+<item slot="3" text="put toy in toybox ." />
+<item slot="4" text="repeat ." />
+</script>
+<script id="33">
+<item slot="1" text="pick up toy ." />
+<item slot="2" text="walk with toy to toybox ." />
+<item slot="3" text="put toy in toybox ." />
+<item slot="4" text="repeat ." />
+</script>
+<script id="34">
+<item slot="1" text="find bin ." />
+<item slot="2" text="pick up toys ." />
+<item slot="3" text="put in bin ." />
+<item slot="4" text="put away bin ." />
+</script>
+<script id="35">
+<item slot="1" text="find bin ." />
+<item slot="2" text="pick up toys ." />
+<item slot="3" text="put in bin ." />
+<item slot="4" text="put away bin ." />
+</script>
+<script id="36">
+<item slot="1" text="get up ." />
+<item slot="2" text="pick up toys ." />
+<item slot="3" text="put toys back in toybox ." />
+</script>
+<script id="37">
+<item slot="1" text="get up ." />
+<item slot="2" text="pick up toys ." />
+<item slot="3" text="put toys back in toybox ." />
+</script>
+<script id="38">
+<item slot="1" text="get up ." />
+<item slot="2" text="pick up toys ." />
+<item slot="3" text="put toys back in toybox ." />
+</script>
+<script id="39">
+<item slot="1" text="pick up toys ." />
+<item slot="2" text="carry toys to toy box ." />
+<item slot="3" text="drop toys off in box ." />
+</script>
+<script id="40">
+<item slot="1" text="pick up toys ." />
+<item slot="2" text="carry toys to toy box ." />
+<item slot="3" text="drop toys off in box ." />
+</script>
+<script id="41">
+<item slot="1" text="pick up toys ." />
+<item slot="2" text="carry toys to toy box ." />
+<item slot="3" text="drop toys off in box ." />
+</script>
+<script id="42">
+<item slot="1" text="pick up toys ." />
+<item slot="2" text="carry toys to toy box ." />
+<item slot="3" text="drop toys off in box ." />
+</script>
+<script id="43">
+<item slot="1" text="find scattered toy ." />
+<item slot="2" text="place toys in bag ." />
+</script>
+<script id="44">
+<item slot="1" text="find scattered toy ." />
+<item slot="2" text="place toys in bag ." />
+</script>
+<script id="45">
+<item slot="1" text="pick up toys ." />
+<item slot="2" text="put toys away ." />
+</script>
+</scripts>

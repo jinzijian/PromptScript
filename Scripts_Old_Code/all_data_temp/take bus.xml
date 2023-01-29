@@ -1,0 +1,210 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<scripts>
+<script id="1">
+<item slot="1" text="Find bus stop" />
+<item slot="2" text="Wait at bus stop" />
+<item slot="3" text="flag bus" />
+<item slot="4" text="board bus" />
+<item slot="5" text="pay fee" />
+<item slot="6" text="look for seat" />
+<item slot="7" text="sit in seat" />
+<item slot="8" text="watch route" />
+<item slot="9" text="use alert bell to signal stop" />
+<item slot="10" text="disembark when bus stops" />
+</script>
+<script id="2">
+<item slot="1" text="get on" />
+<item slot="2" text="Pay the driver" />
+<item slot="3" text="Sit in a seat" />
+<item slot="4" text="Talk to people" />
+<item slot="5" text="You Sleep" />
+<item slot="6" text="You Wake Up" />
+<item slot="7" text="Stretch your arms and leg" />
+<item slot="8" text="yawn" />
+<item slot="9" text="Look out the window" />
+<item slot="10" text="eat and drink" />
+<item slot="11" text="text your friends" />
+<item slot="12" text="call your family" />
+<item slot="13" text="listen to your iPod" />
+<item slot="14" text="Read an interesting book" />
+<item slot="15" text="thank the driver" />
+<item slot="16" text="get off" />
+</script>
+<script id="3">
+<item slot="1" text="walk to the bus stop" />
+<item slot="2" text="wait in line" />
+<item slot="3" text="get on the bus" />
+<item slot="4" text="pay for the ticket" />
+<item slot="5" text="seat if there is room to do so" />
+</script>
+<script id="4">
+<item slot="1" text="decide on destination" />
+<item slot="2" text="look at bus schedule" />
+<item slot="3" text="find change/tokens" />
+<item slot="4" text="go to bus stop" />
+<item slot="5" text="wait for your bus" />
+<item slot="6" text="board bus" />
+<item slot="7" text="put change and token into box" />
+<!-- /= and  -->
+<item slot="8" text="find a seat" />
+<item slot="9" text="wait for your destination" />
+<item slot="10" text="pull cord" />
+<item slot="11" text="exit the bus" />
+</script>
+<script id="5">
+<item slot="1" text="purchase a ticket" />
+<item slot="2" text="have luggage stowed" />
+<item slot="3" text="board bus" />
+<item slot="4" text="choose seat" />
+<item slot="5" text="ride to destination" />
+</script>
+<script id="6">
+<item slot="1" text="get in the bus" />
+<item slot="2" text="look for the seat" />
+<item slot="3" text="take the seat" />
+<item slot="4" text="pay the fare" />
+<item slot="5" text="get off the bus" />
+</script>
+<script id="7">
+<item slot="1" text="check bus schedule online" />
+<item slot="2" text="go to bus stop" />
+<item slot="3" text="wait for bus" />
+<item slot="4" text="get on bus" />
+<item slot="5" text="pay for ride" />
+<item slot="6" text="sit down" />
+<item slot="7" text="wait" />
+<item slot="8" text="get off at stop" />
+</script>
+<script id="8">
+ <item slot="1" text="look up bus route times" />
+ <item slot="2" text="wait at bus stop" />
+ <item slot="3" text="check that correct bus arrives" />
+ <item slot="4" text="have your fare ready" />
+ <item slot="5" text="get on bus" />
+ <item slot="6" text="pay fare" />
+ <item slot="7" text="watch for your stop" />
+ <item slot="8" text="signal driver to stop for you" />
+ <item slot="9" text="gather your belongings" />
+ <item slot="10" text="get off bus" />
+</script>
+<script id="9">
+ <item slot="1" text="wait at stop" />
+ <item slot="2" text="get on bus" />
+ <item slot="3" text="correct fare" />
+ <item slot="4" text="take a seat" />
+ <item slot="5" text="watch for destination" />
+ <item slot="6" text="pull cord" />
+ <item slot="7" text="step off bus" />
+</script>
+<script id="10">
+ <item slot="1" text="wait for the bus" />
+ <item slot="2" text="board the bus" />
+ <item slot="3" text="present bus pass or ticket" />
+ <item slot="4" text="sit quietly" />
+ <item slot="5" text="ring the bell" />
+ <item slot="6" text="get off the bus" />
+</script>
+<script id="11">
+<item slot="1" text="find bus schedule" />
+<item slot="2" text="find nearest bus stop" />
+<item slot="3" text="wait in bus stop" />
+<item slot="4" text="check the bus number in front" />
+<item slot="5" text="join the queue" />
+<item slot="6" text="get into the bus" />
+<item slot="7" text="insert money in cash machine" />
+<item slot="8" text="show pass to driver" />
+<item slot="9" text="receive ticket" />
+<item slot="10" text="find seat" />
+<item slot="11" text="sit in the seat" />
+<item slot="12" text="find suitable standing place" />
+<item slot="13" text="hold on poles" />
+<item slot="14" text="pull hanging cord to stop bus" />
+<item slot="15" text="thank the driver" />
+<item slot="16" text="get off the bus" />
+</script>
+<script id="13">
+<item slot="1" text="go to bus stop" />
+<item slot="2" text="wait for bus" />
+<item slot="3" text="board bus" />
+<item slot="4" text="wait for stop" />
+<item slot="5" text="get off bus" />
+</script>
+<script id="14">
+<item slot="1" text="Wait at stop" />
+<item slot="2" text="enter bus" />
+<item slot="3" text="pay fare" />
+<item slot="4" text="select a seat" />
+<item slot="5" text="ride to destination" />
+<item slot="6" text="exit at my stop" />
+</script>
+<script id="15">
+<item slot="1" text="check bus schedule" />
+<item slot="2" text="wait for bus" />
+<item slot="3" text="take out bus pass" />
+<item slot="4" text="get on bus" />
+<item slot="5" text="show busdriver  bus pass" />
+<item slot="6" text="ring buzzer" />
+<item slot="7" text="wait for bus to stop" />
+<item slot="8" text="say thank you" />
+<item slot="9" text="get off bus" />
+</script>
+
+<script id="16">
+<item slot="1" text="go to bus station" />
+<item slot="2" text="wait for bus" />
+<item slot="3" text="notice bus arriving" />
+<item slot="4" text="confirm correct bus number" />
+<item slot="5" text="board bus" />
+<item slot="6" text="scan bus pass" />
+<item slot="7" text="find seat" />
+<item slot="8" text="ride bus" />
+<item slot="9" text="note stops along the way" />
+<item slot="10" text="notice intended stop is next" />
+<item slot="11" text="get off bus" />
+</script>
+<script id="17">
+<item slot="1" text="go to nearby bus stop" />
+<item slot="2" text="keep eye out for the right bus" />
+<item slot="3" text="when bus arrives, enter" />
+<item slot="4" text="put change in box" />
+<item slot="5" text="take a seat" />
+<item slot="6" text="keep eye out for exit stop" />
+<item slot="7" text="pull chain when near stop" />
+<item slot="8" text="exit out door" />
+</script>
+
+
+<script id="20">
+<item slot="1" text="find bus schedule info" />
+<item slot="2" text="find nearest bus stop" />
+<item slot="3" text="choose pickup time" />
+<item slot="4" text="go to busstop at that time" />
+<item slot="5" text="wait for bus" />
+<item slot="6" text="get off at appropriate stop" />
+</script>
+<script id="21">
+<item slot="1" text="get in" />
+<item slot="2" text="find a seat" />
+<item slot="3" text="call conductor" />
+<item slot="4" text="ask for ticket" />
+<item slot="5" text="pay money" />
+<item slot="6" text="wait for your stop" />
+<item slot="7" text="look around" />
+<item slot="8" text="enjoy ride" />
+<item slot="9" text="look at people around you" />
+<item slot="10" text="your destination comes" />
+<item slot="11" text="get off bus" />
+</script>
+
+<script id="23">
+<item slot="1" text="get dressed" />
+<item slot="2" text="go out of my house" />
+<item slot="3" text="lock my door" />
+<item slot="4" text="go to the bus stop" />
+<item slot="5" text="wait in line" />
+<item slot="6" text="wait for a bus to arrive" />
+<item slot="7" text="get on the bus" />
+</script>
+
+
+</scripts>

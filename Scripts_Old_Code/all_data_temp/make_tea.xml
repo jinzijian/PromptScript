@@ -1,0 +1,337 @@
+<scripts>
+<script id="1">
+<item slot="1" text="boil some water ." />
+<item slot="2" text="put a tea bag in the cup ." />
+<item slot="3" text="pour the hot water into the cup over the tea bag ." />
+<item slot="4" text="cover the cup and wait for 5 minutes ." />
+<item slot="5" text="remove the tea bag ." />
+</script>
+<script id="2">
+<item slot="1" text="heat water ." />
+<item slot="2" text="pour a cup of water ." />
+<item slot="3" text="add a tea bag to the cup of water ." />
+<item slot="4" text="wait ." />
+</script>
+<script id="3">
+<item slot="1" text="take a teapot ." />
+<item slot="2" text="put some dry tealeaves into the teapot ." />
+<item slot="3" text="pour boiled/hot water into the teapot ." />
+<item slot="4" text="wait for 2 minutes ." />
+<item slot="5" text="pour the tea into a cup ." />
+</script>
+<script id="4">
+<item slot="1" text="boil water ." />
+<item slot="2" text="add tea ." />
+<item slot="3" text="remove teapot from stove ." />
+</script>
+<script id="5">
+<item slot="1" text="get tea ." />
+<item slot="2" text="boil water ." />
+<item slot="3" text="place tea leaves in bioling water ." />
+<item slot="4" text="turn off stove ." />
+<item slot="5" text="leave to cool down ." />
+</script>
+<script id="6">
+<item slot="1" text="pour water in pot ." />
+<item slot="2" text="boil water ." />
+<item slot="3" text="put tea leaves in pot ." />
+<item slot="4" text="wait for a little while ." />
+<item slot="5" text="remove pot from stove ." />
+</script>
+<script id="7">
+<item slot="1" text="boil water ." />
+<item slot="2" text="when water boils add tea leaves ." />
+<item slot="3" text="remove water from stove ." />
+<item slot="4" text="wait for a few minutes ." />
+</script>
+<script id="8">
+<item slot="1" text="boil water ." />
+<item slot="2" text="when water boils add tea leaves ." />
+<item slot="3" text="wait for a couple of minutes ." />
+<item slot="4" text="remove teapot from stove ." />
+</script>
+<script id="9">
+<item slot="1" text="boil water in tea pot ." />
+<item slot="2" text="when water is boiling add tea leaves ." />
+<item slot="3" text="remove tea pot from stove ." />
+<item slot="4" text="leave for a few minutes ." />
+</script>
+<script id="10">
+<item slot="1" text="locate tea mix ." />
+<item slot="2" text="place tea mix in an empty cup ." />
+<item slot="3" text="pour water into the cup ." />
+<item slot="4" text="mix the ingredients in the cup ." />
+<item slot="5" text="enjoy the tea ." />
+</script>
+<script id="11">
+<item slot="1" text="fill pot with water ." />
+<item slot="2" text="heat water ." />
+<item slot="3" text="pour water into cup ." />
+<item slot="4" text="place tea-packet into cup ." />
+<item slot="5" text="wait until water has darkened to desired color ." />
+<item slot="6" text="remove tea-packet with spoon ." />
+</script>
+<script id="12">
+<item slot="1" text="boil water ." />
+<item slot="2" text="pour water in a mug ." />
+<item slot="3" text="put a tea bag in the mug ." />
+<item slot="4" text="put sugar and milk in the mug ." />
+<item slot="5" text="take out the tea bag ." />
+</script>
+<script id="13">
+<item slot="1" text="fill teapot with water ." />
+<item slot="2" text="place teapot on stove burner ." />
+<item slot="3" text="when water boils turn off stove ." />
+<item slot="4" text="add tea to teapot ." />
+</script>
+<script id="14">
+<item slot="1" text="fill teapot with water ." />
+<item slot="2" text="place teapot on stove ." />
+<item slot="3" text="turn on stove ." />
+<item slot="4" text="when water boils turn off stove ." />
+<item slot="5" text="place tea in teapot ." />
+</script>
+<script id="15">
+<item slot="1" text="boil some water in a kettle ." />
+<item slot="2" text="get a cup ." />
+<item slot="3" text="get a bag of tea ." />
+<item slot="4" text="put the bag of tea in the cup ." />
+<item slot="5" text="pour the boiling water into the cup ." />
+<item slot="6" text="let the tea sit in the cup for about 2 minutes ." />
+<item slot="7" text="remove the bag of tea and discard it ." />
+</script>
+<script id="16">
+<item slot="1" text="boil water ." />
+<item slot="2" text="add tea ." />
+<item slot="3" text="add sugar ." />
+<item slot="4" text="add cream ." />
+<item slot="5" text="put it in a teapot ." />
+</script>
+<script id="17">
+<item slot="1" text="heat water ." />
+<item slot="2" text="select teabag ." />
+<item slot="3" text="place teabag in cup ." />
+<item slot="4" text="pour boiling water into cup ." />
+<item slot="5" text="wait 3 to 10 minutes ." />
+<item slot="6" text="remove tea bag ." />
+</script>
+<script id="18">
+<item slot="1" text="heat water ." />
+<item slot="2" text="soak tea in water ." />
+<item slot="3" text="wait five minutes ." />
+<item slot="4" text="extract soaking tea ." />
+<item slot="5" text="drink ." />
+</script>
+<script id="19">
+<item slot="1" text="boil water ." />
+<item slot="2" text="pour hot water ." />
+<item slot="3" text="place in teabag ." />
+</script>
+<script id="20">
+<item slot="1" text="boil water ." />
+<item slot="2" text="add in tea ." />
+<item slot="3" text="wait 2 minutes ." />
+</script>
+<script id="21">
+<item slot="1" text="boil water ." />
+<item slot="2" text="add in tea ." />
+<item slot="3" text="wait 2 minutes ." />
+</script>
+<script id="22">
+<item slot="1" text="boil water in the kettle ." />
+<item slot="2" text="scoop up some tea leaves into the teaball ." />
+</script>
+<script id="23">
+<item slot="1" text="boil water in the kettle ." />
+<item slot="2" text="scoop up some tea leaves into the teaball ." />
+<item slot="3" text="warm the terapot with boiling water ." />
+</script>
+<script id="24">
+<item slot="1" text="boil water in the kettle ." />
+<item slot="2" text="scoop up some tea leaves into the teaball ." />
+<item slot="3" text="warm the teapot with boiling water ." />
+<item slot="4" text="pour the water out of the teapot ." />
+<item slot="5" text="putthe teaball into the teapot ." />
+</script>
+<script id="25">
+<item slot="1" text="put water in tea kettle ." />
+<item slot="2" text="put tea kettle on stove ." />
+<item slot="3" text="put tea bag in mug ." />
+<item slot="4" text="pour hot water over tea bag in mug ." />
+<item slot="5" text="steep tea ." />
+<item slot="6" text="drink ." />
+</script>
+<script id="26">
+<item slot="1" text="boil water ." />
+<item slot="2" text="place tea bag in coffee cup ." />
+<item slot="3" text="add water ." />
+<item slot="4" text="allow to steep ." />
+<item slot="5" text="remove tea bag ." />
+</script>
+<script id="27">
+<item slot="1" text="turn stove burner on ." />
+<item slot="2" text="fill tea pot with water ." />
+<item slot="3" text="place tea pot on burner ." />
+</script>
+<script id="28">
+<item slot="1" text="fill kettle with water ." />
+<item slot="2" text="boil water ." />
+<item slot="3" text="warm teapot with hot water ." />
+<item slot="4" text="place tea bag in teapot ." />
+<item slot="5" text="add boiled water to teapot ." />
+<item slot="6" text="let tea steep several minutes ." />
+<item slot="7" text="pour into teacups ." />
+</script>
+<script id="29">
+<item slot="1" text="picking the tea you want ." />
+<item slot="2" text="opening the package ." />
+<item slot="3" text="putting water in a cup ." />
+<item slot="4" text="put tea bag in cup ." />
+<item slot="5" text="let tea seep ." />
+<item slot="6" text="take tea bag out of cup ." />
+<item slot="7" text="drink tea ." />
+</script>
+<script id="30">
+<item slot="1" text="boil water ." />
+<item slot="2" text="add teabag to cup ." />
+<item slot="3" text="pour water into cup ." />
+</script>
+<script id="31">
+<item slot="1" text="boil water ." />
+<item slot="2" text="add teabag to cup ." />
+<item slot="3" text="pour water into cup ." />
+</script>
+<script id="32">
+<item slot="1" text="boil water ." />
+<item slot="2" text="add teabag to cup ." />
+<item slot="3" text="pour water into cup ." />
+</script>
+<script id="33">
+<item slot="1" text="boil water ." />
+<item slot="2" text="add teabag to cup ." />
+<item slot="3" text="pour water into cup ." />
+</script>
+<script id="34">
+<item slot="1" text="boil water ." />
+<item slot="2" text="add teabag to cup ." />
+<item slot="3" text="pour water into cup ." />
+</script>
+<script id="35">
+<item slot="1" text="boil water ." />
+<item slot="2" text="add teabag to cup ." />
+<item slot="3" text="pour water into cup ." />
+</script>
+<script id="36">
+<item slot="1" text="boil water ." />
+<item slot="2" text="heat tea pot ." />
+<item slot="3" text="add teabag to tea pot ." />
+<item slot="4" text="add boiled water ." />
+<item slot="5" text="let steep ." />
+<item slot="6" text="serve ." />
+</script>
+<script id="37">
+<item slot="1" text="boil water ." />
+<item slot="2" text="heat tea pot ." />
+<item slot="3" text="add teabag to tea pot ." />
+<item slot="4" text="add boiled water ." />
+<item slot="5" text="let steep ." />
+<item slot="6" text="serve ." />
+</script>
+<script id="38">
+<item slot="1" text="boil water ." />
+<item slot="2" text="heat tea pot ." />
+<item slot="3" text="add teabag to tea pot ." />
+<item slot="4" text="add boiled water ." />
+<item slot="5" text="let steep ." />
+<item slot="6" text="serve ." />
+</script>
+<script id="39">
+<item slot="1" text="boil water ." />
+<item slot="2" text="heat tea pot ." />
+<item slot="3" text="add teabag to tea pot ." />
+<item slot="4" text="add boiled water ." />
+<item slot="5" text="let steep ." />
+<item slot="6" text="serve ." />
+</script>
+<script id="40">
+<item slot="1" text="locate kettle ." />
+<item slot="2" text="pour water in kettle ." />
+<item slot="3" text="turn on kettle to boil water ." />
+<item slot="4" text="pour boiled water in mug ." />
+<item slot="5" text="add tea bag for as long as desired ." />
+</script>
+<script id="41">
+<item slot="1" text="locate kettle ." />
+<item slot="2" text="pour water in kettle ." />
+<item slot="3" text="turn on kettle to boil water ." />
+<item slot="4" text="pour boiled water in mug ." />
+<item slot="5" text="add tea bag for as long as desired ." />
+</script>
+<script id="42">
+<item slot="1" text="boil water ." />
+<item slot="2" text="place tea bag in teapot ." />
+<item slot="3" text="add water to teapot ." />
+<item slot="4" text="let tea steep ." />
+<item slot="5" text="serve ." />
+</script>
+<script id="43">
+<item slot="1" text="boil water ." />
+<item slot="2" text="add tea bag to the boiled water ." />
+<item slot="3" text="wait 2-3 minutes ." />
+<item slot="4" text="remove tea bag from water ." />
+<item slot="5" text="serve tea in a cup ." />
+<item slot="6" text="add milk cream or sugar ." />
+</script>
+<script id="44">
+<item slot="1" text="boil water ." />
+<item slot="2" text="add tea bag to the boiled water ." />
+<item slot="3" text="wait 2-3 minutes ." />
+<item slot="4" text="remove tea bag from water ." />
+<item slot="5" text="serve tea in a cup ." />
+<item slot="6" text="add milk cream or sugar ." />
+</script>
+<script id="45">
+<item slot="1" text="boil water ." />
+<item slot="2" text="add tea bag to the boiled water ." />
+<item slot="3" text="wait 2-3 minutes ." />
+<item slot="4" text="remove tea bag from water ." />
+<item slot="5" text="serve tea in a cup ." />
+<item slot="6" text="add milk cream or sugar ." />
+</script>
+<script id="46">
+<item slot="1" text="get a tea pot ." />
+<item slot="2" text="locate a kettle to boil water ." />
+<item slot="3" text="fill the kettle with water ." />
+<item slot="4" text="boil the water ." />
+<item slot="5" text="put tea in the tea pot ." />
+<item slot="6" text="fill the tea pot with boiled water ." />
+<item slot="7" text="let the tea steep for the recommended time then enjoy ." />
+</script>
+<script id="47">
+<item slot="1" text="get a tea pot ." />
+<item slot="2" text="locate a kettle to boil water ." />
+<item slot="3" text="fill the kettle with water ." />
+<item slot="4" text="boil the water ." />
+<item slot="5" text="put tea in the tea pot ." />
+<item slot="6" text="fill the tea pot with boiled water ." />
+<item slot="7" text="let the tea steep for the recommended time then enjoy ." />
+</script>
+<script id="48">
+<item slot="1" text="boil water ." />
+</script>
+<script id="49">
+<item slot="1" text="boil water ." />
+</script>
+<script id="50">
+<item slot="1" text="boil water ." />
+</script>
+<script id="51">
+<item slot="1" text="boil water ." />
+</script>
+<script id="52">
+<item slot="1" text="boil water ." />
+</script>
+<script id="53">
+<item slot="1" text="boil water ." />
+</script>
+</scripts>

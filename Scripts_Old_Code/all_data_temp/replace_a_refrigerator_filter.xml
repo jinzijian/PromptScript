@@ -1,0 +1,200 @@
+<scripts>
+<script id="1">
+<item slot="1" text="find new filter ." />
+<item slot="2" text="remove old filter ." />
+<item slot="3" text="remove packaging from new filter ." />
+<item slot="4" text="insert new filter ." />
+</script>
+<script id="2">
+<item slot="1" text="find refrigerator filter ." />
+<item slot="2" text="remove refrigerator filter ." />
+<item slot="3" text="find new refrigerator filter ." />
+<item slot="4" text="put new refrigerator filter into its proper position ." />
+</script>
+<script id="3">
+<item slot="1" text="move the refrigerator away from the wall ." />
+<item slot="2" text="pull out the refrigerator filter ." />
+<item slot="3" text="clean the refrigerator filter ." />
+<item slot="4" text="replace the refrigerator filter ." />
+<item slot="5" text="move the refrigerator back toward the wall ." />
+</script>
+<script id="4">
+<item slot="1" text="move over to the fridge ." />
+<item slot="2" text="turn the fridge off ." />
+<item slot="3" text="take out the refridgerator filter ." />
+<item slot="4" text="dispose of the old filter ." />
+<item slot="5" text="remove new filter from container ." />
+<item slot="6" text="put new filter into the fridge ." />
+<item slot="7" text="turn on the fridge ." />
+</script>
+<script id="5">
+<item slot="1" text="remove old filter ." />
+<item slot="2" text="put in new filter ." />
+</script>
+<script id="6">
+<item slot="1" text="locate the filter ." />
+<item slot="2" text="remove the filter ." />
+<item slot="3" text="clean the filter ." />
+<item slot="4" text="replace the filter in the fridge ." />
+</script>
+<script id="7">
+<item slot="1" text="remove old filter ." />
+<item slot="2" text="place new filter ." />
+</script>
+<script id="8">
+<item slot="1" text="remove old filter ." />
+<item slot="2" text="put in new filter ." />
+</script>
+<script id="9">
+<item slot="1" text="remove old filter ." />
+<item slot="2" text="put in new filter ." />
+</script>
+<script id="10">
+<item slot="1" text="go to refrigerator ." />
+<item slot="2" text="open filter casing ." />
+<item slot="3" text="remove old filter ." />
+<item slot="4" text="place new filter in ." />
+<item slot="5" text="put back filter casing ." />
+<item slot="6" text="throw away old filter ." />
+</script>
+<script id="11">
+<item slot="1" text="find new refrigerator filter ." />
+<item slot="2" text="remove old refrigerator filter from refrigerator ." />
+<item slot="3" text="placenew refrigerator filter into refrigerator ." />
+</script>
+<script id="12">
+<item slot="1" text="locate the refrigerator filter ." />
+</script>
+<script id="13">
+<item slot="1" text="locate the refrigerator filter ." />
+<item slot="2" text="dispose of used filter ." />
+<item slot="3" text="place new filter inside ." />
+</script>
+<script id="14">
+<item slot="1" text="locate old filter ." />
+<item slot="2" text="take out old filter ." />
+<item slot="3" text="put in new filter ." />
+</script>
+<script id="15">
+<item slot="1" text="obtain replacement filter ." />
+<item slot="2" text="turn off refrigerator ." />
+<item slot="3" text="remove old filter ." />
+<item slot="4" text="install replacement filter ." />
+<item slot="5" text="turn on refrigerator ." />
+</script>
+<script id="16">
+<item slot="1" text="identify that filter needs changing ." />
+<item slot="2" text="remove old filter ." />
+<item slot="3" text="replace with new filter ." />
+</script>
+<script id="17">
+<item slot="1" text="buy new filter ." />
+<item slot="2" text="turn off refrigerator ." />
+<item slot="3" text="find old filter ." />
+<item slot="4" text="remove old filter ." />
+<item slot="5" text="install new filter ." />
+<item slot="6" text="turn on refrigerator ." />
+</script>
+<script id="18">
+<item slot="1" text="buy new filter ." />
+<item slot="2" text="turn off refrigerator ." />
+<item slot="3" text="find old filter ." />
+<item slot="4" text="remove old filter ." />
+<item slot="5" text="install new filter ." />
+<item slot="6" text="turn on refrigerator ." />
+</script>
+<script id="19">
+<item slot="1" text="goto refrigerator ." />
+<item slot="2" text="take out old filter ." />
+<item slot="3" text="put in new filter ." />
+</script>
+<script id="20">
+<item slot="1" text="pull out filter ." />
+<item slot="2" text="throw in garbage ." />
+<item slot="3" text="take new filter from package ." />
+<item slot="4" text="slide into filter slot ." />
+</script>
+<script id="21">
+<item slot="1" text="pull filter out from compartment ." />
+<item slot="2" text="slide new filter into compartment ." />
+</script>
+<script id="22">
+<item slot="1" text="pull filter out from compartment ." />
+<item slot="2" text="slide new filter into compartment ." />
+</script>
+<script id="23">
+<item slot="1" text="pull filter out from compartment ." />
+<item slot="2" text="slide new filter into compartment ." />
+</script>
+<script id="24">
+<item slot="1" text="pull filter out from compartment ." />
+<item slot="2" text="slide new filter into compartment ." />
+</script>
+<script id="25">
+<item slot="1" text="pull filter out from compartment ." />
+<item slot="2" text="slide new filter into compartment ." />
+</script>
+<script id="26">
+<item slot="1" text="pull filter out from compartment ." />
+<item slot="2" text="slide new filter into compartment ." />
+</script>
+<script id="27">
+<item slot="1" text="open filter ." />
+<item slot="2" text="take out filter ." />
+<item slot="3" text="place new filter in ." />
+<item slot="4" text="close filter ." />
+</script>
+<script id="28">
+<item slot="1" text="open filter ." />
+<item slot="2" text="take out filter ." />
+<item slot="3" text="place new filter in ." />
+<item slot="4" text="close filter ." />
+</script>
+<script id="29">
+<item slot="1" text="open filter ." />
+<item slot="2" text="take out filter ." />
+<item slot="3" text="place new filter in ." />
+<item slot="4" text="close filter ." />
+</script>
+<script id="30">
+<item slot="1" text="open filter ." />
+<item slot="2" text="take out filter ." />
+<item slot="3" text="place new filter in ." />
+<item slot="4" text="close filter ." />
+</script>
+<script id="31">
+<item slot="1" text="open filter ." />
+<item slot="2" text="take out filter ." />
+<item slot="3" text="place new filter in ." />
+<item slot="4" text="close filter ." />
+</script>
+<script id="32">
+<item slot="1" text="open filter ." />
+<item slot="2" text="take out filter ." />
+<item slot="3" text="place new filter in ." />
+<item slot="4" text="close filter ." />
+</script>
+<script id="33">
+<item slot="1" text="take out old filter ." />
+<item slot="2" text="replace with new filter ." />
+</script>
+<script id="34">
+<item slot="1" text="take out old filter ." />
+<item slot="2" text="put in new filter ." />
+<item slot="3" text="throw away old filter ." />
+</script>
+<script id="35">
+<item slot="1" text="full fridge forward ." />
+<item slot="2" text="unplug fridge ." />
+<item slot="3" text="remove filter ." />
+<item slot="4" text="clean area ." />
+<item slot="5" text="prepare new filter ." />
+<item slot="6" text="put in new filter ." />
+<item slot="7" text="adjust and finish ." />
+</script>
+<script id="36">
+<item slot="1" text="remove old filter ." />
+<item slot="2" text="buy new filter ." />
+<item slot="3" text="replace filter ." />
+</script>
+</scripts>

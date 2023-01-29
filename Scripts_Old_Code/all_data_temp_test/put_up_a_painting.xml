@@ -1,0 +1,405 @@
+<scripts>
+<script id="1">
+<item slot="1" text="put a hanger on the wall ." />
+<item slot="2" text="hang the painting on the hanger ." />
+<item slot="3" text="straighten the painting ." />
+</script>
+<script id="2">
+<item slot="1" text="get hammer and nail ." />
+<item slot="2" text="tack nail into wall in appropriate place ." />
+<item slot="3" text="hang painting ." />
+</script>
+<script id="3">
+<item slot="1" text="put a nail in the wall ." />
+<item slot="2" text="hang a string on the back of the painting ." />
+<item slot="3" text="hang the painting s string over the nail ." />
+</script>
+<script id="4">
+<item slot="1" text="find a nail ." />
+<item slot="2" text="find a hammer ." />
+<item slot="3" text="nail the nail into the wall with a hammer ." />
+<item slot="4" text="put on the painting on the nail ." />
+<item slot="5" text="adjust the painting s position ." />
+</script>
+<script id="5">
+<item slot="1" text="find the wall stud ." />
+<item slot="2" text="hammer a nail into the wall ." />
+<item slot="3" text="hang the painting from the nail ." />
+</script>
+<script id="6">
+<item slot="1" text="put nail in wall ." />
+<item slot="2" text="hang up painting ." />
+</script>
+<script id="7">
+<item slot="1" text="put nail in wall ." />
+<item slot="2" text="put paining on nail ." />
+</script>
+<script id="8">
+<item slot="1" text="get painting ." />
+<item slot="2" text="screw nail in wall ." />
+<item slot="3" text="hang painting on wall ." />
+</script>
+<script id="9">
+<item slot="1" text="put nail in wall ." />
+<item slot="2" text="hang painting on nail ." />
+</script>
+<script id="10">
+<item slot="1" text="put nail in wall ." />
+<item slot="2" text="hang painting on nail ." />
+<item slot="3" text="arrange painting ." />
+</script>
+<script id="11">
+<item slot="1" text="decide on location ." />
+<item slot="2" text="hammer hook into the wall ." />
+<item slot="3" text="hang picture on hook ." />
+<item slot="4" text="straighten picture ." />
+</script>
+<script id="12">
+<item slot="1" text="choose location for painting ." />
+<item slot="2" text="put picture hanger on the wall ." />
+<item slot="3" text="hang picture on picture hanger ." />
+</script>
+<script id="13">
+<item slot="1" text="move to the painting ." />
+<item slot="2" text="pick up the painting ." />
+<item slot="3" text="move to a wall ." />
+<item slot="4" text="place a nail into the wall at the desired height for the painting ." />
+<item slot="5" text="hang the wire on the back of the painting on the nail ." />
+</script>
+<script id="14">
+<item slot="1" text="find a good wall to hang the picture ." />
+<item slot="2" text="get a picture hook ." />
+<item slot="3" text="get a hammer ." />
+<item slot="4" text="knock the hook into the wall ." />
+<item slot="5" text="hang the picture on the hook ." />
+<item slot="6" text="straighten the picture ." />
+</script>
+<script id="15">
+<item slot="1" text="get a hammer ." />
+<item slot="2" text="get a nail ." />
+<item slot="3" text="hold hammer in one hand ." />
+<item slot="4" text="hold nail in other hand ." />
+<item slot="5" text="use hammer to put nail into the wall ." />
+<item slot="6" text="hang painting off of the nail by the painting s string ." />
+</script>
+<script id="16">
+<item slot="1" text="aquire painting ." />
+<item slot="2" text="aquire nail ." />
+<item slot="3" text="find wall ." />
+<item slot="4" text="find stud in wall ." />
+<item slot="5" text="hammer nail ." />
+<item slot="6" text="hang painting ." />
+</script>
+<script id="17">
+<item slot="1" text="determine where to hang the painting ." />
+<item slot="2" text="affix a hanger to the wall ." />
+<item slot="3" text="hang the painting on the hanger ." />
+</script>
+<script id="18">
+<item slot="1" text="find a good place ." />
+<item slot="2" text="hammer a nail into the wall ." />
+<item slot="3" text="hang the painting on the nail ." />
+</script>
+<script id="19">
+<item slot="1" text="clean the wall ." />
+<item slot="2" text="use a paint roller ." />
+<item slot="3" text="apply a paint to the wall ." />
+</script>
+<script id="20">
+<item slot="1" text="identify place to hammer nail ." />
+<item slot="2" text="hammer nail into wall ." />
+<item slot="3" text="place painting wire on nail ." />
+</script>
+<script id="21">
+<item slot="1" text="clear wall ." />
+<item slot="2" text="put nail in wall ." />
+<item slot="3" text="hang frame s wire on nail ." />
+</script>
+<script id="22">
+<item slot="1" text="hammer in nail ." />
+<item slot="2" text="align painting ." />
+<item slot="3" text="put painting on nail ." />
+</script>
+<script id="23">
+<item slot="1" text="get a hammer and nail ." />
+<item slot="2" text="put the nail against the wall ." />
+<item slot="3" text="hit the nail with the hammer ." />
+<item slot="4" text="hang the painting on the nail ." />
+</script>
+<script id="24">
+<item slot="1" text="choose location ." />
+<item slot="2" text="choose hook according to wall construction ." />
+<item slot="3" text="determine correct location of hook such that paining will hang as desired ." />
+<item slot="4" text="attach hook to wall in chosen location ." />
+<item slot="5" text="hang painting on hook ." />
+</script>
+<script id="25">
+<item slot="1" text="decide where to hang ." />
+<item slot="2" text="put nail in wall ." />
+<item slot="3" text="hang ." />
+</script>
+<script id="26">
+<item slot="1" text="place a nail or picture hanger on the wall ." />
+<item slot="2" text="hang up the painting without tilting it ." />
+</script>
+<script id="27">
+<item slot="1" text="determine a good location ." />
+<item slot="2" text="insert nails or screws into the wall ." />
+<item slot="3" text="make sure there is a string or bracket on the back of the painting if not attach one ." />
+<item slot="4" text="mount painting on nails or screws ." />
+</script>
+<script id="28">
+<item slot="1" text="determine a good location ." />
+<item slot="2" text="insert nails or screws into the wall ." />
+<item slot="3" text="make sure there is a string or bracket on the back of the painting if not attach one ." />
+<item slot="4" text="mount painting on nails or screws ." />
+</script>
+<script id="29">
+<item slot="1" text="select a location to mount ." />
+</script>
+<script id="30">
+<item slot="1" text="decide where to hang the painting ." />
+<item slot="2" text="measure out where the nail goes ." />
+<item slot="3" text="hammer nail in wall ." />
+<item slot="4" text="hang painting ." />
+</script>
+<script id="31">
+<item slot="1" text="mark where nail belongs ." />
+<item slot="2" text="hammer in nail ." />
+<item slot="3" text="hang picture on wall ." />
+<item slot="4" text="check to see if it is streight ." />
+<item slot="5" text="if crooked fix ." />
+</script>
+<script id="32">
+<item slot="1" text="lift painting ." />
+<item slot="2" text="hook onto nail on wall ." />
+<item slot="3" text="straighten painting ." />
+</script>
+<script id="33">
+<item slot="1" text="locate nail or hook on wall ." />
+<item slot="2" text="put painting string or hook onto hook on wall ." />
+<item slot="3" text="straighten painting ." />
+</script>
+<script id="34">
+<item slot="1" text="locate nail or hook on wall ." />
+<item slot="2" text="put painting string or hook onto hook on wall ." />
+<item slot="3" text="straighten painting ." />
+</script>
+<script id="35">
+<item slot="1" text="choose location ." />
+<item slot="2" text="hammer nail into wall ." />
+<item slot="3" text="hang picture on nail ." />
+</script>
+<script id="36">
+<item slot="1" text="get a hammer and nail ." />
+<item slot="2" text="find wood beam ." />
+<item slot="3" text="hammer a nail into the beam ." />
+<item slot="4" text="hang the painting onto the nail ." />
+</script>
+<script id="37">
+<item slot="1" text="choose location on wall ." />
+<item slot="2" text="hammer nail into wall ." />
+<item slot="3" text="hang picture on nail ." />
+<item slot="4" text="straighten picture ." />
+</script>
+<script id="38">
+<item slot="1" text="choose location on wall ." />
+<item slot="2" text="hammer nail into wall ." />
+<item slot="3" text="hang picture on nail ." />
+<item slot="4" text="straighten picture ." />
+</script>
+<script id="39">
+<item slot="1" text="choose location on wall ." />
+<item slot="2" text="hammer nail into wall ." />
+<item slot="3" text="hang picture on nail ." />
+<item slot="4" text="straighten picture ." />
+</script>
+<script id="40">
+<item slot="1" text="choose location on wall ." />
+<item slot="2" text="hammer nail into wall ." />
+<item slot="3" text="hang picture on nail ." />
+<item slot="4" text="straighten picture ." />
+</script>
+<script id="41">
+<item slot="1" text="choose location on wall ." />
+<item slot="2" text="hammer nail into wall ." />
+<item slot="3" text="hang picture on nail ." />
+<item slot="4" text="straighten picture ." />
+</script>
+<script id="42">
+<item slot="1" text="choose location on wall ." />
+<item slot="2" text="hammer nail into wall ." />
+<item slot="3" text="hang picture on nail ." />
+<item slot="4" text="straighten picture ." />
+</script>
+<script id="43">
+<item slot="1" text="choose location on wall ." />
+<item slot="2" text="hammer nail into wall ." />
+<item slot="3" text="hang picture on nail ." />
+<item slot="4" text="straighten picture ." />
+</script>
+<script id="44">
+<item slot="1" text="choose location on wall ." />
+<item slot="2" text="hammer nail into wall ." />
+<item slot="3" text="hang picture on nail ." />
+<item slot="4" text="straighten picture ." />
+</script>
+<script id="45">
+<item slot="1" text="choose location on wall ." />
+<item slot="2" text="hammer nail into wall ." />
+<item slot="3" text="hang picture on nail ." />
+<item slot="4" text="straighten picture ." />
+</script>
+<script id="46">
+<item slot="1" text="choose location on wall ." />
+<item slot="2" text="hammer nail into wall ." />
+<item slot="3" text="hang picture on nail ." />
+<item slot="4" text="straighten picture ." />
+</script>
+<script id="47">
+<item slot="1" text="choose location on wall ." />
+<item slot="2" text="hammer nail into wall ." />
+<item slot="3" text="hang picture on nail ." />
+<item slot="4" text="straighten picture ." />
+</script>
+<script id="48">
+<item slot="1" text="choose location on wall ." />
+<item slot="2" text="hammer nail into wall ." />
+<item slot="3" text="hang picture on nail ." />
+<item slot="4" text="straighten picture ." />
+</script>
+<script id="49">
+<item slot="1" text="choose location on wall ." />
+<item slot="2" text="hammer nail into wall ." />
+<item slot="3" text="hang picture on nail ." />
+<item slot="4" text="straighten picture ." />
+</script>
+<script id="50">
+<item slot="1" text="choose location on wall ." />
+<item slot="2" text="hammer nail into wall ." />
+<item slot="3" text="hang picture on nail ." />
+<item slot="4" text="straighten picture ." />
+</script>
+<script id="51">
+<item slot="1" text="find right spot for painting ." />
+<item slot="2" text="tap a nail into the wall ." />
+<item slot="3" text="hook the painting over the nail ." />
+</script>
+<script id="52">
+<item slot="1" text="find right spot for painting ." />
+<item slot="2" text="tap a nail into the wall ." />
+<item slot="3" text="hook the painting over the nail ." />
+</script>
+<script id="53">
+<item slot="1" text="find right spot for painting ." />
+<item slot="2" text="tap a nail into the wall ." />
+<item slot="3" text="hook the painting over the nail ." />
+</script>
+<script id="54">
+<item slot="1" text="find right spot for painting ." />
+<item slot="2" text="tap a nail into the wall ." />
+<item slot="3" text="hook the painting over the nail ." />
+</script>
+<script id="55">
+<item slot="1" text="find right spot for painting ." />
+<item slot="2" text="tap a nail into the wall ." />
+<item slot="3" text="hook the painting over the nail ." />
+</script>
+<script id="56">
+<item slot="1" text="find right spot for painting ." />
+<item slot="2" text="tap a nail into the wall ." />
+<item slot="3" text="hook the painting over the nail ." />
+</script>
+<script id="57">
+<item slot="1" text="walk ." />
+<item slot="2" text="and hammer ." />
+</script>
+<script id="58">
+<item slot="1" text="choose location on wall ." />
+<item slot="2" text="mark with pencil ." />
+<item slot="3" text="place nail to wall ." />
+<item slot="4" text="gently hammer nail into wall ." />
+<item slot="5" text="hang picture on nail ." />
+<item slot="6" text="adjust picture so level ." />
+</script>
+<script id="59">
+<item slot="1" text="choose location on wall ." />
+<item slot="2" text="mark with pencil ." />
+<item slot="3" text="place nail to wall ." />
+<item slot="4" text="gently hammer nail into wall ." />
+<item slot="5" text="hang picture on nail ." />
+<item slot="6" text="adjust picture so level ." />
+</script>
+<script id="60">
+<item slot="1" text="choose location on wall ." />
+<item slot="2" text="mark with pencil ." />
+<item slot="3" text="place nail to wall ." />
+<item slot="4" text="gently hammer nail into wall ." />
+<item slot="5" text="hang picture on nail ." />
+<item slot="6" text="adjust picture so level ." />
+</script>
+<script id="61">
+<item slot="1" text="get painting ." />
+<item slot="2" text="find wall ." />
+<item slot="3" text="get nail ." />
+<item slot="4" text="get hammer ." />
+<item slot="5" text="hammer nail on the wall ." />
+<item slot="6" text="place painting ." />
+<item slot="7" text="hang it ." />
+</script>
+<script id="62">
+<item slot="1" text="get painting ." />
+<item slot="2" text="find wall ." />
+<item slot="3" text="get nail ." />
+<item slot="4" text="get hammer ." />
+<item slot="5" text="hammer nail on the wall ." />
+<item slot="6" text="place painting ." />
+<item slot="7" text="hang it ." />
+</script>
+<script id="63">
+<item slot="1" text="pick a spot ." />
+<item slot="2" text="get hammer ." />
+<item slot="3" text="get nails ." />
+<item slot="4" text="measure where to put ." />
+<item slot="5" text="hold picture up ." />
+<item slot="6" text="take picture down ." />
+<item slot="7" text="hammer in nail ." />
+</script>
+<script id="64">
+<item slot="1" text="measure the wall ." />
+<item slot="2" text="mark the correct place for the painting ." />
+<item slot="3" text="get a small nail ." />
+<item slot="4" text="hammer the nail into the spot you have marked ." />
+<item slot="5" text="hang the painting on the nail ." />
+<item slot="6" text="straighten the painting ." />
+</script>
+<script id="65">
+<item slot="1" text="take hammer and nail ." />
+<item slot="2" text="hammer the nail into the wall ." />
+<item slot="3" text="hang the painting ." />
+</script>
+<script id="66">
+<item slot="1" text="take hammer and nail ." />
+<item slot="2" text="hammer the nail into the wall ." />
+<item slot="3" text="hang the painting ." />
+</script>
+<script id="67">
+<item slot="1" text="select painting to hang ." />
+<item slot="2" text="obtain a hammer ." />
+<item slot="3" text="obtain picture hanging hardware ." />
+<item slot="4" text="located point on wall to hang painting ." />
+<item slot="5" text="secure picturing hanging hardware to wall ." />
+<item slot="6" text="hang picture ." />
+<item slot="7" text="level picture ." />
+</script>
+<script id="68">
+<item slot="1" text="pick a place to put it ." />
+<item slot="2" text="hammer a nail in the wall ." />
+<item slot="3" text="put painting on the nail ." />
+<item slot="4" text="make sure painting is level ." />
+</script>
+<script id="69">
+<item slot="1" text="get hammer and nail ." />
+<item slot="2" text="hammer nail in wall ." />
+</script>
+</scripts>

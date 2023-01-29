@@ -1,0 +1,240 @@
+<scripts>
+<script id="1">
+<item slot="1" text="find clean bed sheets ." />
+<item slot="2" text="remove old bed sheets from a bed ." />
+<item slot="3" text="put new bed sheets on the bed ." />
+</script>
+<script id="2">
+<item slot="1" text="smooth sheets on bed ." />
+<item slot="2" text="smooth blanket on top of sheets on bed ." />
+<item slot="3" text="place quilt on bed ." />
+<item slot="4" text="smooth quilt ." />
+<item slot="5" text="place pillows at headboard ." />
+</script>
+<script id="3">
+<item slot="1" text="find the bed ." />
+<item slot="2" text="find sheets for the bed ." />
+<item slot="3" text="remove the old sheets from the bed ." />
+<item slot="4" text="place the new sheets onto the bed ." />
+</script>
+<script id="4">
+<item slot="1" text="arrange sheets ." />
+<item slot="2" text="arrange pillows ." />
+<item slot="3" text="cover bed with cover ." />
+</script>
+<script id="5">
+<item slot="1" text="pull the sheet up to the head of the bed ." />
+<item slot="2" text="pull the covers up tot he head of the bed ." />
+<item slot="3" text="fluff the pillows ." />
+<item slot="4" text="place the pillows at the top of the bed ." />
+<item slot="5" text="flatten any remaining wrinkles in the covers ." />
+</script>
+<script id="6">
+<item slot="1" text="straighten the sheets ." />
+<item slot="2" text="fluff the pillows ." />
+<item slot="3" text="fluff the comforter ." />
+<item slot="4" text="put the comforter on the bed straight ." />
+</script>
+<script id="7">
+<item slot="1" text="fluff comforter ." />
+<item slot="2" text="fluff pillow ." />
+<item slot="3" text="straighten sheets ." />
+</script>
+<script id="8">
+<item slot="1" text="pull up the sheets ." />
+<item slot="2" text="tuck in the sheets ." />
+<item slot="3" text="pull up the blankets ." />
+<item slot="4" text="tuck inthe blankets ." />
+<item slot="5" text="pull up the cover ." />
+<item slot="6" text="arrange the pillows ." />
+<item slot="7" text="smooth the bed ." />
+</script>
+<script id="9">
+<item slot="1" text="identify bed ." />
+<item slot="2" text="identify sheets ." />
+<item slot="3" text="place sheets on bed ." />
+<item slot="4" text="place sheet edges under mattress ." />
+<item slot="5" text="completely cover bed with sheets ." />
+<item slot="6" text="identify pillow ." />
+<item slot="7" text="put pillow on bed near head ." />
+</script>
+<script id="10">
+<item slot="1" text="smooth bed sheet evenly over top of bed ." />
+<item slot="2" text="tuck bottom and side edges of sheet under mattress ." />
+<item slot="3" text="place pillow at head of bed ." />
+<item slot="4" text="arrange bed cover evenly over top of bed ." />
+</script>
+<script id="11">
+<item slot="1" text="put undersheet on the bed ." />
+<item slot="2" text="put pillow-sheet around the pillow ." />
+<item slot="3" text="put sheets around blanket ." />
+<item slot="4" text="put blanket and pillow on the bed ." />
+</script>
+<script id="12">
+<item slot="1" text="remove old sheets ." />
+<item slot="2" text="replace matrass cover ." />
+<item slot="3" text="put pillow in pillow-sheet ." />
+<item slot="4" text="put pillow on bed ." />
+<item slot="5" text="put sheets on blanket ." />
+<item slot="6" text="put blanket on bed ." />
+</script>
+<script id="13">
+<item slot="1" text="take the dirty sheets off the bed ." />
+<item slot="2" text="put the clean sheets on the bed ." />
+</script>
+<script id="14">
+<item slot="1" text="clear the mattresses ." />
+<item slot="2" text="cover the mattress ." />
+<item slot="3" text="cover the pillow too ." />
+<item slot="4" text="put blanket on the bed ." />
+</script>
+<script id="15">
+<item slot="1" text="remove all sheets from the bed ." />
+<item slot="2" text="put the fitted sheet on the bed ." />
+<item slot="3" text="put the flat sheet on the bed ." />
+<item slot="4" text="fold it back ." />
+<item slot="5" text="tuck it in ." />
+<item slot="6" text="put the quilt on the bed ." />
+</script>
+<script id="16">
+<item slot="1" text="gather clean bedding ." />
+<item slot="2" text="remove old bedding from bed ." />
+<item slot="3" text="place old bedding in laundry ." />
+<item slot="4" text="replace sheet ." />
+<item slot="5" text="replace pillow cases ." />
+<item slot="6" text="replace quilts/spread ." />
+<item slot="7" text="tuck in and you re done ." />
+</script>
+<script id="17">
+<item slot="1" text="remove covers ." />
+<item slot="2" text="place pillow at top end of bed ." />
+<item slot="3" text="straighten pillow ." />
+<item slot="4" text="throw covers over bed ." />
+<item slot="5" text="straighten covers ." />
+<item slot="6" text="tuck covers in at side of bed ." />
+</script>
+<script id="18">
+<item slot="1" text="remove covers ." />
+<item slot="2" text="place pillow at top end of bed ." />
+<item slot="3" text="straighten pillow ." />
+<item slot="4" text="throw covers over bed ." />
+<item slot="5" text="straighten covers ." />
+<item slot="6" text="tuck covers in at side of bed ." />
+</script>
+<script id="19">
+<item slot="1" text="remove blanket ." />
+<item slot="2" text="pull up sheets ." />
+<item slot="3" text="tuck in sheets ." />
+<item slot="4" text="put on blanket ." />
+<item slot="5" text="fluff pillows ." />
+</script>
+<script id="20">
+<item slot="1" text="remove blanket ." />
+<item slot="2" text="pull up sheets ." />
+<item slot="3" text="tuck in sheets ." />
+<item slot="4" text="put on blanket ." />
+<item slot="5" text="fluff pillows ." />
+</script>
+<script id="21">
+<item slot="1" text="remove bedding ." />
+<item slot="2" text="straighten bottom sheet ." />
+<item slot="3" text="spread top sheet ." />
+<item slot="4" text="straighten top sheet ." />
+<item slot="5" text="spread quilt ." />
+<item slot="6" text="straighten quilt ." />
+<item slot="7" text="put pillows in place ." />
+</script>
+<script id="22">
+<item slot="1" text="pull up bottom sheet ." />
+<item slot="2" text="tuck undermatteress ." />
+<item slot="3" text="pull up blankets ." />
+<item slot="4" text="streighten edges ." />
+<item slot="5" text="fold over top edge ." />
+<item slot="6" text="put pillows on top of bed ." />
+</script>
+<script id="23">
+<item slot="1" text="fluff the pillows ." />
+<item slot="2" text="straighten the sheets ." />
+<item slot="3" text="pull up the flat sheet ." />
+<item slot="4" text="fluff out the comforter ." />
+<item slot="5" text="tuck in the sides ." />
+<item slot="6" text="smooth out the bed ." />
+</script>
+<script id="24">
+<item slot="1" text="remove old sheets ." />
+<item slot="2" text="put old sheets into laundry hamper ." />
+<item slot="3" text="clean ." />
+</script>
+<script id="25">
+<item slot="1" text="remove pillows and quilt from bed ." />
+<item slot="2" text="pull sheets and blankets flat on the bed and make sure they are all tucked in at the foot ." />
+<item slot="3" text="replace quilt on the bed ." />
+<item slot="4" text="replace pillows on the bed neatly at the head ." />
+</script>
+<script id="26">
+<item slot="1" text="remove pillows and quilt from bed ." />
+<item slot="2" text="pull sheets and blankets flat on the bed and make sure they are all tucked in at the foot ." />
+<item slot="3" text="replace quilt on the bed ." />
+<item slot="4" text="replace pillows on the bed neatly at the head ." />
+</script>
+<script id="27">
+<item slot="1" text="remove pillows and quilt from bed ." />
+<item slot="2" text="pull sheets and blankets flat on the bed and make sure they are all tucked in at the foot ." />
+<item slot="3" text="replace quilt on the bed ." />
+<item slot="4" text="replace pillows on the bed neatly at the head ." />
+</script>
+<script id="28">
+<item slot="1" text="remove pillows and quilt from bed ." />
+<item slot="2" text="pull sheets and blankets flat on the bed and make sure they are all tucked in at the foot ." />
+<item slot="3" text="replace quilt on the bed ." />
+<item slot="4" text="replace pillows on the bed neatly at the head ." />
+</script>
+<script id="29">
+<item slot="1" text="remove pillows and quilt from bed ." />
+<item slot="2" text="pull sheets and blankets flat on the bed and make sure they are all tucked in at the foot ." />
+<item slot="3" text="replace quilt on the bed ." />
+<item slot="4" text="replace pillows on the bed neatly at the head ." />
+</script>
+<script id="30">
+<item slot="1" text="remove pillows and quilt from bed ." />
+<item slot="2" text="pull sheets and blankets flat on the bed and make sure they are all tucked in at the foot ." />
+<item slot="3" text="replace quilt on the bed ." />
+<item slot="4" text="replace pillows on the bed neatly at the head ." />
+</script>
+<script id="31">
+<item slot="1" text="remove old covers ." />
+<item slot="2" text="put into laundry ." />
+<item slot="3" text="dust bed ." />
+<item slot="4" text="disinfect bed ." />
+<item slot="5" text="let dry ." />
+<item slot="6" text="put on clean sheets ." />
+<item slot="7" text="tug corners in place ." />
+</script>
+<script id="32">
+<item slot="1" text="make the bed ." />
+</script>
+<script id="33">
+<item slot="1" text="cover bed with bedsheet ." />
+<item slot="2" text="lay out blanket ." />
+</script>
+<script id="34">
+<item slot="1" text="make dough ." />
+<item slot="2" text="put dough in pan ." />
+<item slot="3" text="cook in oven ." />
+</script>
+<script id="35">
+<item slot="1" text="make dough ." />
+<item slot="2" text="put dough in pan ." />
+<item slot="3" text="cook in oven ." />
+</script>
+<script id="36">
+<item slot="1" text="make dough ." />
+<item slot="2" text="put dough in pan ." />
+<item slot="3" text="cook in oven ." />
+</script>
+<script id="37">
+<item slot="1" text="put sheets on bed ." />
+<item slot="2" text="pull sheets up to top of bed ." />
+<item slot="3" text="put pillows on bed ." />
+</script>
+</scripts>

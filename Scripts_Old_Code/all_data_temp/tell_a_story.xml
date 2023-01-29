@@ -1,0 +1,138 @@
+<scripts>
+<script id="1">
+<item slot="1" text="think about the events in a story ." />
+<item slot="2" text="speak the events ." />
+</script>
+<script id="2">
+<item slot="1" text="find an audience ." />
+<item slot="2" text="decide on a story topic ." />
+<item slot="3" text="decide what order to tell the story in ." />
+<item slot="4" text="tell the story ." />
+</script>
+<script id="3">
+<item slot="1" text="choose story from available selection ." />
+<item slot="2" text="relate story to person or people involved ." />
+<item slot="3" text="include all details and appropriate emphasis ." />
+<item slot="4" text="use appropriate voices if necessary ." />
+</script>
+<script id="4">
+<item slot="1" text="conceptualize a fictional story for an audience ." />
+<item slot="2" text="dramatically convey images and pictures through verbalization ." />
+</script>
+<script id="5">
+<item slot="1" text="choose story from available selection ." />
+<item slot="2" text="relate story to person or people involved ." />
+<item slot="3" text="answer any questions the person has about the story ." />
+</script>
+<script id="6">
+<item slot="1" text="recall a story from memory ." />
+<item slot="2" text="verbally relay the story to another person or persons ." />
+</script>
+<script id="7">
+<item slot="1" text="find your audience ." />
+<item slot="2" text="find a storybook ." />
+<item slot="3" text="read the storybook ." />
+<item slot="4" text="read out the words ." />
+<item slot="5" text="watch the response from the audience ." />
+<item slot="6" text="put away the storybook ." />
+<item slot="7" text="ask the audience if they want more ." />
+</script>
+<script id="8">
+<item slot="1" text="tell subject of story ." />
+<item slot="2" text="tell introduction ." />
+<item slot="3" text="tell conflict ." />
+<item slot="4" text="tell finish ." />
+<item slot="5" text="tell moral of story ." />
+</script>
+<script id="9">
+<item slot="1" text="find someone to tell a story to ." />
+<item slot="2" text="get a book ." />
+<item slot="3" text="readout the story ." />
+</script>
+<script id="10">
+<item slot="1" text="search for an appropriate story ." />
+<item slot="2" text="recite the story in a suspenseful manner ." />
+</script>
+<script id="11">
+<item slot="1" text="think of a story ." />
+<item slot="2" text="open mouth and say the words ." />
+</script>
+<script id="12">
+<item slot="1" text="think of a story you want to tell ." />
+<item slot="2" text="get the people you want to tell the story to to sit in front of you ." />
+<item slot="3" text="begin to say the story when the people are ready to hear it ." />
+</script>
+<script id="13">
+<item slot="1" text="choose book ." />
+<item slot="2" text="remove book from shelf ." />
+<item slot="3" text="open book ." />
+<item slot="4" text="read words on page ." />
+<item slot="5" text="turn page ." />
+<item slot="6" text="continue reading all pages ." />
+<item slot="7" text="close book ." />
+</script>
+<script id="14">
+<item slot="1" text="remember story to tell ." />
+<item slot="2" text="speak story ." />
+</script>
+<script id="15">
+<item slot="1" text="read the story ." />
+<item slot="2" text="create an outline ." />
+<item slot="3" text="practice telling the story ." />
+<item slot="4" text="tell the story ." />
+</script>
+<script id="16">
+<item slot="1" text="think of story ." />
+<item slot="2" text="relay story ." />
+</script>
+<script id="17">
+<item slot="1" text="read story aloud ." />
+</script>
+<script id="18">
+<item slot="1" text="starting the story ." />
+<item slot="2" text="building the plot ." />
+<item slot="3" text="adding interesting characters ." />
+<item slot="4" text="having a couple of twists ." />
+<item slot="5" text="lots of action and adventure ." />
+<item slot="6" text="good over evil ." />
+<item slot="7" text="happily every after ." />
+</script>
+<script id="19">
+<item slot="1" text="make up story ." />
+<item slot="2" text="communicate story ." />
+</script>
+<script id="20">
+<item slot="1" text="make up story ." />
+<item slot="2" text="communicate story ." />
+</script>
+<script id="21">
+<item slot="1" text="choose a book ." />
+<item slot="2" text="find a comfortable chair ." />
+<item slot="3" text="let child climb onto your lap ." />
+<item slot="4" text="read title of book ." />
+<item slot="5" text="turn to first page ." />
+<item slot="6" text="begin reading ." />
+<item slot="7" text="use interesting voices ." />
+</script>
+<script id="22">
+<item slot="1" text="select the category ." />
+<item slot="2" text="tell the story ." />
+</script>
+<script id="23">
+<item slot="1" text="make sure listener is peaceful ." />
+<item slot="2" text="listener should be comfortable ." />
+<item slot="3" text="pick a book that they like ." />
+<item slot="4" text="introduce the hgh point of the book ." />
+<item slot="5" text="get listener interested ." />
+<item slot="6" text="read slowly ." />
+<item slot="7" text="read with emotions ." />
+</script>
+<script id="24">
+<item slot="1" text="find the story ." />
+<item slot="2" text="open your mouth and speak ." />
+</script>
+<script id="25">
+<item slot="1" text="find the story ." />
+<item slot="2" text="open your mouth and speak ." />
+</script>
+</scripts>

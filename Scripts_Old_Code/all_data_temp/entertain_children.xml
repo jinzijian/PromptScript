@@ -1,0 +1,183 @@
+<scripts>
+<script id="1">
+<item slot="1" text="playing with toys ." />
+<item slot="2" text="singing songs ." />
+<item slot="3" text="reading books ." />
+<item slot="4" text="going to zoo ." />
+<item slot="5" text="going to playgrounds ." />
+<item slot="6" text="eating ice-cream ." />
+<item slot="7" text="watching childrens programs ." />
+</script>
+<script id="2">
+<item slot="1" text="get to know what the children think is interesting ." />
+<item slot="2" text="think of a related activity that involves what they are interested in ." />
+<item slot="3" text="do the activity with the children ." />
+</script>
+<script id="3">
+<item slot="1" text="consider appropriate entertainment ." />
+<item slot="2" text="involve children in fun activities ." />
+<item slot="3" text="tell children a story ." />
+<item slot="4" text="dance with the children ." />
+<item slot="5" text="make sure children are properly fed ." />
+<item slot="6" text="make sure children are properly rested ." />
+</script>
+<script id="4">
+<item slot="1" text="thinking of something that will make children happy and get their attention ." />
+<item slot="2" text="performing actions previously thought up ." />
+</script>
+<script id="5">
+<item slot="1" text="get children attention ." />
+<item slot="2" text="perform some activity that makes children laugh ." />
+</script>
+<script id="6">
+<item slot="1" text="find out what the children like to do ." />
+<item slot="2" text="play with the children ." />
+</script>
+<script id="7">
+<item slot="1" text="call children ." />
+<item slot="2" text="tell story to children ." />
+</script>
+<script id="8">
+<item slot="1" text="smile ." />
+<item slot="2" text="fidget a great deal ." />
+<item slot="3" text="incite them to follow ." />
+</script>
+<script id="9">
+<item slot="1" text="gather children ." />
+<item slot="2" text="tell story ." />
+<item slot="3" text="stop and ask children what they think will happen in the story ." />
+<item slot="4" text="continue with story ." />
+</script>
+<script id="10">
+<item slot="1" text="choose a game to play with the children ." />
+<item slot="2" text="open the game box ." />
+<item slot="3" text="read the rules of the game ." />
+<item slot="4" text="set up the game board ." />
+<item slot="5" text="set up the game pieces ." />
+<item slot="6" text="begin to play the game with the children ." />
+</script>
+<script id="11">
+<item slot="1" text="set the children down in front of you ." />
+<item slot="2" text="get a joke book ." />
+<item slot="3" text="read the children the jokes in the book ." />
+<item slot="4" text="make different voices for the characters in the jokes ." />
+</script>
+<script id="12">
+<item slot="1" text="find children to be entertained ." />
+<item slot="2" text="determine method of entertainment ." />
+<item slot="3" text="get childrens attention ." />
+<item slot="4" text="entertain child with method selected ." />
+</script>
+<script id="13">
+<item slot="1" text="turn on the tv ." />
+<item slot="2" text="find a kids show ." />
+<item slot="3" text="pop kids some popcorn ." />
+</script>
+<script id="14">
+<item slot="1" text="play a toy ." />
+<item slot="2" text="sing a song ." />
+</script>
+<script id="15">
+<item slot="1" text="gather all the children ." />
+<item slot="2" text="sing a song to them ." />
+</script>
+<script id="16">
+<item slot="1" text="determine how old the children are ." />
+<item slot="2" text="find out what interests each child ." />
+<item slot="3" text="prepare activity for each child ." />
+<item slot="4" text="do activity with each child ." />
+<item slot="5" text="repeat steps 3 and 4 for each activity ." />
+</script>
+<script id="17">
+<item slot="1" text="sing a kids  song ." />
+</script>
+<script id="18">
+<item slot="1" text="goto children ." />
+<item slot="2" text="make children laugh ." />
+</script>
+<script id="19">
+<item slot="1" text="give food ." />
+<item slot="2" text="games ." />
+<item slot="3" text="computer ." />
+<item slot="4" text="play ." />
+<item slot="5" text="park ." />
+<item slot="6" text="bowling ." />
+<item slot="7" text="swimming ." />
+</script>
+<script id="20">
+<item slot="1" text="act goofy ." />
+<item slot="2" text="tell appropriate stories and jokes ." />
+<item slot="3" text="listen to them when they talk ." />
+<item slot="4" text="speak to them like adults dont be condescending ." />
+<item slot="5" text="occasionally give each child a verbal stroke ." />
+</script>
+<script id="21">
+<item slot="1" text="act goofy ." />
+<item slot="2" text="tell appropriate stories and jokes ." />
+<item slot="3" text="listen to them when they talk ." />
+<item slot="4" text="speak to them like adults dont be condescending ." />
+<item slot="5" text="occasionally give each child a verbal stroke ." />
+</script>
+<script id="22">
+<item slot="1" text="act goofy ." />
+<item slot="2" text="tell appropriate stories and jokes ." />
+<item slot="3" text="listen to them when they talk ." />
+<item slot="4" text="speak to them like adults dont be condescending ." />
+<item slot="5" text="occasionally give each child a verbal stroke ." />
+</script>
+<script id="23">
+<item slot="1" text="act goofy ." />
+<item slot="2" text="tell appropriate stories and jokes ." />
+<item slot="3" text="listen to them when they talk ." />
+<item slot="4" text="speak to them like adults dont be condescending ." />
+<item slot="5" text="occasionally give each child a verbal stroke ." />
+</script>
+<script id="24">
+<item slot="1" text="act goofy ." />
+<item slot="2" text="tell appropriate stories and jokes ." />
+<item slot="3" text="listen to them when they talk ." />
+<item slot="4" text="speak to them like adults dont be condescending ." />
+<item slot="5" text="occasionally give each child a verbal stroke ." />
+</script>
+<script id="25">
+<item slot="1" text="act goofy ." />
+<item slot="2" text="tell appropriate stories and jokes ." />
+<item slot="3" text="listen to them when they talk ." />
+<item slot="4" text="speak to them like adults dont be condescending ." />
+<item slot="5" text="occasionally give each child a verbal stroke ." />
+</script>
+<script id="26">
+<item slot="1" text="make faces ." />
+<item slot="2" text="tell jokes kids like ." />
+<item slot="3" text="be silly and goofy ." />
+<item slot="4" text="talk to kids like adults ." />
+<item slot="5" text="side with them against elders ." />
+</script>
+<script id="27">
+<item slot="1" text="take out a game ." />
+<item slot="2" text="open game box ." />
+<item slot="3" text="read instructions ." />
+<item slot="4" text="give game pieces to each child ." />
+<item slot="5" text="take turns according to the directions ." />
+<item slot="6" text="play to end of game ." />
+<item slot="7" text="congratdulate the winner ." />
+</script>
+<script id="28">
+<item slot="1" text="take out a game ." />
+<item slot="2" text="open game box ." />
+<item slot="3" text="read instructions ." />
+<item slot="4" text="give game pieces to each child ." />
+<item slot="5" text="take turns according to the directions ." />
+<item slot="6" text="play to end of game ." />
+<item slot="7" text="congratdulate the winner ." />
+</script>
+<script id="29">
+<item slot="1" text="take out a game ." />
+<item slot="2" text="open game box ." />
+<item slot="3" text="read instructions ." />
+<item slot="4" text="give game pieces to each child ." />
+<item slot="5" text="take turns according to the directions ." />
+<item slot="6" text="play to end of game ." />
+<item slot="7" text="congratdulate the winner ." />
+</script>
+</scripts>

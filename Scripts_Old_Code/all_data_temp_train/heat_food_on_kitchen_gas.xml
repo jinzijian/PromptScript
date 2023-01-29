@@ -1,0 +1,361 @@
+<scripts>
+<script id="1">
+<item slot="1" text="put food into a cooking device (a pot or pan) ." />
+<item slot="2" text="place cooking device over kitchen gas ." />
+<item slot="3" text="light kitchen gas ." />
+<item slot="4" text="heat food over gas flame until cooked ." />
+</script>
+<script id="2">
+<item slot="1" text="place food in pan ." />
+<item slot="2" text="place pan on burner ." />
+<item slot="3" text="turn on gas burner ." />
+<item slot="4" text="watch food so it does not burn ." />
+<item slot="5" text="remove pan when it is hot ." />
+<item slot="6" text="turn off burner ." />
+</script>
+<script id="3">
+<item slot="1" text="place a pan on the kitchen gas ." />
+<item slot="2" text="place food in the pan ." />
+<item slot="3" text="turn on the gas ." />
+<item slot="4" text="stir food while heating ." />
+<item slot="5" text="remove pan when food is warm ." />
+</script>
+<script id="4">
+<item slot="1" text="turn on the gas ." />
+<item slot="2" text="take the food out ." />
+<item slot="3" text="unwrap the food ." />
+<item slot="4" text="put the food in a pot/pan ." />
+<item slot="5" text="put the pot/pan on the stove ." />
+<item slot="6" text="turn on the stove ." />
+<item slot="7" text="wait for a while turn off the stove ." />
+</script>
+<script id="5">
+<item slot="1" text="get food ." />
+<item slot="2" text="turn on stove ." />
+<item slot="3" text="put food on stove ." />
+<item slot="4" text="watch food ." />
+<item slot="5" text="remove food ." />
+<item slot="6" text="turn stove off ." />
+</script>
+<script id="6">
+<item slot="1" text="get food ." />
+<item slot="2" text="put in metal container ." />
+<item slot="3" text="turn on gas ." />
+<item slot="4" text="put metal container on gas ." />
+<item slot="5" text="wait till heated ." />
+<item slot="6" text="remove container ." />
+<item slot="7" text="turn off gas ." />
+</script>
+<script id="7">
+<item slot="1" text="turn stove on ." />
+<item slot="2" text="put pot with food on stove ." />
+<item slot="3" text="wait ." />
+</script>
+<script id="8">
+<item slot="1" text="get food ." />
+<item slot="2" text="place in metal container ." />
+<item slot="3" text="turn on gas ." />
+<item slot="4" text="light up gas ." />
+<item slot="5" text="put container onto gas ." />
+<item slot="6" text="wait to heat up ." />
+<item slot="7" text="turn off gas ." />
+</script>
+<script id="9">
+<item slot="1" text="get food ." />
+<item slot="2" text="place in metal container ." />
+<item slot="3" text="turn on gas ." />
+<item slot="4" text="light up gas ." />
+<item slot="5" text="put container onto gas ." />
+<item slot="6" text="wait to heat up ." />
+<item slot="7" text="turn off gas ." />
+</script>
+<script id="10">
+<item slot="1" text="put food in metal pot ." />
+<item slot="2" text="turn on gas ." />
+<item slot="3" text="put pot on gas ." />
+<item slot="4" text="wait to heat occasinally stirring ." />
+<item slot="5" text="remove when hot enough ." />
+<item slot="6" text="turn off gas ." />
+</script>
+<script id="11">
+<item slot="1" text="put food in pot ." />
+<item slot="2" text="turn on kitchen gas ." />
+<item slot="3" text="put pot on gas ." />
+<item slot="4" text="wait until  food is cooked ." />
+<item slot="5" text="turn off gas ." />
+</script>
+<script id="12">
+<item slot="1" text="turn on the heat/fire of the stove in the kitchen ." />
+<item slot="2" text="place a pan on top of the stove ." />
+<item slot="3" text="place the food in the pan ." />
+<item slot="4" text="when the food is hot turn the heat/fire off ." />
+</script>
+<script id="13">
+<item slot="1" text="put food in pot ." />
+<item slot="2" text="put pot on kitchen stove ." />
+<item slot="3" text="turn on gas stove ." />
+<item slot="4" text="stir food ." />
+<item slot="5" text="wait for foo to heat up ." />
+<item slot="6" text="remove pot ." />
+<item slot="7" text="turn off gas stove ." />
+</script>
+<script id="14">
+<item slot="1" text="put the food in pan ." />
+</script>
+<script id="15">
+<item slot="1" text="put the food in a saucepan ." />
+<item slot="2" text="put the saucepan on the stove ." />
+<item slot="3" text="switch it on ." />
+<item slot="4" text="when hot put the food on a plate ." />
+</script>
+<script id="16">
+<item slot="1" text="identify pan ." />
+<item slot="2" text="identify food ." />
+<item slot="3" text="place food in pan ." />
+<item slot="4" text="place pan on stove ." />
+<item slot="5" text="turn on gas ." />
+<item slot="6" text="heat food ." />
+</script>
+<script id="17">
+<item slot="1" text="put food in bowl ." />
+<item slot="2" text="turn gas on ." />
+<item slot="3" text="light gas with match ." />
+<item slot="4" text="put bowl on gas ." />
+<item slot="5" text="stir ." />
+<item slot="6" text="wait until food is hot ." />
+</script>
+<script id="18">
+<item slot="1" text="turn on stove burner ." />
+<item slot="2" text="put food in pan ." />
+<item slot="3" text="put pan on burner ." />
+<item slot="4" text="remove when hot ." />
+<item slot="5" text="turn off burner ." />
+</script>
+<script id="19">
+<item slot="1" text="put the food in a container ." />
+<item slot="2" text="turn on the kitchen gas ." />
+<item slot="3" text="heat the foods ." />
+</script>
+<script id="20">
+<item slot="1" text="turn on gas burner ." />
+<item slot="2" text="place food in pan ." />
+<item slot="3" text="place pan on burner ." />
+</script>
+<script id="21">
+<item slot="1" text="put pot on the burner ." />
+<item slot="2" text="turn on the flame ." />
+<item slot="3" text="put food in the pot ." />
+<item slot="4" text="stir food as it heats ." />
+</script>
+<script id="22">
+<item slot="1" text="place food in pan ." />
+<item slot="2" text="turn on gas stove ." />
+<item slot="3" text="place pan on stove ." />
+</script>
+<script id="23">
+<item slot="1" text="put food in pot ." />
+<item slot="2" text="put pot on burner ." />
+</script>
+<script id="24">
+<item slot="1" text="put food in pot ." />
+<item slot="2" text="put pot on burner ." />
+<item slot="3" text="turn on gas low ." />
+<item slot="4" text="put top on pot ." />
+<item slot="5" text="wait a few minutes ." />
+</script>
+<script id="25">
+<item slot="1" text="put the food on the kitchen stove ." />
+<item slot="2" text="switch on the stove at low level ." />
+<item slot="3" text="heat the food for 10 minutes ." />
+</script>
+<script id="26">
+<item slot="1" text="make sure pilot light is on ." />
+<item slot="2" text="turn the knob to turn the flame on ." />
+<item slot="3" text="place pot or pan on burner ." />
+<item slot="4" text="cook as directed ." />
+</script>
+<script id="27">
+<item slot="1" text="put food in saucepan ." />
+<item slot="2" text="turn on gas ." />
+<item slot="3" text="ignite gas ." />
+<item slot="4" text="heat food to desired temperature ." />
+</script>
+<script id="28">
+<item slot="1" text="put food in saucepan ." />
+<item slot="2" text="turn on gas ." />
+<item slot="3" text="ignite gas ." />
+<item slot="4" text="heat food to desired temperature ." />
+</script>
+<script id="29">
+<item slot="1" text="put food in saucepan ." />
+<item slot="2" text="put saucepan on gas stove ." />
+<item slot="3" text="turn on gas ." />
+<item slot="4" text="ignite gas ." />
+<item slot="5" text="put food in saucepan ." />
+<item slot="6" text="and heat ." />
+</script>
+<script id="30">
+<item slot="1" text="turn gas on low light burner ." />
+<item slot="2" text="put pan or pot on burner ." />
+<item slot="3" text="get food from fridge ." />
+<item slot="4" text="put food into pot or pan ." />
+<item slot="5" text="heat until desired temperature ." />
+<item slot="6" text="turn off burner ." />
+<item slot="7" text="serve food ." />
+</script>
+<script id="31">
+<item slot="1" text="turn gas on ." />
+<item slot="2" text="place food on top ." />
+<item slot="3" text="wait for it to heat ." />
+<item slot="4" text="remove food ." />
+<item slot="5" text="turn gas off ." />
+</script>
+<script id="32">
+<item slot="1" text="put food in pan ." />
+<item slot="2" text="turn burner on ." />
+<item slot="3" text="place pan on burner ." />
+<item slot="4" text="attend food so it does not burn ." />
+<item slot="5" text="when food is heated remove and eat ." />
+</script>
+<script id="33">
+<item slot="1" text="put food in pan ." />
+<item slot="2" text="turn burner on ." />
+<item slot="3" text="place pan on burner ." />
+<item slot="4" text="attend food so it does not burn ." />
+<item slot="5" text="when food is heated remove and eat ." />
+</script>
+<script id="34">
+<item slot="1" text="put food in pan ." />
+<item slot="2" text="turn burner on ." />
+<item slot="3" text="place pan on burner ." />
+<item slot="4" text="attend food so it does not burn ." />
+<item slot="5" text="when food is heated remove and eat ." />
+</script>
+<script id="35">
+<item slot="1" text="put food in pan ." />
+<item slot="2" text="turn burner on ." />
+<item slot="3" text="place pan on burner ." />
+<item slot="4" text="attend food so it does not burn ." />
+<item slot="5" text="when food is heated remove and eat ." />
+</script>
+<script id="36">
+<item slot="1" text="put food in pan ." />
+<item slot="2" text="turn burner on ." />
+<item slot="3" text="place pan on burner ." />
+<item slot="4" text="attend food so it does not burn ." />
+<item slot="5" text="when food is heated remove and eat ." />
+</script>
+<script id="37">
+<item slot="1" text="put food in pan ." />
+<item slot="2" text="turn burner on ." />
+<item slot="3" text="place pan on burner ." />
+<item slot="4" text="attend food so it does not burn ." />
+<item slot="5" text="when food is heated remove and eat ." />
+</script>
+<script id="38">
+<item slot="1" text="place food in pot ." />
+<item slot="2" text="place pot on stove ." />
+<item slot="3" text="turn element on ." />
+<item slot="4" text="stir to prevent burning ." />
+<item slot="5" text="remove from heat with finished ." />
+<item slot="6" text="turn off burner ." />
+</script>
+<script id="39">
+<item slot="1" text="place food in pot ." />
+<item slot="2" text="place pot on stove ." />
+<item slot="3" text="turn element on ." />
+<item slot="4" text="stir to prevent burning ." />
+<item slot="5" text="remove from heat with finished ." />
+<item slot="6" text="turn off burner ." />
+</script>
+<script id="40">
+<item slot="1" text="place food in pot ." />
+<item slot="2" text="place pot on stove ." />
+<item slot="3" text="turn element on ." />
+<item slot="4" text="stir to prevent burning ." />
+<item slot="5" text="remove from heat with finished ." />
+<item slot="6" text="turn off burner ." />
+</script>
+<script id="41">
+<item slot="1" text="place food in pot ." />
+<item slot="2" text="place pot on stove ." />
+<item slot="3" text="turn element on ." />
+<item slot="4" text="stir to prevent burning ." />
+<item slot="5" text="remove from heat with finished ." />
+<item slot="6" text="turn off burner ." />
+</script>
+<script id="42">
+<item slot="1" text="place food in pot ." />
+<item slot="2" text="place pot on stove ." />
+<item slot="3" text="turn element on ." />
+<item slot="4" text="stir to prevent burning ." />
+<item slot="5" text="remove from heat with finished ." />
+<item slot="6" text="turn off burner ." />
+</script>
+<script id="43">
+<item slot="1" text="place food in pot ." />
+<item slot="2" text="place pot on stove ." />
+<item slot="3" text="turn element on ." />
+<item slot="4" text="stir to prevent burning ." />
+<item slot="5" text="remove from heat with finished ." />
+<item slot="6" text="turn off burner ." />
+</script>
+<script id="44">
+<item slot="1" text="walk ." />
+<item slot="2" text="heat food ." />
+</script>
+<script id="45">
+<item slot="1" text="walk ." />
+<item slot="2" text="heat food ." />
+</script>
+<script id="46">
+<item slot="1" text="walk ." />
+<item slot="2" text="heat food ." />
+</script>
+<script id="47">
+<item slot="1" text="walk ." />
+<item slot="2" text="heat food ." />
+</script>
+<script id="48">
+<item slot="1" text="walk ." />
+<item slot="2" text="heat food ." />
+</script>
+<script id="49">
+<item slot="1" text="walk ." />
+<item slot="2" text="heat food ." />
+</script>
+<script id="50">
+<item slot="1" text="turn on gas stove ." />
+<item slot="2" text="place food in pot ." />
+<item slot="3" text="place pot on stove ." />
+<item slot="4" text="heat until desired ." />
+</script>
+<script id="51">
+<item slot="1" text="turn on gas stove ." />
+<item slot="2" text="place food in pot ." />
+<item slot="3" text="place pot on stove ." />
+<item slot="4" text="heat until desired ." />
+</script>
+<script id="52">
+<item slot="1" text="get food ." />
+<item slot="2" text="place food in pan ." />
+<item slot="3" text="place pan on oventop ." />
+<item slot="4" text="turn on the heat ." />
+</script>
+<script id="53">
+<item slot="1" text="put food in pan ." />
+<item slot="2" text="put food on gas burner ." />
+<item slot="3" text="turn burner knob on all the way ." />
+<item slot="4" text="adjust flame to desired level ." />
+<item slot="5" text="stir food occasionally until heated ." />
+<item slot="6" text="remove from stove ." />
+<item slot="7" text="turn off stove ." />
+</script>
+<script id="54">
+<item slot="1" text="turn on burner ." />
+<item slot="2" text="put food on pan ." />
+<item slot="3" text="put pan on burner ." />
+<item slot="4" text="cook food ." />
+<item slot="5" text="turn off burner ." />
+</script>
+</scripts>

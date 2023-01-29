@@ -1,0 +1,240 @@
+<scripts>
+<script id="1">
+<item slot="1" text="walk to the curtains ." />
+<item slot="2" text="if there is something holding the curtains open remove it ." />
+<item slot="3" text="pull the curtains to cover the window ." />
+</script>
+<script id="2">
+<item slot="1" text="pull curtains so that window is covered ." />
+</script>
+<script id="3">
+<item slot="1" text="go to window ." />
+<item slot="2" text="pull curtains ." />
+</script>
+<script id="4">
+<item slot="1" text="walk over to the curtains ." />
+<item slot="2" text="grab curtain ." />
+<item slot="3" text="pull curtain closed ." />
+</script>
+<script id="5">
+<item slot="1" text="walk over to the curtains ." />
+<item slot="2" text="gently grab curtains or handle ." />
+<item slot="3" text="pull curtains closed ." />
+</script>
+<script id="6">
+<item slot="1" text="take hold of left curtain ." />
+<item slot="2" text="pull to the centre of the window ." />
+<item slot="3" text="take hold of right curtain ." />
+<item slot="4" text="pull to the centre of the window ." />
+</script>
+<script id="7">
+<item slot="1" text="go over to the curtains ." />
+<item slot="2" text="grab each side of the open curtains in the middle ." />
+<item slot="3" text="pull each side of the curtains together gently ." />
+</script>
+<script id="8">
+<item slot="1" text="go to window ." />
+<item slot="2" text="grab curtain and pull towards the other side of window ." />
+<item slot="3" text="proceed to next window ." />
+</script>
+<script id="9">
+<item slot="1" text="move to the curtains ." />
+<item slot="2" text="find the pull-rod attached t the curtains ." />
+<item slot="3" text="pull the pull-rod sideways to close the curtains ." />
+</script>
+<script id="10">
+<item slot="1" text="locate curtains ." />
+<item slot="2" text="pull curtains together ." />
+</script>
+<script id="11">
+<item slot="1" text="pull cord ." />
+</script>
+<script id="12">
+<item slot="1" text="grab the curtains ." />
+<item slot="2" text="pull them towards each other until you cannot see the window ." />
+</script>
+<script id="13">
+<item slot="1" text="locate the closing mechanism ." />
+<item slot="2" text="make sure there is nothing obstructing the path of the curtains ." />
+<item slot="3" text="activate the closingmechinism ." />
+<item slot="4" text="deactivate the closing mechanism when the curtains are closed ." />
+</script>
+<script id="14">
+<item slot="1" text="pull the curtain toward the middle of the window ." />
+</script>
+<script id="15">
+<item slot="1" text="go to window ." />
+<item slot="2" text="pull on left curtain until it is at the center of the window ." />
+<item slot="3" text="pull on right curtain until it is at the center of the window ." />
+<item slot="4" text="ensure that no part of the glass is visible ." />
+</script>
+<script id="16">
+<item slot="1" text="pull curtain cord ." />
+</script>
+<script id="17">
+<item slot="1" text="pick up remote control ." />
+<item slot="2" text="push button that closes curtain ." />
+</script>
+<script id="18">
+<item slot="1" text="pick up remote control ." />
+<item slot="2" text="push button that closes curtain ." />
+</script>
+<script id="19">
+<item slot="1" text="hold top of courtain ." />
+<item slot="2" text="pull curtain accross window ." />
+<item slot="3" text="repeat with all curtains ." />
+</script>
+<script id="20">
+<item slot="1" text="hold top of courtain ." />
+<item slot="2" text="pull curtain accross window ." />
+<item slot="3" text="repeat with all curtains ." />
+</script>
+<script id="21">
+<item slot="1" text="hold top of courtain ." />
+<item slot="2" text="pull curtain accross window ." />
+<item slot="3" text="repeat with all curtains ." />
+</script>
+<script id="22">
+<item slot="1" text="hold top of courtain ." />
+<item slot="2" text="pull curtain accross window ." />
+<item slot="3" text="repeat with all curtains ." />
+</script>
+<script id="23">
+<item slot="1" text="hold top of courtain ." />
+<item slot="2" text="pull curtain accross window ." />
+<item slot="3" text="repeat with all curtains ." />
+</script>
+<script id="24">
+<item slot="1" text="hold top of courtain ." />
+<item slot="2" text="pull curtain accross window ." />
+<item slot="3" text="repeat with all curtains ." />
+</script>
+<script id="25">
+<item slot="1" text="hold top of courtain ." />
+<item slot="2" text="pull curtain accross window ." />
+<item slot="3" text="repeat with all curtains ." />
+</script>
+<script id="26">
+<item slot="1" text="hold top of courtain ." />
+<item slot="2" text="pull curtain accross window ." />
+<item slot="3" text="repeat with all curtains ." />
+</script>
+<script id="27">
+<item slot="1" text="grasp curtain panels ." />
+<item slot="2" text="pull towards center of window ." />
+</script>
+<script id="28">
+<item slot="1" text="walk to curtains ." />
+<item slot="2" text="pull cord ." />
+</script>
+<script id="29">
+<item slot="1" text="goto curtains ." />
+<item slot="2" text="grip curtains ." />
+<item slot="3" text="close curtains ." />
+</script>
+<script id="30">
+<item slot="1" text="pull the cord on the curtains to close ." />
+</script>
+<script id="31">
+<item slot="1" text="pull the curtains across the window ." />
+</script>
+<script id="32">
+<item slot="1" text="take the curtain ." />
+<item slot="2" text="nudge it ." />
+<item slot="3" text="close it ." />
+</script>
+<script id="33">
+<item slot="1" text="go to curtains ." />
+<item slot="2" text="find curtain rod ." />
+<item slot="3" text="grasp rod ." />
+<item slot="4" text="pull rod to move curtain ." />
+</script>
+<script id="34">
+<item slot="1" text="use string or manually pull curtains shut ." />
+</script>
+<script id="35">
+<item slot="1" text="use string or manually pull curtains shut ." />
+</script>
+<script id="36">
+<item slot="1" text="use string or manually pull curtains shut ." />
+</script>
+<script id="37">
+<item slot="1" text="use string or manually pull curtains shut ." />
+</script>
+<script id="38">
+<item slot="1" text="walk over to the curtains ." />
+<item slot="2" text="grab the curtain cord ." />
+<item slot="3" text="pull it towards the middle of the curtain ." />
+</script>
+<script id="39">
+<item slot="1" text="walk over to the curtains ." />
+<item slot="2" text="grab the curtain cord ." />
+<item slot="3" text="pull it towards the middle of the curtain ." />
+</script>
+<script id="40">
+<item slot="1" text="walk over to the curtains ." />
+<item slot="2" text="grab the curtain cord ." />
+<item slot="3" text="pull it towards the middle of the curtain ." />
+</script>
+<script id="41">
+<item slot="1" text="walk over to the curtains ." />
+<item slot="2" text="grab the curtain cord ." />
+<item slot="3" text="pull it towards the middle of the curtain ." />
+</script>
+<script id="42">
+<item slot="1" text="close window ." />
+<item slot="2" text="close curtains ." />
+</script>
+<script id="43">
+<item slot="1" text="go to the window ." />
+<item slot="2" text="reach for the inside top of each curtain ." />
+<item slot="3" text="grasp one curtain in each hand ." />
+<item slot="4" text="pull the curtains toward the middle of the window ." />
+<item slot="5" text="adjust the curtains so that they meet in the centre ." />
+</script>
+<script id="44">
+<item slot="1" text="get up ." />
+<item slot="2" text="pull curtain cord down ." />
+<item slot="3" text="watch curtains close ." />
+<item slot="4" text="stop pulling cord when curtains are drawn ." />
+</script>
+<script id="45">
+<item slot="1" text="get up ." />
+<item slot="2" text="pull curtain cord down ." />
+<item slot="3" text="watch curtains close ." />
+<item slot="4" text="stop pulling cord when curtains are drawn ." />
+</script>
+<script id="46">
+<item slot="1" text="get up ." />
+<item slot="2" text="pull curtain cord down ." />
+<item slot="3" text="watch curtains close ." />
+<item slot="4" text="stop pulling cord when curtains are drawn ." />
+</script>
+<script id="47">
+<item slot="1" text="get up ." />
+<item slot="2" text="pull curtain cord down ." />
+<item slot="3" text="watch curtains close ." />
+<item slot="4" text="stop pulling cord when curtains are drawn ." />
+</script>
+<script id="48">
+<item slot="1" text="get up ." />
+<item slot="2" text="pull curtain cord down ." />
+<item slot="3" text="watch curtains close ." />
+<item slot="4" text="stop pulling cord when curtains are drawn ." />
+</script>
+<script id="49">
+<item slot="1" text="get up ." />
+<item slot="2" text="pull curtain cord down ." />
+<item slot="3" text="watch curtains close ." />
+<item slot="4" text="stop pulling cord when curtains are drawn ." />
+</script>
+<script id="50">
+<item slot="1" text="draw the curtains ." />
+</script>
+<script id="51">
+<item slot="1" text="draw the curtains ." />
+</script>
+<script id="52">
+<item slot="1" text="pull the strings ." />
+</script>
+</scripts>

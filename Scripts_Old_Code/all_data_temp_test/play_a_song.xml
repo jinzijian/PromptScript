@@ -1,0 +1,205 @@
+<scripts>
+<script id="1">
+<item slot="1" text="take notes ." />
+<item slot="2" text="play piano ." />
+</script>
+<script id="2">
+<item slot="1" text="put the cd in to the player ." />
+<item slot="2" text="switch on the player ." />
+<item slot="3" text="listen to the song ." />
+</script>
+<script id="3">
+<item slot="1" text="insert song recording into a music system ." />
+<item slot="2" text="turn the music system on ." />
+<item slot="3" text="press the play button to play the song ." />
+</script>
+<script id="4">
+<item slot="1" text="locate archived music ." />
+<item slot="2" text="located music device ." />
+<item slot="3" text="stick the archived music--tape or cd--into the music player ." />
+<item slot="4" text="briefly depress the play button on the music player ." />
+</script>
+<script id="5">
+<item slot="1" text="choose song from available selection ." />
+<item slot="2" text="choose playing device depending upon the media type involved with the song ." />
+<item slot="3" text="use appropriate playing device for the particular media as necessary ." />
+<item slot="4" text="activate the playing device ." />
+</script>
+<script id="6">
+<item slot="1" text="get music score for the song ." />
+<item slot="2" text="get your instrument ." />
+<item slot="3" text="put score on a music stand ." />
+<item slot="4" text="prepare to play your instrument ." />
+<item slot="5" text="read the notes on the score and play them ." />
+</script>
+<script id="7">
+<item slot="1" text="get music ." />
+<item slot="2" text="get instrument ." />
+<item slot="3" text="play music for the song on instrument ." />
+</script>
+<script id="8">
+<item slot="1" text="find a musical instrument ." />
+<item slot="2" text="play a note of the song on the instrument ." />
+<item slot="3" text="repeat until all notes of the song have been played ." />
+</script>
+<script id="9">
+<item slot="1" text="get a radio ." />
+<item slot="2" text="choose radio station ." />
+<item slot="3" text="turn on the radio ." />
+<item slot="4" text="pick a song on that station ." />
+<item slot="5" text="let the song play on the radio ." />
+</script>
+<script id="10">
+<item slot="1" text="locate a music playing device ." />
+<item slot="2" text="determine the song to be heard ." />
+<item slot="3" text="utilize the music playing device to play the requested song ." />
+</script>
+<script id="11">
+<item slot="1" text="get music ." />
+<item slot="2" text="identify instrument ." />
+<item slot="3" text="retrieve instrument ." />
+<item slot="4" text="tune instrument ." />
+<item slot="5" text="read music ." />
+<item slot="6" text="play instrument ." />
+<item slot="7" text="replace objects ." />
+</script>
+<script id="12">
+<item slot="1" text="find an instrument ." />
+<item slot="2" text="learn to read musical notes ." />
+<item slot="3" text="learn to play each note ." />
+<item slot="4" text="get sheet music ." />
+<item slot="5" text="play each note on sheet music ." />
+<item slot="6" text="do it again until it sounds right ." />
+</script>
+<script id="13">
+<item slot="1" text="pick a cd ." />
+<item slot="2" text="insert it ." />
+<item slot="3" text="push play ." />
+</script>
+<script id="14">
+<item slot="1" text="identify song ." />
+<item slot="2" text="place music storage device in music player ." />
+<item slot="3" text="skip to correct song ." />
+<item slot="4" text="play song ." />
+</script>
+<script id="15">
+<item slot="1" text="choose song-playing device ." />
+<item slot="2" text="turn on song-playing device ." />
+</script>
+<script id="16">
+<item slot="1" text="insert a cd ." />
+<item slot="2" text="push play on the cd player ." />
+</script>
+<script id="17">
+<item slot="1" text="select a cd ." />
+<item slot="2" text="put the disc in the cd player ." />
+<item slot="3" text="select the track number of the song you want to play ." />
+<item slot="4" text="input the track number into the player ." />
+<item slot="5" text="press the play button ." />
+</script>
+<script id="18">
+<item slot="1" text="choose a cd ." />
+<item slot="2" text="put the cd in the cd player ." />
+<item slot="3" text="rpess the play button ." />
+</script>
+<script id="19">
+<item slot="1" text="pick the song ." />
+<item slot="2" text="find your instrument ." />
+<item slot="3" text="pick up instrument ." />
+<item slot="4" text="tune instrument ." />
+<item slot="5" text="play song ." />
+</script>
+<script id="20">
+<item slot="1" text="pick up a cd ." />
+<item slot="2" text="turn cd player on ." />
+<item slot="3" text="insert cd into player ." />
+<item slot="4" text="select song on cd player ." />
+<item slot="5" text="hit play button ." />
+</script>
+<script id="21">
+<item slot="1" text="look at the sheet music ." />
+<item slot="2" text="play the music on your piano ." />
+</script>
+<script id="22">
+<item slot="1" text="in ." />
+</script>
+<script id="23">
+<item slot="1" text="pick a cd ." />
+<item slot="2" text="open the cd case ." />
+<item slot="3" text="open the top of the cd player ." />
+<item slot="4" text="set the cd in the player ." />
+<item slot="5" text="close the top of the cd player ." />
+<item slot="6" text="wait for cd player to be ready ." />
+<item slot="7" text="click play ." />
+</script>
+<script id="24">
+<item slot="1" text="pick a song to listen to ." />
+<item slot="2" text="take the cd out of the case ." />
+<item slot="3" text="put the cd in the cd player ." />
+<item slot="4" text="press play ." />
+<item slot="5" text="listen to the song ." />
+</script>
+<script id="25">
+<item slot="1" text="pick a song to listen to ." />
+<item slot="2" text="take the cd out of the case ." />
+<item slot="3" text="put the cd in the cd player ." />
+<item slot="4" text="press play ." />
+<item slot="5" text="listen to the song ." />
+</script>
+<script id="26">
+<item slot="1" text="pick a song to listen to ." />
+<item slot="2" text="take the cd out of the case ." />
+<item slot="3" text="put the cd in the cd player ." />
+<item slot="4" text="press play ." />
+<item slot="5" text="listen to the song ." />
+</script>
+<script id="27">
+<item slot="1" text="turn on the radio ." />
+<item slot="2" text="turn to desired song ." />
+<item slot="3" text="listen to the song ." />
+</script>
+<script id="28">
+<item slot="1" text="turn on the radio ." />
+<item slot="2" text="turn to desired song ." />
+<item slot="3" text="listen to the song ." />
+</script>
+<script id="29">
+<item slot="1" text="put cd in stereo ." />
+<item slot="2" text="press play ." />
+</script>
+<script id="30">
+<item slot="1" text="walk to audio system ." />
+<item slot="2" text="turn on ." />
+<item slot="3" text="choose song ." />
+<item slot="4" text="push play ." />
+</script>
+<script id="31">
+<item slot="1" text="choose a song you want to play ." />
+</script>
+<script id="32">
+<item slot="1" text="start media player ." />
+<item slot="2" text="click on music ." />
+<item slot="3" text="press play ." />
+<item slot="4" text="turn up speakers ." />
+<item slot="5" text="enjoy ." />
+</script>
+<script id="33">
+<item slot="1" text="composing words ." />
+<item slot="2" text="composing the music ." />
+<item slot="3" text="putting the music with the words ." />
+<item slot="4" text="practice ." />
+</script>
+<script id="34">
+<item slot="1" text="turn mp3 player on ." />
+<item slot="2" text="pick a song ." />
+<item slot="3" text="press play ." />
+</script>
+<script id="35">
+<item slot="1" text="play ." />
+<item slot="2" text="songs ." />
+</script>
+<script id="36">
+<item slot="1" text="turn on your music device ." />
+<item slot="2" text="press the play button ." />
+</script>
+</scripts>

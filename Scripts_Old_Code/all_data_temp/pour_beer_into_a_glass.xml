@@ -1,0 +1,604 @@
+<scripts>
+<script id="1">
+<item slot="1" text="find the beer ." />
+<item slot="2" text="find a glass ." />
+<item slot="3" text="find a can opener ." />
+<item slot="4" text="open the beer ." />
+<item slot="5" text="tilt the beer bottle ." />
+<item slot="6" text="let the beer flow out to the glass ." />
+<item slot="7" text="put the beer bottle down ." />
+</script>
+<script id="2">
+<item slot="1" text="open beer bottle ." />
+<item slot="2" text="lift lip of bottle against glass ." />
+<item slot="3" text="pour beer into glass ." />
+</script>
+<script id="3">
+<item slot="1" text="tilt the glass ." />
+<item slot="2" text="pour bear from bottle into glass ." />
+</script>
+<script id="4">
+<item slot="1" text="take a beer bottle ." />
+<item slot="2" text="open the beer bottle ." />
+<item slot="3" text="place the neck of the beer bottle over the glass ." />
+<item slot="4" text="tilt the bottle ." />
+<item slot="5" text="wait until the bottle is empty ." />
+<item slot="6" text="put down the bottle ." />
+</script>
+<script id="5">
+<item slot="1" text="get beer and glass ." />
+<item slot="2" text="open beer ." />
+<item slot="3" text="move bottle over glass ." />
+<item slot="4" text="tilt bottle so that beer pours into glass ." />
+<item slot="5" text="when no more beer in bottle stop ." />
+</script>
+<script id="6">
+<item slot="1" text="open beer bottle ." />
+<item slot="2" text="hold glass diagonally ." />
+<item slot="3" text="pour beer into glass letting it flow along the diagonal ." />
+<item slot="4" text="stop when glass is full ." />
+</script>
+<script id="7">
+<item slot="1" text="open the bottle or tap ." />
+<item slot="2" text="tip the bottle or tap handle over the bottle ." />
+<item slot="3" text="watch the beer risie in the glass ." />
+<item slot="4" text="stop pouring when the glass is full ." />
+</script>
+<script id="8">
+<item slot="1" text="open beer bottle ." />
+<item slot="2" text="get glass ." />
+<item slot="3" text="tilt beer bottle while holding it over glass ." />
+<item slot="4" text="allow beer to flow into glass ." />
+<item slot="5" text="stop when glass full or bottle empty ." />
+</script>
+<script id="9">
+<item slot="1" text="find a beer ." />
+<item slot="2" text="find a beer glass ." />
+<item slot="3" text="open the beer ." />
+<item slot="4" text="pour the beer slowly into the glass ." />
+</script>
+<script id="10">
+<item slot="1" text="open beer bottle ." />
+<item slot="2" text="tilt beer glass ." />
+<item slot="3" text="set beer bottle neck to beer glass ." />
+<item slot="4" text="slowly turn beer bottle upside down ." />
+<item slot="5" text="stop when glass is filled ." />
+</script>
+<script id="11">
+<item slot="1" text="locate a container of beer ." />
+<item slot="2" text="locate a glass ." />
+<item slot="3" text="open the container of beer ." />
+<item slot="4" text="transfer the beer from the container to the glass ." />
+</script>
+<script id="12">
+<item slot="1" text="fetch a glass ." />
+<item slot="2" text="get a beer ." />
+<item slot="3" text="open the beer ." />
+<item slot="4" text="pour the beer in the glass ." />
+</script>
+<script id="13">
+<item slot="1" text="get a clean glass ." />
+<item slot="2" text="open the bottle of beer ." />
+<item slot="3" text="put the bottle mouth over the glass ." />
+<item slot="4" text="tilt the bottle slightly ." />
+<item slot="5" text="wait for beer to pour out ." />
+<item slot="6" text="stop when glass is almost full ." />
+</script>
+<script id="14">
+<item slot="1" text="get bottle of beer ." />
+<item slot="2" text="get glass ." />
+<item slot="3" text="if glass is dirty clean glass ." />
+<item slot="4" text="open bottle of beer ." />
+<item slot="5" text="empty beer in glass ." />
+</script>
+<script id="15">
+<item slot="1" text="get the beer ." />
+<item slot="2" text="get the glass ." />
+<item slot="3" text="open the beer ." />
+<item slot="4" text="pour the beer into the glass ." />
+<item slot="5" text="discard the empty beer bottle into the recycling ." />
+<item slot="6" text="serve the beer in the glass ." />
+</script>
+<script id="16">
+<item slot="1" text="acquire glass ." />
+<item slot="2" text="acquire beer can or beer bottle ." />
+<item slot="3" text="open beer can or beer bottle ." />
+<item slot="4" text="lift beer can or beer bottle ." />
+<item slot="5" text="tilt can or bottle forward ." />
+</script>
+<script id="17">
+<item slot="1" text="put beer into a glass ." />
+</script>
+<script id="18">
+<item slot="1" text="get an empty glass ." />
+<item slot="2" text="open the bottle of beer ." />
+<item slot="3" text="pour slowly into the glass ." />
+</script>
+<script id="19">
+<item slot="1" text="get an empty glass ." />
+<item slot="2" text="pour the beer slowly into a glass ." />
+</script>
+<script id="20">
+<item slot="1" text="open fridge ." />
+<item slot="2" text="select beer ." />
+<item slot="3" text="open cabinet ." />
+<item slot="4" text="select glass ." />
+<item slot="5" text="open beer ." />
+<item slot="6" text="pick up beer ." />
+<item slot="7" text="pour beer into glass ." />
+</script>
+<script id="21">
+<item slot="1" text="tilt the glass ." />
+<item slot="2" text="pour the beer until the glass is 3/4ths full ." />
+<item slot="3" text="as you fill the last 1/4th of the glass with beer gradually tilt the glass up straight again ." />
+</script>
+<script id="22">
+<item slot="1" text="get the beer bottle ." />
+<item slot="2" text="get a cup ." />
+<item slot="3" text="put them on a table ." />
+<item slot="4" text="pour the beer in the cup ." />
+</script>
+<script id="23">
+<item slot="1" text="open beer ." />
+<item slot="2" text="tilt glass ." />
+<item slot="3" text="pour beer onto side of glass ." />
+<item slot="4" text="as glass gets full tilt glass back up ." />
+<item slot="5" text="stop pouring when glass is full or beer is empty ." />
+</script>
+<script id="24">
+<item slot="1" text="open beer ." />
+<item slot="2" text="get glass ." />
+<item slot="3" text="pour beer into glass ." />
+</script>
+<script id="25">
+<item slot="1" text="take beer out of cooler ." />
+<item slot="2" text="open beer ." />
+<item slot="3" text="left beer to glass ." />
+<item slot="4" text="pour beer into glass ." />
+</script>
+<script id="26">
+<item slot="1" text="open the beer ." />
+<item slot="2" text="hold the glass ." />
+<item slot="3" text="pour the beer into the glass ." />
+</script>
+<script id="27">
+<item slot="1" text="open the beer ." />
+<item slot="2" text="hold the glass ." />
+<item slot="3" text="pour the beer into the glass ." />
+</script>
+<script id="28">
+<item slot="1" text="get a glass ." />
+<item slot="2" text="get a beer ." />
+<item slot="3" text="open the beer ." />
+<item slot="4" text="pour the beer ." />
+</script>
+<script id="29">
+<item slot="1" text="get a glass ." />
+<item slot="2" text="get a beer ." />
+<item slot="3" text="open the beer ." />
+<item slot="4" text="pour the beer ." />
+</script>
+<script id="30">
+<item slot="1" text="open beer ." />
+<item slot="2" text="pour into glass ." />
+</script>
+<script id="31">
+<item slot="1" text="select beer ." />
+<item slot="2" text="unscrew or pop the top ." />
+<item slot="3" text="tilt bottle over glass until full ." />
+</script>
+<script id="32">
+<item slot="1" text="select beer ." />
+<item slot="2" text="unscrew or pop the top ." />
+<item slot="3" text="tilt bottle over glass until full ." />
+</script>
+<script id="33">
+<item slot="1" text="select beer ." />
+<item slot="2" text="unscrew or pop the top ." />
+<item slot="3" text="tilt bottle over glass until full ." />
+</script>
+<script id="34">
+<item slot="1" text="select beer ." />
+<item slot="2" text="unscrew or pop the top ." />
+<item slot="3" text="tilt bottle over glass until full ." />
+</script>
+<script id="35">
+<item slot="1" text="select beer ." />
+<item slot="2" text="unscrew or pop the top ." />
+<item slot="3" text="tilt bottle over glass until full ." />
+</script>
+<script id="36">
+<item slot="1" text="select beer ." />
+<item slot="2" text="unscrew or pop the top ." />
+<item slot="3" text="tilt bottle over glass until full ." />
+</script>
+<script id="37">
+<item slot="1" text="open beer ." />
+<item slot="2" text="pour beer into glass ." />
+</script>
+<script id="38">
+<item slot="1" text="open beer ." />
+<item slot="2" text="pour beer into glass ." />
+</script>
+<script id="39">
+<item slot="1" text="open beer ." />
+<item slot="2" text="pour beer into glass ." />
+</script>
+<script id="40">
+<item slot="1" text="open beer ." />
+<item slot="2" text="pour beer into glass ." />
+</script>
+<script id="41">
+<item slot="1" text="open beer ." />
+<item slot="2" text="pour beer into glass ." />
+</script>
+<script id="42">
+<item slot="1" text="open beer ." />
+<item slot="2" text="pour beer into glass ." />
+</script>
+<script id="43">
+<item slot="1" text="open beer ." />
+<item slot="2" text="pour beer into glass ." />
+</script>
+<script id="44">
+<item slot="1" text="open beer ." />
+<item slot="2" text="pour beer into glass ." />
+</script>
+<script id="45">
+<item slot="1" text="open beer ." />
+<item slot="2" text="pour beer into glass ." />
+</script>
+<script id="46">
+<item slot="1" text="open the bottle of beer ." />
+<item slot="2" text="tilt the open bottle over the glass ." />
+<item slot="3" text="pour the beer slowly down the inside of the glass ." />
+<item slot="4" text="drink the beer ." />
+</script>
+<script id="47">
+<item slot="1" text="open beer can ." />
+<item slot="2" text="empty can into glass ." />
+</script>
+<script id="48">
+<item slot="1" text="open beer can ." />
+<item slot="2" text="empty can into glass ." />
+</script>
+<script id="49">
+<item slot="1" text="open beer can ." />
+<item slot="2" text="empty can into glass ." />
+</script>
+<script id="50">
+<item slot="1" text="open beer ." />
+<item slot="2" text="pick up glass ." />
+<item slot="3" text="tilt glass ." />
+<item slot="4" text="bring rim of glass and top of beer bottle together ." />
+<item slot="5" text="tilt beer bottle ." />
+</script>
+<script id="51">
+<item slot="1" text="pick up glass ." />
+<item slot="2" text="put class under tap ." />
+<item slot="3" text="pull tap handle ." />
+<item slot="4" text="wait until glass is full ." />
+<item slot="5" text="turn beer tap off ." />
+</script>
+<script id="52">
+<item slot="1" text="open a beer ." />
+<item slot="2" text="get a glass ." />
+<item slot="3" text="pour beer into glass ." />
+<item slot="4" text="discard bottle ." />
+</script>
+<script id="53">
+<item slot="1" text="take glass ." />
+<item slot="2" text="hold beer in one hand ." />
+<item slot="3" text="position beer over glass ." />
+<item slot="4" text="move beer slightly sideways ." />
+<item slot="5" text="tilt beer ." />
+<item slot="6" text="straighten beer when glass is almost full ." />
+</script>
+<script id="54">
+<item slot="1" text="open the refrigerator door ." />
+<item slot="2" text="take a can of beer ." />
+<item slot="3" text="close refrigerator door ." />
+<item slot="4" text="open the beer ." />
+<item slot="5" text="open cupboard door ." />
+<item slot="6" text="take glass and close cupboard door ." />
+<item slot="7" text="pour beer into glass slowly ." />
+</script>
+<script id="55">
+<item slot="1" text="get bottle of beer ." />
+<item slot="2" text="get glass ." />
+<item slot="3" text="get can opener ." />
+<item slot="4" text="open bottle of beer with can opener ." />
+<item slot="5" text="pick up bottle of beer ." />
+<item slot="6" text="pour beer into the glass ." />
+</script>
+<script id="56">
+<item slot="1" text="open the can or bottle ." />
+<item slot="2" text="tilt the glass slightly ." />
+<item slot="3" text="pour the beer into glass ." />
+</script>
+<script id="57">
+<item slot="1" text="get a chilled glass from freezer ." />
+<item slot="2" text="get bottle of bear ." />
+<item slot="3" text="get can opener ." />
+<item slot="4" text="hook can opener under metal lid ." />
+<item slot="5" text="pull up ." />
+<item slot="6" text="pour beer slowly into glass ." />
+</script>
+<script id="58">
+<item slot="1" text="get beer bottle ." />
+<item slot="2" text="open ." />
+<item slot="3" text="pour into glass ." />
+</script>
+<script id="59">
+<item slot="1" text="get an empty glass ." />
+<item slot="2" text="get a can/pitcher of beer ." />
+<item slot="3" text="pour the beer into the glass ." />
+</script>
+<script id="60">
+<item slot="1" text="choose beer ." />
+<item slot="2" text="take out clean glass ." />
+<item slot="3" text="open beer bottle ." />
+<item slot="4" text="pour beer into glass ." />
+</script>
+<script id="61">
+<item slot="1" text="choose beer ." />
+<item slot="2" text="take out clean glass ." />
+<item slot="3" text="open beer bottle ." />
+<item slot="4" text="pour beer into glass ." />
+</script>
+<script id="62">
+<item slot="1" text="open beer ." />
+<item slot="2" text="remove chilled glass from freezer ." />
+<item slot="3" text="tilt glass slightly so poured beer runs down the inside of the glass before hitting the bottom ." />
+<item slot="4" text="skol ." />
+</script>
+<script id="63">
+<item slot="1" text="find glass ." />
+<item slot="2" text="find beer ." />
+<item slot="3" text="open beer ." />
+<item slot="4" text="grab beer bottle ." />
+<item slot="5" text="pour bottle of beer in the glass ." />
+<item slot="6" text="dispose of the beer ." />
+<item slot="7" text="drink the beer ." />
+</script>
+<script id="64">
+<item slot="1" text="find glass ." />
+<item slot="2" text="find beer ." />
+<item slot="3" text="open beer ." />
+<item slot="4" text="grab beer bottle ." />
+<item slot="5" text="pour bottle of beer in the glass ." />
+<item slot="6" text="dispose of the beer ." />
+<item slot="7" text="drink the beer ." />
+</script>
+<script id="65">
+<item slot="1" text="find glass ." />
+<item slot="2" text="find beer ." />
+<item slot="3" text="open beer ." />
+<item slot="4" text="grab beer bottle ." />
+<item slot="5" text="pour bottle of beer in the glass ." />
+<item slot="6" text="dispose of the beer ." />
+<item slot="7" text="drink the beer ." />
+</script>
+<script id="66">
+<item slot="1" text="grab beer bottle ." />
+<item slot="2" text="grab glass ." />
+<item slot="3" text="tilt beer bottle towards the glass ." />
+<item slot="4" text="pour beer out on to the inside side of the glass ." />
+<item slot="5" text="pour until glass is full ." />
+</script>
+<script id="67">
+<item slot="1" text="grab beer bottle ." />
+<item slot="2" text="grab glass ." />
+<item slot="3" text="tilt beer bottle towards the glass ." />
+<item slot="4" text="pour beer out on to the inside side of the glass ." />
+<item slot="5" text="pour until glass is full ." />
+</script>
+<script id="68">
+<item slot="1" text="grab beer bottle ." />
+<item slot="2" text="grab glass ." />
+<item slot="3" text="tilt beer bottle towards the glass ." />
+<item slot="4" text="pour beer out on to the inside side of the glass ." />
+<item slot="5" text="pour until glass is full ." />
+</script>
+<script id="69">
+<item slot="1" text="open beer ." />
+<item slot="2" text="tilt glass sideways ." />
+<item slot="3" text="pour beer down the side of the glass ." />
+</script>
+<script id="70">
+<item slot="1" text="open beer ." />
+<item slot="2" text="tilt glass sideways ." />
+<item slot="3" text="pour beer down the side of the glass ." />
+</script>
+<script id="71">
+<item slot="1" text="open beer ." />
+<item slot="2" text="tilt glass sideways ." />
+<item slot="3" text="pour beer down the side of the glass ." />
+</script>
+<script id="72">
+<item slot="1" text="open beer bottle ." />
+<item slot="2" text="tip glass ." />
+<item slot="3" text="poor beer into glass slowly ." />
+</script>
+<script id="73">
+<item slot="1" text="open beer bottle ." />
+<item slot="2" text="tip glass ." />
+<item slot="3" text="poor beer into glass slowly ." />
+</script>
+<script id="74">
+<item slot="1" text="open fridge ." />
+<item slot="2" text="get beer bottle ." />
+<item slot="3" text="open cupboard ." />
+<item slot="4" text="take out glass ." />
+<item slot="5" text="open beer bottle ." />
+<item slot="6" text="pour beer into glass ." />
+</script>
+<script id="75">
+<item slot="1" text="open fridge ." />
+<item slot="2" text="get beer bottle ." />
+<item slot="3" text="open cupboard ." />
+<item slot="4" text="take out glass ." />
+<item slot="5" text="open beer bottle ." />
+<item slot="6" text="pour beer into glass ." />
+</script>
+<script id="76">
+<item slot="1" text="open fridge ." />
+<item slot="2" text="get beer bottle ." />
+<item slot="3" text="open cupboard ." />
+<item slot="4" text="take out glass ." />
+<item slot="5" text="open beer bottle ." />
+<item slot="6" text="pour beer into glass ." />
+</script>
+<script id="77">
+<item slot="1" text="open fridge ." />
+<item slot="2" text="get beer bottle ." />
+<item slot="3" text="open cupboard ." />
+<item slot="4" text="take out glass ." />
+<item slot="5" text="open beer bottle ." />
+<item slot="6" text="pour beer into glass ." />
+</script>
+<script id="78">
+<item slot="1" text="open beer ." />
+<item slot="2" text="tilt frosty mug ." />
+<item slot="3" text="pour beer down the side of the glass ." />
+<item slot="4" text="when the glass is full blow the head off and drink ." />
+</script>
+<script id="79">
+<item slot="1" text="lift beer bottle ." />
+<item slot="2" text="tilt over glass unitil beer flows ." />
+<item slot="3" text="stop when glass full ." />
+</script>
+<script id="80">
+<item slot="1" text="lift beer bottle ." />
+<item slot="2" text="tilt over glass unitil beer flows ." />
+<item slot="3" text="stop when glass full ." />
+</script>
+<script id="81">
+<item slot="1" text="get a glass ." />
+<item slot="2" text="get the beer ." />
+<item slot="3" text="tip the glass on a 25 degree angle ." />
+<item slot="4" text="pour  in 1 inch of beer ." />
+<item slot="5" text="when foam goes down ." />
+<item slot="6" text="repeat steps 4 -5 ." />
+</script>
+<script id="82">
+<item slot="1" text="get a glass ." />
+<item slot="2" text="get the beer ." />
+<item slot="3" text="tip the glass on a 25 degree angle ." />
+<item slot="4" text="pour  in 1 inch of beer ." />
+<item slot="5" text="when foam goes down ." />
+<item slot="6" text="repeat steps 4 -5 ." />
+</script>
+<script id="83">
+<item slot="1" text="get a glass ." />
+<item slot="2" text="get the beer ." />
+<item slot="3" text="tip the glass on a 25 degree angle ." />
+<item slot="4" text="pour  in 1 inch of beer ." />
+<item slot="5" text="when foam goes down ." />
+<item slot="6" text="repeat steps 4 -5 ." />
+</script>
+<script id="84">
+<item slot="1" text="get clean glass ." />
+<item slot="2" text="place glass on counter ." />
+<item slot="3" text="get beer ." />
+<item slot="4" text="open beer ." />
+</script>
+<script id="85">
+<item slot="1" text="get clean glass ." />
+<item slot="2" text="place glass on counter ." />
+<item slot="3" text="get beer ." />
+<item slot="4" text="open beer ." />
+<item slot="5" text="pour beer into glass ." />
+</script>
+<script id="86">
+<item slot="1" text="open beer can ." />
+<item slot="2" text="tilt beer over a glass ." />
+<item slot="3" text="fill 3/4 and stop ." />
+</script>
+<script id="87">
+<item slot="1" text="get glass ." />
+<item slot="2" text="get beer ." />
+<item slot="3" text="open beer ." />
+<item slot="4" text="pour beer into glass ." />
+</script>
+<script id="88">
+<item slot="1" text="get glass ." />
+<item slot="2" text="get beer ." />
+<item slot="3" text="open beer ." />
+<item slot="4" text="pour beer into glass ." />
+</script>
+<script id="89">
+<item slot="1" text="get glass ." />
+<item slot="2" text="get beer ." />
+<item slot="3" text="open beer ." />
+<item slot="4" text="pour beer into glass ." />
+</script>
+<script id="90">
+<item slot="1" text="get glass ." />
+<item slot="2" text="get beer ." />
+<item slot="3" text="open beer ." />
+<item slot="4" text="pour beer into glass ." />
+</script>
+<script id="91">
+<item slot="1" text="get glass ." />
+<item slot="2" text="get beer ." />
+<item slot="3" text="open beer ." />
+<item slot="4" text="pour beer into glass ." />
+</script>
+<script id="92">
+<item slot="1" text="get glass ." />
+<item slot="2" text="get beer ." />
+<item slot="3" text="open beer ." />
+<item slot="4" text="pour beer into glass ." />
+</script>
+<script id="93">
+<item slot="1" text="take beer out of fridge ." />
+<item slot="2" text="get a glass ." />
+<item slot="3" text="put glass on table ." />
+<item slot="4" text="try to open beer ." />
+<item slot="5" text="give up ." />
+<item slot="6" text="get your wife to open beer ." />
+<item slot="7" text="pour in glass ." />
+</script>
+<script id="94">
+<item slot="1" text="take beer out of fridge ." />
+<item slot="2" text="get a glass ." />
+<item slot="3" text="put glass on table ." />
+<item slot="4" text="try to open beer ." />
+<item slot="5" text="give up ." />
+<item slot="6" text="get your wife to open beer ." />
+<item slot="7" text="pour in glass ." />
+</script>
+<script id="95">
+<item slot="1" text="stand up ." />
+<item slot="2" text="get a glass ." />
+<item slot="3" text="put glass on table ." />
+<item slot="4" text="take beer out of fridge ." />
+<item slot="5" text="try to open beer ." />
+<item slot="6" text="give up ." />
+<item slot="7" text="make wife open beer and pour it ." />
+</script>
+<script id="96">
+<item slot="1" text="stand up ." />
+<item slot="2" text="get a glass ." />
+<item slot="3" text="put glass on table ." />
+<item slot="4" text="take beer out of fridge ." />
+<item slot="5" text="try to open beer ." />
+<item slot="6" text="give up ." />
+<item slot="7" text="make wife open beer and pour it ." />
+</script>
+<script id="97">
+<item slot="1" text="tilt glass at 45 degree angle ." />
+<item slot="2" text="pour beer into glass slowly ." />
+<item slot="3" text="straighten glass as beer gets closer to top ." />
+</script>
+<script id="98">
+<item slot="1" text="tilt glass at 45 degree angle ." />
+<item slot="2" text="pour beer into glass slowly ." />
+<item slot="3" text="straighten glass as beer gets closer to top ." />
+</script>
+<script id="99">
+<item slot="1" text="take cap off the beer ." />
+<item slot="2" text="pour beer into glass ." />
+</script>
+</scripts>

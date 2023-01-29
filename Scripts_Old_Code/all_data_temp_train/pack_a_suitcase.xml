@@ -1,0 +1,301 @@
+<scripts>
+<script id="1">
+<item slot="1" text="find a suitcase ." />
+<item slot="2" text="find things you want to put into the suitcase ." />
+<item slot="3" text="arrange the things in the suitcase ." />
+</script>
+<script id="2">
+<item slot="1" text="open suitcase lid ." />
+<item slot="2" text="pick up item ." />
+<item slot="3" text="fold item ." />
+<item slot="4" text="place item in suitcase ." />
+<item slot="5" text="close suitcase lid ." />
+</script>
+<script id="3">
+<item slot="1" text="retrieve suitcase ." />
+<item slot="2" text="open suitcase ." />
+<item slot="3" text="fold clothes ." />
+<item slot="4" text="place clothes in suitcase ." />
+<item slot="5" text="close suticase ." />
+</script>
+<script id="4">
+<item slot="1" text="open suitcase ." />
+<item slot="2" text="put things to be packed inside ." />
+<item slot="3" text="make sure clothes are folded ." />
+<item slot="4" text="close the suitcase ." />
+</script>
+<script id="5">
+<item slot="1" text="gather the items to be packed ." />
+<item slot="2" text="place them near the suitcase ." />
+<item slot="3" text="fold each item to be in as compact form as possible ." />
+<item slot="4" text="open the suitcase ." />
+<item slot="5" text="place each item in the suitcase ." />
+<item slot="6" text="close the suitcase ." />
+</script>
+<script id="6">
+<item slot="1" text="gather clothes ." />
+<item slot="2" text="fold cloth ." />
+<item slot="3" text="get suitcase ." />
+<item slot="4" text="put clothes in suitcase ." />
+<item slot="5" text="close suitcase ." />
+</script>
+<script id="7">
+<item slot="1" text="open the suitcase ." />
+<item slot="2" text="put the clothes in the suitcase ." />
+<item slot="3" text="put other important things/documents in the suitcase ." />
+<item slot="4" text="close the suitcase ." />
+</script>
+<script id="8">
+<item slot="1" text="open the suitcase ." />
+<item slot="2" text="place clothes in the suitcase ." />
+<item slot="3" text="place shampoo in the suitcase ." />
+<item slot="4" text="place toothbrush and other bathroom supplies in the suitcase ." />
+<item slot="5" text="close the suitcase ." />
+</script>
+<script id="9">
+<item slot="1" text="gather the things to be put into the suitcase ." />
+<item slot="2" text="open the suitcase ." />
+<item slot="3" text="put the things into the suitcase ." />
+<item slot="4" text="close the suitcase ." />
+</script>
+<script id="10">
+<item slot="1" text="fold clothes ." />
+<item slot="2" text="put liquids into plastic bags ." />
+<item slot="3" text="open suitcase ." />
+<item slot="4" text="put items into suitcase in space-efficient manner ." />
+<item slot="5" text="close suitcase ." />
+</script>
+<script id="11">
+<item slot="1" text="gather all items to be put into the suitcase ." />
+<item slot="2" text="put items into the suitcase ." />
+<item slot="3" text="close the suitcase ." />
+</script>
+<script id="12">
+<item slot="1" text="gather clothes ." />
+<item slot="2" text="get suitcase ." />
+<item slot="3" text="arrange clothes in suitcase ." />
+<item slot="4" text="close suitcase ." />
+</script>
+<script id="13">
+<item slot="1" text="determine what items are needed for the trip ." />
+<item slot="2" text="locate the items that are needed ." />
+<item slot="3" text="fold clothing items ." />
+<item slot="4" text="open the suitcase ." />
+<item slot="5" text="place all items in a logical fashion in the suitcase ." />
+<item slot="6" text="close the suitcase ." />
+</script>
+<script id="14">
+<item slot="1" text="gather clothes ." />
+<item slot="2" text="put clothes in suitcase ." />
+<item slot="3" text="close suitcase ." />
+</script>
+<script id="15">
+<item slot="1" text="open suitcase ." />
+<item slot="2" text="fold clothes ." />
+<item slot="3" text="place clothes in suitcase ." />
+<item slot="4" text="close suitcase ." />
+<item slot="5" text="secure suitcase ." />
+</script>
+<script id="16">
+<item slot="1" text="gather clothes ." />
+<item slot="2" text="place clothes inside suitcase ." />
+<item slot="3" text="close suitecase ." />
+</script>
+<script id="17">
+<item slot="1" text="get the suitcase ." />
+<item slot="2" text="get your clothe4s out the wardrobe ." />
+<item slot="3" text="put them in the suitcase ." />
+<item slot="4" text="close the suitcase ." />
+</script>
+<script id="18">
+<item slot="1" text="find a suitcase ." />
+<item slot="2" text="open the suitcase ." />
+<item slot="3" text="find items to put into the suitcase ." />
+<item slot="4" text="put an item into the suitcase ." />
+<item slot="5" text="repeat until all items are in the suitcase or until the suitcase is full ." />
+<item slot="6" text="close the suitcase ." />
+</script>
+<script id="19">
+<item slot="1" text="get suitcase ." />
+<item slot="2" text="identify essentials ." />
+<item slot="3" text="pack essentials ." />
+<item slot="4" text="check weather of destination ." />
+<item slot="5" text="choose clothing ." />
+<item slot="6" text="pack clothing ." />
+<item slot="7" text="lock suitcase ." />
+</script>
+<script id="20">
+<item slot="1" text="find an empty suitcase ." />
+</script>
+<script id="21">
+<item slot="1" text="gather items to be packed ." />
+<item slot="2" text="put items in suitcase ." />
+<item slot="3" text="close suitcase ." />
+</script>
+<script id="22">
+<item slot="1" text="book trip ." />
+<item slot="2" text="find suitcase ." />
+<item slot="3" text="unpack suitcase from last trip ." />
+<item slot="4" text="gather desired clothing ." />
+<item slot="5" text="fold clothing neatly ." />
+<item slot="6" text="place clothing into suitcase ." />
+<item slot="7" text="close suitcase ." />
+</script>
+<script id="23">
+<item slot="1" text="open a suitcase ." />
+<item slot="2" text="fold clothes ." />
+<item slot="3" text="put clothes in suitcase ." />
+<item slot="4" text="close suitcase ." />
+</script>
+<script id="24">
+<item slot="1" text="open the suitcase ." />
+<item slot="2" text="gather up the clothes ." />
+<item slot="3" text="put the clothes in the suitcase ." />
+<item slot="4" text="close the suitcase ." />
+</script>
+<script id="25">
+<item slot="1" text="find suitcase ." />
+<item slot="2" text="open suitcase ." />
+<item slot="3" text="gather items to pack ." />
+<item slot="4" text="organize items ." />
+<item slot="5" text="plan where to put items ." />
+<item slot="6" text="put items into suitcase ." />
+<item slot="7" text="close suitcase ." />
+</script>
+<script id="26">
+<item slot="1" text="select clothes ." />
+<item slot="2" text="fold clothes ." />
+<item slot="3" text="place in suitcase ." />
+</script>
+<script id="27">
+<item slot="1" text="yell at spouse louder and longer thean usual ." />
+<item slot="2" text="yank suitcase out of closet ." />
+<item slot="3" text="spend an hour looking at wedding dress in suit case ." />
+<item slot="4" text="cry ." />
+<item slot="5" text="kiss and makeup ." />
+<item slot="6" text="put suitcasr back in closet ." />
+<item slot="7" text="pat robot ." />
+</script>
+<script id="28">
+<item slot="1" text="find suitcases ." />
+<item slot="2" text="lay out outfits ." />
+<item slot="3" text="wrap shoes in bags ." />
+<item slot="4" text="roll up clothing and stuff cases ." />
+<item slot="5" text="find toiletries and put in suitcase ." />
+<item slot="6" text="find jewelry and put in case ." />
+<item slot="7" text="find entertainment and put in case ." />
+</script>
+<script id="29">
+<item slot="1" text="open suitcase ." />
+<item slot="2" text="fill suitcase with clothes ." />
+<item slot="3" text="close suitcase ." />
+</script>
+<script id="30">
+<item slot="1" text="locate all necessary items ." />
+<item slot="2" text="fold clothing ." />
+<item slot="3" text="put clothing in suitcase ." />
+<item slot="4" text="put other stuff on top of clothing ." />
+<item slot="5" text="zip up suitcase ." />
+</script>
+<script id="31">
+<item slot="1" text="locate all necessary items ." />
+<item slot="2" text="fold clothing ." />
+<item slot="3" text="put clothing in suitcase ." />
+<item slot="4" text="put other stuff on top of clothing ." />
+<item slot="5" text="zip up suitcase ." />
+</script>
+<script id="32">
+<item slot="1" text="open suitcase ." />
+<item slot="2" text="fill with clothes ." />
+<item slot="3" text="close suitcase ." />
+</script>
+<script id="33">
+<item slot="1" text="put suitcase on bed ." />
+<item slot="2" text="open suitcase ." />
+<item slot="3" text="take clothes out of wardrobe ." />
+<item slot="4" text="put clothes in suitcase ." />
+<item slot="5" text="close and seal suitcase ." />
+</script>
+<script id="34">
+<item slot="1" text="pick out clean clothes you need ." />
+<item slot="2" text="gather and bag toiletries ." />
+<item slot="3" text="place neatly into suitcase ." />
+<item slot="4" text="zip up suitcase ." />
+</script>
+<script id="35">
+<item slot="1" text="pick out clean clothes you need ." />
+<item slot="2" text="gather and bag toiletries ." />
+<item slot="3" text="place neatly into suitcase ." />
+<item slot="4" text="zip up suitcase ." />
+</script>
+<script id="36">
+<item slot="1" text="remove clothes from closet ." />
+<item slot="2" text="open suitcase ." />
+<item slot="3" text="fold clothes ." />
+<item slot="4" text="place folded clothes in suitcase ." />
+<item slot="5" text="ensure even distribution ." />
+<item slot="6" text="close suitcase ." />
+<item slot="7" text="secure zipper ." />
+</script>
+<script id="37">
+<item slot="1" text="open suitcase ." />
+<item slot="2" text="pick out wanted items for trip ." />
+<item slot="3" text="fold them neatly ." />
+<item slot="4" text="arrange them neatly in suitcase and pockets ." />
+<item slot="5" text="close suitcase ." />
+</script>
+<script id="38">
+<item slot="1" text="take clothes from closet ." />
+<item slot="2" text="fold clothes ." />
+<item slot="3" text="place clothes in suitcase ." />
+<item slot="4" text="arrange clothes carefully ." />
+<item slot="5" text="close suitcase ." />
+</script>
+<script id="39">
+<item slot="1" text="walk towards suitcase ." />
+<item slot="2" text="pack everything you need ." />
+<item slot="3" text="put everything in suitcase ." />
+<item slot="4" text="close suitcase ." />
+<item slot="5" text="buckle everything on suitcase ." />
+<item slot="6" text="done ." />
+</script>
+<script id="40">
+<item slot="1" text="walk towards suitcase ." />
+<item slot="2" text="pack everything you need ." />
+<item slot="3" text="put everything in suitcase ." />
+<item slot="4" text="close suitcase ." />
+<item slot="5" text="buckle everything on suitcase ." />
+<item slot="6" text="done ." />
+</script>
+<script id="41">
+<item slot="1" text="choose clothing ." />
+<item slot="2" text="fold clothes ." />
+<item slot="3" text="place clothes in suitcase ." />
+<item slot="4" text="close suitcase ." />
+</script>
+<script id="42">
+<item slot="1" text="choose clothing ." />
+<item slot="2" text="fold clothes ." />
+<item slot="3" text="place clothes in suitcase ." />
+<item slot="4" text="close suitcase ." />
+</script>
+<script id="43">
+<item slot="1" text="walk ." />
+<item slot="2" text="pack suitcase ." />
+</script>
+<script id="44">
+<item slot="1" text="pack the suit case4 ." />
+</script>
+<script id="45">
+<item slot="1" text="place things to bring in suitcase ." />
+</script>
+<script id="46">
+<item slot="1" text="get suitcase ." />
+<item slot="2" text="figure out what is needed ." />
+<item slot="3" text="get clothes ." />
+<item slot="4" text="fold clothes ." />
+<item slot="5" text="place in suitcase ." />
+<item slot="6" text="put bathroom stuff in ziplock in suitcase ." />
+<item slot="7" text="clothes lid ." />
+</script>
+</scripts>

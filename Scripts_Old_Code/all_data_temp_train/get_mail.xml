@@ -1,0 +1,375 @@
+<scripts>
+<script id="1">
+<item slot="1" text="go to mailbox ." />
+<item slot="2" text="open mailbox ." />
+<item slot="3" text="retrieve mail ." />
+<item slot="4" text="close mailbox ." />
+</script>
+<script id="2">
+<item slot="1" text="walk to the mailbox ." />
+<item slot="2" text="open the mailbox ." />
+<item slot="3" text="take mail out of box ." />
+<item slot="4" text="close mailbox ." />
+<item slot="5" text="walk back home ." />
+</script>
+<script id="3">
+<item slot="1" text="go to mail box ." />
+<item slot="2" text="check if theres a mail ." />
+<item slot="3" text="if theres a mail get it ." />
+</script>
+<script id="4">
+<item slot="1" text="walk to the mailbox ." />
+<item slot="2" text="open the flap ." />
+<item slot="3" text="reach in and grab the mail ." />
+<item slot="4" text="pull the mail out of the mailbox ." />
+<item slot="5" text="close the flap ." />
+</script>
+<script id="5">
+<item slot="1" text="go to the mailbox ." />
+<item slot="2" text="open the mailbox ." />
+<item slot="3" text="remove the mail ." />
+</script>
+<script id="6">
+<item slot="1" text="go outside ." />
+<item slot="2" text="walk to the mailbox ." />
+<item slot="3" text="open the mailbox ." />
+<item slot="4" text="retrieve mail from inside the mailbox ." />
+<item slot="5" text="close mailbox ." />
+<item slot="6" text="go inside ." />
+</script>
+<script id="7">
+<item slot="1" text="open the door and walk to the mailbox ." />
+<item slot="2" text="open mailbox and take out mail ." />
+<item slot="3" text="walk back into the house ." />
+</script>
+<script id="8">
+<item slot="1" text="go to mailbox ." />
+<item slot="2" text="open mailbox ." />
+<item slot="3" text="retrieve mail ." />
+<item slot="4" text="sort mail ." />
+</script>
+<script id="9">
+<item slot="1" text="go to the mailbox ." />
+<item slot="2" text="open the mailbox ." />
+<item slot="3" text="pick up the letters ." />
+<item slot="4" text="bring the letters inside ." />
+</script>
+<script id="10">
+<item slot="1" text="go to the door ." />
+<item slot="2" text="open the door ." />
+<item slot="3" text="go out through the door to the mailbox ." />
+<item slot="4" text="open the mailbox ." />
+<item slot="5" text="take the mail ." />
+</script>
+<script id="11">
+<item slot="1" text="go to the door ." />
+<item slot="2" text="open the door ." />
+<item slot="3" text="go out through the door to the mailbox ." />
+<item slot="4" text="open the mailbox ." />
+<item slot="5" text="take the mail ." />
+</script>
+<script id="12">
+<item slot="1" text="go to the door ." />
+<item slot="2" text="open the door ." />
+<item slot="3" text="go out through the door to the mailbox ." />
+<item slot="4" text="open the mailbox ." />
+<item slot="5" text="take the mail ." />
+</script>
+<script id="13">
+<item slot="1" text="go to the door ." />
+<item slot="2" text="open the door ." />
+<item slot="3" text="go out through the door to the mailbox ." />
+<item slot="4" text="open the mailbox ." />
+<item slot="5" text="take the mail ." />
+</script>
+<script id="14">
+<item slot="1" text="go to the door ." />
+<item slot="2" text="open the door ." />
+<item slot="3" text="go out through the door to the mailbox ." />
+<item slot="4" text="open the mailbox ." />
+<item slot="5" text="take the mail ." />
+</script>
+<script id="15">
+<item slot="1" text="go to the door ." />
+<item slot="2" text="open the door ." />
+<item slot="3" text="go out through the door to the mailbox ." />
+<item slot="4" text="open the mailbox ." />
+<item slot="5" text="take the mail ." />
+</script>
+<script id="16">
+<item slot="1" text="go to the door ." />
+<item slot="2" text="open the door ." />
+<item slot="3" text="go out through the door to the mailbox ." />
+<item slot="4" text="open the mailbox ." />
+<item slot="5" text="take the mail ." />
+</script>
+<script id="17">
+<item slot="1" text="go to the door ." />
+<item slot="2" text="open the door ." />
+<item slot="3" text="go out through the door to the mailbox ." />
+<item slot="4" text="open the mailbox ." />
+<item slot="5" text="take the mail ." />
+</script>
+<script id="18">
+<item slot="1" text="open mailbox ." />
+<item slot="2" text="put hand in mailbox ." />
+<item slot="3" text="pull mail from mailbox ." />
+<item slot="4" text="close mailbox ." />
+</script>
+<script id="19">
+<item slot="1" text="open mailbox ." />
+<item slot="2" text="put hand in mailbox ." />
+<item slot="3" text="pull mail from mailbox ." />
+<item slot="4" text="close mailbox ." />
+</script>
+<script id="20">
+<item slot="1" text="open mailbox ." />
+<item slot="2" text="put hand in mailbox ." />
+<item slot="3" text="pull mail from mailbox ." />
+<item slot="4" text="close mailbox ." />
+</script>
+<script id="21">
+<item slot="1" text="open mailbox ." />
+<item slot="2" text="put hand in mailbox ." />
+<item slot="3" text="pull mail from mailbox ." />
+<item slot="4" text="close mailbox ." />
+</script>
+<script id="22">
+<item slot="1" text="open mailbox ." />
+<item slot="2" text="put hand in mailbox ." />
+<item slot="3" text="pull mail from mailbox ." />
+<item slot="4" text="close mailbox ." />
+</script>
+<script id="23">
+<item slot="1" text="open mailbox ." />
+<item slot="2" text="put hand in mailbox ." />
+<item slot="3" text="pull mail from mailbox ." />
+<item slot="4" text="close mailbox ." />
+</script>
+<script id="24">
+<item slot="1" text="open mailbox ." />
+<item slot="2" text="put hand in mailbox ." />
+<item slot="3" text="pull mail from mailbox ." />
+<item slot="4" text="close mailbox ." />
+</script>
+<script id="25">
+<item slot="1" text="open mailbox ." />
+<item slot="2" text="put hand in mailbox ." />
+<item slot="3" text="pull mail from mailbox ." />
+<item slot="4" text="close mailbox ." />
+</script>
+<script id="26">
+<item slot="1" text="open mailbox ." />
+<item slot="2" text="put hand in mailbox ." />
+<item slot="3" text="pull mail from mailbox ." />
+<item slot="4" text="close mailbox ." />
+</script>
+<script id="27">
+<item slot="1" text="walk to mailbox ." />
+<item slot="2" text="open mailbox ." />
+<item slot="3" text="remove mail ." />
+</script>
+<script id="28">
+<item slot="1" text="goto mail ." />
+<item slot="2" text="retrieve mail ." />
+<item slot="3" text="hold mail ." />
+<item slot="4" text="return to requester ." />
+<item slot="5" text="give mail to requester ." />
+</script>
+<script id="29">
+<item slot="1" text="open mailbox ." />
+<item slot="2" text="take out mail ." />
+<item slot="3" text="close box ." />
+</script>
+<script id="30">
+<item slot="1" text="goto mail ." />
+<item slot="2" text="grab mail ." />
+<item slot="3" text="hold mail ." />
+<item slot="4" text="return with mail ." />
+</script>
+<script id="31">
+<item slot="1" text="walk to mailbox ." />
+<item slot="2" text="open front of mailbox ." />
+<item slot="3" text="pull mail out of mailbox ." />
+<item slot="4" text="close mailbox ." />
+<item slot="5" text="walk back to house ." />
+</script>
+<script id="32">
+<item slot="1" text="open outlook ." />
+<item slot="2" text="open inbox ." />
+<item slot="3" text="click get mail ." />
+<item slot="4" text="open mail ." />
+</script>
+<script id="33">
+<item slot="1" text="walk to mail box ." />
+<item slot="2" text="open door on mail box ." />
+<item slot="3" text="pull out the mail ." />
+<item slot="4" text="close the mail box ." />
+</script>
+<script id="34">
+<item slot="1" text="go outside ." />
+<item slot="2" text="go to the mail box ." />
+<item slot="3" text="open the mailbox ." />
+<item slot="4" text="get the mail ." />
+<item slot="5" text="bring the mail inside ." />
+</script>
+<script id="35">
+<item slot="1" text="go outside ." />
+<item slot="2" text="go to the mail box ." />
+<item slot="3" text="open the mailbox ." />
+<item slot="4" text="get the mail ." />
+<item slot="5" text="bring the mail inside ." />
+</script>
+<script id="36">
+<item slot="1" text="walk to door ." />
+<item slot="2" text="remove mail from letterbox ." />
+<item slot="3" text="pick up mail from floor ." />
+</script>
+<script id="37">
+<item slot="1" text="walk to door ." />
+<item slot="2" text="remove mail from letterbox ." />
+<item slot="3" text="pick up mail from floor ." />
+</script>
+<script id="38">
+<item slot="1" text="go to mail box ." />
+<item slot="2" text="open mail box ." />
+<item slot="3" text="remove mail from mail box ." />
+<item slot="4" text="close mail box ." />
+<item slot="5" text="return to starting location ." />
+<item slot="6" text="place mail in appropriate location ." />
+</script>
+<script id="39">
+<item slot="1" text="go to front door ." />
+<item slot="2" text="open the door ." />
+<item slot="3" text="step onto porch ." />
+<item slot="4" text="open the mailbox ." />
+<item slot="5" text="grab any mail inside ." />
+</script>
+<script id="40">
+<item slot="1" text="goto mail box ." />
+<item slot="2" text="open mail box ." />
+<item slot="3" text="collect mail ." />
+<item slot="4" text="close mail box ." />
+</script>
+<script id="41">
+<item slot="1" text="open mailbox ." />
+<item slot="2" text="grab whatever is inside ." />
+</script>
+<script id="42">
+<item slot="1" text="open mailbox ." />
+<item slot="2" text="grab whatever is inside ." />
+</script>
+<script id="43">
+<item slot="1" text="open door ." />
+<item slot="2" text="walk to mailbox ." />
+<item slot="3" text="open mail box ." />
+<item slot="4" text="remove mail ." />
+<item slot="5" text="carry indoors ." />
+</script>
+<script id="44">
+<item slot="1" text="get ready to go outside ." />
+<item slot="2" text="go look in the mailbox ." />
+<item slot="3" text="see if there is any mail to get ." />
+<item slot="4" text="pick up the contents ." />
+<item slot="5" text="sort by bills and circulars ." />
+<item slot="6" text="close the mailbox ." />
+<item slot="7" text="return inside ." />
+</script>
+<script id="45">
+<item slot="1" text="open the mailbox ." />
+<item slot="2" text="stick hand into mailbox ." />
+<item slot="3" text="pull out mail ." />
+</script>
+<script id="46">
+<item slot="1" text="walk downstairs ." />
+<item slot="2" text="open mail box ." />
+<item slot="3" text="grab mail ." />
+<item slot="4" text="close mailbox ." />
+</script>
+<script id="47">
+<item slot="1" text="walk downstairs ." />
+<item slot="2" text="open mail box ." />
+<item slot="3" text="grab mail ." />
+<item slot="4" text="close mailbox ." />
+</script>
+<script id="48">
+<item slot="1" text="walk downstairs ." />
+<item slot="2" text="open mail box ." />
+<item slot="3" text="grab mail ." />
+<item slot="4" text="close mailbox ." />
+</script>
+<script id="49">
+<item slot="1" text="walk downstairs ." />
+<item slot="2" text="open mail box ." />
+<item slot="3" text="grab mail ." />
+<item slot="4" text="close mailbox ." />
+</script>
+<script id="50">
+<item slot="1" text="go to mail box ." />
+<item slot="2" text="open mail box ." />
+<item slot="3" text="look inside mailbox ." />
+<item slot="4" text="see mail ." />
+<item slot="5" text="grab mail ." />
+</script>
+<script id="51">
+<item slot="1" text="go to mail box ." />
+<item slot="2" text="open mail box ." />
+<item slot="3" text="look inside mailbox ." />
+<item slot="4" text="see mail ." />
+<item slot="5" text="grab mail ." />
+</script>
+<script id="52">
+<item slot="1" text="go downstairs to mail box ." />
+<item slot="2" text="open mailbox ." />
+<item slot="3" text="reach in and grab the mail ." />
+<item slot="4" text="close mailbox ." />
+</script>
+<script id="53">
+<item slot="1" text="go downstairs to mail box ." />
+<item slot="2" text="open mailbox ." />
+<item slot="3" text="reach in and grab the mail ." />
+<item slot="4" text="close mailbox ." />
+</script>
+<script id="54">
+<item slot="1" text="go downstairs to mail box ." />
+<item slot="2" text="open mailbox ." />
+<item slot="3" text="reach in and grab the mail ." />
+<item slot="4" text="close mailbox ." />
+</script>
+<script id="55">
+<item slot="1" text="go downstairs to mail box ." />
+<item slot="2" text="open mailbox ." />
+<item slot="3" text="reach in and grab the mail ." />
+<item slot="4" text="close mailbox ." />
+</script>
+<script id="56">
+<item slot="1" text="go downstairs to mail box ." />
+<item slot="2" text="open mailbox ." />
+<item slot="3" text="reach in and grab the mail ." />
+<item slot="4" text="close mailbox ." />
+</script>
+<script id="57">
+<item slot="1" text="go downstairs to mail box ." />
+<item slot="2" text="open mailbox ." />
+<item slot="3" text="reach in and grab the mail ." />
+<item slot="4" text="close mailbox ." />
+</script>
+<script id="58">
+<item slot="1" text="go to the mailbox ." />
+<item slot="2" text="use key to open lock ." />
+<item slot="3" text="take mail ." />
+<item slot="4" text="use key to lock ." />
+</script>
+<script id="59">
+<item slot="1" text="go to the mailbox ." />
+<item slot="2" text="use key to open lock ." />
+<item slot="3" text="take mail ." />
+<item slot="4" text="use key to lock ." />
+</script>
+<script id="60">
+<item slot="1" text="go to the mailbox ." />
+<item slot="2" text="use key to open lock ." />
+<item slot="3" text="take mail ." />
+<item slot="4" text="use key to lock ." />
+</script>
+</scripts>

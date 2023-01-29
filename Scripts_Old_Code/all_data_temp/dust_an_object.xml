@@ -1,0 +1,233 @@
+<scripts>
+<script id="1">
+<item slot="1" text="pick up a cloth ." />
+<item slot="2" text="go near the object ." />
+<item slot="3" text="swipe the object with the cloth ." />
+</script>
+<script id="2">
+<item slot="1" text="take out the duster ." />
+<item slot="2" text="dust the object ." />
+<item slot="3" text="put the duster back ." />
+</script>
+<script id="3">
+<item slot="1" text="pick up duster ." />
+<item slot="2" text="run duster across surface of object ." />
+<item slot="3" text="put down duster ." />
+</script>
+<script id="4">
+<item slot="1" text="find a dustcloth ." />
+<item slot="2" text="run dustcloth over object ." />
+</script>
+<script id="5">
+<item slot="1" text="locate a clean rag ." />
+<item slot="2" text="rub the rag over the dusty object ." />
+<item slot="3" text="replace the object to its original location ." />
+<item slot="4" text="clean the rag ." />
+</script>
+<script id="6">
+<item slot="1" text="locate a clean rag ." />
+<item slot="2" text="wipe the clean rag over the surface of the dusty object ." />
+<item slot="3" text="stop rubbing the object when the dust is adequately removed ." />
+<item slot="4" text="wash the dirty rag ." />
+</script>
+<script id="7">
+<item slot="1" text="move close to duster ." />
+<item slot="2" text="pick up duster ." />
+<item slot="3" text="move close to object ." />
+<item slot="4" text="rub the duster on the object ." />
+</script>
+<script id="8">
+<item slot="1" text="pick up the duster ." />
+<item slot="2" text="move over to the object ." />
+<item slot="3" text="use the duster to remove the dust on the object ." />
+</script>
+<script id="9">
+<item slot="1" text="get out the duster ." />
+<item slot="2" text="brush the duster over the object ." />
+<item slot="3" text="replace the duster ." />
+</script>
+<script id="10">
+<item slot="1" text="take brush ." />
+<item slot="2" text="wipe object ." />
+</script>
+<script id="11">
+<item slot="1" text="get duster ." />
+<item slot="2" text="hold object ." />
+<item slot="3" text="move duster over object ." />
+</script>
+<script id="12">
+<item slot="1" text="get feather duster ." />
+<item slot="2" text="pick up the object ." />
+<item slot="3" text="wipe feathers of feather duster on object ." />
+<item slot="4" text="set down the object ." />
+</script>
+<script id="13">
+<item slot="1" text="pick up the object ." />
+<item slot="2" text="get a damp rag ." />
+<item slot="3" text="wipe the dust off the object with the damp rag ." />
+<item slot="4" text="set the object back down ." />
+</script>
+<script id="14">
+<item slot="1" text="locate the item to dust ." />
+<item slot="2" text="locate a dust rag ." />
+<item slot="3" text="locate a cleaning spray ." />
+<item slot="4" text="spray the item to dust ." />
+<item slot="5" text="rub the rag of the item to dust ." />
+</script>
+<script id="15">
+<item slot="1" text="pick up duster ." />
+<item slot="2" text="identify object to be dusted ." />
+<item slot="3" text="gently brush object with duster ." />
+</script>
+<script id="16">
+<item slot="1" text="obtain a dust rag ." />
+<item slot="2" text="obtain polish ." />
+<item slot="3" text="put polish on dust rag ." />
+<item slot="4" text="rub dust rag on all surfaces of object to be dusted ." />
+<item slot="5" text="put away dust rag ." />
+<item slot="6" text="put away polish ." />
+</script>
+<script id="17">
+<item slot="1" text="get cloth/feather duster ." />
+<item slot="2" text="gently wipe all exposed surfaces ." />
+</script>
+<script id="18">
+<item slot="1" text="obtain duster ." />
+<item slot="2" text="lightly remove dust with duster with a sweeping motion ." />
+</script>
+<script id="19">
+<item slot="1" text="get a duster ." />
+<item slot="2" text="gently run the duster over the object ." />
+</script>
+<script id="20">
+<item slot="1" text="pick up the duster ." />
+<item slot="2" text="pick up the object ." />
+<item slot="3" text="brush the duster against the object ." />
+<item slot="4" text="put the object back on the shelf ." />
+<item slot="5" text="blow on the object to really remove the dust! ." />
+</script>
+<script id="21">
+<item slot="1" text="swipe the duster back and forth over the object ." />
+<item slot="2" text="blow on the object ." />
+<item slot="3" text="wipe object on jyour eans ." />
+</script>
+<script id="22">
+<item slot="1" text="find the object ." />
+<item slot="2" text="dust it ." />
+</script>
+<script id="23">
+<item slot="1" text="pick up duster ." />
+<item slot="2" text="gently brush duster over object ." />
+<item slot="3" text="continue step two until object is dust free ." />
+<item slot="4" text="repeat as desired ." />
+</script>
+<script id="24">
+<item slot="1" text="dust ." />
+<item slot="2" text="dust ." />
+<item slot="3" text="dust ." />
+<item slot="4" text="dust ." />
+<item slot="5" text="dust ." />
+<item slot="6" text="dust ." />
+<item slot="7" text="dust ." />
+</script>
+<script id="25">
+<item slot="1" text="walk toward object ." />
+<item slot="2" text="take object ." />
+<item slot="3" text="hold object ." />
+<item slot="4" text="look at object ." />
+<item slot="5" text="turn object around ." />
+<item slot="6" text="take duster ." />
+<item slot="7" text="dust object ." />
+</script>
+<script id="26">
+<item slot="1" text="obtain duster ." />
+<item slot="2" text="dust object ." />
+</script>
+<script id="27">
+<item slot="1" text="pick up object ." />
+<item slot="2" text="select dusting device ." />
+<item slot="3" text="use device to remove dust from surface ." />
+<item slot="4" text="inspect for remaining dust ." />
+</script>
+<script id="28">
+<item slot="1" text="pick up object ." />
+<item slot="2" text="select dusting device ." />
+<item slot="3" text="use device to remove dust from surface ." />
+<item slot="4" text="inspect for remaining dust ." />
+</script>
+<script id="29">
+<item slot="1" text="pick up object ." />
+<item slot="2" text="select dusting device ." />
+<item slot="3" text="use device to remove dust from surface ." />
+<item slot="4" text="inspect for remaining dust ." />
+</script>
+<script id="30">
+<item slot="1" text="pick up object ." />
+<item slot="2" text="select dusting device ." />
+<item slot="3" text="use device to remove dust from surface ." />
+<item slot="4" text="inspect for remaining dust ." />
+</script>
+<script id="31">
+<item slot="1" text="pick up object ." />
+<item slot="2" text="select dusting device ." />
+<item slot="3" text="use device to remove dust from surface ." />
+<item slot="4" text="inspect for remaining dust ." />
+</script>
+<script id="32">
+<item slot="1" text="pick up object ." />
+<item slot="2" text="select dusting device ." />
+<item slot="3" text="use device to remove dust from surface ." />
+<item slot="4" text="inspect for remaining dust ." />
+</script>
+<script id="33">
+<item slot="1" text="grasp dust rag ." />
+<item slot="2" text="move rag across object carefully ." />
+<item slot="3" text="dust until no more dust remains ." />
+</script>
+<script id="34">
+<item slot="1" text="grasp dust rag ." />
+<item slot="2" text="move rag across object carefully ." />
+<item slot="3" text="dust until no more dust remains ." />
+</script>
+<script id="35">
+<item slot="1" text="grasp dust rag ." />
+<item slot="2" text="move rag across object carefully ." />
+<item slot="3" text="dust until no more dust remains ." />
+</script>
+<script id="36">
+<item slot="1" text="grasp dust rag ." />
+<item slot="2" text="move rag across object carefully ." />
+<item slot="3" text="dust until no more dust remains ." />
+</script>
+<script id="37">
+<item slot="1" text="grasp dust rag ." />
+<item slot="2" text="move rag across object carefully ." />
+<item slot="3" text="dust until no more dust remains ." />
+</script>
+<script id="38">
+<item slot="1" text="grasp dust rag ." />
+<item slot="2" text="move rag across object carefully ." />
+<item slot="3" text="dust until no more dust remains ." />
+</script>
+<script id="39">
+<item slot="1" text="find duster ." />
+<item slot="2" text="remove objects from surface ." />
+<item slot="3" text="dust surface ." />
+<item slot="4" text="replace objects ." />
+</script>
+<script id="40">
+<item slot="1" text="find dusty object ." />
+<item slot="2" text="get duster ." />
+<item slot="3" text="dust object ." />
+</script>
+<script id="41">
+<item slot="1" text="get a duster ." />
+<item slot="2" text="find a dusty object ." />
+<item slot="3" text="rub duster on the objct until it is no longer dusty ." />
+</script>
+<script id="42">
+<item slot="1" text="get a duster ." />
+<item slot="2" text="find a dusty object ." />
+<item slot="3" text="rub duster on the objct until it is no longer dusty ." />
+</script>
+</scripts>

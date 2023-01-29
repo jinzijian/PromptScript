@@ -1,0 +1,547 @@
+<scripts>
+<script id="1">
+<item slot="1" text="go to the refrigerator ." />
+<item slot="2" text="open the refrigerator ." />
+<item slot="3" text="take food from refrigerator ." />
+<item slot="4" text="close door of refrigerator ." />
+</script>
+<script id="2">
+<item slot="1" text="go to refrigerator ." />
+<item slot="2" text="open door ." />
+<item slot="3" text="identify shelf food is on ." />
+<item slot="4" text="pick food up ." />
+<item slot="5" text="close door ." />
+</script>
+<script id="3">
+<item slot="1" text="go to refrigerator ." />
+<item slot="2" text="open refrigerator door ." />
+<item slot="3" text="get food ." />
+<item slot="4" text="close refrigerator door ." />
+</script>
+<script id="4">
+<item slot="1" text="walk to the kitchen ." />
+<item slot="2" text="walk to the refrigerator ." />
+<item slot="3" text="open the refrigerator door ." />
+<item slot="4" text="pull out some food ." />
+<item slot="5" text="close the refrigerator door ." />
+<item slot="6" text="walk to the table ." />
+</script>
+<script id="5">
+<item slot="1" text="going to the refrigerator ." />
+<item slot="2" text="opening the door ." />
+<item slot="3" text="having a look at what is inside ." />
+<item slot="4" text="choosing something ." />
+<item slot="5" text="picking it up ." />
+<item slot="6" text="shutting the door ." />
+</script>
+<script id="6">
+<item slot="1" text="open the refrigerator door ." />
+<item slot="2" text="take the food ." />
+</script>
+<script id="7">
+<item slot="1" text="move to refrigerator ." />
+<item slot="2" text="open door ." />
+<item slot="3" text="retrieve item from shelf or drawer ." />
+<item slot="4" text="close door ." />
+</script>
+<script id="8">
+<item slot="1" text="find refrigerator ." />
+<item slot="2" text="open refrigerator ." />
+<item slot="3" text="look for food in refigerator ." />
+<item slot="4" text="pick up food ." />
+<item slot="5" text="close refrigerator ." />
+</script>
+<script id="9">
+<item slot="1" text="find refrigerator ." />
+<item slot="2" text="open refrigerator door ." />
+<item slot="3" text="find food in refrigerator ." />
+<item slot="4" text="take food out of refrigerator ." />
+<item slot="5" text="close refrigerator door ." />
+</script>
+<script id="10">
+<item slot="1" text="walk to the refrigerator ." />
+<item slot="2" text="open refrigerator door ." />
+<item slot="3" text="pick up food ." />
+<item slot="4" text="close refrigerator door ." />
+<item slot="5" text="return with food ." />
+</script>
+<script id="11">
+<item slot="1" text="open the refrigerator ." />
+<item slot="2" text="take food out ." />
+<item slot="3" text="close the refrigerator ." />
+<item slot="4" text="take food to person ." />
+</script>
+<script id="12">
+<item slot="1" text="open the refrigerator ." />
+<item slot="2" text="locate the desired food within the refrigerator ." />
+<item slot="3" text="remove the food from the refrigerator ." />
+<item slot="4" text="close the refrigerator ." />
+</script>
+<script id="13">
+<item slot="1" text="go to refrigerator ." />
+<item slot="2" text="open door ." />
+<item slot="3" text="remove food ." />
+<item slot="4" text="close door ." />
+</script>
+<script id="14">
+<item slot="1" text="go to refrigerator ." />
+<item slot="2" text="open the refrigerator door ." />
+<item slot="3" text="find the food ." />
+<item slot="4" text="pick up the food ." />
+<item slot="5" text="close the refrigerator door ." />
+</script>
+<script id="15">
+<item slot="1" text="open the refrigerator ." />
+<item slot="2" text="locate the desired foot item within the refrigerator ." />
+<item slot="3" text="remove the food from the refrigerator ." />
+<item slot="4" text="close the refrigerator ." />
+</script>
+<script id="16">
+<item slot="1" text="open refrigerator ." />
+<item slot="2" text="take out food ." />
+</script>
+<script id="17">
+<item slot="1" text="go to refrigerator ." />
+<item slot="2" text="open door ." />
+<item slot="3" text="locate food ." />
+<item slot="4" text="remove food from refrigerator ." />
+<item slot="5" text="close door ." />
+</script>
+<script id="18">
+<item slot="1" text="open refrigerator ." />
+<item slot="2" text="take food out of refrigerator ." />
+<item slot="3" text="close refrigerator ." />
+</script>
+<script id="19">
+<item slot="1" text="go to refrigerator ." />
+<item slot="2" text="open door ." />
+<item slot="3" text="grab food ." />
+<item slot="4" text="get back ." />
+</script>
+<script id="20">
+<item slot="1" text="go to refrigerator ." />
+<item slot="2" text="open door ." />
+<item slot="3" text="remove food from refrigerator ." />
+<item slot="4" text="close door ." />
+<item slot="5" text="bring food ." />
+</script>
+<script id="21">
+<item slot="1" text="go to refrigerator ." />
+<item slot="2" text="open ." />
+<item slot="3" text="select food ." />
+<item slot="4" text="remove food from refrigerator ." />
+<item slot="5" text="close refrigerator ." />
+</script>
+<script id="22">
+<item slot="1" text="go to refrigerator ." />
+<item slot="2" text="open ." />
+<item slot="3" text="select food ." />
+<item slot="4" text="remove food from refrigerator ." />
+<item slot="5" text="close refrigerator ." />
+</script>
+<script id="23">
+<item slot="1" text="locate the refrigerator ." />
+<item slot="2" text="open the refrigerator door ." />
+<item slot="3" text="locate the food ." />
+<item slot="4" text="take out the food ." />
+<item slot="5" text="close the refrigerator door ." />
+</script>
+<script id="24">
+<item slot="1" text="go to refrigerator ." />
+<item slot="2" text="open door ." />
+<item slot="3" text="remove food from refrigerator ." />
+<item slot="4" text="close door ." />
+<item slot="5" text="bring food to table ." />
+</script>
+<script id="25">
+<item slot="1" text="go to refrigerator ." />
+<item slot="2" text="open door ." />
+<item slot="3" text="remove food ." />
+<item slot="4" text="close door ." />
+<item slot="5" text="bring back food ." />
+</script>
+<script id="26">
+<item slot="1" text="walk to the refrigerator ." />
+<item slot="2" text="open the refrigerator ." />
+<item slot="3" text="take food out of the refrigerator ." />
+<item slot="4" text="close the refrigerator ." />
+</script>
+<script id="27">
+<item slot="1" text="go to refrigerator ." />
+<item slot="2" text="open door ." />
+<item slot="3" text="take out food from refrigerator ." />
+<item slot="4" text="close door ." />
+<item slot="5" text="bring food back ." />
+</script>
+<script id="28">
+<item slot="1" text="walking to the refrigerator ." />
+<item slot="2" text="opening the refrigerator door ." />
+<item slot="3" text="picking up the food in the refrigerator ." />
+<item slot="4" text="removing the food from the refrigerator ." />
+</script>
+<script id="29">
+<item slot="1" text="open the refrigerator ." />
+<item slot="2" text="select food to get ." />
+<item slot="3" text="grab the food to get ." />
+<item slot="4" text="retrieve it from the refrigerator ." />
+<item slot="5" text="close the refrigerator ." />
+</script>
+<script id="30">
+<item slot="1" text="go to refrigerator ." />
+<item slot="2" text="open refrigerator ." />
+<item slot="3" text="take food out of refrigerator ." />
+<item slot="4" text="close refrigerator ." />
+<item slot="5" text="bring food back ." />
+</script>
+<script id="31">
+<item slot="1" text="go to the refrigerator ." />
+<item slot="2" text="decide what food you want from the refrigerator ." />
+<item slot="3" text="open the refrigerator door ." />
+<item slot="4" text="take out the food you want from the refrigerator ." />
+<item slot="5" text="carry the food to where you want to eat it ." />
+</script>
+<script id="32">
+<item slot="1" text="determine desired food ." />
+<item slot="2" text="locate refrigerator ." />
+<item slot="3" text="relocate to refrigerator ." />
+<item slot="4" text="retrieve desired food from the refrigerator ." />
+<item slot="5" text="return to where the food is desired ." />
+</script>
+<script id="33">
+<item slot="1" text="go to the refrigerator ." />
+<item slot="2" text="open the door ." />
+<item slot="3" text="pick food ." />
+<item slot="4" text="close the door ." />
+<item slot="5" text="return to the point of origin ." />
+</script>
+<script id="34">
+<item slot="1" text="go to refridgerator ." />
+<item slot="2" text="open refridgerator door ." />
+<item slot="3" text="locate food ." />
+<item slot="4" text="take food ." />
+<item slot="5" text="close refridgerator door ." />
+</script>
+<script id="35">
+<item slot="1" text="go to room with refrigerator ." />
+<item slot="2" text="open refrigerator door ." />
+<item slot="3" text="retrieve food from refrigerator ." />
+<item slot="4" text="close refrigerator door ." />
+</script>
+<script id="36">
+<item slot="1" text="open refrigerator ." />
+<item slot="2" text="remove food ." />
+<item slot="3" text="close refrigerator ." />
+</script>
+<script id="37">
+<item slot="1" text="look for the fridge ." />
+<item slot="2" text="hold the handle of the fridge ." />
+<item slot="3" text="open the door of the fridge ." />
+<item slot="4" text="look around the fridge ." />
+<item slot="5" text="find the food you want to get ." />
+<item slot="6" text="pick up the food ." />
+<item slot="7" text="close the fridge ." />
+</script>
+<script id="38">
+<item slot="1" text="go to the refrigerator ." />
+<item slot="2" text="open the door ." />
+<item slot="3" text="take the food out ." />
+<item slot="4" text="close the door ." />
+</script>
+<script id="39">
+<item slot="1" text="open the refrigerator ." />
+<item slot="2" text="retrieve the desired food ." />
+<item slot="3" text="close the refrigerator door ." />
+</script>
+<script id="40">
+<item slot="1" text="open refrigerator ." />
+<item slot="2" text="grasp food ." />
+<item slot="3" text="remove from refrigerator ." />
+</script>
+<script id="41">
+<item slot="1" text="walk to the refrigerator ." />
+<item slot="2" text="open the door ." />
+<item slot="3" text="look at the food inside ." />
+<item slot="4" text="select a food item ." />
+<item slot="5" text="pick up the item ." />
+<item slot="6" text="remove the item ." />
+<item slot="7" text="close the door ." />
+</script>
+<script id="42">
+<item slot="1" text="go to the refrigerator ." />
+<item slot="2" text="open the door ." />
+<item slot="3" text="find the food in the refrigerator ." />
+</script>
+<script id="43">
+<item slot="1" text="open door to refrigerator ." />
+<item slot="2" text="choose items ." />
+<item slot="3" text="place items outside refrigerator ." />
+<item slot="4" text="close door to refrigerator ." />
+</script>
+<script id="44">
+<item slot="1" text="walk to refrigerator ." />
+<item slot="2" text="open refrigerator door ." />
+<item slot="3" text="find desired food item ." />
+<item slot="4" text="take food item from refrigerator ." />
+<item slot="5" text="close refrigerator door ." />
+</script>
+<script id="45">
+<item slot="1" text="open door ." />
+<item slot="2" text="look fopr food ." />
+</script>
+<script id="46">
+<item slot="1" text="open door ." />
+<item slot="2" text="look for food ." />
+<item slot="3" text="take food out ." />
+<item slot="4" text="close door ." />
+</script>
+<script id="47">
+<item slot="1" text="open refrigerator ." />
+<item slot="2" text="take food out ." />
+<item slot="3" text="close refrigerator dorr ." />
+</script>
+<script id="48">
+<item slot="1" text="open refrigerator ." />
+<item slot="2" text="take food out ." />
+<item slot="3" text="close refrigerator dorr ." />
+</script>
+<script id="49">
+<item slot="1" text="go to the refrigerator ." />
+<item slot="2" text="open the refrigerator door ." />
+<item slot="3" text="look inside ." />
+<item slot="4" text="take the food from the refrigerator ." />
+<item slot="5" text="close the refrigerator door ." />
+</script>
+<script id="50">
+<item slot="1" text="go to the refrigerator ." />
+<item slot="2" text="open the refrigerator door ." />
+<item slot="3" text="look inside ." />
+<item slot="4" text="take the food from the refrigerator ." />
+<item slot="5" text="close the refrigerator door ." />
+</script>
+<script id="51">
+<item slot="1" text="open the refrigerator door ." />
+<item slot="2" text="take out the food out of the refrigerator ." />
+<item slot="3" text="close the refrigerator door ." />
+</script>
+<script id="52">
+<item slot="1" text="get up ." />
+<item slot="2" text="walk to kitchen ." />
+<item slot="3" text="open refrigerator ." />
+<item slot="4" text="grab food ." />
+<item slot="5" text="shut door ." />
+</script>
+<script id="53">
+<item slot="1" text="get up ." />
+<item slot="2" text="walk to kitchen ." />
+<item slot="3" text="open refrigerator ." />
+<item slot="4" text="grab food ." />
+<item slot="5" text="shut door ." />
+</script>
+<script id="54">
+<item slot="1" text="go into kitchen ." />
+<item slot="2" text="stand in front of fridge ." />
+<item slot="3" text="open fridge door ." />
+<item slot="4" text="look inside fridge ." />
+<item slot="5" text="choose desired food item ." />
+<item slot="6" text="remove food item from fridge ." />
+<item slot="7" text="close fridge door ." />
+</script>
+<script id="55">
+<item slot="1" text="go to refrigerator ." />
+<item slot="2" text="open door of refrigerator ." />
+<item slot="3" text="look into refrigerator ." />
+<item slot="4" text="choose food ." />
+<item slot="5" text="pick up food ." />
+<item slot="6" text="remove food from refrigerator ." />
+<item slot="7" text="close door of refrigerator ." />
+</script>
+<script id="56">
+<item slot="1" text="go to refrigerator ." />
+<item slot="2" text="open door of refrigerator ." />
+<item slot="3" text="look into refrigerator ." />
+<item slot="4" text="choose food ." />
+<item slot="5" text="pick up food ." />
+<item slot="6" text="remove food from refrigerator ." />
+<item slot="7" text="close door of refrigerator ." />
+</script>
+<script id="57">
+<item slot="1" text="go to refrigerator ." />
+<item slot="2" text="open door of refrigerator ." />
+<item slot="3" text="look into refrigerator ." />
+<item slot="4" text="choose food ." />
+<item slot="5" text="pick up food ." />
+<item slot="6" text="remove food from refrigerator ." />
+<item slot="7" text="close door of refrigerator ." />
+</script>
+<script id="58">
+<item slot="1" text="go to refrigerator ." />
+<item slot="2" text="open door of refrigerator ." />
+<item slot="3" text="look into refrigerator ." />
+<item slot="4" text="choose food ." />
+<item slot="5" text="pick up food ." />
+<item slot="6" text="remove food from refrigerator ." />
+<item slot="7" text="close door of refrigerator ." />
+</script>
+<script id="59">
+<item slot="1" text="go to refrigerator ." />
+<item slot="2" text="open door of refrigerator ." />
+<item slot="3" text="look into refrigerator ." />
+<item slot="4" text="choose food ." />
+<item slot="5" text="pick up food ." />
+<item slot="6" text="remove food from refrigerator ." />
+<item slot="7" text="close door of refrigerator ." />
+</script>
+<script id="60">
+<item slot="1" text="go to refrigerator ." />
+<item slot="2" text="open door of refrigerator ." />
+<item slot="3" text="look into refrigerator ." />
+<item slot="4" text="choose food ." />
+<item slot="5" text="pick up food ." />
+<item slot="6" text="remove food from refrigerator ." />
+<item slot="7" text="close door of refrigerator ." />
+</script>
+<script id="61">
+<item slot="1" text="open refrigerator ." />
+<item slot="2" text="get food ." />
+<item slot="3" text="close refrigerator ." />
+</script>
+<script id="62">
+<item slot="1" text="open the refrigerator ." />
+<item slot="2" text="take food from the refrigerator ." />
+<item slot="3" text="put the food on the table ." />
+<item slot="4" text="close the refrigerator ." />
+</script>
+<script id="63">
+<item slot="1" text="goto fridge ." />
+<item slot="2" text="get food ." />
+</script>
+<script id="64">
+<item slot="1" text="find refrigerator ." />
+<item slot="2" text="go to refrigerator ." />
+<item slot="3" text="open refrigerator door ." />
+<item slot="4" text="locate food in refrigerator ." />
+<item slot="5" text="take food from refrigerator ." />
+<item slot="6" text="close refrigerator door ." />
+<item slot="7" text="return to original location ." />
+</script>
+<script id="65">
+<item slot="1" text="go to the refrigerator ." />
+<item slot="2" text="open the refrigerator ." />
+<item slot="3" text="take out the food ." />
+<item slot="4" text="close the refrigerator ." />
+</script>
+<script id="66">
+<item slot="1" text="open the freezer s or fridge s door ." />
+<item slot="2" text="find the wanted food item inside ." />
+<item slot="3" text="remove the item from the compartment ." />
+<item slot="4" text="close the respective door ." />
+</script>
+<script id="67">
+<item slot="1" text="open refrigerator ." />
+<item slot="2" text="remove needed food ." />
+<item slot="3" text="close refrigerator door ." />
+<item slot="4" text="set food on counter ." />
+</script>
+<script id="68">
+<item slot="1" text="open fridge s door ." />
+<item slot="2" text="find the food you want ." />
+<item slot="3" text="take the food out ." />
+<item slot="4" text="close the door ." />
+</script>
+<script id="69">
+<item slot="1" text="goto fridge ." />
+<item slot="2" text="open door ." />
+<item slot="3" text="get food ." />
+<item slot="4" text="close door ." />
+</script>
+<script id="70">
+<item slot="1" text="goto refrigerator ." />
+<item slot="2" text="open refrigerator ." />
+<item slot="3" text="look inside refrigerator ." />
+<item slot="4" text="get specific food items ." />
+<item slot="5" text="close refrigerator ." />
+</script>
+<script id="71">
+<item slot="1" text="walk ." />
+<item slot="2" text="get food from fridge ." />
+</script>
+<script id="72">
+<item slot="1" text="walk ." />
+<item slot="2" text="get food from fridge ." />
+</script>
+<script id="73">
+<item slot="1" text="walk ." />
+<item slot="2" text="get food from fridge ." />
+</script>
+<script id="74">
+<item slot="1" text="walk ." />
+<item slot="2" text="get food from fridge ." />
+</script>
+<script id="75">
+<item slot="1" text="walk ." />
+<item slot="2" text="get food from fridge ." />
+</script>
+<script id="76">
+<item slot="1" text="walk ." />
+<item slot="2" text="get food from fridge ." />
+</script>
+<script id="77">
+<item slot="1" text="walk toward kitchen ." />
+<item slot="2" text="walk toward refrigerator ." />
+<item slot="3" text="open refrigerator door ." />
+<item slot="4" text="get desired food ." />
+<item slot="5" text="done ." />
+</script>
+<script id="78">
+<item slot="1" text="open refrigerator door ." />
+<item slot="2" text="find food you want ." />
+<item slot="3" text="remove from refrigerator ." />
+<item slot="4" text="close refrigerator door ." />
+</script>
+<script id="79">
+<item slot="1" text="open refridgerator ." />
+<item slot="2" text="remove desired items ." />
+<item slot="3" text="close door ." />
+</script>
+<script id="80">
+<item slot="1" text="open refridgerator ." />
+<item slot="2" text="remove desired items ." />
+<item slot="3" text="close door ." />
+</script>
+<script id="81">
+<item slot="1" text="open door ." />
+<item slot="2" text="find food needed ." />
+<item slot="3" text="remove food ." />
+<item slot="4" text="close door ." />
+</script>
+<script id="82">
+<item slot="1" text="open door ." />
+<item slot="2" text="find food needed ." />
+<item slot="3" text="remove food ." />
+<item slot="4" text="close door ." />
+</script>
+<script id="83">
+<item slot="1" text="open door ." />
+<item slot="2" text="find food needed ." />
+<item slot="3" text="remove food ." />
+<item slot="4" text="close door ." />
+</script>
+<script id="84">
+<item slot="1" text="go to fridge ." />
+</script>
+<script id="85">
+<item slot="1" text="open fridge door ." />
+<item slot="2" text="grab the food you want ." />
+<item slot="3" text="close the door ." />
+</script>
+<script id="86">
+<item slot="1" text="open fridge door ." />
+<item slot="2" text="grab the food you want ." />
+<item slot="3" text="close the door ." />
+</script>
+<script id="87">
+<item slot="1" text="open fridge door ." />
+<item slot="2" text="grab the food you want ." />
+<item slot="3" text="close the door ." />
+</script>
+</scripts>

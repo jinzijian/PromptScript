@@ -1,0 +1,365 @@
+<scripts>
+<script id="1">
+<item slot="1" text="secure all windows ." />
+<item slot="2" text="secure all doors ." />
+</script>
+<script id="2">
+<item slot="1" text="close the door ." />
+<item slot="2" text="lock the door ." />
+<item slot="3" text="move to windows ." />
+<item slot="4" text="close the windows ." />
+<item slot="5" text="lock windows ." />
+<item slot="6" text="move to back door ." />
+<item slot="7" text="lock back door ." />
+</script>
+<script id="3">
+<item slot="1" text="exit the house ." />
+<item slot="2" text="find house key ." />
+<item slot="3" text="insert key into door lock ." />
+<item slot="4" text="turn key to lock door ." />
+</script>
+<script id="4">
+<item slot="1" text="check to make sure no intruders are in the house ." />
+<item slot="2" text="shut and lock all the doors ." />
+<item slot="3" text="shut and lock all the windows ." />
+</script>
+<script id="5">
+<item slot="1" text="find a door ." />
+<item slot="2" text="lock the door using a key or locking knob ." />
+<item slot="3" text="repeat until all doors have been locked ." />
+</script>
+<script id="6">
+<item slot="1" text="close all windows ." />
+<item slot="2" text="close and lock all doors ." />
+</script>
+<script id="7">
+<item slot="1" text="lock front door ." />
+<item slot="2" text="lock back door if available ." />
+</script>
+<script id="8">
+<item slot="1" text="close all windows ." />
+<item slot="2" text="close front door ." />
+<item slot="3" text="lock front door ." />
+<item slot="4" text="close back door ." />
+<item slot="5" text="lock back door ." />
+</script>
+<script id="9">
+<item slot="1" text="lock all dors ." />
+<item slot="2" text="lock all windows ." />
+</script>
+<script id="10">
+<item slot="1" text="insert key ." />
+<item slot="2" text="turn key into locked position ." />
+<item slot="3" text="pull key out ." />
+</script>
+<script id="11">
+<item slot="1" text="close all the windows ." />
+<item slot="2" text="lock all the windows ." />
+<item slot="3" text="close the door(s) ." />
+<item slot="4" text="lock the door(s) ." />
+</script>
+<script id="12">
+<item slot="1" text="get keys ." />
+<item slot="2" text="go to door ." />
+<item slot="3" text="insert key ." />
+<item slot="4" text="turn to lock position ." />
+<item slot="5" text="pull key out ." />
+</script>
+<script id="13">
+<item slot="1" text="close door ." />
+<item slot="2" text="lock doors ." />
+</script>
+<script id="14">
+<item slot="1" text="go to each door ." />
+<item slot="2" text="close door ." />
+<item slot="3" text="lock door ." />
+<item slot="4" text="go to each window ." />
+<item slot="5" text="close window ." />
+<item slot="6" text="lock window ." />
+</script>
+<script id="15">
+<item slot="1" text="get the house keys ." />
+<item slot="2" text="go to each door in the house ." />
+<item slot="3" text="lock each door in the house ." />
+<item slot="4" text="go to each window in the house ." />
+<item slot="5" text="close the locking lever on each window in the house ." />
+</script>
+<script id="16">
+<item slot="1" text="get the keys ." />
+<item slot="2" text="lock the windows ." />
+<item slot="3" text="lock the doors ." />
+</script>
+<script id="17">
+<item slot="1" text="making sure that all windows are locked ." />
+<item slot="2" text="make sure that you have keys ." />
+<item slot="3" text="walk out of door ." />
+<item slot="4" text="lock the lock ." />
+<item slot="5" text="close the door ." />
+</script>
+<script id="18">
+<item slot="1" text="close the front door ." />
+<item slot="2" text="get the correct key ." />
+<item slot="3" text="put key in door ." />
+<item slot="4" text="lock door ." />
+<item slot="5" text="take key out of the door ." />
+</script>
+<script id="19">
+<item slot="1" text="make sure all windows are closed ." />
+</script>
+<script id="20">
+<item slot="1" text="insert key into lock ." />
+<item slot="2" text="turn correct direction to throw lock ." />
+<item slot="3" text="remove key ." />
+</script>
+<script id="21">
+<item slot="1" text="close the door ." />
+<item slot="2" text="take out key ." />
+<item slot="3" text="put key in lock ." />
+<item slot="4" text="turn key ." />
+<item slot="5" text="remove key ." />
+</script>
+<script id="22">
+<item slot="1" text="turn the lock of the house ." />
+</script>
+<script id="23">
+<item slot="1" text="close the door ." />
+<item slot="2" text="lock the door ." />
+</script>
+<script id="24">
+<item slot="1" text="put the key in the keyhole ." />
+<item slot="2" text="turn the key until the bolt is fully thrown ." />
+<item slot="3" text="turn the key back to the initial position ." />
+<item slot="4" text="remove the key ." />
+</script>
+<script id="25">
+<item slot="1" text="decide to lock up ." />
+<item slot="2" text="make sure everyone is inside ." />
+<item slot="3" text="check all doors ." />
+<item slot="4" text="check all windows ." />
+<item slot="5" text="secure all doors ." />
+<item slot="6" text="secure all windows ." />
+<item slot="7" text="hide the key ." />
+</script>
+<script id="26">
+<item slot="1" text="walk to window ." />
+<item slot="2" text="lock the window ." />
+<item slot="3" text="repeat until all are locked ." />
+<item slot="4" text="walk to door ." />
+<item slot="5" text="lock door ." />
+<item slot="6" text="repeat until all are locked ." />
+</script>
+<script id="27">
+<item slot="1" text="go out ." />
+<item slot="2" text="lock door behind you ." />
+</script>
+<script id="28">
+<item slot="1" text="get keys ." />
+<item slot="2" text="close windows ." />
+<item slot="3" text="check that the back door is locked ." />
+<item slot="4" text="check all the other doors that they are locked ." />
+<item slot="5" text="set security alarm ." />
+<item slot="6" text="go outside ." />
+<item slot="7" text="lock door ." />
+</script>
+<script id="29">
+<item slot="1" text="get keys ." />
+<item slot="2" text="close windows ." />
+<item slot="3" text="check that the back door is locked ." />
+<item slot="4" text="check all the other doors that they are locked ." />
+<item slot="5" text="set security alarm ." />
+<item slot="6" text="go outside ." />
+<item slot="7" text="lock door ." />
+</script>
+<script id="30">
+<item slot="1" text="step out ." />
+<item slot="2" text="close the door ." />
+<item slot="3" text="put key in lock ." />
+<item slot="4" text="turn key ." />
+<item slot="5" text="remove key ." />
+<item slot="6" text="check that door is locked by trying to open it ." />
+</script>
+<script id="31">
+<item slot="1" text="close all windows ." />
+<item slot="2" text="lock all windows ." />
+<item slot="3" text="close all doors ." />
+<item slot="4" text="lock all doors ." />
+<item slot="5" text="set the alarm ." />
+</script>
+<script id="32">
+<item slot="1" text="step out of house ." />
+<item slot="2" text="close door ." />
+<item slot="3" text="lock the lock with key ." />
+</script>
+<script id="33">
+<item slot="1" text="step out of house ." />
+<item slot="2" text="close door ." />
+<item slot="3" text="lock the lock with key ." />
+</script>
+<script id="34">
+<item slot="1" text="leave the house ." />
+<item slot="2" text="put key in door ." />
+<item slot="3" text="turn key ." />
+<item slot="4" text="pull key out of door ." />
+</script>
+<script id="35">
+<item slot="1" text="lock windows ." />
+<item slot="2" text="lock doors ." />
+<item slot="3" text="double check all locks ." />
+<item slot="4" text="turn on security alarm ." />
+</script>
+<script id="36">
+<item slot="1" text="stick key in lock ." />
+<item slot="2" text="leave house ." />
+<item slot="3" text="use key to lock the house ." />
+</script>
+<script id="37">
+<item slot="1" text="lock all doors ." />
+<item slot="2" text="lock all windows ." />
+</script>
+<script id="38">
+<item slot="1" text="walk to door ." />
+<item slot="2" text="try to open door ." />
+<item slot="3" text="if door opens ." />
+<item slot="4" text="door requires locking ." />
+<item slot="5" text="to lock door ." />
+<item slot="6" text="turn knob ." />
+<item slot="7" text="or insert key ." />
+</script>
+<script id="39">
+<item slot="1" text="walk to door ." />
+<item slot="2" text="try to open door ." />
+<item slot="3" text="if door opens ." />
+<item slot="4" text="door requires locking ." />
+<item slot="5" text="to lock door ." />
+<item slot="6" text="turn knob ." />
+<item slot="7" text="or insert key ." />
+</script>
+<script id="40">
+<item slot="1" text="check windows ." />
+<item slot="2" text="lock all windows ." />
+<item slot="3" text="close all doors ." />
+<item slot="4" text="check locks on all doors ." />
+<item slot="5" text="turn locks to lock them ." />
+<item slot="6" text="check doors ." />
+</script>
+<script id="41">
+<item slot="1" text="use keys ." />
+<item slot="2" text="lock wondows ." />
+<item slot="3" text="lock doors ." />
+</script>
+<script id="42">
+<item slot="1" text="lock the doors with a key ." />
+<item slot="2" text="lock the windows with key ." />
+</script>
+<script id="43">
+<item slot="1" text="lock the doors with a key ." />
+<item slot="2" text="lock the windows with key ." />
+</script>
+<script id="44">
+<item slot="1" text="check to see if front door is locked ." />
+<item slot="2" text="if unlocked turn locking mechanism until  it is locked ." />
+<item slot="3" text="repeat on any other doors ." />
+<item slot="4" text="check windows ." />
+<item slot="5" text="turn locking mechanism to lock window ." />
+<item slot="6" text="repeat on every window ." />
+<item slot="7" text="set alarm ." />
+</script>
+<script id="45">
+<item slot="1" text="turn off lights ." />
+<item slot="2" text="turn on alarm ." />
+<item slot="3" text="lock door ." />
+</script>
+<script id="46">
+<item slot="1" text="turn off lights ." />
+<item slot="2" text="turn on alarm ." />
+<item slot="3" text="lock door ." />
+</script>
+<script id="47">
+<item slot="1" text="turn off lights ." />
+<item slot="2" text="turn on alarm ." />
+<item slot="3" text="lock door ." />
+</script>
+<script id="48">
+<item slot="1" text="turn off lights ." />
+<item slot="2" text="turn on alarm ." />
+<item slot="3" text="lock door ." />
+</script>
+<script id="49">
+<item slot="1" text="turn off lights ." />
+<item slot="2" text="turn on alarm ." />
+<item slot="3" text="lock door ." />
+</script>
+<script id="50">
+<item slot="1" text="turn off lights ." />
+<item slot="2" text="turn on alarm ." />
+<item slot="3" text="lock door ." />
+</script>
+<script id="51">
+<item slot="1" text="turn off lights ." />
+<item slot="2" text="turn on alarm ." />
+<item slot="3" text="lock door ." />
+</script>
+<script id="52">
+<item slot="1" text="turn off lights ." />
+<item slot="2" text="turn on alarm ." />
+<item slot="3" text="lock door ." />
+</script>
+<script id="53">
+<item slot="1" text="turn off lights ." />
+<item slot="2" text="turn on alarm ." />
+<item slot="3" text="lock door ." />
+</script>
+<script id="54">
+<item slot="1" text="obtain key ." />
+<item slot="2" text="locate key hole ." />
+<item slot="3" text="insert key into key hole ." />
+<item slot="4" text="turn key a full turn ." />
+<item slot="5" text="turn key back to original position ." />
+<item slot="6" text="remove key ." />
+<item slot="7" text="verify ." />
+</script>
+<script id="55">
+<item slot="1" text="lock doors ." />
+</script>
+<script id="56">
+<item slot="1" text="lock doors ." />
+</script>
+<script id="57">
+<item slot="1" text="lock doors ." />
+</script>
+<script id="58">
+<item slot="1" text="lock doors ." />
+</script>
+<script id="59">
+<item slot="1" text="lock doors ." />
+</script>
+<script id="60">
+<item slot="1" text="lock doors ." />
+</script>
+<script id="61">
+<item slot="1" text="close all windows ." />
+<item slot="2" text="close and lock all doors ." />
+<item slot="3" text="set alarm ." />
+<item slot="4" text="lock front door ." />
+</script>
+<script id="62">
+<item slot="1" text="take keys ." />
+<item slot="2" text="put key in lock ." />
+<item slot="3" text="turn key ." />
+<item slot="4" text="repeat on all locks ." />
+</script>
+<script id="63">
+<item slot="1" text="get key ." />
+<item slot="2" text="put key in lock ." />
+</script>
+<script id="64">
+<item slot="1" text="get key ." />
+<item slot="2" text="put key in lock ." />
+<item slot="3" text="turn key ." />
+<item slot="4" text="close door ." />
+</script>
+<script id="65">
+<item slot="1" text="shut the door ." />
+<item slot="2" text="put the lock on the door ." />
+</script>
+</scripts>

@@ -1,0 +1,118 @@
+<scripts>
+<script id="1">
+<item slot="1" text="find bill ." />
+<item slot="2" text="write check for specific bill ." />
+<item slot="3" text="put bill in envelope with bill stub ." />
+<item slot="4" text="seal envelope ." />
+<item slot="5" text="stamp envelope ." />
+<item slot="6" text="mail envelope ." />
+</script>
+<script id="2">
+<item slot="1" text="for each bill ." />
+<item slot="2" text="write check and account number ." />
+<item slot="3" text="put check in envelope along with bill stub ." />
+<item slot="4" text="next bill ." />
+</script>
+<script id="3">
+<item slot="1" text="gather bills to be paid ." />
+<item slot="2" text="logon to online banking site ." />
+<item slot="3" text="input amounts to be paid to debtors ." />
+<item slot="4" text="disburse funds to debtors from bank account ." />
+</script>
+<script id="4">
+<item slot="1" text="locate the bills to pay ." />
+<item slot="2" text="log on to bill payment website ." />
+<item slot="3" text="enter total amount due to each debtor ." />
+<item slot="4" text="disburse funds to pay debtors ." />
+</script>
+<script id="5">
+<item slot="1" text="determine cost of one bill ." />
+<item slot="2" text="write check in the amount of this bill ." />
+<item slot="3" text="put check into envelope ." />
+<item slot="4" text="close envelope ." />
+<item slot="5" text="put stamp on envelope ." />
+<item slot="6" text="address envelope to bill s creditor ." />
+<item slot="7" text="repeat with each other bill ." />
+</script>
+<script id="6">
+<item slot="1" text="look at bills ." />
+<item slot="2" text="write check for amount on bill ." />
+<item slot="3" text="place check in envelope provided ." />
+<item slot="4" text="if necessary add a stamp to the envelope ." />
+<item slot="5" text="place envelope in mail box ." />
+</script>
+<script id="7">
+<item slot="1" text="locate bill ." />
+<item slot="2" text="locate money ." />
+<item slot="3" text="take bill to post office ." />
+<item slot="4" text="give teller bill and money ." />
+<item slot="5" text="take the reciept ." />
+</script>
+<script id="8">
+<item slot="1" text="open bills ." />
+<item slot="2" text="write checks ." />
+<item slot="3" text="stuff envelopes ." />
+<item slot="4" text="mail bills ." />
+</script>
+<script id="9">
+<item slot="1" text="find a bill ." />
+<item slot="2" text="find the amount owed ." />
+<item slot="3" text="write a check for the amount owed ." />
+<item slot="4" text="sign the check ." />
+<item slot="5" text="put the check in an envelope ." />
+<item slot="6" text="stamp and address the envelope ." />
+<item slot="7" text="mail the envelope ." />
+</script>
+<script id="10">
+<item slot="1" text="make a check ." />
+<item slot="2" text="write the payees name ." />
+<item slot="3" text="write the date ." />
+<item slot="4" text="write the amount ." />
+<item slot="5" text="and mail ." />
+</script>
+<script id="11">
+<item slot="1" text="go to website ." />
+<item slot="2" text="log in ." />
+<item slot="3" text="authorize payment ." />
+</script>
+<script id="12">
+<item slot="1" text="gather bill notices ." />
+<item slot="2" text="log on to bank website ." />
+<item slot="3" text="select online bill pay section ." />
+<item slot="4" text="find payor that matches bill ." />
+<item slot="5" text="put amount in payor website ." />
+<item slot="6" text="select ok or complete ." />
+</script>
+<script id="13">
+<item slot="1" text="organize bills ." />
+<item slot="2" text="write checks for bills ." />
+<item slot="3" text="put bills in envelopes ." />
+<item slot="4" text="stamp envelopes ." />
+<item slot="5" text="put envelopes in mailbox ." />
+</script>
+<script id="14">
+<item slot="1" text="open bill ." />
+<item slot="2" text="note the amount ." />
+<item slot="3" text="get checkbook and pen ." />
+<item slot="4" text="write check for amount of bill ." />
+<item slot="5" text="put ckeck into envelope ." />
+<item slot="6" text="put postage stamp on envelope ." />
+<item slot="7" text="put envelope in mailbox ." />
+</script>
+<script id="15">
+<item slot="1" text="identify bills that need to be paid ." />
+<item slot="2" text="go to the bank with the account you pay bills with ." />
+<item slot="3" text="select either 4 or 5 ." />
+<item slot="4" text="go to the teller and pay your bill ." />
+<item slot="5" text="go to the atm machine and pay from your account ." />
+</script>
+<script id="16">
+<item slot="1" text="open letter ." />
+<item slot="2" text="check due date ." />
+<item slot="3" text="go to online banking ." />
+<item slot="4" text="click 'pay bills' ." />
+<item slot="5" text="input amount due ." />
+<item slot="6" text="send/transfer money ." />
+<item slot="7" text="paid bill ." />
+</script>
+</scripts>

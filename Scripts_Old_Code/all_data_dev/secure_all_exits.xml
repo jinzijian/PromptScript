@@ -1,0 +1,9 @@
+<scripts><script id="10">
+<item slot="1" text="determine how many exits there are ."/>
+<item slot="2" text="begin rounds of exits ."/>
+<item slot="3" text="check to see if secure ."/>
+<item slot="4" text="if not secure latch ."/>
+<item slot="5" text="continue circuit of exits ."/>
+<item slot="6" text="continue to check ."/>
+<item slot="7" text="record data after rounds ."/>
+</script></scripts>

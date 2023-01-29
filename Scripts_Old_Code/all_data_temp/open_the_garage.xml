@@ -1,0 +1,275 @@
+<scripts>
+<script id="1">
+<item slot="1" text="press the garage door opener ." />
+</script>
+<script id="2">
+<item slot="1" text="find the remote control ." />
+<item slot="2" text="drive close to the garage door ." />
+<item slot="3" text="hit the button on the remote control ." />
+</script>
+<script id="3">
+<item slot="1" text="locate garage ." />
+<item slot="2" text="locate remote ." />
+<item slot="3" text="press open ." />
+</script>
+<script id="4">
+<item slot="1" text="move to the garage door ." />
+<item slot="2" text="release the garage door s latch ." />
+<item slot="3" text="raise thw garage door to an open position ." />
+</script>
+<script id="5">
+<item slot="1" text="get close to garage door ." />
+<item slot="2" text="use remote to open ." />
+</script>
+<script id="6">
+<item slot="1" text="approach garrage ." />
+<item slot="2" text="press open button on remote ." />
+</script>
+<script id="7">
+<item slot="1" text="approach garrage ." />
+<item slot="2" text="press open on remote button ." />
+<item slot="3" text="wait for door to open ." />
+</script>
+<script id="8">
+<item slot="1" text="approach garrage ." />
+<item slot="2" text="holding handle ." />
+<item slot="3" text="pull up garage door ." />
+</script>
+<script id="9">
+<item slot="1" text="go close to garage ." />
+<item slot="2" text="hold handle ." />
+<item slot="3" text="pull up handle so that door opens ." />
+</script>
+<script id="10">
+<item slot="1" text="push garage door opener button ." />
+</script>
+<script id="11">
+<item slot="1" text="go to garage door ." />
+<item slot="2" text="press handle and open door ." />
+</script>
+<script id="12">
+<item slot="1" text="go near garage door ." />
+<item slot="2" text="unlock door if locked ." />
+<item slot="3" text="lift door handle so that door opens ." />
+</script>
+<script id="13">
+<item slot="1" text="get close to garage ." />
+<item slot="2" text="aim remote control to garage door ." />
+<item slot="3" text="press open button on remote ." />
+<item slot="4" text="wait for door to open ." />
+</script>
+<script id="14">
+<item slot="1" text="locate the garage opener ." />
+<item slot="2" text="utilize the garage opener until the door starts to open ." />
+</script>
+<script id="15">
+<item slot="1" text="approach the garage door ." />
+<item slot="2" text="turn the handle on the garage door ." />
+<item slot="3" text="lift upwards to open the garage door ." />
+</script>
+<script id="16">
+<item slot="1" text="move to the garage door ." />
+<item slot="2" text="grasp the garage door handle ." />
+<item slot="3" text="pull the handle upwards to open the garage door ." />
+</script>
+<script id="17">
+<item slot="1" text="get the garage door opener control ." />
+<item slot="2" text="get the garage door keys ." />
+<item slot="3" text="go outside ." />
+<item slot="4" text="walk to the garage ." />
+<item slot="5" text="unlock the garage door ." />
+<item slot="6" text="push the garage door opener button ." />
+<item slot="7" text="wait for the garage door to open ." />
+</script>
+<script id="18">
+<item slot="1" text="locate the garage ." />
+<item slot="2" text="point the garage remote to the garage door ." />
+<item slot="3" text="press the 'up' button on the garage remote ." />
+</script>
+<script id="19">
+<item slot="1" text="getting close to garage ." />
+<item slot="2" text="retreiving garage door opener ." />
+<item slot="3" text="press button on garage door opener ." />
+</script>
+<script id="20">
+<item slot="1" text="identify garage door ." />
+<item slot="2" text="grab handle ." />
+<item slot="3" text="lift ." />
+<item slot="4" text="stop when door is open ." />
+</script>
+<script id="21">
+<item slot="1" text="grab the garage door handle ." />
+<item slot="2" text="open the garage door ." />
+</script>
+<script id="22">
+<item slot="1" text="go to garage door ." />
+<item slot="2" text="unlock garage door ." />
+<item slot="3" text="lift garage door ." />
+</script>
+<script id="23">
+<item slot="1" text="push the open button on the garage door opener ." />
+</script>
+<script id="24">
+<item slot="1" text="press button to open the garage ." />
+</script>
+<script id="25">
+<item slot="1" text="press the button on the garage door opener ." />
+</script>
+<script id="26">
+<item slot="1" text="walk up to the garage door ." />
+<item slot="2" text="take key out of pocket ." />
+<item slot="3" text="put key in lock ." />
+<item slot="4" text="turn key ." />
+<item slot="5" text="turn handle ." />
+<item slot="6" text="lift garage door ." />
+<item slot="7" text="the garage is now open ." />
+</script>
+<script id="27">
+<item slot="1" text="push button on garage door opener ." />
+<item slot="2" text="drive car ." />
+</script>
+<script id="28">
+<item slot="1" text="push button on garage door opener ." />
+<item slot="2" text="drive car ." />
+</script>
+<script id="29">
+<item slot="1" text="press the garage door opener button ." />
+</script>
+<script id="30">
+<item slot="1" text="press the garage door button ." />
+</script>
+<script id="31">
+<item slot="1" text="press the garage door button ." />
+</script>
+<script id="32">
+<item slot="1" text="place hand on handle ." />
+<item slot="2" text="lift handle up until door is open ." />
+</script>
+<script id="33">
+<item slot="1" text="go to garage switch ." />
+<item slot="2" text="operate switch ." />
+</script>
+<script id="34">
+<item slot="1" text="press the button ." />
+</script>
+<script id="35">
+<item slot="1" text="press the button ." />
+</script>
+<script id="36">
+<item slot="1" text="go to garage ." />
+<item slot="2" text="face door ." />
+<item slot="3" text="grab handle on door ." />
+<item slot="4" text="lift ." />
+</script>
+<script id="37">
+<item slot="1" text="raise garage door ." />
+</script>
+<script id="38">
+<item slot="1" text="raise garage door ." />
+</script>
+<script id="39">
+<item slot="1" text="raise garage door ." />
+</script>
+<script id="40">
+<item slot="1" text="raise garage door ." />
+</script>
+<script id="41">
+<item slot="1" text="put hand on garage door handle ." />
+<item slot="2" text="pull up hard on handle ." />
+<item slot="3" text="when garage is at waist level ." />
+<item slot="4" text="grab bottom of garage door ." />
+<item slot="5" text="heave up ." />
+</script>
+<script id="42">
+<item slot="1" text="put hand on garage door handle ." />
+<item slot="2" text="pull up hard on handle ." />
+<item slot="3" text="when garage is at waist level ." />
+<item slot="4" text="grab bottom of garage door ." />
+<item slot="5" text="heave up ." />
+</script>
+<script id="43">
+<item slot="1" text="push button on garage door opener ." />
+</script>
+<script id="44">
+<item slot="1" text="choose one of the below ." />
+<item slot="2" text="lift garage door up ." />
+<item slot="3" text="push open button for garage door ." />
+<item slot="4" text="open door to garage ." />
+</script>
+<script id="45">
+<item slot="1" text="walking into garage ." />
+<item slot="2" text="turning on the light ." />
+<item slot="3" text="waiting of light to turn on ." />
+<item slot="4" text="pushing the button for the door ." />
+<item slot="5" text="waiting for it to open ." />
+</script>
+<script id="46">
+<item slot="1" text="turn handle of garage door ." />
+<item slot="2" text="lift door upwards ." />
+</script>
+<script id="47">
+<item slot="1" text="turn handle of garage door ." />
+<item slot="2" text="lift door upwards ." />
+</script>
+<script id="48">
+<item slot="1" text="turn handle of garage door ." />
+<item slot="2" text="lift door upwards ." />
+</script>
+<script id="49">
+<item slot="1" text="turn handle of garage door ." />
+<item slot="2" text="lift door upwards ." />
+</script>
+<script id="50">
+<item slot="1" text="turn handle of garage door ." />
+<item slot="2" text="lift door upwards ." />
+</script>
+<script id="51">
+<item slot="1" text="turn handle of garage door ." />
+<item slot="2" text="lift door upwards ." />
+</script>
+<script id="52">
+<item slot="1" text="press button on garage door opener ." />
+</script>
+<script id="53">
+<item slot="1" text="press button on garage door opener ." />
+</script>
+<script id="54">
+<item slot="1" text="press button on garage door opener ." />
+</script>
+<script id="55">
+<item slot="1" text="press button on garage door opener ." />
+</script>
+<script id="56">
+<item slot="1" text="press button on garage door opener ." />
+</script>
+<script id="57">
+<item slot="1" text="press button on garage door opener ." />
+</script>
+<script id="58">
+<item slot="1" text="press the garage door opener ." />
+</script>
+<script id="59">
+<item slot="1" text="press the garage door opener ." />
+</script>
+<script id="60">
+<item slot="1" text="press the garage door opener ." />
+</script>
+<script id="61">
+<item slot="1" text="unlock garage ." />
+<item slot="2" text="grab handle ." />
+<item slot="3" text="pull garage door up ." />
+</script>
+<script id="62">
+<item slot="1" text="unlock garage ." />
+<item slot="2" text="grab handle ." />
+<item slot="3" text="pull garage door up ." />
+</script>
+<script id="63">
+<item slot="1" text="unlock garage ." />
+<item slot="2" text="grab handle ." />
+<item slot="3" text="pull garage door up ." />
+</script>
+<script id="64">
+<item slot="1" text="press the garage door opener button ." />
+</script>
+</scripts>

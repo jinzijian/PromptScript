@@ -1,0 +1,248 @@
+<scripts>
+<script id="1">
+<item slot="1" text="go to trashcan ." />
+<item slot="2" text="dump the trash ." />
+</script>
+<script id="2">
+<item slot="1" text="pick up the object ." />
+<item slot="2" text="locate the trash can ." />
+<item slot="3" text="place the object in the trash can ." />
+</script>
+<script id="3">
+<item slot="1" text="take object to trash can ." />
+</script>
+<script id="4">
+<item slot="1" text="take the object ." />
+<item slot="2" text="go the trashcan ." />
+<item slot="3" text="dump the object in the trashcan ." />
+</script>
+<script id="5">
+<item slot="1" text="take object to garbage bin ." />
+<item slot="2" text="put object inside bin ." />
+</script>
+<script id="6">
+<item slot="1" text="locate the object ." />
+<item slot="2" text="take the object ." />
+<item slot="3" text="put the object into the trash can ." />
+</script>
+<script id="7">
+<item slot="1" text="take the object ." />
+<item slot="2" text="locate the trash can ." />
+<item slot="3" text="put the object into the trash can ." />
+</script>
+<script id="8">
+<item slot="1" text="grab object ." />
+<item slot="2" text="take object to trash can ." />
+<item slot="3" text="dump object into trash can ." />
+</script>
+<script id="9">
+<item slot="1" text="pick the object up ." />
+<item slot="2" text="locate the trash can ." />
+<item slot="3" text="take the object to the trash can ." />
+<item slot="4" text="put the object in the trash can ." />
+</script>
+<script id="10">
+<item slot="1" text="pick up the object ." />
+<item slot="2" text="take the object to the trash bin ." />
+<item slot="3" text="place object into the trash bin ." />
+<item slot="4" text="close the trash bin ." />
+</script>
+<script id="11">
+<item slot="1" text="locate object to trash ." />
+<item slot="2" text="locate a dumpster or trash receptacle ." />
+<item slot="3" text="place object in the trash receptacle ." />
+</script>
+<script id="12">
+<item slot="1" text="pick up object ." />
+<item slot="2" text="locate trash can ." />
+<item slot="3" text="place object in trash can ." />
+</script>
+<script id="13">
+<item slot="1" text="pick up object ." />
+<item slot="2" text="go to trash can ." />
+<item slot="3" text="open trash can lid ." />
+<item slot="4" text="place object in trash can ." />
+<item slot="5" text="close trash can lid ." />
+</script>
+<script id="14">
+<item slot="1" text="get object ." />
+<item slot="2" text="take object to garbage ." />
+<item slot="3" text="put object in garbage ." />
+</script>
+<script id="15">
+<item slot="1" text="put the object inside the trash can ." />
+</script>
+<script id="16">
+<item slot="1" text="pick up the object ." />
+<item slot="2" text="put it in a trash ." />
+</script>
+<script id="17">
+<item slot="1" text="grasp object ." />
+<item slot="2" text="pick up object ." />
+<item slot="3" text="carry object to trash can ." />
+<item slot="4" text="position object over trash can ." />
+<item slot="5" text="release object into trash can ." />
+</script>
+<script id="18">
+<item slot="1" text="throw it in waste basket ." />
+</script>
+<script id="19">
+<item slot="1" text="select object to trash ." />
+<item slot="2" text="find trash can ." />
+<item slot="3" text="open trash can ." />
+<item slot="4" text="throw the object in the trash can ." />
+</script>
+<script id="20">
+<item slot="1" text="pick up object ." />
+</script>
+<script id="21">
+<item slot="1" text="pick up object ." />
+<item slot="2" text="place in trash ." />
+</script>
+<script id="22">
+<item slot="1" text="put object in trash can ." />
+</script>
+<script id="23">
+<item slot="1" text="put object in trash can ." />
+</script>
+<script id="24">
+<item slot="1" text="put object in trash can ." />
+</script>
+<script id="25">
+<item slot="1" text="put object in trash can ." />
+</script>
+<script id="26">
+<item slot="1" text="put object in trash can ." />
+</script>
+<script id="27">
+<item slot="1" text="pick up the object ." />
+<item slot="2" text="put it in a trash can ." />
+</script>
+<script id="28">
+<item slot="1" text="find the object ." />
+<item slot="2" text="trash it ." />
+</script>
+<script id="29">
+<item slot="1" text="pick up object ." />
+<item slot="2" text="walk to trash can ." />
+<item slot="3" text="open trash can ." />
+<item slot="4" text="toss item into trash can ." />
+<item slot="5" text="close trash can ." />
+</script>
+<script id="30">
+<item slot="1" text="pick up ." />
+<item slot="2" text="throw ." />
+<item slot="3" text="*falls in trash can* ." />
+</script>
+<script id="31">
+<item slot="1" text="take object to garbage ." />
+<item slot="2" text="toss object into garbage can ." />
+</script>
+<script id="32">
+<item slot="1" text="take object to garbage ." />
+<item slot="2" text="toss object into garbage can ." />
+</script>
+<script id="33">
+<item slot="1" text="take object to garbage ." />
+<item slot="2" text="toss object into garbage can ." />
+</script>
+<script id="34">
+<item slot="1" text="take object to garbage ." />
+<item slot="2" text="toss object into garbage can ." />
+</script>
+<script id="35">
+<item slot="1" text="take object to garbage ." />
+<item slot="2" text="toss object into garbage can ." />
+</script>
+<script id="36">
+<item slot="1" text="throw it in the garbage can ." />
+</script>
+<script id="37">
+<item slot="1" text="throw it in the garbage can ." />
+</script>
+<script id="38">
+<item slot="1" text="throw it in the garbage can ." />
+</script>
+<script id="39">
+<item slot="1" text="throw it in the garbage can ." />
+</script>
+<script id="40">
+<item slot="1" text="throw it in the garbage can ." />
+</script>
+<script id="41">
+<item slot="1" text="throw it in the garbage can ." />
+</script>
+<script id="42">
+<item slot="1" text="throw it in the garbage can ." />
+</script>
+<script id="43">
+<item slot="1" text="throw it in the garbage can ." />
+</script>
+<script id="44">
+<item slot="1" text="throw it in the garbage can ." />
+</script>
+<script id="45">
+<item slot="1" text="take object ." />
+<item slot="2" text="dump object ." />
+</script>
+<script id="46">
+<item slot="1" text="take object ." />
+<item slot="2" text="dump object ." />
+</script>
+<script id="47">
+<item slot="1" text="take object ." />
+<item slot="2" text="dump object ." />
+</script>
+<script id="48">
+<item slot="1" text="take object ." />
+<item slot="2" text="dump object ." />
+</script>
+<script id="49">
+<item slot="1" text="take object ." />
+<item slot="2" text="dump object ." />
+</script>
+<script id="50">
+<item slot="1" text="take object ." />
+<item slot="2" text="dump object ." />
+</script>
+<script id="51">
+<item slot="1" text="crumple object up into as small a bundle as possible ." />
+<item slot="2" text="throw object into the garbage can ." />
+</script>
+<script id="52">
+<item slot="1" text="crumple object up into as small a bundle as possible ." />
+<item slot="2" text="throw object into the garbage can ." />
+</script>
+<script id="53">
+<item slot="1" text="crumple object up into as small a bundle as possible ." />
+<item slot="2" text="throw object into the garbage can ." />
+</script>
+<script id="54">
+<item slot="1" text="take out garbage ." />
+</script>
+<script id="55">
+<item slot="1" text="dump item ." />
+</script>
+<script id="56">
+<item slot="1" text="pick up object ." />
+<item slot="2" text="remove any pieces or items from the object that one wishes to retain ." />
+<item slot="3" text="crumple or fold object as much as possible to decrease its size ." />
+<item slot="4" text="put object in the trashcan or if too large a dumpster ." />
+</script>
+<script id="57">
+<item slot="1" text="pick up object ." />
+<item slot="2" text="remove any pieces or items from the object that one wishes to retain ." />
+<item slot="3" text="crumple or fold object as much as possible to decrease its size ." />
+<item slot="4" text="put object in the trashcan or if too large a dumpster ." />
+</script>
+<script id="58">
+<item slot="1" text="pick up object ." />
+<item slot="2" text="remove any pieces or items from the object that one wishes to retain ." />
+<item slot="3" text="crumple or fold object as much as possible to decrease its size ." />
+<item slot="4" text="put object in the trashcan or if too large a dumpster ." />
+</script>
+<script id="59">
+<item slot="1" text="take object put in bag ." />
+<item slot="2" text="put outside ." />
+</script>
+</scripts>

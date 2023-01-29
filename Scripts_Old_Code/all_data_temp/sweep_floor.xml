@@ -1,0 +1,328 @@
+<scripts>
+<script id="1">
+<item slot="1" text="locate broom ." />
+<item slot="2" text="pick up broom ." />
+<item slot="3" text="run broom across floor gathering dust into a pile ." />
+<item slot="4" text="throw away the dust and dirt ." />
+</script>
+<script id="2">
+<item slot="1" text="locate broom ." />
+<item slot="2" text="run broom across floor to gather dust into a pile ." />
+<item slot="3" text="place dust pile in trash can ." />
+</script>
+<script id="3">
+<item slot="1" text="take broom ." />
+<item slot="2" text="move broom back on forth ." />
+<item slot="3" text="move garbage towards some location ." />
+<item slot="4" text="pick up garbage and throw away ." />
+</script>
+<script id="4">
+<item slot="1" text="get the water ." />
+<item slot="2" text="splash the water on the floor ." />
+</script>
+<script id="5">
+<item slot="1" text="get a broom ." />
+<item slot="2" text="brush the broom accross the floor ." />
+</script>
+<script id="6">
+<item slot="1" text="obtain a broom ." />
+<item slot="2" text="push the bristle end of the broom on the floor ." />
+<item slot="3" text="push dirt into a pile ." />
+<item slot="4" text="push the dirt pile into a dust pan ." />
+<item slot="5" text="empty the dust pan into the trash ." />
+</script>
+<script id="7">
+<item slot="1" text="get broom ." />
+<item slot="2" text="start sweeping ." />
+<item slot="3" text="gather dirt ." />
+<item slot="4" text="throw away dirt ." />
+</script>
+<script id="8">
+<item slot="1" text="get out a broom ." />
+<item slot="2" text="bush the broom accross the floor gathering all the dirt into one spot ." />
+<item slot="3" text="sweep the pile of debris into a dustpan ." />
+<item slot="4" text="empty the dustpan into the trash ." />
+<item slot="5" text="replace the broom and dustpan ." />
+</script>
+<script id="9">
+<item slot="1" text="getting a broom ." />
+<item slot="2" text="using the broom to push dust onto a dust pan ." />
+<item slot="3" text="emptying the dust pan over a trash can ." />
+</script>
+<script id="10">
+<item slot="1" text="getting a broom ." />
+<item slot="2" text="pushing the broom back and forth to collect dust ." />
+<item slot="3" text="using the broom to push the dust onto a dustpan ." />
+<item slot="4" text="emptying the dust pan over a trash can ." />
+</script>
+<script id="11">
+<item slot="1" text="get broom ." />
+<item slot="2" text="move broom so that to collect dirt ." />
+<item slot="3" text="remove dirt ." />
+</script>
+<script id="12">
+<item slot="1" text="get broom ." />
+<item slot="2" text="start sweeping from one side of room ." />
+<item slot="3" text="advance toward the other side ." />
+<item slot="4" text="gather dirt and throw away ." />
+</script>
+<script id="13">
+<item slot="1" text="get broom ." />
+<item slot="2" text="with broom sweep floor in one direction ." />
+<item slot="3" text="cover all floor ." />
+<item slot="4" text="gather dirt and throw away ." />
+</script>
+<script id="14">
+<item slot="1" text="get broom ." />
+<item slot="2" text="hold broom with two hands ." />
+<item slot="3" text="move broom across floor so that dirt is moved into a direction ." />
+<item slot="4" text="collect dirt and throw away ." />
+</script>
+<script id="15">
+<item slot="1" text="remove large objects from floor ." />
+<item slot="2" text="obtain broom ." />
+<item slot="3" text="move broom across floor ." />
+<item slot="4" text="repeat until surface of floor is covered ." />
+<item slot="5" text="repeat three times ." />
+</script>
+<script id="16">
+<item slot="1" text="take broom ." />
+<item slot="2" text="with broom touching floor sweep broom ." />
+<item slot="3" text="move dirt into pile ." />
+<item slot="4" text="remove dirt from pile ." />
+</script>
+<script id="17">
+<item slot="1" text="take a sweep ." />
+<item slot="2" text="select area to sweep ." />
+<item slot="3" text="sweep the whole area selected ." />
+</script>
+<script id="18">
+<item slot="1" text="find broom ." />
+<item slot="2" text="move broom s brush back and forth across the floor ." />
+<item slot="3" text="repeat until the floor is clean ." />
+</script>
+<script id="19">
+<item slot="1" text="take a broom ." />
+<item slot="2" text="use broom to sweep a floor ." />
+<item slot="3" text="gather all dust in one place ." />
+<item slot="4" text="use broom to put it on a scoop ." />
+<item slot="5" text="put all dust from a scoop into dustbin ." />
+</script>
+<script id="20">
+<item slot="1" text="get a broom ." />
+<item slot="2" text="rub the bristles of the broom across the floor ." />
+<item slot="3" text="sweep all dust and trash into one pile on the floor ." />
+<item slot="4" text="get a dust pan ." />
+<item slot="5" text="sweep all dust and trash into the dust pan ." />
+<item slot="6" text="dispose of the dust and trash ." />
+</script>
+<script id="21">
+<item slot="1" text="locate a broom ." />
+<item slot="2" text="locate a dust pan ." />
+<item slot="3" text="utilize the broom to sweep dirt on the floor into one pile ." />
+<item slot="4" text="sweep dirt from pile into dust pan ." />
+<item slot="5" text="discard of dirt in a trash receptacle ." />
+</script>
+<script id="22">
+<item slot="1" text="get a broom ." />
+<item slot="2" text="hold the broom by the handle ." />
+<item slot="3" text="run the bristles of the broom over the floor ." />
+<item slot="4" text="push all the dust and grime out the door with the broom ." />
+</script>
+<script id="23">
+<item slot="1" text="get broom ." />
+<item slot="2" text="sweep up dust into pile ." />
+<item slot="3" text="sweep pile into dustpan ." />
+<item slot="4" text="empty dustpan ." />
+</script>
+<script id="24">
+<item slot="1" text="identify floor ." />
+<item slot="2" text="identify broom ." />
+<item slot="3" text="grasp broom ." />
+<item slot="4" text="sweep broom against floor ." />
+<item slot="5" text="move dirt off of floor using sweeping motion of broom ." />
+<item slot="6" text="put broom away ." />
+</script>
+<script id="25">
+<item slot="1" text="take the broom ." />
+<item slot="2" text="sweep the floor with the broom ." />
+</script>
+<script id="26">
+<item slot="1" text="get broom ." />
+<item slot="2" text="get dustpan ." />
+<item slot="3" text="sweep dirt into pile ." />
+<item slot="4" text="put dirt into dustpan ." />
+<item slot="5" text="throw dirt away ." />
+<item slot="6" text="repeat as necessary ." />
+<item slot="7" text="store broom and dustpan ." />
+</script>
+<script id="27">
+<item slot="1" text="notice floor is dirty ." />
+<item slot="2" text="decide to sweep ." />
+<item slot="3" text="put pets outside ." />
+<item slot="4" text="find broom ." />
+<item slot="5" text="sweep up dirt into dustpan ." />
+<item slot="6" text="empty dustpan ." />
+<item slot="7" text="let in dogs and note they re bring in more dirt! ." />
+</script>
+<script id="28">
+<item slot="1" text="clear and area of the floor ." />
+<item slot="2" text="use broom to sweep the dirt together ." />
+<item slot="3" text="use dust pan to pick up dirt ." />
+<item slot="4" text="put dirt in trash can ." />
+<item slot="5" text="put cleared items back ." />
+<item slot="6" text="continue ." />
+<item slot="7" text="put away broom and dust pan ." />
+</script>
+<script id="29">
+<item slot="1" text="get broom ." />
+<item slot="2" text="goto floor corner ." />
+<item slot="3" text="push and pull broom across floor ." />
+<item slot="4" text="cover entire floor ." />
+</script>
+<script id="30">
+<item slot="1" text="get broom ." />
+<item slot="2" text="goto floor corner ." />
+<item slot="3" text="push and pull broom across floor ." />
+<item slot="4" text="cover entire floor ." />
+</script>
+<script id="31">
+<item slot="1" text="sweep floor with broom ." />
+<item slot="2" text="pick up dust with dustpan ." />
+</script>
+<script id="32">
+<item slot="1" text="sweep floor with broom ." />
+<item slot="2" text="pick up dust with dustpan ." />
+</script>
+<script id="33">
+<item slot="1" text="pushthe dirt with the broom into little piles ." />
+<item slot="2" text="push all the little piles together ." />
+<item slot="3" text="sweep the piles into the dustpan ." />
+</script>
+<script id="34">
+<item slot="1" text="find broom ." />
+<item slot="2" text="drag accross floor ." />
+<item slot="3" text="pile dirt up ." />
+<item slot="4" text="scoop up dirt ." />
+<item slot="5" text="throw dirt away ." />
+</script>
+<script id="35">
+<item slot="1" text="get the electric broom ." />
+<item slot="2" text="use the broom over intire floor surface without carpet ." />
+<item slot="3" text="when all dirt and dust is removed from the floors ." />
+<item slot="4" text="place the electric broom back where it was ." />
+</script>
+<script id="36">
+<item slot="1" text="get the electric broom ." />
+<item slot="2" text="use the broom over intire floor surface without carpet ." />
+<item slot="3" text="when all dirt and dust is removed from the floors ." />
+<item slot="4" text="place the electric broom back where it was ." />
+</script>
+<script id="37">
+<item slot="1" text="find the floor ." />
+<item slot="2" text="sweep it ." />
+</script>
+<script id="38">
+<item slot="1" text="get broom and dust pan ." />
+<item slot="2" text="sweep broom head across the floor ." />
+<item slot="3" text="sweep dirt into a pile ." />
+<item slot="4" text="hold dust pan to floor ." />
+<item slot="5" text="sweep pile of dirt onto dust pan ." />
+<item slot="6" text="repeat until floor is clean ." />
+</script>
+<script id="39">
+<item slot="1" text="grasp broom ." />
+<item slot="2" text="sweep dirt into one main pile ." />
+<item slot="3" text="sweep dirt pile into dustbin ." />
+<item slot="4" text="dispose of dirt in dustbin ." />
+</script>
+<script id="40">
+<item slot="1" text="grasp broom ." />
+<item slot="2" text="sweep dirt into one main pile ." />
+<item slot="3" text="sweep dirt pile into dustbin ." />
+<item slot="4" text="dispose of dirt in dustbin ." />
+</script>
+<script id="41">
+<item slot="1" text="grasp broom ." />
+<item slot="2" text="sweep dirt into one main pile ." />
+<item slot="3" text="sweep dirt pile into dustbin ." />
+<item slot="4" text="dispose of dirt in dustbin ." />
+</script>
+<script id="42">
+<item slot="1" text="grasp broom ." />
+<item slot="2" text="sweep dirt into one main pile ." />
+<item slot="3" text="sweep dirt pile into dustbin ." />
+<item slot="4" text="dispose of dirt in dustbin ." />
+</script>
+<script id="43">
+<item slot="1" text="grasp broom ." />
+<item slot="2" text="sweep dirt into one main pile ." />
+<item slot="3" text="sweep dirt pile into dustbin ." />
+<item slot="4" text="dispose of dirt in dustbin ." />
+</script>
+<script id="44">
+<item slot="1" text="grasp broom ." />
+<item slot="2" text="sweep dirt into one main pile ." />
+<item slot="3" text="sweep dirt pile into dustbin ." />
+<item slot="4" text="dispose of dirt in dustbin ." />
+</script>
+<script id="45">
+<item slot="1" text="get a broom ." />
+<item slot="2" text="make forward motions with the broom to gather dirt from floor ." />
+<item slot="3" text="get a dustpan ." />
+<item slot="4" text="sweep the dirt with broom into dustpan ." />
+<item slot="5" text="throw contents of dustpan in the garbage ." />
+<item slot="6" text="repeat as many times as needed ." />
+</script>
+<script id="46">
+<item slot="1" text="get a broom ." />
+<item slot="2" text="make forward motions with the broom to gather dirt from floor ." />
+<item slot="3" text="get a dustpan ." />
+<item slot="4" text="sweep the dirt with broom into dustpan ." />
+<item slot="5" text="throw contents of dustpan in the garbage ." />
+<item slot="6" text="repeat as many times as needed ." />
+</script>
+<script id="47">
+<item slot="1" text="obtain sweeper ." />
+<item slot="2" text="sweep ." />
+<item slot="3" text="sweep into dustbin ." />
+<item slot="4" text="empty dustbin ." />
+<item slot="5" text="repeat 2 -4 as necesary ." />
+</script>
+<script id="48">
+<item slot="1" text="obtain sweeper ." />
+<item slot="2" text="sweep ." />
+<item slot="3" text="sweep into dustbin ." />
+<item slot="4" text="empty dustbin ." />
+<item slot="5" text="repeat 2 -4 as necesary ." />
+</script>
+<script id="49">
+<item slot="1" text="take out broom ." />
+<item slot="2" text="sweep broom over floor ." />
+<item slot="3" text="sweep dirt into pan ." />
+<item slot="4" text="throw dirt into garbage ." />
+</script>
+<script id="50">
+<item slot="1" text="find broom ." />
+<item slot="2" text="sweep dirt into pile ." />
+<item slot="3" text="sweep into dustpan ." />
+<item slot="4" text="throw in garbage ." />
+</script>
+<script id="51">
+<item slot="1" text="find broom ." />
+<item slot="2" text="sweep dirt into pile ." />
+<item slot="3" text="sweep into dustpan ." />
+<item slot="4" text="throw in garbage ." />
+</script>
+<script id="52">
+<item slot="1" text="take broom ." />
+<item slot="2" text="sweep floor ." />
+<item slot="3" text="collect dirt ." />
+<item slot="4" text="put broom away ." />
+</script>
+<script id="53">
+<item slot="1" text="run broom over floor ." />
+<item slot="2" text="sweep dirt into a mound ." />
+<item slot="3" text="sweep mound into dustpan ." />
+</script>
+</scripts>

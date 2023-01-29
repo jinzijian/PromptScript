@@ -1,0 +1,9 @@
+<scripts><script id="1">
+		<item slot="1" text="gather dirty clothes ."/>
+		<item slot="2" text="fill washing machine with dirty clothes ."/>
+		<item slot="3" text="turn on washing machine ."/>
+		<item slot="4" text="when washing machine is done take out clothes ."/>
+		<item slot="5" text="put clothes in dryer ."/>
+		<item slot="6" text="turn on dryer ."/>
+		<item slot="7" text="when dryer is done take out clothes ."/>
+	</script></scripts>

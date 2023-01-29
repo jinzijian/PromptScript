@@ -1,0 +1,9 @@
+<scripts><script id="12">
+<item slot="1" text="locate dishes in room ."/>
+<item slot="2" text="move to first dish ."/>
+<item slot="3" text="pick up first dish ."/>
+<item slot="4" text="if all dishes have been picked up continue to kitchen ."/>
+<item slot="5" text="otherwise locate next dish ."/>
+<item slot="6" text="move to next dish and pick it up ."/>
+<item slot="7" text="check step 4 ."/>
+</script></scripts>

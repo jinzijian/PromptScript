@@ -1,0 +1,374 @@
+<scripts>
+<script id="1">
+<item slot="1" text="take leash ." />
+<item slot="2" text="take dog ." />
+<item slot="3" text="attach leach to dog ." />
+<item slot="4" text="go out with dog ." />
+</script>
+<script id="2">
+<item slot="1" text="get up ." />
+<item slot="2" text="put the leash on the dog ." />
+<item slot="3" text="walk out the door ." />
+<item slot="4" text="walk the dog ." />
+<item slot="5" text="come back home ." />
+<item slot="6" text="take the leash off ." />
+</script>
+<script id="3">
+<item slot="1" text="find the dog ." />
+<item slot="2" text="find a leash ." />
+<item slot="3" text="attach the leash to the dog ." />
+<item slot="4" text="walk the dog using the leash ." />
+</script>
+<script id="4">
+<item slot="1" text="find a leash ." />
+<item slot="2" text="attach the leash to the dog ." />
+<item slot="3" text="take the dog outside ." />
+<item slot="4" text="walk on sidewalks and ground with the dog ." />
+</script>
+<script id="5">
+<item slot="1" text="locate a dog leash ." />
+<item slot="2" text="locate a dog collar ." />
+<item slot="3" text="locate a dog ." />
+<item slot="4" text="securely fasten the collar to the dog ." />
+<item slot="5" text="clip the leash to the collar ." />
+<item slot="6" text="securely grasp the leash ." />
+<item slot="7" text="walk outside with the dog ." />
+</script>
+<script id="6">
+<item slot="1" text="put leash on dog ." />
+<item slot="2" text="take dog outside ." />
+<item slot="3" text="choose path to walk from available choices ." />
+<item slot="4" text="follow selected path to its end ." />
+<item slot="5" text="then return back home ." />
+</script>
+<script id="7">
+<item slot="1" text="attach a leash to the dog ." />
+<item slot="2" text="hold leash ." />
+<item slot="3" text="take dog along walking route ." />
+<item slot="4" text="return to starting point ." />
+<item slot="5" text="remove leash from dog ." />
+<item slot="6" text="put away leash ." />
+</script>
+<script id="8">
+<item slot="1" text="get out the leash ." />
+<item slot="2" text="hook the leash onto the dog s collar ." />
+<item slot="3" text="grasp the leash ." />
+<item slot="4" text="go outside ." />
+<item slot="5" text="walk around the block ." />
+<item slot="6" text="come back inside ." />
+<item slot="7" text="unhook the leash ." />
+</script>
+<script id="9">
+<item slot="1" text="get dog ." />
+<item slot="2" text="place leash ." />
+<item slot="3" text="take dog ouside ." />
+<item slot="4" text="walk with dog holding leash ." />
+<item slot="5" text="get back ." />
+<item slot="6" text="remove leash ." />
+</script>
+<script id="10">
+<item slot="1" text="call dog ." />
+<item slot="2" text="put leach on dog ." />
+<item slot="3" text="take dog outside ." />
+<item slot="4" text="walk with dog outside ." />
+<item slot="5" text="come back to house ." />
+<item slot="6" text="take leach off ." />
+<item slot="7" text="clean dog ." />
+</script>
+<script id="11">
+<item slot="1" text="call dog ." />
+<item slot="2" text="put leach on dog ." />
+<item slot="3" text="take dog outside ." />
+<item slot="4" text="walk with dog ." />
+<item slot="5" text="come back to house ." />
+<item slot="6" text="enter house ." />
+<item slot="7" text="take off leach ." />
+</script>
+<script id="12">
+<item slot="1" text="find the dog ." />
+<item slot="2" text="find a leash ." />
+<item slot="3" text="attach the leash to the dog s collar ." />
+<item slot="4" text="talk the dog outside ." />
+<item slot="5" text="holding the leash move around on the sidewalks allowing the dog to walk ." />
+</script>
+<script id="13">
+<item slot="1" text="get the dog ." />
+<item slot="2" text="puth the leash on the dog ." />
+<item slot="3" text="take the dog outside ." />
+<item slot="4" text="choose a place to walk to ." />
+<item slot="5" text="have the dog walk back and forth from the location ." />
+</script>
+<script id="14">
+<item slot="1" text="call the dog ." />
+<item slot="2" text="put on its lead ." />
+<item slot="3" text="take dog down the road ." />
+</script>
+<script id="15">
+<item slot="1" text="get a leash ." />
+<item slot="2" text="get the dog ." />
+<item slot="3" text="put the leash on the dog ." />
+<item slot="4" text="take the dog outside ." />
+<item slot="5" text="walk with the dog ." />
+</script>
+<script id="16">
+<item slot="1" text="put collar on dog ." />
+<item slot="2" text="attach leash to collar ." />
+<item slot="3" text="go outside with dog ." />
+<item slot="4" text="take a walk ." />
+<item slot="5" text="scoop poop ." />
+<item slot="6" text="return home ." />
+<item slot="7" text="remove leash and collar from dog ." />
+</script>
+<script id="17">
+<item slot="1" text="get leash ." />
+<item slot="2" text="put leash on dog ." />
+<item slot="3" text="go outside ." />
+<item slot="4" text="walk with dog while holding leash ." />
+<item slot="5" text="go inside ." />
+<item slot="6" text="take leash off of dog ." />
+<item slot="7" text="put away leash ." />
+</script>
+<script id="18">
+<item slot="1" text="attach leash to dog s collar ." />
+<item slot="2" text="take dog outside ." />
+<item slot="3" text="walk dog ." />
+<item slot="4" text="return to starting point ." />
+</script>
+<script id="19">
+<item slot="1" text="get the leash ." />
+<item slot="2" text="put the leash on the dog ." />
+<item slot="3" text="open the door ." />
+<item slot="4" text="go outside with the dog ." />
+<item slot="5" text="close the door ." />
+<item slot="6" text="walk ." />
+</script>
+<script id="20">
+<item slot="1" text="get the leash ." />
+<item slot="2" text="put the leash on the dog ." />
+<item slot="3" text="open the door ." />
+<item slot="4" text="go outside with the dog ." />
+<item slot="5" text="close the door ." />
+<item slot="6" text="walk ." />
+</script>
+<script id="21">
+<item slot="1" text="find the dog ." />
+<item slot="2" text="leash the dog ." />
+<item slot="3" text="take dog outside ." />
+<item slot="4" text="walk with the dog ." />
+<item slot="5" text="return to home ." />
+<item slot="6" text="unleash dog ." />
+</script>
+<script id="22">
+<item slot="1" text="identify the dog you need to walk ." />
+<item slot="2" text="get the dog s leash ." />
+<item slot="3" text="put the leash on the dog ." />
+<item slot="4" text="open the door ." />
+<item slot="5" text="walk out the door guiding the dog on the leash ." />
+<item slot="6" text="let the dog go to the bathroom ." />
+<item slot="7" text="bring the dog back in the house ." />
+</script>
+<script id="23">
+<item slot="1" text="place collar around neck of dog ." />
+<item slot="2" text="attach leash to collar ." />
+<item slot="3" text="walk dog ." />
+</script>
+<script id="24">
+<item slot="1" text="put dog on leash ." />
+<item slot="2" text="walk with dog on leash around neighborhood ." />
+<item slot="3" text="return home ." />
+<item slot="4" text="take dog off leash ." />
+</script>
+<script id="25">
+<item slot="1" text="call dog ." />
+<item slot="2" text="get lead ." />
+<item slot="3" text="put lead on dog ." />
+<item slot="4" text="hold lead ." />
+<item slot="5" text="lead dog outside ." />
+<item slot="6" text="walk with dog ." />
+<item slot="7" text="return home ." />
+</script>
+<script id="26">
+<item slot="1" text="locate dog ." />
+</script>
+<script id="27">
+<item slot="1" text="put leash on dog ." />
+<item slot="2" text="bring bags for waste ." />
+<item slot="3" text="put on my shoes and coat ." />
+<item slot="4" text="leave house and lock door ." />
+<item slot="5" text="walk down the walkway ." />
+<item slot="6" text="follow sidewalk to the park ." />
+<item slot="7" text="go back home and unleash dog ." />
+</script>
+<script id="28">
+<item slot="1" text="put leash on dog ." />
+<item slot="2" text="take dog to park ." />
+<item slot="3" text="walk the dog ." />
+<item slot="4" text="do not let dog run wildly or bite people ." />
+</script>
+<script id="29">
+<item slot="1" text="call the dog to you ." />
+<item slot="2" text="put collar on dog ." />
+<item slot="3" text="attach leash to collar ." />
+<item slot="4" text="hold on to leash loop ." />
+<item slot="5" text="open door ." />
+<item slot="6" text="take dog outside walk around ." />
+<item slot="7" text="return dog to indoors and remove leash and collar ." />
+</script>
+<script id="30">
+<item slot="1" text="get leash ." />
+<item slot="2" text="put on dog ." />
+<item slot="3" text="go outside ." />
+<item slot="4" text="go for a walk come back inside ." />
+</script>
+<script id="31">
+<item slot="1" text="chain dog ." />
+<item slot="2" text="take dog out for walk ." />
+</script>
+<script id="32">
+<item slot="1" text="chain dog ." />
+<item slot="2" text="take dog out for walk ." />
+</script>
+<script id="33">
+<item slot="1" text="chain dog ." />
+<item slot="2" text="take dog out for walk ." />
+</script>
+<script id="34">
+<item slot="1" text="chain dog ." />
+<item slot="2" text="take dog out for walk ." />
+</script>
+<script id="35">
+<item slot="1" text="chain dog ." />
+<item slot="2" text="take dog out for walk ." />
+</script>
+<script id="36">
+<item slot="1" text="chain dog ." />
+<item slot="2" text="take dog out for walk ." />
+</script>
+<script id="37">
+<item slot="1" text="summon dog ." />
+<item slot="2" text="put leash on dog collar ." />
+<item slot="3" text="go outside ." />
+<item slot="4" text="walk dog around neighbourhood ." />
+<item slot="5" text="return home ." />
+<item slot="6" text="take leash off dog ." />
+<item slot="7" text="give dog water to drink ." />
+</script>
+<script id="38">
+<item slot="1" text="summon dog ." />
+<item slot="2" text="put leash on dog collar ." />
+<item slot="3" text="go outside ." />
+<item slot="4" text="walk dog around neighbourhood ." />
+<item slot="5" text="return home ." />
+<item slot="6" text="take leash off dog ." />
+<item slot="7" text="give dog water to drink ." />
+</script>
+<script id="39">
+<item slot="1" text="summon dog ." />
+<item slot="2" text="put leash on dog collar ." />
+<item slot="3" text="go outside ." />
+<item slot="4" text="walk dog around neighbourhood ." />
+<item slot="5" text="return home ." />
+<item slot="6" text="take leash off dog ." />
+<item slot="7" text="give dog water to drink ." />
+</script>
+<script id="40">
+<item slot="1" text="leash the dog ." />
+<item slot="2" text="open the door ." />
+<item slot="3" text="take dog out ." />
+<item slot="4" text="walk the dog ." />
+<item slot="5" text="bring dog back ." />
+<item slot="6" text="open door ." />
+<item slot="7" text="put dog in house ." />
+</script>
+<script id="41">
+<item slot="1" text="get leash ." />
+<item slot="2" text="get dog ." />
+<item slot="3" text="attach leash to dog ." />
+<item slot="4" text="take dog for walk ." />
+</script>
+<script id="42">
+<item slot="1" text="take the dog outside ." />
+<item slot="2" text="walk the dog ." />
+</script>
+<script id="43">
+<item slot="1" text="take the dog outside ." />
+<item slot="2" text="walk the dog ." />
+</script>
+<script id="44">
+<item slot="1" text="take the dog outside ." />
+<item slot="2" text="walk the dog ." />
+</script>
+<script id="45">
+<item slot="1" text="get the leash ." />
+<item slot="2" text="call the dog ." />
+<item slot="3" text="hook leash to dog collar ." />
+<item slot="4" text="walk the dog ." />
+<item slot="5" text="return with the dog ." />
+<item slot="6" text="unhook leash from collar ." />
+</script>
+<script id="46">
+<item slot="1" text="put the collar and leash on the dog ." />
+<item slot="2" text="open the door ." />
+<item slot="3" text="take the dog outside ." />
+<item slot="4" text="walk with the dog ." />
+<item slot="5" text="eventually return home ." />
+</script>
+<script id="47">
+<item slot="1" text="get leash ." />
+<item slot="2" text="put leash on dog ." />
+<item slot="3" text="take dog outside ." />
+<item slot="4" text="walk with dog ." />
+</script>
+<script id="48">
+<item slot="1" text="get leash ." />
+<item slot="2" text="put leash on dog ." />
+<item slot="3" text="take dog outside ." />
+<item slot="4" text="walk with dog ." />
+</script>
+<script id="49">
+<item slot="1" text="get leash ." />
+<item slot="2" text="put leash on dog ." />
+<item slot="3" text="take dog outside ." />
+<item slot="4" text="walk with dog ." />
+</script>
+<script id="50">
+<item slot="1" text="find the leash ." />
+<item slot="2" text="call the dog ." />
+<item slot="3" text="put the leash on ." />
+<item slot="4" text="walk out door with dog ." />
+</script>
+<script id="51">
+<item slot="1" text="find the leash ." />
+<item slot="2" text="call the dog ." />
+<item slot="3" text="put the leash on ." />
+<item slot="4" text="walk out door with dog ." />
+</script>
+<script id="52">
+<item slot="1" text="put your dog on a leash ." />
+<item slot="2" text="bring a bag in case he poops ." />
+</script>
+<script id="53">
+<item slot="1" text="put your dog on a leash ." />
+<item slot="2" text="bring a bag in case he poops ." />
+<item slot="3" text="walk your dog ." />
+</script>
+<script id="54">
+<item slot="1" text="take coller ." />
+<item slot="2" text="place coller on dog ." />
+<item slot="3" text="go outside ." />
+</script>
+<script id="55">
+<item slot="1" text="take leash ." />
+<item slot="2" text="put leash on dog ." />
+<item slot="3" text="take dog outside ." />
+</script>
+<script id="56">
+<item slot="1" text="getting a leash ." />
+<item slot="2" text="bringing a bag ." />
+<item slot="3" text="walking ." />
+<item slot="4" text="dragging the dog ." />
+<item slot="5" text="ordering the dog ." />
+<item slot="6" text="poop and scooping ." />
+<item slot="7" text="exercise ." />
+</script>
+</scripts>

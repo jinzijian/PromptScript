@@ -1,0 +1,80 @@
+<scripts>
+<script id="1">
+<item slot="1" text="planning ." />
+<item slot="2" text="trying ." />
+<item slot="3" text="writing ." />
+<item slot="4" text="finishing ." />
+<item slot="5" text="saving ." />
+<item slot="6" text="printing ." />
+<item slot="7" text="mailing ." />
+</script>
+<script id="2">
+<item slot="1" text="get a paper ." />
+<item slot="2" text="get a pen ." />
+<item slot="3" text="start writing ." />
+</script>
+<script id="3">
+<item slot="1" text="think of what needs to be on the list ." />
+<item slot="2" text="write down the items on the list ." />
+<item slot="3" text="use the list to determine items needed ." />
+</script>
+<script id="4">
+<item slot="1" text="determine what you need to do ." />
+<item slot="2" text="locate a piece of paper ." />
+<item slot="3" text="locate a writing implement ." />
+<item slot="4" text="write on the paper each item you need to do singly ." />
+</script>
+<script id="5">
+<item slot="1" text="come up with things to be on the list ." />
+<item slot="2" text="write the things down on a list ." />
+</script>
+<script id="6">
+<item slot="1" text="locate paper ." />
+<item slot="2" text="get paper ." />
+<item slot="3" text="locate pen ." />
+<item slot="4" text="get pen ." />
+<item slot="5" text="write list of tasks on the paper using the pen ." />
+</script>
+<script id="7">
+<item slot="1" text="get paper and pen ." />
+<item slot="2" text="think of items on the list ." />
+<item slot="3" text="write items down ." />
+</script>
+<script id="8">
+<item slot="1" text="get a piece of paper ." />
+<item slot="2" text="get a pencil ." />
+<item slot="3" text="write down each item for your list ." />
+</script>
+<script id="9">
+<item slot="1" text="get paper and pencil ." />
+<item slot="2" text="write down items on list ." />
+</script>
+<script id="10">
+<item slot="1" text="grab piece of paper ." />
+<item slot="2" text="grab pencil or pen ." />
+<item slot="3" text="write down items one by one ." />
+</script>
+<script id="11">
+<item slot="1" text="grab piece of paper ." />
+<item slot="2" text="grab pencil or pen ." />
+<item slot="3" text="write down items one by one ." />
+</script>
+<script id="12">
+<item slot="1" text="think of item ." />
+<item slot="2" text="write item on paper ." />
+<item slot="3" text="think of another item ." />
+<item slot="4" text="write item on next line ." />
+<item slot="5" text="repeat 3 and 4 ." />
+</script>
+<script id="13">
+<item slot="1" text="take piece of paper ." />
+<item slot="2" text="take pencil or pen ." />
+<item slot="3" text="write items on list until complete ." />
+</script>
+<script id="14">
+<item slot="1" text="get a pen ." />
+<item slot="2" text="get some paper ." />
+<item slot="3" text="think of the items ." />
+<item slot="4" text="write them down ." />
+</script>
+</scripts>

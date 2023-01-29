@@ -1,0 +1,384 @@
+<scripts>
+<script id="1">
+<item slot="1" text="get a container ." />
+<item slot="2" text="find a tap ." />
+<item slot="3" text="fill water in container ." />
+<item slot="4" text="find the plant ." />
+<item slot="5" text="put some water in the pot ." />
+</script>
+<script id="2">
+<item slot="1" text="locate watering bucket ." />
+<item slot="2" text="locate plants ." />
+<item slot="3" text="apply water to plants ." />
+</script>
+<script id="3">
+<item slot="1" text="find water container ." />
+<item slot="2" text="fill water ." />
+<item slot="3" text="go to the plant ." />
+<item slot="4" text="put some water in plant pot ." />
+<item slot="5" text="put water container back ." />
+</script>
+<script id="4">
+<item slot="1" text="check plant for necesity ." />
+<item slot="2" text="fill container with get wat ." />
+<item slot="3" text="go to plant ." />
+<item slot="4" text="water the plant ." />
+</script>
+<script id="5">
+<item slot="1" text="fill the watering can ." />
+<item slot="2" text="walk around ." />
+<item slot="3" text="water the plants ." />
+</script>
+<script id="6">
+<item slot="1" text="find indoor plants ." />
+<item slot="2" text="get container that can hold water ." />
+<item slot="3" text="find kitchen tap ." />
+<item slot="4" text="pour water from kitchen tap into container ." />
+<item slot="5" text="locate indoor plants ." />
+<item slot="6" text="water indoor plants ." />
+</script>
+<script id="7">
+<item slot="1" text="obtain water can or other water source ." />
+<item slot="2" text="bring the water source to the plants that need to be watered ." />
+<item slot="3" text="pour or dispense water into the soil of the plants ." />
+</script>
+<script id="8">
+<item slot="1" text="get watering container ." />
+<item slot="2" text="fill container with water ." />
+<item slot="3" text="move to an indoor plant ." />
+<item slot="4" text="pour some water from container into plant ." />
+<item slot="5" text="repeat until all plants have been watered ." />
+</script>
+<script id="9">
+<item slot="1" text="get a watering can ." />
+<item slot="2" text="fill the can with water ." />
+<item slot="3" text="for each potted plant ." />
+<item slot="4" text="pour some water onto the soil ." />
+</script>
+<script id="10">
+<item slot="1" text="get a watering pot ." />
+<item slot="2" text="fill the watering pot with water ." />
+<item slot="3" text="pour the water over the indoor plants ." />
+<item slot="4" text="stop pouring before the indoor plants s container overflows ." />
+</script>
+<script id="11">
+<item slot="1" text="get water jug ." />
+<item slot="2" text="go to plant ." />
+<item slot="3" text="pour water ." />
+<item slot="4" text="go to 2 until no more plants or no more water ." />
+</script>
+<script id="12">
+<item slot="1" text="fill water jug ." />
+<item slot="2" text="take water jug to plant ." />
+<item slot="3" text="pour water into plant pot ." />
+<item slot="4" text="move to next plant ." />
+</script>
+<script id="13">
+<item slot="1" text="fill watering can ." />
+<item slot="2" text="walk to plant ." />
+<item slot="3" text="pour some water in plant pot until damp ." />
+</script>
+<script id="14">
+<item slot="1" text="put water in watering can ." />
+<item slot="2" text="pour water into the soil of the plant pots ." />
+</script>
+<script id="15">
+<item slot="1" text="fill water container ." />
+<item slot="2" text="carry water container to plants ." />
+<item slot="3" text="pour water inside plant pot ." />
+<item slot="4" text="go to next plant until no more plants ." />
+</script>
+<script id="16">
+<item slot="1" text="pick up a watering pitcher ." />
+<item slot="2" text="fill the pitcher with water ." />
+</script>
+<script id="17">
+<item slot="1" text="pick up a watering pitcher ." />
+<item slot="2" text="fill the pitcher with water ." />
+<item slot="3" text="pour the water into the soild around the plant ." />
+</script>
+<script id="18">
+<item slot="1" text="fill a plant watering container with water ." />
+<item slot="2" text="move to an indoor plant which needs water ." />
+<item slot="3" text="pour some water from the container into the plant s pot ." />
+<item slot="4" text="repeat until all indoor plants have been watered ." />
+</script>
+<script id="19">
+<item slot="1" text="fill water jug ." />
+<item slot="2" text="take water jug to plants ." />
+<item slot="3" text="pour water in plants  pots ." />
+<item slot="4" text="go to next plant ." />
+</script>
+<script id="20">
+<item slot="1" text="fetch watering can ." />
+<item slot="2" text="fill it with water ." />
+<item slot="3" text="pour water on the plants ." />
+</script>
+<script id="21">
+<item slot="1" text="get a pitcher ." />
+<item slot="2" text="fill the pitcher with water ." />
+<item slot="3" text="go to each plant individually ." />
+<item slot="4" text="pour the appropriate amount of water from the pitcher into the plant soil for each plant individuall ." />
+</script>
+<script id="22">
+<item slot="1" text="get water pitcher ." />
+<item slot="2" text="fill pitcher with cool water ." />
+<item slot="3" text="pour enough water into plant to last for about a week ." />
+<item slot="4" text="discard any unused water ." />
+</script>
+<script id="23">
+<item slot="1" text="find watering can ." />
+<item slot="2" text="turn on cool water ." />
+<item slot="3" text="fill watering can with cool water ." />
+<item slot="4" text="pour two cups of water into plant ." />
+<item slot="5" text="empty remaining water into the sink ." />
+<item slot="6" text="putaway watering can ." />
+</script>
+<script id="24">
+<item slot="1" text="fill bucket with water ." />
+<item slot="2" text="go to plant ." />
+<item slot="3" text="poor water on plants ." />
+<item slot="4" text="repeat for all plants ." />
+<item slot="5" text="refill bucket if needed ." />
+</script>
+<script id="25">
+<item slot="1" text="find watering can ." />
+<item slot="2" text="fill watering can with water ." />
+<item slot="3" text="pour some water on each indoor plant ." />
+<item slot="4" text="if water is spilled clean up spill ." />
+<item slot="5" text="empty watering can in sink ." />
+<item slot="6" text="put watering can away ." />
+</script>
+<script id="26">
+<item slot="1" text="get a empty bottle spray ." />
+<item slot="2" text="put water on the bottle spray ." />
+<item slot="3" text="spray the plants ." />
+</script>
+<script id="27">
+<item slot="1" text="remove watering pitcher from storage ." />
+<item slot="2" text="turn on water ." />
+<item slot="3" text="fill pitcher with water ." />
+<item slot="4" text="turn off water ." />
+<item slot="5" text="position pitcher over plants ." />
+<item slot="6" text="empty water onto plants ." />
+<item slot="7" text="return pitcher to storage ." />
+</script>
+<script id="28">
+<item slot="1" text="fill container with water ." />
+<item slot="2" text="pour on plants ." />
+</script>
+<script id="29">
+<item slot="1" text="fill a vessel with water ." />
+<item slot="2" text="carry the water to the plant ." />
+<item slot="3" text="pour water slowly into the soil ." />
+<item slot="4" text="stop pouring when soil is moist ." />
+<item slot="5" text="put vessel away ." />
+<item slot="6" text="talk to plant for a short while ." />
+</script>
+<script id="30">
+<item slot="1" text="put water into a cup or watering can ." />
+<item slot="2" text="pour a small amount of water onto soil ." />
+<item slot="3" text="repeat step 2 for each plant ." />
+<item slot="4" text="pour out access water ." />
+</script>
+<script id="31">
+<item slot="1" text="fill container with water ." />
+<item slot="2" text="add water to plants ." />
+</script>
+<script id="32">
+<item slot="1" text="fill container with water ." />
+<item slot="2" text="add water to plants ." />
+</script>
+<script id="33">
+<item slot="1" text="notice plants need water ." />
+<item slot="2" text="find waterer ." />
+<item slot="3" text="run water into waterer ." />
+<item slot="4" text="walk to plant ." />
+<item slot="5" text="water plant ." />
+<item slot="6" text="check dampness ." />
+<item slot="7" text="water again or return waterer to storage ." />
+</script>
+<script id="34">
+<item slot="1" text="check if plants are dry ." />
+<item slot="2" text="locate watering can ." />
+<item slot="3" text="go to sink ." />
+<item slot="4" text="put watering can under faucet ." />
+<item slot="5" text="turn water on ." />
+<item slot="6" text="fill watering can ." />
+<item slot="7" text="pour water into plant pots ." />
+</script>
+<script id="35">
+<item slot="1" text="goto plants ." />
+<item slot="2" text="give water to plants ." />
+</script>
+<script id="36">
+<item slot="1" text="fill jug with water ." />
+<item slot="2" text="pour water into plantpot ." />
+</script>
+<script id="37">
+<item slot="1" text="fill jug with water ." />
+<item slot="2" text="pour water into plantpot ." />
+</script>
+<script id="38">
+<item slot="1" text="fill watering jug with water ." />
+<item slot="2" text="walk over to plant ." />
+<item slot="3" text="pour water into soil until moistened ." />
+<item slot="4" text="repeat with other plants ." />
+</script>
+<script id="39">
+<item slot="1" text="water ." />
+</script>
+<script id="40">
+<item slot="1" text="water ." />
+</script>
+<script id="41">
+<item slot="1" text="water ." />
+</script>
+<script id="42">
+<item slot="1" text="water ." />
+</script>
+<script id="43">
+<item slot="1" text="water ." />
+</script>
+<script id="44">
+<item slot="1" text="water ." />
+</script>
+<script id="45">
+<item slot="1" text="water ." />
+</script>
+<script id="46">
+<item slot="1" text="decide which plants to water ." />
+<item slot="2" text="locate watering can ." />
+<item slot="3" text="fill can with water ." />
+<item slot="4" text="empty water onto plants ." />
+<item slot="5" text="put can away ." />
+</script>
+<script id="47">
+<item slot="1" text="decide which plants to water ." />
+<item slot="2" text="locate watering can ." />
+<item slot="3" text="fill can with water ." />
+<item slot="4" text="empty water onto plants ." />
+<item slot="5" text="put can away ." />
+</script>
+<script id="48">
+<item slot="1" text="decide which plants to water ." />
+<item slot="2" text="locate watering can ." />
+<item slot="3" text="fill can with water ." />
+<item slot="4" text="empty water onto plants ." />
+<item slot="5" text="put can away ." />
+</script>
+<script id="49">
+<item slot="1" text="decide which plants to water ." />
+<item slot="2" text="locate watering can ." />
+<item slot="3" text="fill can with water ." />
+<item slot="4" text="empty water onto plants ." />
+<item slot="5" text="put can away ." />
+</script>
+<script id="50">
+<item slot="1" text="decide which plants to water ." />
+<item slot="2" text="locate watering can ." />
+<item slot="3" text="fill can with water ." />
+<item slot="4" text="empty water onto plants ." />
+<item slot="5" text="put can away ." />
+</script>
+<script id="51">
+<item slot="1" text="get water ." />
+<item slot="2" text="pour onto plant ." />
+</script>
+<script id="52">
+<item slot="1" text="get water ." />
+<item slot="2" text="pour onto plant ." />
+</script>
+<script id="53">
+<item slot="1" text="get water ." />
+<item slot="2" text="pour onto plant ." />
+</script>
+<script id="54">
+<item slot="1" text="get water ." />
+<item slot="2" text="pour onto plant ." />
+</script>
+<script id="55">
+<item slot="1" text="get water ." />
+<item slot="2" text="pour onto plant ." />
+</script>
+<script id="56">
+<item slot="1" text="get water ." />
+<item slot="2" text="pour onto plant ." />
+</script>
+<script id="57">
+<item slot="1" text="fill container with tap ." />
+<item slot="2" text="mix in plant food ." />
+<item slot="3" text="water plants with adequate amount ." />
+<item slot="4" text="place plants in sunlight ." />
+</script>
+<script id="58">
+<item slot="1" text="fill container with tap ." />
+<item slot="2" text="mix in plant food ." />
+<item slot="3" text="water plants with adequate amount ." />
+<item slot="4" text="place plants in sunlight ." />
+</script>
+<script id="59">
+<item slot="1" text="find watering jug ." />
+<item slot="2" text="pick up watering jug ." />
+<item slot="3" text="walk to sink with jug ." />
+<item slot="4" text="place under tap ." />
+<item slot="5" text="turn on tap ." />
+<item slot="6" text="fill with water ." />
+<item slot="7" text="water plants ." />
+</script>
+<script id="60">
+<item slot="1" text="turn tap on ." />
+<item slot="2" text="pour water into jug ." />
+<item slot="3" text="carry jug into room ." />
+<item slot="4" text="pour water ." />
+<item slot="5" text="don t pour too much ." />
+<item slot="6" text="plant will grow ." />
+<item slot="7" text="keep in sun ." />
+</script>
+<script id="61">
+<item slot="1" text="turn tap on ." />
+<item slot="2" text="pour water into jug ." />
+<item slot="3" text="carry jug into room ." />
+<item slot="4" text="pour water ." />
+<item slot="5" text="don t pour too much ." />
+<item slot="6" text="plant will grow ." />
+<item slot="7" text="keep in sun ." />
+</script>
+<script id="62">
+<item slot="1" text="get watering can ." />
+<item slot="2" text="fill watering can with water ." />
+<item slot="3" text="go to plant ." />
+<item slot="4" text="put water in pot until dirt is moist ." />
+<item slot="5" text="repeat for each plant ." />
+<item slot="6" text="empty watering can ." />
+<item slot="7" text="put watering can away ." />
+</script>
+<script id="63">
+<item slot="1" text="fill watering can with water ." />
+<item slot="2" text="pour water into pots until soil is saturated ." />
+</script>
+<script id="64">
+<item slot="1" text="fill watering can with water ." />
+<item slot="2" text="pour water into pots until soil is saturated ." />
+</script>
+<script id="65">
+<item slot="1" text="fill watering can with water ." />
+<item slot="2" text="pour water into pots until soil is saturated ." />
+</script>
+<script id="66">
+<item slot="1" text="fill watering can with water ." />
+<item slot="2" text="pour water into pots until soil is saturated ." />
+</script>
+<script id="67">
+<item slot="1" text="fill watering can with water ." />
+<item slot="2" text="pour water into pots until soil is saturated ." />
+</script>
+<script id="68">
+<item slot="1" text="take water ." />
+<item slot="2" text="pour water on plants ." />
+</script>
+<script id="69">
+<item slot="1" text="add water in a jug ." />
+<item slot="2" text="pour water in pots ." />
+</script>
+</scripts>

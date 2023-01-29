@@ -1,0 +1,256 @@
+<scripts>
+<script id="1">
+<item slot="1" text="find the person in question ." />
+<item slot="2" text="telling him or her that there is a message ." />
+<item slot="3" text="giving the message ." />
+</script>
+<script id="2">
+<item slot="1" text="write down the message ." />
+<item slot="2" text="find the person the message is intended for ." />
+<item slot="3" text="tell the person the message ." />
+</script>
+<script id="3">
+<item slot="1" text="write message on a piece of paper ." />
+<item slot="2" text="find someone at home ." />
+<item slot="3" text="give piece of paper to that person ." />
+</script>
+<script id="4">
+<item slot="1" text="get in touch with the someone ." />
+<item slot="2" text="convey the message to the someone ." />
+</script>
+<script id="5">
+<item slot="1" text="if at home locate the person and tell him the message ." />
+<item slot="2" text="otherwise call home and ask to speak to the desired person ." />
+</script>
+<script id="6">
+<item slot="1" text="call home ." />
+<item slot="2" text="ask to speak to the person who the message should be transmitted to ." />
+<item slot="3" text="tell the person the message ." />
+<item slot="4" text="hang up ." />
+</script>
+<script id="7">
+<item slot="1" text="walk to person ." />
+<item slot="2" text="tell message ." />
+</script>
+<script id="8">
+<item slot="1" text="call person ." />
+<item slot="2" text="tell message to person ." />
+</script>
+<script id="9">
+<item slot="1" text="walk to home ." />
+<item slot="2" text="knock door ." />
+<item slot="3" text="walk inside ." />
+</script>
+<script id="10">
+<item slot="1" text="walk to home ." />
+<item slot="2" text="knock door ." />
+<item slot="3" text="walk inside ." />
+<item slot="4" text="talk to someone ." />
+</script>
+<script id="11">
+<item slot="1" text="call home ." />
+<item slot="2" text="tell message to person at home ." />
+</script>
+<script id="12">
+<item slot="1" text="find person in house ." />
+<item slot="2" text="go to person ." />
+<item slot="3" text="deliver message verbally ." />
+</script>
+<script id="13">
+<item slot="1" text="open mail program ." />
+<item slot="2" text="type message ." />
+<item slot="3" text="add adress ." />
+<item slot="4" text="send message ." />
+</script>
+<script id="14">
+<item slot="1" text="find the person s phone number ." />
+<item slot="2" text="call the person ." />
+<item slot="3" text="tell the person the message ." />
+</script>
+<script id="15">
+<item slot="1" text="dial the person s telephone number ." />
+<item slot="2" text="leave the message with the person who answers the telephone ." />
+</script>
+<script id="16">
+<item slot="1" text="retrieve message to deliver ." />
+<item slot="2" text="deliver message to person ." />
+</script>
+<script id="17">
+<item slot="1" text="locate the person ." />
+<item slot="2" text="locate the message ." />
+<item slot="3" text="hand message to the person ." />
+<item slot="4" text="verify that the message is understandable ." />
+<item slot="5" text="answer any questions if possible ." />
+</script>
+<script id="18">
+<item slot="1" text="tell person you have message for them ." />
+<item slot="2" text="tell the person the message ." />
+</script>
+<script id="19">
+<item slot="1" text="record message ." />
+<item slot="2" text="find someone ." />
+<item slot="3" text="replay message ." />
+</script>
+<script id="20">
+<item slot="1" text="discern need to take a message ." />
+<item slot="2" text="find something to write with ." />
+<item slot="3" text="find something to write on ." />
+<item slot="4" text="listen to message ." />
+<item slot="5" text="record message ." />
+<item slot="6" text="share message ." />
+<item slot="7" text="check understanding of message ." />
+</script>
+<script id="21">
+<item slot="1" text="listen to message ." />
+<item slot="2" text="write down message ." />
+<item slot="3" text="deliver message ." />
+</script>
+<script id="22">
+<item slot="1" text="pick up phone ." />
+<item slot="2" text="dial number ." />
+<item slot="3" text="greet person ." />
+<item slot="4" text="give message ." />
+<item slot="5" text="say goodbye ." />
+</script>
+<script id="23">
+<item slot="1" text="find a pen ." />
+<item slot="2" text="find a paper ." />
+<item slot="3" text="write down the message ." />
+<item slot="4" text="put the message on the refrigerator with a magnet ." />
+</script>
+<script id="24">
+<item slot="1" text="intercept message ." />
+<item slot="2" text="take down ." />
+<item slot="3" text="intend to transmit ." />
+<item slot="4" text="locate recipient ." />
+<item slot="5" text="deliver contents ." />
+</script>
+<script id="25">
+<item slot="1" text="find the person that you have a message for at home ." />
+<item slot="2" text="give them the message ." />
+</script>
+<script id="26">
+<item slot="1" text="write the message on a notepad ." />
+<item slot="2" text="leave it on the table for person to see ." />
+</script>
+<script id="27">
+<item slot="1" text="find paper ." />
+<item slot="2" text="find a pen ." />
+<item slot="3" text="write a note ." />
+<item slot="4" text="put not on the fridge ." />
+</script>
+<script id="28">
+<item slot="1" text="hear message ." />
+<item slot="2" text="write or remember the message ." />
+<item slot="3" text="call or go home ." />
+<item slot="4" text="find the person the message is for ." />
+<item slot="5" text="give them the message ." />
+</script>
+<script id="29">
+<item slot="1" text="listen to message ." />
+<item slot="2" text="obtain note paper ." />
+<item slot="3" text="obtain pen ." />
+<item slot="4" text="write message on paper ." />
+<item slot="5" text="post message ." />
+</script>
+<script id="30">
+<item slot="1" text="pick up the pen ." />
+<item slot="2" text="find a piece of paper ." />
+<item slot="3" text="write down ." />
+<item slot="4" text="leave the note on the counter ." />
+</script>
+<script id="31">
+<item slot="1" text="take a message ." />
+<item slot="2" text="leave a note at home ." />
+</script>
+<script id="32">
+<item slot="1" text="write down message ." />
+<item slot="2" text="leave message somewhere highly visible ." />
+</script>
+<script id="33">
+<item slot="1" text="write down message ." />
+<item slot="2" text="leave message somewhere highly visible ." />
+</script>
+<script id="34">
+<item slot="1" text="walk to get a pen and paper ." />
+<item slot="2" text="use pen on paper to write message ." />
+</script>
+<script id="35">
+<item slot="1" text="listen to message ." />
+<item slot="2" text="write message down ." />
+<item slot="3" text="hand message to person ." />
+</script>
+<script id="36">
+<item slot="1" text="listen to message ." />
+<item slot="2" text="write message down ." />
+<item slot="3" text="hand message to person ." />
+</script>
+<script id="37">
+<item slot="1" text="listen to message ." />
+<item slot="2" text="write message down ." />
+<item slot="3" text="hand message to person ." />
+</script>
+<script id="38">
+<item slot="1" text="listen to message ." />
+<item slot="2" text="write message down ." />
+<item slot="3" text="hand message to person ." />
+</script>
+<script id="39">
+<item slot="1" text="listen to message ." />
+<item slot="2" text="write message down ." />
+<item slot="3" text="hand message to person ." />
+</script>
+<script id="40">
+<item slot="1" text="listen to message ." />
+<item slot="2" text="write message down ." />
+<item slot="3" text="hand message to person ." />
+</script>
+<script id="41">
+<item slot="1" text="recieve the message ." />
+<item slot="2" text="take it home with you ." />
+<item slot="3" text="give it to it s intended recipient ." />
+</script>
+<script id="42">
+<item slot="1" text="find person ." />
+<item slot="2" text="tell person message ." />
+</script>
+<script id="43">
+<item slot="1" text="find person ." />
+<item slot="2" text="tell person message ." />
+</script>
+<script id="44">
+<item slot="1" text="write down the message ." />
+<item slot="2" text="tell the person the message when they get home ." />
+</script>
+<script id="45">
+<item slot="1" text="write down the message ." />
+<item slot="2" text="tell the person the message when they get home ." />
+</script>
+<script id="46">
+<item slot="1" text="wait for person to come ." />
+<item slot="2" text="repeat message ." />
+</script>
+<script id="47">
+<item slot="1" text="wait for person to come ." />
+<item slot="2" text="repeat message ." />
+</script>
+<script id="48">
+<item slot="1" text="wait for person to come ." />
+<item slot="2" text="repeat message ." />
+</script>
+<script id="49">
+<item slot="1" text="get up ." />
+<item slot="2" text="go to person ." />
+<item slot="3" text="tell the person the message ." />
+</script>
+<script id="50">
+<item slot="1" text="get up ." />
+<item slot="2" text="go to person ." />
+<item slot="3" text="tell the person the message ." />
+</script>
+<script id="51">
+<item slot="1" text="take messge ." />
+<item slot="2" text="find the person ." />
+<item slot="3" text="relay message ." />
+</script>
+</scripts>

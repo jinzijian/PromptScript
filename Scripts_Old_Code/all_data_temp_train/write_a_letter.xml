@@ -1,0 +1,335 @@
+<scripts>
+<script id="1">
+<item slot="1" text="find some paper ." />
+<item slot="2" text="find a pen ." />
+<item slot="3" text="write the letter ." />
+</script>
+<script id="2">
+<item slot="1" text="find writing paper ." />
+<item slot="2" text="find a pen or pencil ." />
+<item slot="3" text="write a message on the paper with the pen or pencil ." />
+</script>
+<script id="3">
+<item slot="1" text="determine the recipient of the letter ." />
+<item slot="2" text="determine the content of the letter ." />
+<item slot="3" text="locate a few pieces of paper ." />
+<item slot="4" text="locate a writing implement ." />
+<item slot="5" text="using the writing implement transcribe the thoughts onto the paper ." />
+</script>
+<script id="4">
+<item slot="1" text="find paper ." />
+<item slot="2" text="find a pen ." />
+<item slot="3" text="decide who to write to ." />
+<item slot="4" text="use pen to write words on paper ." />
+</script>
+<script id="5">
+<item slot="1" text="pick up a piece of paper ." />
+<item slot="2" text="pick up a pen ." />
+<item slot="3" text="write the letter on paper using the pen ." />
+<item slot="4" text="put the completed letter in an envelope ." />
+<item slot="5" text="close the envelope ." />
+<item slot="6" text="put the receiver information ." />
+<item slot="7" text="put appropriate stamps ." />
+</script>
+<script id="6">
+<item slot="1" text="get paper ." />
+<item slot="2" text="get pencil ." />
+<item slot="3" text="write on paper ." />
+<item slot="4" text="fold paper ." />
+<item slot="5" text="put in envelope ." />
+</script>
+<script id="7">
+<item slot="1" text="find paper ." />
+<item slot="2" text="find pen ." />
+<item slot="3" text="write on the paper using pen ." />
+<item slot="4" text="find envelope ." />
+<item slot="5" text="put letter in envelope ." />
+<item slot="6" text="write address on envelope ." />
+<item slot="7" text="put stamp on envelope ." />
+</script>
+<script id="8">
+<item slot="1" text="find a sheet of lined stationary paper ." />
+<item slot="2" text="find a pencil or pen ." />
+</script>
+<script id="9">
+<item slot="1" text="get paper ." />
+<item slot="2" text="write letter content ." />
+<item slot="3" text="fold paper ." />
+<item slot="4" text="put folded paper in envelope ." />
+<item slot="5" text="seal envelope ." />
+<item slot="6" text="write address on envelope ." />
+<item slot="7" text="stamp and mail envelope ." />
+</script>
+<script id="10">
+<item slot="1" text="get paper ." />
+<item slot="2" text="get pen ." />
+<item slot="3" text="write text of letter ." />
+</script>
+<script id="11">
+<item slot="1" text="get paper and pencil ." />
+<item slot="2" text="write message on paper ." />
+<item slot="3" text="sign name and date ." />
+<item slot="4" text="put in envelope ." />
+</script>
+<script id="12">
+<item slot="1" text="think of content ." />
+<item slot="2" text="write content in wordprocessing program ." />
+<item slot="3" text="print letter ." />
+</script>
+<script id="13">
+<item slot="1" text="locate paper ." />
+<item slot="2" text="record message for letter ." />
+<item slot="3" text="print letter onto paper ." />
+<item slot="4" text="prepare letter for mailing ." />
+</script>
+<script id="14">
+<item slot="1" text="get a pen ." />
+<item slot="2" text="get some paper ." />
+<item slot="3" text="write the letter ." />
+</script>
+<script id="15">
+<item slot="1" text="collect paper an envelope and a writing utensil ." />
+<item slot="2" text="address the letter and envelope ." />
+<item slot="3" text="write that which needs to be written ." />
+<item slot="4" text="sign it ." />
+<item slot="5" text="fold the letter ." />
+<item slot="6" text="put it in the envelope ." />
+<item slot="7" text="seal the envelope ." />
+</script>
+<script id="16">
+<item slot="1" text="get a pen ." />
+<item slot="2" text="get some paper ." />
+<item slot="3" text="write down what you want to say ." />
+<item slot="4" text="put it in an envelope ." />
+<item slot="5" text="put a stamp on it ." />
+<item slot="6" text="post it in a letter box ." />
+</script>
+<script id="17">
+<item slot="1" text="find paper ." />
+<item slot="2" text="find pencil ." />
+<item slot="3" text="identify who this is written to ." />
+<item slot="4" text="decide what to write ." />
+<item slot="5" text="write ." />
+<item slot="6" text="place in envelope ." />
+<item slot="7" text="mail envelope ." />
+</script>
+<script id="18">
+<item slot="1" text="get paper ." />
+<item slot="2" text="get a pencil ." />
+<item slot="3" text="write letter ." />
+<item slot="4" text="sign ." />
+</script>
+<script id="19">
+<item slot="1" text="find a piece of paper ." />
+<item slot="2" text="find a pen or pencil ." />
+<item slot="3" text="write words on the paper ." />
+<item slot="4" text="find a envelope ." />
+<item slot="5" text="put the paper in the envelope ." />
+</script>
+<script id="20">
+<item slot="1" text="decide who to write ." />
+<item slot="2" text="find paper ." />
+<item slot="3" text="find pen ." />
+<item slot="4" text="address envelope ." />
+<item slot="5" text="write letter ." />
+<item slot="6" text="put stamp on envelope ." />
+<item slot="7" text="mail letter ." />
+</script>
+<script id="21">
+<item slot="1" text="find paper ." />
+<item slot="2" text="write letter ." />
+<item slot="3" text="put letter in envelope ." />
+</script>
+<script id="22">
+<item slot="1" text="find paper ." />
+<item slot="2" text="write letter ." />
+<item slot="3" text="put letter in envelope ." />
+</script>
+<script id="23">
+<item slot="1" text="take out some paper ." />
+<item slot="2" text="address the letter ." />
+<item slot="3" text="write the letter on the paper ." />
+<item slot="4" text="fold the paper and put in an envelope ." />
+<item slot="5" text="address the envelope ." />
+<item slot="6" text="seal the envelope ." />
+<item slot="7" text="put a stamp on the envelope and mail ." />
+</script>
+<script id="24">
+<item slot="1" text="find a piece of paper ." />
+<item slot="2" text="write a note on the paper ." />
+<item slot="3" text="put the note in an envelope ." />
+<item slot="4" text="write an address on the envelope ." />
+<item slot="5" text="put a stamp on the envelope ." />
+<item slot="6" text="seal envelop ." />
+<item slot="7" text="put envelope in mail ." />
+</script>
+<script id="25">
+<item slot="1" text="find a piece of paper ." />
+<item slot="2" text="write a note on the paper ." />
+<item slot="3" text="put the note in an envelope ." />
+<item slot="4" text="write an address on the envelope ." />
+<item slot="5" text="put a stamp on the envelope ." />
+<item slot="6" text="seal envelop ." />
+<item slot="7" text="put envelope in mail ." />
+</script>
+<script id="26">
+<item slot="1" text="find paper ." />
+<item slot="2" text="find pen ." />
+<item slot="3" text="sit at a desk or table ." />
+<item slot="4" text="use pen to write letter on to paper ." />
+<item slot="5" text="sign your name ." />
+<item slot="6" text="write on envelope ." />
+<item slot="7" text="send letter ." />
+</script>
+<script id="27">
+<item slot="1" text="pick up a pen ." />
+<item slot="2" text="write a letter ." />
+</script>
+<script id="28">
+<item slot="1" text="pick up a pen ." />
+<item slot="2" text="write a letter ." />
+</script>
+<script id="29">
+<item slot="1" text="pick up a pen ." />
+<item slot="2" text="write a letter ." />
+</script>
+<script id="30">
+<item slot="1" text="pick up a pen ." />
+<item slot="2" text="write a letter ." />
+</script>
+<script id="31">
+<item slot="1" text="pick up a pen ." />
+<item slot="2" text="write a letter ." />
+</script>
+<script id="32">
+<item slot="1" text="pick up a pen ." />
+<item slot="2" text="write a letter ." />
+</script>
+<script id="33">
+<item slot="1" text="pick up a pen ." />
+<item slot="2" text="write a letter ." />
+</script>
+<script id="34">
+<item slot="1" text="pick up a pen ." />
+<item slot="2" text="write a letter ." />
+</script>
+<script id="35">
+<item slot="1" text="pick up a pen ." />
+<item slot="2" text="write a letter ." />
+</script>
+<script id="36">
+<item slot="1" text="get paper ." />
+<item slot="2" text="pick up pen ." />
+<item slot="3" text="write on paper ." />
+<item slot="4" text="put letter in envelope ." />
+<item slot="5" text="mail letter ." />
+</script>
+<script id="37">
+<item slot="1" text="get paper ." />
+<item slot="2" text="get pen ." />
+<item slot="3" text="set pen and paper on desk ." />
+<item slot="4" text="sit at a desk ." />
+<item slot="5" text="begin writing ." />
+</script>
+<script id="38">
+<item slot="1" text="get paper ." />
+<item slot="2" text="get pen ." />
+<item slot="3" text="set pen and paper on desk ." />
+<item slot="4" text="sit at a desk ." />
+<item slot="5" text="begin writing ." />
+</script>
+<script id="39">
+<item slot="1" text="get paper ." />
+<item slot="2" text="get pen ." />
+<item slot="3" text="set pen and paper on desk ." />
+<item slot="4" text="sit at a desk ." />
+<item slot="5" text="begin writing ." />
+</script>
+<script id="40">
+<item slot="1" text="get paper ." />
+<item slot="2" text="get pen ." />
+<item slot="3" text="sit at desk or table ." />
+<item slot="4" text="put paper down on desk or table ." />
+<item slot="5" text="put pen to paper to form words ." />
+</script>
+<script id="41">
+<item slot="1" text="get paper ." />
+<item slot="2" text="get pen ." />
+<item slot="3" text="sit at desk or table ." />
+<item slot="4" text="put paper down on desk or table ." />
+<item slot="5" text="put pen to paper to form words ." />
+</script>
+<script id="42">
+<item slot="1" text="get paper ." />
+<item slot="2" text="get pen ." />
+<item slot="3" text="sit at desk or table ." />
+<item slot="4" text="put paper down on desk or table ." />
+<item slot="5" text="put pen to paper to form words ." />
+</script>
+<script id="43">
+<item slot="1" text="get paper ." />
+<item slot="2" text="get pen ." />
+<item slot="3" text="sit at desk or table ." />
+<item slot="4" text="put paper down on desk or table ." />
+<item slot="5" text="put pen to paper to form words ." />
+</script>
+<script id="44">
+<item slot="1" text="paper ." />
+<item slot="2" text="penspencils ." />
+<item slot="3" text="have idea what you want to write ." />
+<item slot="4" text="address to whom the letter is for ." />
+</script>
+<script id="45">
+<item slot="1" text="paper ." />
+<item slot="2" text="penspencils ." />
+<item slot="3" text="have idea what you want to write ." />
+<item slot="4" text="address to whom the letter is for ." />
+</script>
+<script id="46">
+<item slot="1" text="paper ." />
+<item slot="2" text="penspencils ." />
+<item slot="3" text="have idea what you want to write ." />
+<item slot="4" text="address to whom the letter is for ." />
+</script>
+<script id="47">
+<item slot="1" text="find stationary ." />
+<item slot="2" text="write letter ." />
+<item slot="3" text="place in envelope ." />
+</script>
+<script id="48">
+<item slot="1" text="decide who to write to and why ." />
+<item slot="2" text="take out a piece of paper and a pen ." />
+<item slot="3" text="start with a salutation ." />
+<item slot="4" text="write the body of your letter ." />
+</script>
+<script id="49">
+<item slot="1" text="get a clean piece of paper ." />
+<item slot="2" text="write the person s address at the top ." />
+<item slot="3" text="write the date under the address ." />
+<item slot="4" text="write 'to whom it may concern' ." />
+</script>
+<script id="50">
+<item slot="1" text="get a pen ." />
+<item slot="2" text="get paper ." />
+<item slot="3" text="write letter ." />
+</script>
+<script id="51">
+<item slot="1" text="get a pen ." />
+<item slot="2" text="get paper ." />
+<item slot="3" text="write letter ." />
+</script>
+<script id="52">
+<item slot="1" text="get a pen ." />
+<item slot="2" text="get paper ." />
+<item slot="3" text="write letter ." />
+</script>
+<script id="53">
+<item slot="1" text="get address ." />
+<item slot="2" text="add name of recipient ." />
+<item slot="3" text="add address ." />
+<item slot="4" text="leave room to sign ." />
+<item slot="5" text="print ." />
+<item slot="6" text="insert in envelope ." />
+<item slot="7" text="mail ." />
+</script>
+</scripts>

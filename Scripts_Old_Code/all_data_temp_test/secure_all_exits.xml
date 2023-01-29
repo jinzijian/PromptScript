@@ -1,0 +1,131 @@
+<scripts>
+<script id="1">
+<item slot="1" text="lock all dors ." />
+<item slot="2" text="lock all windows ." />
+</script>
+<script id="2">
+<item slot="1" text="go to each exit ." />
+<item slot="2" text="lock door or window ." />
+</script>
+<script id="3">
+<item slot="1" text="close all doors ." />
+<item slot="2" text="lock all doors ." />
+<item slot="3" text="close all windows ." />
+<item slot="4" text="lock all windows ." />
+</script>
+<script id="4">
+<item slot="1" text="move to an exit ." />
+<item slot="2" text="ensure that the exit door or window is closed and locked ." />
+<item slot="3" text="if the door or window is not closed and locked close it and lock it ." />
+<item slot="4" text="repeat until all exits have been secured ." />
+</script>
+<script id="5">
+<item slot="1" text="go to exit ." />
+<item slot="2" text="ensure exit is closed ." />
+<item slot="3" text="ensure exit is locked ." />
+<item slot="4" text="repeat for all exits ." />
+</script>
+<script id="6">
+<item slot="1" text="count number of exits ." />
+<item slot="2" text="move to all exits ." />
+<item slot="3" text="ensure exit is operating correctly ." />
+</script>
+<script id="7">
+<item slot="1" text="go to each individual exit ." />
+<item slot="2" text="when you arrive at each exit check to make sure it is locked ." />
+</script>
+<script id="8">
+<item slot="1" text="identify all exits ." />
+<item slot="2" text="close all exits ." />
+<item slot="3" text="lock all exits ." />
+</script>
+<script id="9">
+<item slot="1" text="lock all exit doors ." />
+<item slot="2" text="place guards at all exit doors and all other possible exit points ." />
+</script>
+<script id="10">
+<item slot="1" text="determine how many exits there are ." />
+<item slot="2" text="begin rounds of exits ." />
+<item slot="3" text="check to see if secure ." />
+<item slot="4" text="if not secure latch ." />
+<item slot="5" text="continue circuit of exits ." />
+<item slot="6" text="continue to check ." />
+<item slot="7" text="record data after rounds ." />
+</script>
+<script id="11">
+<item slot="1" text="walk to the door ." />
+<item slot="2" text="lock the door ." />
+<item slot="3" text="walk to the next door ." />
+<item slot="4" text="lock the door ." />
+</script>
+<script id="12">
+<item slot="1" text="walk to the kitchen door ." />
+<item slot="2" text="lock the door ." />
+<item slot="3" text="walk to the front door ." />
+<item slot="4" text="lock the door ." />
+<item slot="5" text="waslk down to the basement ." />
+<item slot="6" text="lock the basement door ." />
+</script>
+<script id="13">
+<item slot="1" text="lock all doors ." />
+<item slot="2" text="lock all windows ." />
+<item slot="3" text="place security guard at all exits ." />
+<item slot="4" text="activate security alarm ." />
+</script>
+<script id="14">
+<item slot="1" text="locate one exit ." />
+<item slot="2" text="secure it ." />
+<item slot="3" text="repeat steps 1 and 2 for each exit ." />
+</script>
+<script id="15">
+<item slot="1" text="locate one exit ." />
+<item slot="2" text="secure it ." />
+<item slot="3" text="repeat steps 1 and 2 for each exit ." />
+</script>
+<script id="16">
+<item slot="1" text="lock all the doors ." />
+</script>
+<script id="17">
+<item slot="1" text="lock all the doors ." />
+</script>
+<script id="18">
+<item slot="1" text="place a guard at every exit door ." />
+<item slot="2" text="place a guard at every large window ." />
+<item slot="3" text="place a guard at every exit gate ." />
+</script>
+<script id="19">
+<item slot="1" text="close doors ." />
+</script>
+<script id="20">
+<item slot="1" text="look for all exits ." />
+<item slot="2" text="check each one ." />
+<item slot="3" text="make sure all are secure ." />
+</script>
+<script id="21">
+<item slot="1" text="monitor all exit doors ." />
+<item slot="2" text="survey surrounding areas ." />
+<item slot="3" text="lock all doors ." />
+</script>
+<script id="22">
+<item slot="1" text="monitor all exit doors ." />
+<item slot="2" text="survey surrounding areas ." />
+<item slot="3" text="lock all doors ." />
+</script>
+<script id="23">
+<item slot="1" text="monitor all exit doors ." />
+<item slot="2" text="survey surrounding areas ." />
+<item slot="3" text="lock all doors ." />
+</script>
+<script id="24">
+<item slot="1" text="check all the exit points ." />
+<item slot="2" text="verify that exits are secured ." />
+</script>
+<script id="25">
+<item slot="1" text="shut all doors and windows ." />
+<item slot="2" text="lock all doors and windows ." />
+</script>
+<script id="26">
+<item slot="1" text="check each exit ." />
+<item slot="2" text="make sure all exits are locked ." />
+</script>
+</scripts>
