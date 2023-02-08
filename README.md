@@ -1,6 +1,6 @@
- 
+## Previous work 
 https://arxiv.org/abs/2204.10176
-Background:
+## Background:
 Script Knowledge
 Eg: Give You a scene like: go to the restaurant  Topic
 Output:
@@ -14,19 +14,19 @@ Input : Main events (like: go to restaurant, Go to the Laundry)  Mixed Subevents
 Input : Main events(like: go to restaurant, Go to the Laundry) Using models like GPT generate directly
 
 
-Motivation: Improve Current Model in Script Knowledge
+## Motivation: Improve Current Model in Script Knowledge
 
-Datasets: Descript; OMICS; Stories; proScript [2] Wiki How
+## Datasets: Descript; OMICS; Stories; proScript [2] Wiki How
 
-BaseLine:
+## BaseLine:
 Setting1: 
 Reasoning about Goals, Steps, and Temporal Ordering with WikiHow
 https://arxiv.org/pdf/2210.06694.pdf	
 Setting2: Generate model without prompt
 
-Metric:  BLEU; Rouge-L; Rouge-W
+## Metric:  BLEU; Rouge-L; Rouge-W
 
-Method: 
+## Method: 
 Step to Step Method (Improve our old paper)   (Setting 1)
                  	Select which subevents belong to the main event
 Ordering(Start)  
