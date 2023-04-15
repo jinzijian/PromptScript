@@ -1,0 +1,37 @@
+run:
+  stages: ['preprocess', 'train']
+  # stages: ['preprocess']
+  algorithm: include_sbert
+  seed: 0
+  # debug: True
+  
+model:
+  tag: sbert
+  arch: sentence-transformers/all-mpnet-base-v2
+
+data:
+  tag: proscript
+  path: './dataset/Scripts_learning_dataset_proscript_use_flatten_generation.pickle'
+  split_level: 'topic'
+  # split_level: 'both'
+  n_folds: 5
+  fold: 0
+
+train:
+  device: cuda:1
+  neg_size: 10
+  batch_size: 96
+  val_ratio: 0.2
+  val_batch_size: 256
+  evals_per_epoch: 2
+  loss: 'SbertSoftmaxLoss'
+  # loss: 'SbertContrastiveLoss'
+  epochs: 50
+  scheduler:
+    tag: 'warmupcosine'
+    warmup_steps: 200
+  optimizer:
+    tag: 'AdamW'
+    lr: 2e-5
+  weight_decay: 0.01
+  save_dir: ./output/proscript/train_topic_negall_softmax
