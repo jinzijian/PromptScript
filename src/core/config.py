@@ -2,15 +2,15 @@ import yaml
 import argparse
 
 def get_args():
-    parser = argparse.ArgumentParser(description='Process a directory of configuration files.')
-    parser.add_argument('--cfg_file', help='The path to the directory containing configuration files.')
+    parser = argparse.ArgumentParser(description='Process a set of configuration file directories.')
+    parser.add_argument('--cfg_file', default='', help='The path to the directory containing configuration files.')
     args = parser.parse_args()
     return args
 
 class NamedDict(dict):
     def __init__(self, *args, **kwargs):
         super(NamedDict, self).__init__(*args, **kwargs)
-        self.raw = self.copy()
+        # self.raw = self.copy()
     
     def __getattr__(self, key):
         try:
@@ -40,4 +40,5 @@ def get_config(config_file):
     with open(config_file, 'r') as f:
         cfg = yaml.load(f, Loader=yaml.FullLoader)
     cfg = build_named_dict(cfg)
+    cfg['cfg_file'] = config_file
     return cfg

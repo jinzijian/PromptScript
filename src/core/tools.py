@@ -6,15 +6,23 @@ import torch
 import random
 import numpy as np
 from torchvision.utils import save_image
+from collections import Sequence
+from . import config
 
 def check_exists(path):
     return os.path.exists(path)
 
 
-def makedir_exist_ok(fd):
-    if not os.path.exists(fd):
-        os.makedirs(fd)
+# def makedir_exist_ok(fd):
+#     if not os.path.exists(fd):
+#         os.makedirs(fd)
 
+def makedir_exist_ok(path):
+    is_file = os.path.splitext(path)[1] != ''
+    if is_file:
+        path = os.path.dirname(path)
+    if not os.path.exists(path):
+        os.makedirs(path)
 
 def save(input, path, mode='torch'):
     dirname = os.path.dirname(path)
@@ -68,8 +76,8 @@ def rename_ddp_state_names(states):
             renamed_states[k] = v
     return renamed_states
 
-def load_weights_from_ckpt(model, ckpt_path, strict=False, rename_fn=None):
-    states = torch.load(ckpt_path, map_location=model.device)
+def load_weights_from_ckpt(model, ckpt_path, strict=False, device='cpu', rename_fn=None):
+    states = torch.load(ckpt_path, map_location=device)
     if rename_fn is not None:
         states = rename_fn(states)
     model.load_state_dict(states, strict=strict)
@@ -118,27 +126,34 @@ def apply_fn(module, fn):
             exec('apply_fn(m,\'{0}\')'.format(fn))
     return
 
+def get_device_ids(devices):
+    # if devices is a string, convert it to a list
+    if isinstance(devices, str):
+        devices = [devices]
 
-def recur(fn, input, *args):
-    if isinstance(input, torch.Tensor) or isinstance(input, np.ndarray):
-        output = fn(input, *args)
-    elif isinstance(input, list):
-        output = []
-        for i in range(len(input)):
-            output.append(recur(fn, input[i], *args))
-    elif isinstance(input, tuple):
-        output = []
-        for i in range(len(input)):
-            output.append(recur(fn, input[i], *args))
-        output = tuple(output)
-    elif isinstance(input, dict):
-        output = {}
-        for key in input:
-            output[key] = recur(fn, input[key], *args)
-    elif isinstance(input, str):
-        output = input
-    elif input is None:
-        output = None
+    device_ids = []
+    for device in devices:
+        # if device is already an int, just append it
+        if isinstance(device, int):
+            device_ids.append(device)
+        else:
+            # if device is a string, extract the device id
+            device = device.replace('cuda:', '').strip()  # remove 'cuda:' and whitespace
+            device_id = int(device)  # convert to int
+            device_ids.append(device_id)
+
+    return device_ids
+
+def parse_device(device):
+    if isinstance(device, Sequence) and not isinstance(device, str):
+        device = device[0]
+    
+    if isinstance(device, str) and 'cuda' in device:
+        return device
     else:
-        raise ValueError('Not valid input type')
-    return output
+        return f'cuda:{device}'
+    
+def config_distributed(cfg, rank):
+    server_name = cfg.get('server_name', 'default')
+    server_cfg = config.get_config(cfg.run.server_config_file)
+    return server_cfg[server_name]

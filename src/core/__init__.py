@@ -1,3 +1,3 @@
 from . import hooks, utils, tools
 from . import builder, logger, config
-from . import data
+from . import data, metrics

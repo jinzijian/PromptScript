@@ -3,9 +3,19 @@ from collections.abc import Iterable
 from torch.utils.tensorboard import SummaryWriter
 from numbers import Number
 from .utils import ntuple
+from . import tools, metrics
+import json, csv
+import torch
+import os, sys
 
+def format_number(number, max_length):
+    str_num = f"{number:.{max_length}f}"
+    if float(str_num) == 0:
+        str_num = f"{number:.{max_length}e}"
 
-class Logger:
+    return str_num
+
+class TBLogger:
     def __init__(self, log_path):
         self.log_path = log_path
         self.writer = None
@@ -86,7 +96,102 @@ class Logger:
         self.writer.flush()
         return
 
+# class JsonLogger:
+#     def __init__(self, save_path):
+#         self.save_path = save_path
+#         tools.makedir_exist_ok(self.save_path)
 
-def make_logger(path):
-    logger = Logger(path)
+#     def write(self, info_dict):
+#         json_data = json.dumps(info_dict)
+#         with open(self.save_path, 'a') as file:
+#             file.write(json_data + '\n')
+
+class TXTLogger:
+    def __init__(self, save_path):
+        self.save_path = save_path
+        tools.makedir_exist_ok(self.save_path)
+
+    def format(self, info_dict):
+        msgs = []
+        for k, v in info_dict.items():
+            if isinstance(v, metrics.Metric):
+                v = v.last
+            if isinstance(v, torch.Tensor):
+                v = v.item()
+            if isinstance(v, float):
+                msg = f'{str(k)}={format_number(v, 5)}'
+            else:
+                msg = f'{str(k)}={v}'
+            msgs.append(msg)
+
+        return ','.join(msgs)
+
+    def write(self, info_dict):
+        info = self.format(info_dict)
+        with open(self.save_path, 'a') as file:
+            file.write(info + '\n')
+
+class ModelAsset:
+    def __init__(self, save_dir, model, optimizer=None, scheduler=None, ema=None):
+        self.save_dir = save_dir
+        tools.makedir_exist_ok(self.save_dir)
+        self.model = model
+        self.optimizer = optimizer
+        self.scheduler = scheduler
+        self.ema = ema
+    
+    def save_model(self, tag='best'):
+        torch.save(self.model.state_dict(), os.path.join(self.save_dir, f'model_{tag}.pth'))
+    
+    def save(self, epoch):
+        torch.save(self.model.state_dict(), os.path.join(self.save_dir, 'model_last.pth'))
+        if self.optimizer is not None:
+            torch.save(self.optimizer.state_dict(), os.path.join(self.save_dir, 'optimizer.pth'))
+        if self.scheduler is not None:
+            torch.save(self.scheduler.state_dict(), os.path.join(self.save_dir, 'scheduler.pth'))
+        torch.save(epoch, os.path.join(self.save_dir, 'epoch.pth'))
+        if self.ema is not None:
+            torch.save(self.ema.state_dict(), os.path.join(self.save_dir, 'ema.pth'))
+
+    def resume(self, strict=False, ddp=False):
+        # model_state = torch.load(os.path.join(self.save_dir, 'model.pth'))
+        # self.model.load_state_dict(model_state)
+        self.model = tools.load_weights_from_ckpt(
+            self.model, 
+            os.path.join(self.save_dir, 'model_last.pth'), 
+            strict=strict,
+            rename_fn=tools.rename_ddp_state_names if ddp else None)
+
+        optimizer_state = torch.load(os.path.join(self.save_dir, 'optimizer.pth'))
+        self.optimizer.load_state_dict(optimizer_state)
+
+        if self.scheduler is not None:
+            scheduler_state = torch.load(os.path.join(self.save_dir, 'scheduler.pth'))
+            self.scheduler.load_state_dict(scheduler_state)
+
+        if self.ema is not None and os.path.exists(os.path.join(self.save_dir, 'ema.pth')):
+            ema_state = torch.load(os.path.join(self.save_dir, 'ema.pth'))
+            self.ema.load_state_dict(ema_state)
+
+        self.epoch = torch.load(os.path.join(self.save_dir, 'epoch.pth'))            
+
+        assets = {
+            'model': self.model,
+            'optimizer': self.optimizer,
+            'epoch': self.epoch,
+        }
+        if self.scheduler is not None:
+            assets.update({'scheduler': self.scheduler})
+        if self.ema is not None:
+            assets.update({'ema': self.ema})
+        return assets
+
+def make_logger(type, path):
+    if type == 'tb':
+        logger = TBLogger(path)
+    elif type == 'txt':
+        logger = TXTLogger(path)
+    elif type == 'json':
+        pass
+        # logger = JsonLogger(path)
     return logger

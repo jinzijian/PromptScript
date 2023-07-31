@@ -1,0 +1,19 @@
+PLAIN:
+  TEMPLATE_0: 
+    QUERY: Tell me the steps on '<TOPIC>'.
+    OUTPUT_FORMAT: Output the steps as a list of strings with nothing else.
+  TEMPLATE_1: 
+    QUERY: Give me a step-by-step plan on '<TOPIC>'.
+    OUTPUT_FORMAT: Output the steps as a list of strings with nothing else.
+
+COT:
+  TEMPLATE_0:
+    PREFIX: Let's think about this step by step. I want a plan on '<TOPIC>'.
+    FIRST_QUERY: What is the first step on '<TOPIC>'?
+    QUERY: What is the next step after '<PREV_STEP>' on '<TOPIC>'?
+    OUTPUT_FORMAT: Output the step as a string with nothing else. Output 'END' if plan is complete with no further steps.
+
+CONSTRAIN:
+  TEMPLATE_0:
+    PREFIX: 'And the plan is constrained with several conditions:'
+    ITEM: '<NUM>. Consider <CONDITION>, it needs to <STEP>.'

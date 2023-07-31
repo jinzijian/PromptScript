@@ -1,0 +1,1 @@
+python ./src/main_gpt_query.py --cfg_file ./configs/gpt_prompt_trial.yml

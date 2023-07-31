@@ -4,6 +4,7 @@ from torch.utils.data import DataLoader
 import numpy as np
 import random
 from .data import samplers
+from . import tools
 
 def make_loss(tag, **kwargs):
     if tag == 'SbertContrastiveLoss':
@@ -28,21 +29,22 @@ def make_loss(tag, **kwargs):
     return loss_fn
 
 
-def make_optimizer(tag, params, **kwargs):
+def make_optimizer(tag, params, kwargs={}):
     if tag == 'SGD':
-        optimizer = optim.SGD(params, lr=kwargs.get('lr', 3e-4), momentum=kwargs.get('momentum'),
-                              weight_decay=kwargs.get('weight_decay'), nesterov=kwargs.get('nesterov'))
+        optimizer = optim.SGD(params, lr=float(kwargs.get('lr', 3e-4)), momentum=float(kwargs.get('momentum')),
+                              weight_decay=float(kwargs.get('weight_decay')), nesterov=kwargs.get('nesterov'))
     elif tag == 'Adam':
-        optimizer = optim.Adam(params, lr=kwargs.get('lr', 2e-5), betas=kwargs.get('betas'),
-                               weight_decay=kwargs.get('weight_decay'))
+        betas = kwargs.get('betas', (0.9, 0.999))
+        optimizer = optim.Adam(params, lr=float(kwargs.get('lr', 2e-5)), betas=betas,
+                               weight_decay=float(kwargs.get('weight_decay', 0.)))
     elif tag == 'LBFGS':
-        optimizer = optim.LBFGS(params, lr=kwargs.get('lr'))
+        optimizer = optim.LBFGS(params, lr=float(kwargs.get('lr')))
     else:
         raise ValueError(f'optim={tag} is not supported')
     return optimizer
 
 
-def make_scheduler(tag, optimizer, kwargs):
+def make_scheduler(tag, optimizer, kwargs={}):
     if tag == 'None':
         scheduler = optim.lr_scheduler.MultiStepLR(optimizer, milestones=[kwargs.get('milestones', 65535)])
     elif tag == 'StepLR':
@@ -92,3 +94,43 @@ def make_data_loader(dataset, batch_size, shuffle, distributed=False, collate_fn
         return DataLoader(dataset, batch_size, sampler=sampler, collate_fn=collate_fn)
     else:
         return DataLoader(dataset, batch_size, shuffle=False, collate_fn=collate_fn)
+
+
+class DataParallelWrapper(torch.nn.Module):
+    def __init__(self, model):
+        super(DataParallelWrapper, self).__init__()
+        self.model = model
+
+    def forward(self, *args, **kwargs):
+        return self.model(*args, **kwargs)
+
+    def __getattr__(self, name):
+        try:
+            return super().__getattr__(name)
+        except AttributeError:
+            return getattr(self.model.module, name)
+
+    # def __setattr__(self, name, value):
+    #     if name != 'module' and hasattr(self.module, name):
+    #         setattr(self.module, name, value)
+    #     else:
+    #         super().__setattr__(name, value)
+
+
+def model_to_device(model, devices, distributed=False, clip_batch=False):
+    if not torch.cuda.is_available():
+        raise Exception('ONLY GPU TRAINING IS SUPPORTED')
+    
+    device_ids = tools.get_device_ids(devices)
+    if distributed: # DDP   
+        model = torch.nn.SyncBatchNorm.convert_sync_batchnorm(model)
+        model = torch.nn.parallel.DistributedDataParallel(model, broadcast_buffers=False,
+                                                          find_unused_parameters=True,
+                                                          device_ids=device_ids)
+        model = DataParallelWrapper(model)
+    elif len(devices) > 1:
+        model = torch.nn.DataParallel(model, device_ids=device_ids, output_device=device_ids[0])
+        model = DataParallelWrapper(model)
+    else:
+        model = model.to(f'cuda:{device_ids[0]}')
+    return model

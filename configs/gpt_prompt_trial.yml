@@ -1,0 +1,18 @@
+run:
+  openai:
+    engine: 'gpt-3.5-turbo'
+    role: 'assistant'
+  save_dir: './output/gpt_query_trial'
+  credential_file: './configs/credentials.yml'
+
+data:
+  item_file: ./Dataset/topic_constrains.csv
+
+prompt:
+  template_file: ./configs/prompts/gpt_template.yml
+  type: PLAIN
+  choice: 0
+  n_constrain: 1
+  constrain_choice: 0
+  seed: 0
+  
