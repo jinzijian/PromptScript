@@ -6,6 +6,8 @@ import core
 import pandas as pd
 import numpy as np
 import ast
+import json
+from tqdm import tqdm
 
 def convert_to_list_of_str(s):
     s = s.strip('[]')
@@ -47,11 +49,13 @@ def make_constrains_prompt(template, item, n=1, seed=0):
     constrains = np.array(item['constrains'])[idx]
     prompt = f"{template['CONSTRAIN']['PREFIX']} "
     for i, c in enumerate(constrains):
-        c = c.split(', ')
-        condition, step = c[0], c[1]
+        # c = c.split(', ')
+        # condition, step = c[0], c[1]
+        # pc = f"{template['CONSTRAIN']['ITEM']}".replace('<NUM>', str(i+1))
+        # pc = pc.replace('<CONDITION>', condition)
+        # pc = pc.replace('<STEP>', step)
         pc = f"{template['CONSTRAIN']['ITEM']}".replace('<NUM>', str(i+1))
-        pc = pc.replace('<CONDITION>', condition)
-        pc = pc.replace('<STEP>', step)
+        pc = pc.replace('<ITEM>', c)
         prompt = prompt + pc
         if i < len(constrains) - 1:
             prompt = prompt + '; '
@@ -100,26 +104,36 @@ def query_gpt(cfg, prompt):
             pass
     return response
 
+def save_result(cfg, results):
+    core.tools.makedir_exist_ok(cfg.run.save_dir)
+    with open(os.path.join(cfg.run.save_dir, f'{cfg.run.save_name}.json'), 'w') as f:
+        json.dump(results, f, indent=4, separators=(',', ': '))
+
 def main(cfg):
     core.tools.makedir_exist_ok(cfg.run.save_dir)
     item_df = load_items(cfg)
     template = load_prompt_template(cfg)
 
-    # TODO: multiple item inference
-    item = {'topic': item_df['topic'].values[1], 
-            'constrains': item_df['env_constrains'].values[1]}
+    # prepare multiple item inference
+    np.random.seed(cfg.run.seed)
+    idx = np.random.permutation(len(item_df))[:cfg.run.n_item]
+    res = {}
+    for i in tqdm(idx, desc=f'Query GPT'):
+        item = {'topic': item_df['topic'].values[i], 
+                'constrains': item_df['env_constrains'].values[i]}
 
-    if cfg.prompt.type == 'PLAIN':
-        prompt = make_plain_prompt(cfg, template, item)
-        resp = query_gpt(cfg, prompt)
-        res = parse_plain_respose(resp)
-    elif cfg.prompt.type == 'COT':
-        prompt = make_cot_prompt(cfg, template, item)
-        # TODO: cot iterative query
-        raise NotImplementedError
+        if cfg.prompt.type == 'PLAIN':
+            prompt = make_plain_prompt(cfg, template, item)
+            resp = query_gpt(cfg, prompt)
+            resp = parse_plain_respose(resp)
+        elif cfg.prompt.type == 'COT':
+            prompt = make_cot_prompt(cfg, template, item)
+            # TODO: cot iterative query
+            raise NotImplementedError
 
-    print(f'PROMPT: {prompt}')
-    print(f'RESPONSE: {res}')
+        res[str(i)] = {'prompt': prompt, 'resp': resp}
+
+    save_result(cfg, res)
 
 if __name__ == '__main__':
     args = core.config.get_args()

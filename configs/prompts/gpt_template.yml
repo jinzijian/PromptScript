@@ -15,5 +15,11 @@ COT:
 
 CONSTRAIN:
   TEMPLATE_0:
-    PREFIX: 'And the plan is constrained with several conditions:'
+    PREFIX: 'Make sure the plan satisfies following conditions:'
     ITEM: '<NUM>. Consider <CONDITION>, it needs to <STEP>.'
+  TEMPLATE_1:
+    PREFIX: 'Make sure the plan satisfies following conditions:'
+    ITEM: '<NUM>. It needs to <STEP> <CONDITION>'
+  TEMPLATE_2:
+    PREFIX: 'Make sure the plan satisfies following conditions:'
+    ITEM: '<NUM>. <ITEM>.'

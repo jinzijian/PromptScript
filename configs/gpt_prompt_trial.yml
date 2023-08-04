@@ -4,6 +4,9 @@ run:
     role: 'assistant'
   save_dir: './output/gpt_query_trial'
   credential_file: './configs/credentials.yml'
+  seed: 0
+  n_item: 50
+  save_name: gpt_prompt_plain0_3cons1_s0
 
 data:
   item_file: ./Dataset/topic_constrains.csv
@@ -12,7 +15,7 @@ prompt:
   template_file: ./configs/prompts/gpt_template.yml
   type: PLAIN
   choice: 0
-  n_constrain: 1
-  constrain_choice: 0
+  n_constrain: 3
+  constrain_choice: 2
   seed: 0
   
