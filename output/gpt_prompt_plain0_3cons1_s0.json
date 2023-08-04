@@ -1,0 +1,737 @@
+{
+    "993": {
+        "prompt": "Tell me the steps on 'How to get out of bed?'. Make sure the plan satisfies following conditions: 1. without being on the edge of the bed, get out of bed.; 2. without a phone on the night stand, grab phone of night stand.; 3. without an alarm, hear the alarm ring. Output the steps as a list of strings with nothing else.",
+        "resp": [
+            "Begin by gradually waking up and becoming aware of your surroundings.",
+            "Gently stretch your arms and legs to stimulate your body.",
+            "Roll onto your side, facing away from the edge of the bed.",
+            "Bend your knees and bring your feet towards the edge of the bed.",
+            "Slowly push yourself up using your arms and legs until you are sitting upright on the side of the bed.",
+            "Take a moment to fully wake up and adjust to being in an upright position.",
+            "Reach down and grab your phone from the nightstand.",
+            "Release your feet from the edge of the bed and place them on the floor.",
+            "Stand up using your legs and maintain balance.",
+            "Take a moment to gain stability before starting to walk."
+        ]
+    },
+    "859": {
+        "prompt": "Tell me the steps on 'How to Teach a Child the Back Float?'. Make sure the plan satisfies following conditions: 1. without patience, continue to practice..; 2. without proper support, carry them gently and let them lie on their back..; 3. without building trust first, make them comfortable.. Output the steps as a list of strings with nothing else.",
+        "resp": []
+    },
+    "298": {
+        "prompt": "Tell me the steps on 'How to park the car?'. Make sure the plan satisfies following conditions: 1. without checking surroundings, close the car doors.; 2. without clear directions, get to the parking spot.; 3. without available spaces, look for a parking spot. Output the steps as a list of strings with nothing else.",
+        "resp": [
+            "Start the car's engine.",
+            "Release the handbrake.",
+            "Put the car in reverse gear.",
+            "Slowly remove your foot from the brake pedal and allow the car to start moving backward.",
+            "Turn the steering wheel in the opposite direction of the parking spot you want to park in (if backing into a spot on the right side, turn the steering wheel left).",
+            "Continue to monitor the rearview and side mirrors to ensure you are aligned with the parking spot.",
+            "Once the car is aligned with the parking spot, slowly turn the steering wheel in the opposite direction to straighten the wheels.",
+            "Reverse the car into the parking spot, ensuring there is enough space between your car and other vehicles.",
+            "When the car is in the desired position, turn off the engine.",
+            "Engage the handbrake.",
+            "Close the car doors."
+        ]
+    },
+    "553": {
+        "prompt": "Tell me the steps on 'How to make the decision to get a new pet?'. Make sure the plan satisfies following conditions: 1. without understanding of pet types, think about different kinds of pets.; 2. without sufficient space, think about how much space a pet needs.; 3. without enough time, think about the time needed for pet care. Output the steps as a list of strings with nothing else.",
+        "resp": [
+            "Research different types of pets and their specific needs and requirements.",
+            "Consider the amount of space available in your home and whether it can accommodate the needs of a pet.",
+            "Evaluate your schedule and determine if you have enough time to properly care for a pet.",
+            "Reflect on the financial responsibilities of owning a pet, including food, supplies, and veterinary care.",
+            "Assess your lifestyle and determine if adding a pet to your life is compatible with your daily routines and commitments.",
+            "Talk to family members or roommates to ensure everyone is on board with getting a new pet.",
+            "Visit local shelters or pet adoption centers to meet different pets and see if there is a specific animal that captures your interest.",
+            "Consult with professionals or experienced pet owners to gather more information and advice on pet ownership.",
+            "Consider factors such as allergies, health conditions, and personal preferences before making a final decision.",
+            "Take your time to make the decision, ensuring you are fully prepared and capable of providing a loving and nurturing home for a new pet."
+        ]
+    },
+    "672": {
+        "prompt": "Tell me the steps on 'How to Register As an Organ Donor on an iPhone?'. Make sure the plan satisfies following conditions: 1. without successful registration, Tap Done..; 2. without access to Medical ID, Tap Sign Up with Donate Life..; 3. without the Health app, Tap Medical ID.. Output the steps as a list of strings with nothing else.",
+        "resp": [
+            "Open the Health app.",
+            "Tap on the \"Medical ID\" tab.",
+            "Scroll down and tap on \"Edit.\"",
+            "Scroll down and tap on \"Organ Donor.\"",
+            "Tap on \"Continue\" to learn more about organ donation.",
+            "Tap on \"Sign Up with Donate Life\" to register as an organ donor.",
+            "Fill out the required information, such as your name, date of birth, and contact details.",
+            "Tap on \"Next\" to proceed.",
+            "Read and accept the terms and conditions.",
+            "Tap on \"Submit\" to complete the registration process.",
+            "If the registration is successful, tap on \"Done\" to exit.",
+            "If you don't have access to the Medical ID tab, tap on \"Sign Up with Donate Life\" on the registration page.",
+            "If you don't have the Health app, tap on \"Medical ID\" and follow the subsequent steps.",
+            "Repeat steps 2-11 to complete the registration process.\n\nPlease note that the exact steps may vary depending on the version of iOS and the Health app on your iPhone."
+        ]
+    },
+    "971": {
+        "prompt": "Tell me the steps on 'How to learn how to box?'. Make sure the plan satisfies following conditions: 1. without a coach, learn how to box.; 2. without available options, choose a boxing class.; 3. without internet access, look up boxing classes online. Output the steps as a list of strings with nothing else.",
+        "resp": [
+            "Start by researching basic boxing techniques and terminology in books or at the library.",
+            "Find a friend or training partner who is interested in learning boxing as well, as you can practice together and help each other improve.",
+            "Set up a dedicated space at home or find a local gym where you can practice boxing.",
+            "Purchase or borrow basic boxing equipment such as gloves, hand wraps, and a heavy bag if possible.",
+            "Begin by focusing on the fundamentals such as proper stance, footwork, and basic punches like the jab, cross, hook, and uppercut.",
+            "Practice shadowboxing regularly, mimicking the movements and punches of a boxer without a partner or bag.",
+            "Use a mirror to check and correct your form and technique while shadowboxing.",
+            "Work on improving your fitness and conditioning through cardiovascular exercises like running, skipping rope, or cycling.",
+            "Incorporate strength training exercises to develop your upper body, core, and lower body strength.",
+            "Find instructional videos or DVDs to learn specific boxing techniques and drills.",
+            "Attend local boxing events or matches to observe and learn from experienced boxers.",
+            "Consider joining a local recreational boxing league or club to gain more experience and spar with others.",
+            "Seek feedback and advice from experienced boxers or instructors when possible.",
+            "Stay disciplined and dedicated to regular practice and improvement."
+        ]
+    },
+    "27": {
+        "prompt": "Tell me the steps on 'How to Get out of car.?'. Make sure the plan satisfies following conditions: 1. without enough space, step out of the car.; 2. without a vacant spot, park in the parking spot.; 3. without a parking lot, find a parking spot. Output the steps as a list of strings with nothing else.",
+        "resp": [
+            "Make sure the car is in a safe and secure location.",
+            "Check for any parked cars around you.",
+            "Slowly open the car door and make sure it does not hit any obstacles.",
+            "Adjust the seat and steering wheel to create enough space for you to comfortably exit the car.",
+            "Shift the gear into park and engage the parking brake.",
+            "Turn off the engine and remove the key from the ignition.",
+            "Open the car door fully and step out of the car.\n\nIf there is not enough space:",
+            "Assess the surroundings and look for a nearby parking spot.",
+            "Slowly drive the car towards the parking spot and carefully park the car without blocking any other vehicles.",
+            "Shift the gear into park and engage the parking brake.",
+            "Turn off the engine and remove the key from the ignition.",
+            "Open the car door fully and step out of the car.\n\nIf there is no parking lot available:",
+            "Drive slowly and look for a parking spot on nearby streets or parking spaces.",
+            "Assess the surroundings and locate a parking spot that is safe and legal to park in.",
+            "Slowly drive the car towards the parking spot and carefully park the car without blocking any other vehicles.",
+            "Shift the gear into park and engage the parking brake.",
+            "Turn off the engine and remove the key from the ignition.",
+            "Open the car door fully and step out of the car."
+        ]
+    },
+    "231": {
+        "prompt": "Tell me the steps on 'How to Befriend a Guy?'. Make sure the plan satisfies following conditions: 1. without humor, develop some inside jokes..; 2. without opportunities, look for chances to talk to him again..; 3. without a friendly approach, go up and say hello.. Output the steps as a list of strings with nothing else.",
+        "resp": [
+            "Observe the guy and find common interests or topics to create a connection.",
+            "Engage in conversations about these interests or topics to establish a foundation.",
+            "Show genuine interest in his thoughts, opinions, and experiences during conversations.",
+            "Share personal experiences or stories to create a sense of vulnerability and trust.",
+            "Listen actively and attentively to what he says, showing empathy and understanding.",
+            "Look for opportunities to continue conversations, such as suggesting grabbing coffee or lunch together.",
+            "Maintain a positive and friendly demeanor when interacting with him.",
+            "Be reliable and dependable, fulfilling any commitments or promises made during conversations.",
+            "Pay attention to his non-verbal cues and body language to gauge his comfort level.",
+            "Gradually introduce humor into conversations, creating inside jokes that only the two of you share.",
+            "Look for chances to initiate conversations again, whether it's through text, social media, or in person.",
+            "Be patient and understanding if he needs space or time to build a friendship.",
+            "Stay respectful and considerate of his boundaries and personal space.",
+            "Maintain a consistent presence in his life by regularly connecting and checking in with him.",
+            "Continually build upon the friendship by supporting and encouraging him in his endeavors.",
+            "Be a loyal and trustworthy friend, keeping any confidential information shared between the two of you.",
+            "Enjoy the process of getting to know him, and let the friendship grow naturally without forcing it."
+        ]
+    },
+    "306": {
+        "prompt": "Tell me the steps on 'How to walk into the kitchen?'. Make sure the plan satisfies following conditions: 1. without entering the kitchen, walk into the kitchen.; 2. without walking through the room, Exit the room.; 3. without standing up, Walk through the room. Output the steps as a list of strings with nothing else.",
+        "resp": [
+            "Stand up from your current position.",
+            "Walk towards the door of the room.",
+            "Open the door and step out of the room.",
+            "Close the door.",
+            "Walk towards the kitchen without entering it.",
+            "Without walking through the room, exit the room.",
+            "Without standing up, walk through the room."
+        ]
+    },
+    "706": {
+        "prompt": "Tell me the steps on 'How to Install Microsoft Office?'. Make sure the plan satisfies following conditions: 1. without activating Office..; 2. without starting the setup program..; 3. without an Office 2010 disc or internet connection, download the installer from Microsoft.. Output the steps as a list of strings with nothing else.",
+        "resp": [
+            "Open a web browser.",
+            "Go to the official Microsoft website.",
+            "Search for \"Microsoft Office download\" or go to the Office product page.",
+            "Click on the \"Download\" button for the Office version you want to install.",
+            "Save the installer file (.exe) to your computer's hard drive.",
+            "Once the download is complete, locate the installer file.",
+            "Double-click on the installer file to start the installation process.",
+            "Depending on your Windows version and security settings, you may see a user account control prompt. Click \"Yes\" to continue.",
+            "The installer will extract the necessary files and prepare for installation.",
+            "Review and accept the license terms and conditions.",
+            "Choose the desired installation options, such as the installation location and additional features.",
+            "Click on the \"Install\" button to start the installation process.",
+            "The installer will begin installing Microsoft Office on your computer.",
+            "Wait for the installation to complete. This may take several minutes.",
+            "Once the installation is finished, you will see a confirmation message.",
+            "Close the installer and exit any open programs.",
+            "You have now successfully installed Microsoft Office without activating it."
+        ]
+    },
+    "496": {
+        "prompt": "Tell me the steps on 'How to replace heater filter?'. Make sure the plan satisfies following conditions: 1. without closing filter, switch heater on.; 2. without opening heater filter, remove heater filter.; 3. without ensuring heater is cold, open heater filter. Output the steps as a list of strings with nothing else.",
+        "resp": [
+            "Turn off the heater and unplug it from the power source.",
+            "Locate the heater filter compartment.",
+            "Remove the cover or panel of the heater filter compartment.",
+            "Take note of the direction of the old filter's airflow arrows.",
+            "Gently slide out the old filter without fully removing it from the compartment.",
+            "Insert the new filter into the compartment, making sure it is oriented in the same direction as the old filter.",
+            "Slide the new filter fully into the compartment until it is secure.",
+            "Replace the cover or panel of the heater filter compartment.",
+            "Plug the heater back into the power source.",
+            "Turn on the heater and adjust the settings as desired."
+        ]
+    },
+    "558": {
+        "prompt": "Tell me the steps on 'How to grab a shopping cart.?'. Make sure the plan satisfies following conditions: 1. without reaching out, grab a shopping cart..; 2. without any shopping carts available, find shopping carts.; 3. without seeing any shopping carts, look for shopping carts. Output the steps as a list of strings with nothing else.",
+        "resp": [
+            "Stand near the area where shopping carts are usually located.",
+            "Search around with your eyes to locate a shopping cart.",
+            "If you don't see any shopping carts, move slightly to get a better view of the area.",
+            "Still not seeing any shopping carts, walk slowly around the store to explore different areas.",
+            "Keep looking for shopping carts in each section you explore.",
+            "If you spot a shopping cart, analyze its position relative to your current position.",
+            "Without reaching out, use a physical movement such as a step forward or a slight sidestep to align yourself with the shopping cart.",
+            "Ensure that you have a clear path to the shopping cart without any obstacles in between.",
+            "Execute a precise and controlled movement to grab the shopping cart handle.",
+            "Once you have firmly grasped the handle, make sure the cart is stable and balanced before proceeding with your shopping."
+        ]
+    },
+    "784": {
+        "prompt": "Tell me the steps on 'How to cook pasta?'. Make sure the plan satisfies following conditions: 1. without a plate, transfer pasta to a plate..; 2. without a utensil, put utensil on stove..; 3. without water, put water in a utensil.. Output the steps as a list of strings with nothing else.",
+        "resp": [
+            "Boil water in a utensil.",
+            "Add pasta to the boiling water.",
+            "Cook pasta for the recommended time as mentioned on the package.",
+            "Stir occasionally to prevent sticking.",
+            "Turn off the stove after pasta is cooked.",
+            "Pour cooked pasta into a colander to drain the water.",
+            "Without a plate, carefully transfer the drained pasta to a plate."
+        ]
+    },
+    "239": {
+        "prompt": "Tell me the steps on 'How to Take Away the Pain of New or Tightened Braces?'. Make sure the plan satisfies following conditions: 1. without dental products designed to relieve pain, Use dental products designed to relieve pain..; 2. without an ice pack, Try an ice pack..; 3. without cold foods, Eat cold foods.. Output the steps as a list of strings with nothing else.",
+        "resp": [
+            "Rinse your mouth with warm saltwater solution to soothe the pain.",
+            "Use orthodontic wax to cover any areas of your braces that are causing discomfort.",
+            "Gently massage your gums with your fingertips to relieve soreness.",
+            "Rinse your mouth with an antiseptic mouthwash to reduce inflammation.",
+            "Take over-the-counter pain relievers like ibuprofen or acetaminophen, if necessary.",
+            "Drink cold water or suck on ice chips to numb the pain temporarily.",
+            "Eat soft foods like yogurt, mashed potatoes, or soup to avoid putting pressure on your braces.",
+            "Use a warm washcloth or heating pad outside your mouth to provide heat therapy.",
+            "Avoid hard, chewy, or sticky foods that can worsen the pain.",
+            "Follow proper oral hygiene practices, including brushing and flossing gently around your braces.",
+            "Stay consistent with your follow-up appointments to ensure proper adjustments and alleviate discomfort."
+        ]
+    },
+    "578": {
+        "prompt": "Tell me the steps on 'How to hear the door bell?'. Make sure the plan satisfies following conditions: 1. without ensuring safety, open the door..; 2. without clear path, walking over to the door..; 3. without feeling like moving, debating whether to get up.. Output the steps as a list of strings with nothing else.",
+        "resp": [
+            "Pause any ongoing activity and focus on your surroundings.",
+            "Recognize the sound of the doorbell ringing.",
+            "Ignore any internal debate about whether to get up or not.",
+            "Disregard any concerns about safety for now.",
+            "Toss aside any feelings of laziness or not wanting to move.",
+            "Leave your current position and stand up.",
+            "Begin walking towards the door, even if the path is not clear.",
+            "Approach the door without considering any potential obstacles.",
+            "Arrive at the door and prepare to open it without ensuring safety.",
+            "Open the door and attend to whoever is there."
+        ]
+    },
+    "55": {
+        "prompt": "Tell me the steps on 'How to pen a metal symphony?'. Make sure the plan satisfies following conditions: 1. without creativity, come up with a killer riff.; 2. without sheet music paper, pick up a piece of sheet music paper.; 3. without an amp, plug guitar into amp. Output the steps as a list of strings with nothing else.",
+        "resp": [
+            "Without creativity, come up with a killer riff.",
+            "Without sheet music paper, pick up a piece of sheet music paper.",
+            "Without an amp, plug guitar into amp."
+        ]
+    },
+    "906": {
+        "prompt": "Tell me the steps on 'How to feed infant?'. Make sure the plan satisfies following conditions: 1. without baby's readiness, place spoon in baby s mouth..; 2. without a baby food jar, find baby food jar..; 3. without a secure baby chair, place baby in baby chair.. Output the steps as a list of strings with nothing else.",
+        "resp": [
+            "Prepare a clean and comfortable environment for feeding the infant.",
+            "Wash your hands thoroughly with soap and warm water.",
+            "Find a baby food jar suitable for the infant's age and dietary needs.",
+            "Check the expiration date and ensure that the jar is properly sealed.",
+            "Open the baby food jar using a clean spoon or a jar opener if needed.",
+            "Place the baby in a secure baby chair or high chair with safety straps.",
+            "Make sure the baby chair is stable and placed on a flat surface.",
+            "Position yourself in front of the baby chair at a comfortable distance.",
+            "Dip a clean infant spoon into the baby food jar, ensuring it is not too hot.",
+            "Without baby's readiness, gently place the spoon in the baby's mouth, slightly tilting it to avoid choking.",
+            "Allow the baby to taste and swallow the food before offering another spoonful.",
+            "Observe the infant's reactions and adjust the feeding pace accordingly.",
+            "If the baby shows signs of being full or disinterest, stop feeding and try again later.",
+            "After feeding, clean the baby chair, spoon, and any spills or mess promptly.",
+            "Store any unused baby food in airtight containers in the refrigerator as per instructions on the jar.",
+            "Wash the spoon and any used utensils with warm soapy water before next use.",
+            "Always supervise the baby during feeding and avoid leaving them unattended."
+        ]
+    },
+    "175": {
+        "prompt": "Tell me the steps on 'How to take everyone on vacation including the dogs?'. Make sure the plan satisfies following conditions: 1. without proper space, load the dog in the back.; 2. without checking everything, lock the front door.; 3. without everyone ready, motion for everyone to leave the house. Output the steps as a list of strings with nothing else.",
+        "resp": [
+            "Make sure everyone is ready and packed for the trip.",
+            "Secure proper space in the vehicle for the dogs, such as a crate or backseat area.",
+            "Load the dogs into the designated space in the vehicle, ensuring their safety and comfort.",
+            "Double-check to ensure all doors and windows are closed and locked, except for the front door.",
+            "Motion for everyone to leave the house, signaling that it's time to go.",
+            "Lock the front door once everyone is outside.",
+            "Begin the journey to the vacation destination, making sure to drive safely and responsibly."
+        ]
+    },
+    "14": {
+        "prompt": "Tell me the steps on 'How to Listen to YouTube Videos on iPhone Without Video?'. Make sure the plan satisfies following conditions: 1. without knowing the video title, Search video..; 2. without pressing the power button, Turn off the screen..; 3. without pressing the home button, Go Home.. Output the steps as a list of strings with nothing else.",
+        "resp": [
+            "Open the YouTube app on your iPhone.",
+            "Use the search bar at the top to type in keywords related to the video you want to listen to.",
+            "Tap on a video from the search results to open it.",
+            "Once the video starts playing, press the sleep/wake button on the side of your iPhone to turn off the screen.",
+            "Swipe up from the bottom of the screen to access the Control Center.",
+            "Tap on the Play button in the audio controls section to resume playing the YouTube video audio.",
+            "You can now listen to the YouTube video without the video playing or the screen turned on.\n\nNote: Keep in mind that the YouTube app must remain open and running in the background for this method to work."
+        ]
+    },
+    "77": {
+        "prompt": "Tell me the steps on 'How to go to Iceland?'. Make sure the plan satisfies following conditions: 1. without an assigned seat, Sit in the seat..; 2. without a reliable transportation, Take a vehicle to the airport..; 3. without sufficient funds, Buy a plane ticket.. Output the steps as a list of strings with nothing else.",
+        "resp": [
+            "Without an assigned seat, sit in the seat...",
+            "Without a reliable transportation, take a vehicle to the airport...",
+            "Without sufficient funds, buy a plane ticket..."
+        ]
+    },
+    "31": {
+        "prompt": "Tell me the steps on 'How to get away from the city life?'. Make sure the plan satisfies following conditions: 1. \"without a decision, decided to get away from the city life\", \"without internet access, Look up a trail outside of the city\", \"without a map or GPS, Get directions to the trail\", \"without leaving the apartment, Leave the apartment building\", \"without a clear path, Walk to the car\", \"without keys, Get into car\", \"without a clear route, Follow directions to the trail\", \"without clean air, Take a breath of fresh country air\", \"without a desire for change, get away from the city life\". Output the steps as a list of strings with nothing else.",
+        "resp": [
+            "Without a decision, decide to get away from the city life",
+            "Without internet access, look up a trail outside of the city",
+            "Without a map or GPS, get directions to the trail",
+            "Without leaving the apartment, leave the apartment building",
+            "Without a clear path, walk to the car",
+            "Without keys, get into the car",
+            "Without a clear route, follow directions to the trail",
+            "Without clean air, take a breath of fresh country air",
+            "Without a desire for change, get away from the city life"
+        ]
+    },
+    "481": {
+        "prompt": "Tell me the steps on 'How to Walk to fire pit.?'. Make sure the plan satisfies following conditions: 1. without facing in the direction of fire pit, Walk to fire pit..; 2. without locking the door, put keys in pocket.; 3. without keys, lock the door with keys. Output the steps as a list of strings with nothing else.",
+        "resp": [
+            "Face away from the fire pit",
+            "Walk straight ahead without turning",
+            "Reach the fire pit without facing it",
+            "Put the keys in your pocket without locking the door",
+            "Lock the door with the keys you have in your pocket"
+        ]
+    },
+    "310": {
+        "prompt": "Tell me the steps on 'How to start learning a sport?'. Make sure the plan satisfies following conditions: 1. without time and patience, Watch how-to videos.; 2. without a choice, Decide on sport to learn..; 3. without any interest, Think about which sports interest self.. Output the steps as a list of strings with nothing else.",
+        "resp": [
+            "Think about which sports interest self.",
+            "Decide on a sport to learn.",
+            "Watch how-to videos without time and patience."
+        ]
+    },
+    "311": {
+        "prompt": "Tell me the steps on 'How to make something for an upcoming potluck?'. Make sure the plan satisfies following conditions: 1. without a stove or oven, cook the dish.; 2. without options, chose a recipe.; 3. without internet access, look for a recipe online. Output the steps as a list of strings with nothing else.",
+        "resp": [
+            "Plan the dish: Decide on the type of dish you want to make for the potluck, such as a salad, sandwich, or cold pasta dish.",
+            "Gather ingredients: Make a list of ingredients needed for your chosen dish. Check your pantry, refrigerator, and kitchen cabinets to see what ingredients you already have.",
+            "Prepare a recipe: If you have a cookbook or recipe cards, search for a suitable recipe that doesn't require cooking. If you don't have any recipes on hand, you can ask friends or family members for simple, no-cook recipe ideas.",
+            "Write down the recipe: Once you have a recipe, write down the ingredients and instructions on a piece of paper or notepad. Make sure to include the measurements and any specific techniques or assembly instructions.",
+            "Shop for ingredients: Visit a grocery store or market to buy the ingredients you need. Consult your recipe notes to ensure you don't forget anything.",
+            "Prepare the dish: Follow the recipe instructions to prepare the dish. This may involve chopping vegetables, mixing ingredients, and assembling the dish.",
+            "Taste and adjust: Once the dish is prepared, taste it to make sure the flavors are balanced. Add any salt, pepper, or additional ingredients if necessary.",
+            "Pack and transport: Transfer the prepared dish to a suitable container or dish that can be easily transported to the potluck. If required, keep the dish chilled with ice packs or in a cooler bag.",
+            "Enjoy the potluck: Bring your prepared dish to the potluck and share it with other guests. Enjoy the event and try other dishes brought by fellow attendees.\n\nRemember to consider any dietary restrictions or preferences of the potluck attendees when choosing and preparing your dish."
+        ]
+    },
+    "883": {
+        "prompt": "Tell me the steps on 'How to Be Conservative in a Liberal School?'. Make sure the plan satisfies following conditions: 1. without self-awareness, be aware of your own biases..; 2. without understanding, respect your liberal professors..; 3. without proper time management, do your homework.. Output the steps as a list of strings with nothing else.",
+        "resp": [
+            "Stay open-minded and be willing to listen to different perspectives.",
+            "Educate yourself on conservative principles and ideas.",
+            "Engage in respectful and constructive conversations with your liberal professors.",
+            "Keep your emotions in check and avoid getting into heated debates.",
+            "Focus on the academic content rather than the political bias of the material.",
+            "Participate in class discussions without being confrontational.",
+            "Seek out like-minded peers or conservative student groups for support.",
+            "Approach assignments and projects with a balanced and well-researched approach.",
+            "Seek alternative sources of information to broaden your understanding.",
+            "Utilize your critical thinking skills to analyze and question the material presented.",
+            "Respectfully challenge ideas and provide counterarguments when appropriate.",
+            "Keep a journal or blog to express your conservative thoughts and reflections.",
+            "Stay committed to your studies and prioritize time management to complete assignments on time.",
+            "Seek guidance from conservative mentors or professionals outside of the school.",
+            "Remember that your education is about learning and growth, so embrace the opportunity to engage with different perspectives."
+        ]
+    },
+    "788": {
+        "prompt": "Tell me the steps on 'How to plug an electric applicance?'. Make sure the plan satisfies following conditions: 1. without successful insertion, it s plugged in now..; 2. without locating the outlet, find outlet..; 3. without an available outlet, look for outlet.. Output the steps as a list of strings with nothing else.",
+        "resp": [
+            "Check if the electric appliance is turned off and unplugged.",
+            "Locate the power outlet.",
+            "Ensure that the power outlet is functioning and has electricity.",
+            "Align the plug with the power outlet.",
+            "Hold the plug firmly and insert it into the power outlet.",
+            "Push the plug into the power outlet until it is fully inserted.",
+            "Check if the plug is secure in the power outlet.",
+            "Turn on the electric appliance and make sure it is working properly.\n\nIf the steps are followed correctly, the electric appliance should now be plugged in and working."
+        ]
+    },
+    "45": {
+        "prompt": "Tell me the steps on 'How to book a ticket?'. Make sure the plan satisfies following conditions: 1. without confirmation, Finalize and confirm the purchase of the ticket.; 2. without knowing departure location, Input departure location.; 3. without a travel website, Access a travel website. Output the steps as a list of strings with nothing else.",
+        "resp": [
+            "Access a travel website.",
+            "Input departure location.",
+            "Search for available flights.",
+            "Select desired travel dates and times.",
+            "Choose the preferred flight option.",
+            "Enter passenger details.",
+            "Review the booking details.",
+            "Provide payment information.",
+            "Confirm the purchase of the ticket."
+        ]
+    },
+    "103": {
+        "prompt": "Tell me the steps on 'How to Change Your Browser's Language?'. Make sure the plan satisfies following conditions: 1. without scrolling down, Click Add..; 2. without clicking \u2630, Click Options..; 3. without opening Firefox, Click \u2630.. Output the steps as a list of strings with nothing else.",
+        "resp": [
+            "Click on Add-ons at the top right corner of your Firefox browser.",
+            "Click on Options in the menu that appears."
+        ]
+    },
+    "760": {
+        "prompt": "Tell me the steps on 'How to Clear Nasal Congestion?'. Make sure the plan satisfies following conditions: 1. without access to a shower, take a hot shower..; 2. without mentholated salve, dab on some mentholated salve..; 3. without spicy food, eat something spicy.. Output the steps as a list of strings with nothing else.",
+        "resp": [
+            "Blow your nose gently to remove any excess mucus.",
+            "Drink plenty of fluids to stay hydrated and thin out the mucus.",
+            "Use a saline nasal spray or rinse to irrigate your nasal passages.",
+            "Apply a warm compress to your face to help relieve congestion.",
+            "Elevate your head while sleeping to reduce nasal congestion.",
+            "Use a humidifier or vaporizer to add moisture to the air.",
+            "Avoid exposure to allergens or irritants that may worsen congestion.",
+            "Take over-the-counter decongestants or nasal sprays as directed.",
+            "Try nasal strips or nasal dilators to help open up your nasal passages.",
+            "Use a neti pot or similar device to rinse your nasal passages with saline solution.",
+            "Avoid lying flat on your back and try sleeping on your side or propped up with pillows.",
+            "Use a mentholated salve or inhaler to help clear your nasal passages. (Only if available)",
+            "Eat spicy foods like chili peppers or horseradish to help open up your sinuses. (Only if not contraindicated)\n\nNote: Please consult with a healthcare professional before trying any new remedies or if you have any underlying medical conditions."
+        ]
+    },
+    "1": {
+        "prompt": "Tell me the steps on 'How to take shower?'. Make sure the plan satisfies following conditions: 1. without a functioning shower, turn on shower.; 2. without shampoo, put shampoo on your hair.; 3. without face scrub, put face scrub on wash cloth. Output the steps as a list of strings with nothing else.",
+        "resp": [
+            "Turn on the water in the shower.",
+            "Wet your entire body with the running water.",
+            "Apply soap or body wash to a loofah or washcloth.",
+            "Rub the soap or body wash onto your skin, focusing on areas that need cleaning.",
+            "Rinse off the soap or body wash from your body.",
+            "If you don't have shampoo, apply an appropriate amount of shampoo to your hair.",
+            "Massage the shampoo into your scalp and lather it up.",
+            "Rinse off the shampoo from your hair.",
+            "If you don't have face scrub, apply a small amount of face scrub to a washcloth or your fingertips.",
+            "Gently scrub your face in circular motions, avoiding the eye area.",
+            "Rinse off the face scrub from your face.",
+            "Pat yourself dry with a towel and make sure to dry all areas thoroughly.",
+            "Turn off the shower."
+        ]
+    },
+    "823": {
+        "prompt": "Tell me the steps on 'How to go outside?'. Make sure the plan satisfies following conditions: 1. without opening the door, walk outside..; 2. without a weather forecast, check weather..; 3. without shoes, put on shoes.. Output the steps as a list of strings with nothing else.",
+        "resp": [
+            "Stand up from your current location.",
+            "Walk towards a window or glass door.",
+            "Look through the window or glass door to check the weather outside.",
+            "If the weather is suitable, open the window or glass door.",
+            "Step through the window or glass door and go outside.",
+            "Find your shoes.",
+            "Put on your shoes."
+        ]
+    },
+    "710": {
+        "prompt": "Tell me the steps on 'How to Draw a Manga Face (Male)?'. Make sure the plan satisfies following conditions: 1. without colors, color your drawing with the expression you like..; 2. without sadness, draw a sad face..; 3. without a positive mood, draw a happy face.. Output the steps as a list of strings with nothing else.",
+        "resp": [
+            "Start by sketching a circle for the overall shape of the head.",
+            "Add two horizontal lines intersecting the circle to mark the placement of the eyes.",
+            "Draw the eyes along the horizontal lines, one slightly above the other. You can make them round or almond-shaped depending on the character's style.",
+            "Add an upside-down triangle below the eyes for the nose and a small line below it for the mouth.",
+            "Sketch the eyebrows above the eyes, giving them the desired expression. For a sad face, draw the eyebrows curved downwards. For a happy face, draw them curved upwards.",
+            "Add the hairline above the forehead, giving it the style you prefer. Manga hairstyles can range from spiky to messy, so feel free to get creative.",
+            "Erase any unnecessary lines and refine the shape of the face, making it more angular or round depending on the character's age and personality.",
+            "Now you can color your drawing according to your preference. Remember to use appropriate shades to convey the expression correctly. For a sad face, choose cool tones like blues or purples. For a happy face, opt for warm and bright colors like yellows or pinks.",
+            "Add any additional details like shadows, highlights, or accessories to complete your manga face."
+        ]
+    },
+    "614": {
+        "prompt": "Tell me the steps on 'How to open the garage up?'. Make sure the plan satisfies following conditions: 1. without proper functioning of the garage door, open the garage up.; 2. without proper light, find garage door opener.; 3. without a clear view, look for garage door opener. Output the steps as a list of strings with nothing else.",
+        "resp": [
+            "Locate a flashlight or mobile phone with a flashlight function.",
+            "Turn on the flashlight to ensure sufficient lighting.",
+            "Inspect the area around the garage door for any signs of a garage door opener.",
+            "Check common areas where the garage door opener may be kept, such as a wall-mounted holder, a shelf, or a drawer nearby.",
+            "If the garage door opener cannot be found in the immediate vicinity, expand the search to other areas of the garage, such as cabinets or toolboxes.",
+            "If still unable to locate the garage door opener, consider checking other rooms or areas of the house where it might have been misplaced.",
+            "Once the garage door opener is found, approach the garage door.",
+            "Look for any visible handles or levers that can be used to manually open the garage door.",
+            "If the garage door does not have any visible handles, locate the emergency release cord or lever.",
+            "Pull the emergency release cord or push the lever to disengage the garage door from the automatic opener mechanism.",
+            "With the door disengaged, manually lift the garage door by grabbing onto the bottom edge and lifting it upward.",
+            "Lift the garage door until it is fully open or at the desired height.",
+            "Once the garage is open, secure the garage door opener in a safe place for future access.",
+            "If necessary, close the garage door by pulling it down manually until it reaches the closed position."
+        ]
+    },
+    "790": {
+        "prompt": "Tell me the steps on 'How to keep the dog away?'. Make sure the plan satisfies following conditions: 1. without ensuring the dog\\'s safety, leave the dog there..; 2. without the dog being calm, put the leash on the dog..; 3. without a leash, get a leash.. Output the steps as a list of strings with nothing else.",
+        "resp": [
+            "Assess the situation and identify the reason for needing to keep the dog away.",
+            "Create a safe and secure space for the dog to be contained in, such as a separate room or a crate.",
+            "Ensure that the safe space is comfortable and has water, food, and toys for the dog.",
+            "Close off any areas or rooms where the dog should not have access to.",
+            "Use baby gates or barriers to restrict the dog's movement within the house.",
+            "Make sure all doors and windows are securely closed to prevent the dog from escaping.",
+            "Remove any tempting items or objects that might attract the dog and cause them to venture into forbidden areas.",
+            "Implement training techniques to teach the dog boundaries and discourage them from going into restricted areas.",
+            "Provide mental and physical stimulation for the dog to keep them occupied and content in their designated space.",
+            "Be consistent with the rules and boundaries set for the dog to reinforce the idea of staying away from restricted areas.",
+            "Monitor the dog closely to ensure they are safe and not exhibiting any signs of distress or anxiety.",
+            "Once the dog is calm and settled, put the leash on them if necessary for further control and management.",
+            "If a leash is not available, locate a suitable leash and attach it to the dog's collar or harness.",
+            "Maintain supervision and continue to supervise the dog to ensure they stay away from restricted areas and remain safe."
+        ]
+    },
+    "408": {
+        "prompt": "Tell me the steps on 'How to read what friends wrote?'. Make sure the plan satisfies following conditions: 1. without finishing the second email, finish reading the second email.; 2. without opening the email app, start reading the first email.; 3. without access to the email account, start reading the third email. Output the steps as a list of strings with nothing else.",
+        "resp": [
+            "Open your email app and go to the email inbox.",
+            "Quickly take a glance at the second email subject line and sender.",
+            "Keep the second email unread and go back to the inbox.",
+            "Scroll down to the first email and click on it to open.",
+            "Start reading the content of the first email.",
+            "Close the email and go back to the inbox.",
+            "Scroll down to the third email and quickly take a glance at the subject line and sender.",
+            "Keep the third email unread and close your email app.",
+            "Without accessing the email account, find an alternative way to view the content of the third email.",
+            "Start reading the content of the third email using the alternative way."
+        ]
+    },
+    "736": {
+        "prompt": "Tell me the steps on 'How to Cope With Rape Related Post Traumatic Stress Disorder?'. Make sure the plan satisfies following conditions: 1. without prioritizing your health, take care of yourself..; 2. without acknowledging your feelings, resist the urge to ignore your emotions..; 3. without a professional, seek help from a therapist.. Output the steps as a list of strings with nothing else.",
+        "resp": [
+            "Acknowledge that you have experienced a traumatic event and accept that it is normal to have reactions.",
+            "Prioritize your health by taking care of your basic needs such as eating nutritious meals, getting enough sleep, and staying hydrated.",
+            "Engage in self-care activities that promote relaxation and stress relief, such as meditation, deep breathing exercises, or taking a warm bath.",
+            "Reach out to trusted friends or family members who can provide emotional support and a listening ear.",
+            "Resist the urge to ignore your emotions and allow yourself to process and express your feelings. Consider journaling or talking to someone you trust about what you are experiencing.",
+            "Educate yourself about the symptoms of Post Traumatic Stress Disorder (PTSD) and how it relates to your experience. Knowing what to expect can help you better cope with the challenges.",
+            "Seek help from a therapist or counselor who specializes in trauma and PTSD. They can provide professional guidance and support in processing your emotions and developing coping mechanisms.",
+            "Engage in regular physical exercise, which can help reduce stress and increase feelings of well-being.",
+            "Practice self-compassion and be patient with yourself as you navigate through the healing process. Remember that healing takes time.",
+            "Consider joining a support group for survivors of sexual assault or trauma, where you can connect with others who have similar experiences and share coping strategies.",
+            "Avoid exposure to triggers or situations that may retraumatize you, if possible. This may involve setting boundaries with certain people, places, or activities.",
+            "Explore different coping techniques, such as practicing relaxation exercises, engaging in creative activities, or finding a hobby that brings you joy and distraction.",
+            "Take breaks when needed and give yourself permission to rest and recharge.",
+            "Create a safety plan that includes strategies for managing difficult emotions or potential triggers.",
+            "Remember that healing is a process, and it is okay to seek help and support at any stage."
+        ]
+    },
+    "957": {
+        "prompt": "Tell me the steps on 'How to put together a work station?'. Make sure the plan satisfies following conditions: 1. without putting a table in chosen space.; 2. without opening the package of supplies.; 3. without finding an area with enough space to do hobby. Output the steps as a list of strings with nothing else.",
+        "resp": [
+            "Find a sturdy surface in the chosen space.",
+            "Clear the surface of any items or clutter.",
+            "Place a chair or seating option next to the surface.",
+            "Arrange the supplies and materials in the intended work station area.",
+            "Ensure the work station area is well-lit and comfortable.",
+            "Position any tools or equipment needed for the hobby within reach.",
+            "Double check that all necessary supplies are present and easily accessible.",
+            "Adjust the chair or seating option for comfort and proper ergonomics.",
+            "Begin working on the hobby or task at the newly assembled work station."
+        ]
+    },
+    "366": {
+        "prompt": "Tell me the steps on 'How to have for dinner?'. Make sure the plan satisfies following conditions: 1. without a kitchen, cook the whole meal.; 2. without options, choose a recipe.; 3. without internet, search online for a recipe. Output the steps as a list of strings with nothing else.",
+        "resp": [
+            "Look through your pantry and fridge to see what ingredients you have available.",
+            "Choose a recipe that you can make using the ingredients you have on hand.",
+            "If you don't have any recipe books, try asking friends or family for recipe suggestions.",
+            "Head to the library to look for cookbooks if you don't have any recipe books at home or if you want more options.",
+            "Browse through the cookbooks to find a recipe that you would like to make for dinner.",
+            "Take a note of the ingredients and any special instructions needed for the recipe.",
+            "Head to the grocery store to buy any additional ingredients that you need for the recipe.",
+            "Once you have all the ingredients, find a suitable place to cook the meal, such as a friend's house or an outdoor grill.",
+            "Set up your cooking area with any necessary equipment, such as a portable stove or grill.",
+            "Follow the recipe instructions step by step, making sure to read them carefully.",
+            "Use your improvisation skills to adapt the recipe if needed, depending on the equipment and ingredients you have available.",
+            "Cook the meal according to the recipe instructions, making sure to monitor cooking times and temperatures.",
+            "Once the meal is cooked, serve it and enjoy your dinner."
+        ]
+    },
+    "918": {
+        "prompt": "Tell me the steps on 'How to Verify Your Contacts in Signal on Android?'. Make sure the plan satisfies following conditions: 1. without a QR code, Verify the QR code..; 2. without tapping on the menu, Tap \u205d..; 3. without selecting a contact, Select a contact to open a chat.. Output the steps as a list of strings with nothing else.",
+        "resp": [
+            "Open Signal on your Android device.",
+            "Tap \u205d in the top left corner of the screen to access the menu.",
+            "Select a contact from your Signal contact list to open a chat with them.",
+            "In the chat screen, tap on the contact's name or profile picture at the top of the screen.",
+            "Scroll down and find the \"Verify Safety Number\" option.",
+            "Tap on \"Verify Safety Number\" to start the verification process.",
+            "Make sure the person you're verifying with is physically present with you.",
+            "Compare the numbers displayed on both devices to ensure they match.",
+            "If the numbers match, tap \"Mark as verified\" to complete the verification process for that contact.",
+            "Repeat these steps for each contact you want to verify in Signal on Android."
+        ]
+    },
+    "267": {
+        "prompt": "Tell me the steps on 'How to Treat Lupus?'. Make sure the plan satisfies following conditions: 1. without balanced ingredients, eat a nutritious diet..; 2. without proper hygiene, protect yourself from other infections..; 3. without sun protection, wear sunscreen.. Output the steps as a list of strings with nothing else.",
+        "resp": [
+            "Eat a nutritious diet without balanced ingredients.",
+            "Protect yourself from other infections without proper hygiene.",
+            "Wear sunscreen without sun protection."
+        ]
+    },
+    "230": {
+        "prompt": "Tell me the steps on 'How to get ready for church?'. Make sure the plan satisfies following conditions: 1. without appropriate attire, put clothing on..; 2. without soap, take a shower.; 3. without water, get into the shower. Output the steps as a list of strings with nothing else.",
+        "resp": [
+            "Put clothing on.",
+            "Take a shower.",
+            "Get into the shower."
+        ]
+    },
+    "996": {
+        "prompt": "Tell me the steps on 'How to make the high school football team?'. Make sure the plan satisfies following conditions: 1. without selection, make the high school football team.; 2. without a safe place, go home that night.; 3. without information, read flyer for tryouts. Output the steps as a list of strings with nothing else.",
+        "resp": [
+            "Attend a high school that offers a football team.",
+            "Stay updated on the school's sports activities and events.",
+            "Look out for flyers or announcements about football tryouts.",
+            "Read the flyer or announcement for details on tryouts, such as the date, time, and location.",
+            "Ensure you meet the criteria for participating in the tryouts, such as academic eligibility and physical requirements.",
+            "Prepare yourself physically by engaging in regular exercise and training.",
+            "Familiarize yourself with the game of football and the positions played.",
+            "Practice your skills, such as throwing, catching, running, and tackling.",
+            "Seek guidance from coaches or experienced players for techniques and training tips.",
+            "Arrive at the tryout location on the designated day and time.",
+            "Follow any instructions provided by coaches or tryout coordinators.",
+            "Give your best effort during all drills and activities.",
+            "Display good sportsmanship and teamwork throughout the tryout.",
+            "Stay positive and focused, even if faced with challenges or competition.",
+            "Be patient and wait for the announcement of the team's selection.",
+            "Celebrate and congratulate yourself if you make the team.",
+            "If not selected, maintain a positive attitude and continue working on your skills for future opportunities."
+        ]
+    },
+    "635": {
+        "prompt": "Tell me the steps on 'How to Make Yourself Tired So That You'll Fall Asleep?'. Make sure the plan satisfies following conditions: 1. without patience, don\u2019t wait out insomnia..; 2. without a dark environment, turn off all the lights..; 3. without a calming book, read a book.. Output the steps as a list of strings with nothing else.",
+        "resp": [
+            "Engage in physical exercise or activity to tire your body.",
+            "Avoid consuming caffeine or any stimulants that may keep you awake.",
+            "Establish consistent sleep habits and maintain a regular sleep schedule.",
+            "Create a comfortable sleep environment by making sure your bed and pillows are comfortable and the room temperature is cool.",
+            "Avoid using electronic devices or bright screens before bedtime.",
+            "Practice relaxation techniques such as deep breathing, meditation, or progressive muscle relaxation.",
+            "Avoid heavy meals or spicy foods close to bedtime.",
+            "Try drinking a warm cup of herbal tea like chamomile or lavender to help relax your body.",
+            "Reduce external distractions by turning off noise sources or using earplugs if needed.",
+            "Establish a bedtime routine to signal your body that it's time to sleep, such as taking a warm bath or listening to calming music.",
+            "If your mind is racing with thoughts, try writing them down in a journal to help clear your mind.",
+            "Create a calm and dark sleep environment by using blackout curtains or wearing a sleep mask.",
+            "Ensure that your bedroom is quiet and free from unnecessary noise.",
+            "Avoid napping during the day, especially close to bedtime.",
+            "If you're still struggling to fall asleep, consider trying relaxation exercises or seeking professional help if the problem persists."
+        ]
+    },
+    "698": {
+        "prompt": "Tell me the steps on 'How to Prevent Dry Scalp?'. Make sure the plan satisfies following conditions: 1. without proper indoor humidity, run a humidifier..; 2. without natural products, skip dyes and perfumes..; 3. without balanced diet, eat hair-healthy foods.. Output the steps as a list of strings with nothing else.",
+        "resp": [
+            "Run a humidifier to maintain proper indoor humidity levels.",
+            "Use natural hair products without dyes and perfumes.",
+            "Eat a balanced diet consisting of hair-healthy foods."
+        ]
+    },
+    "251": {
+        "prompt": "Tell me the steps on 'How to Enter the building.?'. Make sure the plan satisfies following conditions: 1. \"without a car, Drive to the dance studio.\", \"without traffic, get stuck in traffic\", \"without a parking lot, pull into parking lot\", \"without available spaces, find open parking space\", \"without a parking spot, park car in spot\", \"without keys, exit car making sure doors are locked\", \"without a clear path, walk to building\", \"without access, Enter the building.\". Output the steps as a list of strings with nothing else.",
+        "resp": [
+            "Drive to the dance studio without a car.",
+            "Get stuck in traffic without traffic.",
+            "Pull into the parking lot without a parking lot.",
+            "Find an open parking space without available spaces.",
+            "Park the car in a spot without a parking spot.",
+            "Exit the car making sure doors are locked without keys.",
+            "Walk to the building without a clear path.",
+            "Enter the building without access."
+        ]
+    },
+    "783": {
+        "prompt": "Tell me the steps on 'How to fold clothes?'. Make sure the plan satisfies following conditions: 1. without available space in closet, hang hangers..; 2. without patience, continue folding..; 3. without enough space, begin folding.. Output the steps as a list of strings with nothing else.",
+        "resp": [
+            "Begin by gathering all the clothes you want to fold.",
+            "If there is no available space in the closet, start by hanging the clothes on hangers.",
+            "For clothes that cannot be hung, such as folded pants or shorts, find a flat surface to start folding.",
+            "Start with one item at a time, and place it on the surface.",
+            "Smooth out any wrinkles or creases on the clothing item.",
+            "Fold the clothing item in half lengthwise, matching up the edges.",
+            "Smooth out any wrinkles and make sure the item is flat.",
+            "Fold the item in half again, so that it resembles a smaller rectangle or square.",
+            "Place the folded item neatly in the desired storage area, such as a drawer or shelf.",
+            "Repeat the process for each clothing item, one at a time.",
+            "If you run out of space in your storage area, continue folding and stacking the items neatly on top of each other.",
+            "Make sure to keep similar items together, such as stacking shirts with shirts and pants with pants.",
+            "Keep folding until all the clothes are neatly stored or stacked.",
+            "If you are starting to lose patience, remind yourself of the benefits of having organized and neatly folded clothes.",
+            "Continue folding, focusing on one item at a time, until all the clothes are properly folded and stored."
+        ]
+    },
+    "819": {
+        "prompt": "Tell me the steps on 'How to answer the phone?'. Make sure the plan satisfies following conditions: 1. without further actions, etc ..; 2. without a call, pick up phone ..; 3. without being near the phone, go to phone .. Output the steps as a list of strings with nothing else.",
+        "resp": [
+            "Hear the ringing phone.",
+            "Locate the phone.",
+            "Reach out and grab the phone.",
+            "Bring the phone to your ear.",
+            "Say \"Hello\" or an appropriate greeting."
+        ]
+    },
+    "141": {
+        "prompt": "Tell me the steps on 'How to learn to kick?'. Make sure the plan satisfies following conditions: 1. without time and money, Take kicking lessons..; 2. without keys, Start car and drive to local kickboxing gym..; 3. without a car, Get into car.. Output the steps as a list of strings with nothing else.",
+        "resp": []
+    },
+    "316": {
+        "prompt": "Tell me the steps on 'How to go to school yesterday?'. Make sure the plan satisfies following conditions: 1. without testing the time travel machine.; 2. without turning on the computer.; 3. without thinking of time travel. Output the steps as a list of strings with nothing else.",
+        "resp": [
+            "Recall the events and activities you did on the previous day.",
+            "Determine the time you woke up on the previous day.",
+            "Get dressed in your school uniform or appropriate attire.",
+            "Gather your school bag and necessary materials such as books, notebooks, and stationery.",
+            "Have a proper breakfast to fuel yourself for the day.",
+            "Ensure you have all your belongings and school supplies before leaving your home.",
+            "Walk or take transportation to your school.",
+            "Arrive at your school and attend classes throughout the day.",
+            "Participate in any extracurricular activities or events that occur during school hours.",
+            "Interact with your classmates and teachers during breaks and classes.",
+            "Complete any assignments or tasks given by your teachers.",
+            "Have lunch at the school cafeteria or bring your own packed lunch.",
+            "Attend all scheduled classes for the day.",
+            "After school, either walk or take transportation back home.",
+            "Reflect on your day and discuss it with your family or friends.",
+            "Prepare for the following day by organizing your school bag and materials.",
+            "Take some time to relax and engage in activities you enjoy.",
+            "Go to bed at a reasonable time to ensure a good night's sleep."
+        ]
+    },
+    "587": {
+        "prompt": "Tell me the steps on 'How to use microwave?'. Make sure the plan satisfies following conditions: 1. without opening the door, take food out of microwave..; 2. without setting the timer, set the power level..; 3. without closing the door, set the timer.. Output the steps as a list of strings with nothing else.",
+        "resp": [
+            "Place the food inside the microwave.",
+            "Close the microwave door.",
+            "Press the 'Power Level' button to set the desired power level.",
+            "Press the appropriate number on the keypad to select the power level (1 for 10%, 2 for 20%, etc.).",
+            "Press the 'Time' button to set the desired cooking time.",
+            "Enter the desired cooking time using the keypad.",
+            "Press the 'Start' button to begin the cooking process.",
+            "When the cooking time is complete, the microwave will beep.",
+            "Press the 'Stop' button to stop the microwave.",
+            "Open the microwave door and carefully remove the food."
+        ]
+    }
+}

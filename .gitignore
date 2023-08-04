@@ -8,7 +8,7 @@ dep_wheels/
 # output/
 resources/
 backup/
-output/
+output/local/
 notebook/
 local/
 
