@@ -1,0 +1,13 @@
+ONE_CONSTRAINT:
+  TEMPLATE_0:
+    TOPIC: 'Consider the following task: <TOPIC> '
+    PREFIX: 'Given the following constraints: '
+    CONSTRAINT: '<CONSTRAINT>'
+    TIME: 'And the finishing time limit is <TIME> '
+    SUFFIX: 'How can you navigate the task to overcome the constraints? If it is not possible, please explain why. '
+  TEMPLATE_1:
+    TOPIC: 'Given the following task: <TOPIC> '
+    PREFIX: 'There are some constraints: '
+    CONSTRAINT: '<CONSTRAINT>'
+    TIME: 'The finishing time is limited within <TIME> '
+    SUFFIX: 'Can you give a solution on how to finish the task? Just give up if you think it is not possible. '
