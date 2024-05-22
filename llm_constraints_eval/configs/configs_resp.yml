@@ -1,0 +1,28 @@
+run:
+  llm_type: gpt4
+
+data: 
+  path: ./data/topic_constraints_en_2403.json
+
+resp_save_path: ./outputs
+
+gpt3:
+  api_key: xxx
+  role: user
+  model: gpt-3.5-turbo
+
+gpt4:
+  api_key: xxx
+  role: user
+  model: gpt-4-1106-preview
+
+vicuna:
+  api_key: EMPTY
+  base_url: http://localhost:9009/v1/
+  role: user
+  model: vicuna-13b-v1.5
+
+constrains:
+  types: ['skill', 'item', 'environment']
+  # types: ['item']
+  seed: 0

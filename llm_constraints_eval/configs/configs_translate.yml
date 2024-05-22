@@ -1,0 +1,22 @@
+run:
+  # llm_type: vicuna
+  llm_type: gpt3
+
+data: 
+  path: ./prompt_df_900.pkl
+
+gpt3:
+  api_key: xxx
+  role: user
+  model: gpt-3.5-turbo
+
+gpt4:
+  api_key: xxx
+  role: user
+  model: gpt-4-1106-preview
+
+vicuna:
+  api_key: EMPTY
+  base_url: http://localhost:9009/v1/
+  role: user
+  model: vicuna-13b-v1.5

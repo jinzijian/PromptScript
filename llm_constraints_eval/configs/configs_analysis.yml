@@ -1,0 +1,19 @@
+run:
+  llm_type: vicuna
+  ref_llm_type: gpt4
+  # save_path: ./outputs/vicuna/evals
+  # save_path: ./outputs/gpt3/evals
+
+# resp_path: ./gpt3_types=skill_seed=0.json
+data:
+  path: ./results/topic_constrains_en_2403_v2.json
+  eval_path: ./results/eval=vicuna-gpt4_types=skill_seed=0.json
+
+gpt4:
+  api_key: xxx
+  role: user
+  model: gpt-4-1106-preview
+
+constrains:
+  types: ['skill']
+  seed: 0
