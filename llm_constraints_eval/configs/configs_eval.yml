@@ -9,7 +9,7 @@ resp_path: ./results/vicuna_types=item_seed=0.json
 ref_resp_path: ./results/gpt4_types=item_seed=0.json
 
 gpt4:
-  api_key: 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
+  api_key: xxx
   role: user
   model: gpt-4-1106-preview
 
