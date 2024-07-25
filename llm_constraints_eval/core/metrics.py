@@ -1,6 +1,7 @@
 import torch
 import numpy as np
-from collections import Iterable
+# from collections import Iterable
+from collections.abc import Iterable
 
 class Metric():
     def __init__(self, name, order='up'):

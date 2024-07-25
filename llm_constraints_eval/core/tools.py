@@ -6,7 +6,8 @@ import torch
 import random
 import numpy as np
 # from torchvision.utils import save_image
-from collections import Sequence
+# from collections import Sequence
+from collections.abc import Sequence
 from . import config
 
 def check_exists(path):

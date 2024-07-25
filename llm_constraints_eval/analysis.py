@@ -241,6 +241,25 @@ def get_giveup_rates(data_path, eval_path, types, seed):
     # return avgs, stds, ref_avgs, ref_stds
     return avgs, stds
 
+def group_by_level(data_path, eval_path, output_path, types, seed):
+    with open(os.path.join(data_path), 'r') as f:
+        data = json.load(f)
+        
+    with open(os.path.join(eval_path), 'r') as f:
+        evals = json.load(f)
+    
+    START = 0
+    END = len(data.keys())
+        
+    for i in range(START, END):
+        # print(i)
+        constraints, rates = make_constraints(data[f'{i}'], types, seed)
+        evals[f'{i}']['constraint_id'] = [r[0] for r in rates]
+        evals[f'{i}']['constraint_level'] = [r[1] for r in rates]
+    
+    with open(os.path.join(output_path), 'w') as f:
+        json.dump(evals, f, indent=4)    
+
 if __name__ == '__main__':
     # args = core.config.get_args()
     # cfg = core.config.get_config(args.cfg_file)
@@ -249,15 +268,20 @@ if __name__ == '__main__':
     # types = ['environment']
     seed = 0
     TYPE = '-'.join(types) if len(types) > 1 else types[0]
-    dpath = './results/topic_constraints_en_2403_v2.json'
+    dpath = './data/topic_constraints_en_2403_v2.json'
     # vicuna_path = './results/eval=vicuna-gpt4_types=environment_seed=0.json'
     # gpt3_path = './results/eval=gpt3-gpt4_types=environment_seed=0.json'
     vicuna_path = f'./results/vicuna_types={TYPE}_seed=0.json'
     gpt3_path = f'./results/gpt3_types={TYPE}_seed=0.json'
     gpt4_path = f'./results/gpt4_types={TYPE}_seed=0.json'
+    gpt4_moe_path = f'./results/gpt4_types={TYPE}_seed=0moe.json'
     
-    fpath = f'./results/figs/eval_types={TYPE}_seed=0_giveup_lvl.jpg'
+    fpath = f'./results/figs/eval_0724/eval_types={TYPE}_seed=0_giveup_lvl.jpg'
     gpt3_avgs, gpt3_stds = get_giveup_rates(dpath, gpt3_path, types, seed)
     gpt4_avgs, gpt4_stds = get_giveup_rates(dpath, gpt4_path, types, seed)
     vicuna_avgs, vicuna_stds = get_giveup_rates(dpath, vicuna_path, types, seed)
-    plot_bars(fpath, [1, 2, 3, 4, 5], {'gpt4': gpt4_avgs, 'gpt3': gpt3_avgs, 'vicuna': vicuna_avgs})
+    gpt4moe_avgs, gpt4moe_stds = get_giveup_rates(dpath, gpt4_moe_path, types, seed)
+    plot_bars(fpath, [1, 2, 3, 4, 5], 
+              {'gpt4': gpt4_avgs, 'gpt3': gpt3_avgs, 'vicuna': vicuna_avgs, 'gpt4-moe': gpt4moe_avgs})
+    
+    # group_by_level(dpath, gpt4_moe_path, f'./results/gpt4_types={TYPE}_seed=0moe_new.json', types, seed)
