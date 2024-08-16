@@ -1,10 +1,7 @@
-run:
-  llm_type: gpt4
-
-data: 
-  path: ./data/topic_constraints_en_2403.json
-
-resp_save_path: ./outputs
+llm_type: gpt4
+template: analysis_template
+data_path: ./data/topic_constraints_en_2403_v2.json
+save_path: ./results/res_240815
 
 gpt3:
   api_key: xxx
@@ -22,7 +19,9 @@ vicuna:
   role: user
   model: vicuna-13b-v1.5
 
-constrains:
-  types: ['skill', 'item', 'environment']
-  # types: ['item']
+constraint:
+  types: ['s=l-i=l-e=l-40',
+          's=h-i=l-e=l-20',
+          's=l-i=h-e=l-20',
+          's=l-i=l-e=h-20',]
   seed: 0

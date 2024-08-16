@@ -1,0 +1,282 @@
+{
+    "0":{
+        "prompts":"Please tell me how to complete the task: Borrow books from the library. There are the following constraints: Unable to use the self-service book borrowing machine at the library. Forget to bring valid identification. The city does not have a library. Time constraint: 2 hours. Please find a way to overcome the constraints and complete the task within the time limit. If you can complete the task within the time limit, please respond with the number 0 and a brief solution. If the task cannot be completed, please respond with the number 1 and the reason for the inability to complete. Please output the answer in the following JSON format: {0, <solution>} or {1, <reason for inability to complete>}.",
+        "resps":"{1, \"The city does not have a library, making it impossible to borrow books from a non-existent facility within the given time constraint.\"}",
+        "constraint_id":[
+            "s1",
+            "i2",
+            "e2"
+        ],
+        "constraint_rate":[
+            2.0,
+            3.0,
+            5.0
+        ]
+    },
+    "1":{
+        "prompts":"Please tell me how to complete the task: How to change Twitter's email on Android. There are the following constraints: Users are not familiar with the settings and functions of Twitter. The user does not have a Twitter account. Users in places without network connection. Time constraint: Complete the operation of changing email within 5 minutes. Please find a way to overcome the constraints and complete the task within the time limit. If you can complete the task within the time limit, please respond with the number 0 and a brief solution. If the task cannot be completed, please respond with the number 1 and the reason for the inability to complete. Please output the answer in the following JSON format: {0, <solution>} or {1, <reason for inability to complete>}.",
+        "resps":"{1, \"The task cannot be completed because the user does not have a Twitter account, and a network connection is required to access Twitter settings and change the email associated with an account.\"}",
+        "constraint_id":[
+            "s2",
+            "i2",
+            "e1"
+        ],
+        "constraint_rate":[
+            2.0,
+            2.0,
+            4.0
+        ]
+    },
+    "2":{
+        "prompts":"Please tell me how to complete the task: Start a vegetable garden. There are the following constraints: Lack of knowledge about the growth cycle of vegetables and the prevention and control of pests and diseases. No necessary gardening tools, such as shovels, gardening shears, etc. There is no suitable land or space to grow vegetables. Time constraint: half a year Please find a way to overcome the constraints and complete the task within the time limit. If you can complete the task within the time limit, please respond with the number 0 and a brief solution. If the task cannot be completed, please respond with the number 1 and the reason for the inability to complete. Please output the answer in the following JSON format: {0, <solution>} or {1, <reason for inability to complete>}.",
+        "resps":"{0, \"solution\": \"To overcome the constraints and start a vegetable garden within half a year, you can follow these steps: 1. Acquire knowledge by researching online, reading books, or attending workshops on vegetable growth cycles, pest and disease control. 2. Purchase or borrow the necessary gardening tools, or use alternative household items (e.g., a spoon for a trowel, kitchen knife for shears). 3. Utilize containers or create a small space for a raised bed garden if there is no suitable land. This can be done on balconies, patios, or indoors with grow lights. 4. Plan your garden according to the time you have, choosing vegetables with shorter growth cycles. 5. Start with seedlings rather than seeds to save time. 6. Dedicate a small amount of time regularly to care for your garden.\"}",
+        "constraint_id":[
+            "s2",
+            "i1",
+            "e1"
+        ],
+        "constraint_rate":[
+            2.0,
+            1.0,
+            4.0
+        ]
+    },
+    "3":{
+        "prompts":"Please tell me how to complete the task: Go to this concert. There are the following constraints: Unable to drive, unable to go to the concert by myself. Without a concert ticket, you cannot enter the venue. Unable to attend the concert due to current work or study commitments. Time constraint: Arrive at the venue 2 hours before the start of the concert. Please find a way to overcome the constraints and complete the task within the time limit. If you can complete the task within the time limit, please respond with the number 0 and a brief solution. If the task cannot be completed, please respond with the number 1 and the reason for the inability to complete. Please output the answer in the following JSON format: {0, <solution>} or {1, <reason for inability to complete>}.",
+        "resps":"{1, \"Unable to attend the concert due to current work or study commitments, and unable to go to the concert by myself.\"}",
+        "constraint_id":[
+            "s1",
+            "i1",
+            "e2"
+        ],
+        "constraint_rate":[
+            2.0,
+            2.0,
+            4.0
+        ]
+    },
+    "4":{
+        "prompts":"Please tell me how to complete the task: Capture butterflies as pets. There are the following constraints: Lack of skills and experience in catching butterflies. There is no net specifically for catching butterflies. The weather conditions are not suitable for capturing butterflies, such as rain or strong wind. Time constraint: Complete the task of capturing butterflies in one day, this is the usual time to complete this task. Please find a way to overcome the constraints and complete the task within the time limit. If you can complete the task within the time limit, please respond with the number 0 and a brief solution. If the task cannot be completed, please respond with the number 1 and the reason for the inability to complete. Please output the answer in the following JSON format: {0, <solution>} or {1, <reason for inability to complete>}.",
+        "resps":"{1, \"Unsuitable weather conditions and lack of proper equipment make it infeasible to ethically and safely capture butterflies within the given time constraint.\"}",
+        "constraint_id":[
+            "s1",
+            "i1",
+            "e2"
+        ],
+        "constraint_rate":[
+            3.0,
+            3.0,
+            5.0
+        ]
+    },
+    "5":{
+        "prompts":"Please tell me how to complete the task: Walk to the entrance. There are the following constraints: Cannot walk, such as physical disabilities or too young. Without navigation equipment or a map, it is impossible to determine the direction. The current location is too far from the entrance, such as in different cities or countries. Time constraint: Complete this task within 30 minutes. Please find a way to overcome the constraints and complete the task within the time limit. If you can complete the task within the time limit, please respond with the number 0 and a brief solution. If the task cannot be completed, please respond with the number 1 and the reason for the inability to complete. Please output the answer in the following JSON format: {0, <solution>} or {1, <reason for inability to complete>}.",
+        "resps":"{1, \"The task cannot be completed due to the combination of constraints: physical inability to walk, lack of navigation tools to determine direction, significant distance from the entrance, and a strict time constraint of 30 minutes.\"}",
+        "constraint_id":[
+            "s1",
+            "i2",
+            "e2"
+        ],
+        "constraint_rate":[
+            3.0,
+            3.0,
+            5.0
+        ]
+    },
+    "6":{
+        "prompts":"Please tell me how to complete the task: Move to the new apartment. There are the following constraints: Not understanding how to plan space may lead to problems when arranging furniture in a new apartment. Without the appropriate tools, such as screwdrivers, wrenches, etc., furniture cannot be assembled or disassembled. The lease for the old apartment has not yet expired, so I cannot move out immediately. Time constraint: Need to complete the move within a week, this is the usual time to complete the move. Please find a way to overcome the constraints and complete the task within the time limit. If you can complete the task within the time limit, please respond with the number 0 and a brief solution. If the task cannot be completed, please respond with the number 1 and the reason for the inability to complete. Please output the answer in the following JSON format: {0, <solution>} or {1, <reason for inability to complete>}.",
+        "resps":"{0, \"Solution: 1. Measure the dimensions of the new apartment and create a floor plan. 2. Measure your furniture and create a layout plan on paper or using a digital tool to ensure everything fits. 3. Gather or purchase the necessary tools for furniture assembly\/disassembly. 4. Start packing non-essential items immediately. 5. Schedule a moving company or rent a truck for the move date. 6. Begin disassembling furniture that you don't use daily. 7. Pack your belongings systematically, labeling boxes by room. 8. Once the new apartment is available, move boxes and furniture according to the plan. 9. Assemble furniture in the new apartment using the tools. 10. Unpack systematically, setting up one room at a time. 11. Clean the old apartment and hand over the keys before the lease expires.\"}",
+        "constraint_id":[
+            "s2",
+            "i2",
+            "e2"
+        ],
+        "constraint_rate":[
+            2.0,
+            3.0,
+            5.0
+        ]
+    },
+    "7":{
+        "prompts":"Please tell me how to complete the task: Buy tennis shoes. There are the following constraints: Do not know how to use electronic payment tools such as Alipay, WeChat Pay, etc. There are no available electronic devices such as phones, computers, etc. Cannot buy tennis shoes in the store or market. Time constraint: Complete the purchase task within one day. Please find a way to overcome the constraints and complete the task within the time limit. If you can complete the task within the time limit, please respond with the number 0 and a brief solution. If the task cannot be completed, please respond with the number 1 and the reason for the inability to complete. Please output the answer in the following JSON format: {0, <solution>} or {1, <reason for inability to complete>}.",
+        "resps":"{1, \"Cannot complete the purchase without electronic devices or in-person store visits within the given time constraint.\"}",
+        "constraint_id":[
+            "s1",
+            "i1",
+            "e1"
+        ],
+        "constraint_rate":[
+            2.0,
+            1.0,
+            5.0
+        ]
+    },
+    "8":{
+        "prompts":"Please tell me how to complete the task: Get a box There are the following constraints: Cannot lift heavy objects, unable to carry excessively heavy boxes. Without tools, unable to open the sealed box. Unable to access boxes in places without a warehouse or boxes. Time constraint: Complete the task of obtaining the box within 30 minutes. This is the usual time to complete this task. Please find a way to overcome the constraints and complete the task within the time limit. If you can complete the task within the time limit, please respond with the number 0 and a brief solution. If the task cannot be completed, please respond with the number 1 and the reason for the inability to complete. Please output the answer in the following JSON format: {0, <solution>} or {1, <reason for inability to complete>}.",
+        "resps":"{0, \"Order a lightweight box online from a local supplier that offers quick delivery or curbside pickup within 30 minutes. Use a cart or ask for assistance to move the box if necessary.\"}",
+        "constraint_id":[
+            "s1",
+            "i1",
+            "e1"
+        ],
+        "constraint_rate":[
+            2.0,
+            1.0,
+            5.0
+        ]
+    },
+    "9":{
+        "prompts":"Please tell me how to complete the task: Walk to the train station and take a train. There are the following constraints: Cannot read a map or use navigation tools. No map or navigation tools such as smartphones. Not in the city, there is no train station nearby. Time constraint: Need to complete this task within 1 hour, this is the average time to walk from home to the train station and take the train. Please find a way to overcome the constraints and complete the task within the time limit. If you can complete the task within the time limit, please respond with the number 0 and a brief solution. If the task cannot be completed, please respond with the number 1 and the reason for the inability to complete. Please output the answer in the following JSON format: {0, <solution>} or {1, <reason for inability to complete>}.",
+        "resps":"{1, \"Not in the city, there is no train station nearby, and without the use of maps or navigation tools, it is not possible to locate and reach a distant train station within the 1-hour time constraint.\"}",
+        "constraint_id":[
+            "s1",
+            "i1",
+            "e1"
+        ],
+        "constraint_rate":[
+            1.0,
+            2.0,
+            4.0
+        ]
+    },
+    "10":{
+        "prompts":"Please tell me how to complete the task: How to overcome pain and sorrow through positive thinking, yoga, and meditation. There are the following constraints: Do not know how to do yoga. Lack of relevant books or materials on positive thinking. The surrounding environment is filled with negative energy, which is not conducive to positive thinking. Time constraint: It takes at least 2-3 months to gradually overcome the pain and sadness. Please find a way to overcome the constraints and complete the task within the time limit. If you can complete the task within the time limit, please respond with the number 0 and a brief solution. If the task cannot be completed, please respond with the number 1 and the reason for the inability to complete. Please output the answer in the following JSON format: {0, <solution>} or {1, <reason for inability to complete>}.",
+        "resps":"{0, \"Begin by setting aside a few minutes each day for deep breathing and mindfulness to cultivate a habit of meditation. Use online resources, such as free meditation apps or YouTube videos, to guide you through the process. For yoga, start with basic stretches and poses, again using online videos tailored for beginners. To counteract the lack of materials on positive thinking, search for positive affirmations and podcasts online, and practice gratitude by noting down things you are thankful for each day. To shield yourself from the negative environment, create a personal space with items that bring you joy and comfort. Engage in regular physical activity, even simple walking, to boost endorphins. Connect with supportive friends or online communities. Stay consistent with these practices over the 2-3 months to gradually overcome pain and sorrow.\"}",
+        "constraint_id":[
+            "s1",
+            "i2",
+            "e2"
+        ],
+        "constraint_rate":[
+            3.0,
+            1.0,
+            5.0
+        ]
+    },
+    "11":{
+        "prompts":"Please tell me how to complete the task: gather needed documents. There are the following constraints: Cannot use the computer to search and organize files. There is no computer or printer to print or scan documents. In public places, private documents cannot be processed. Time constraint: Collect and organize documents within a day. Please find a way to overcome the constraints and complete the task within the time limit. If you can complete the task within the time limit, please respond with the number 0 and a brief solution. If the task cannot be completed, please respond with the number 1 and the reason for the inability to complete. Please output the answer in the following JSON format: {0, <solution>} or {1, <reason for inability to complete>}.",
+        "resps":"{0, \"solution\": \"To gather the needed documents within the constraints provided, follow these steps: 1. Identify all the documents you need to gather by creating a checklist using pen and paper. 2. Go through your physical files and storage areas at home or in your office to find the documents. 3. If you need documents from external sources (like banks, government offices, etc.), visit these places in person to request the documents. 4. For documents that you cannot physically collect, request that they be mailed to you, if possible within the time constraint. 5. Organize the collected documents into categories and place them into folders or envelopes, labeling each one for easy identification. 6. Keep the documents in a secure place to maintain privacy and ensure they are not lost. 7. Cross-check the gathered documents with your checklist to ensure completeness.\"}",
+        "constraint_id":[
+            "s1",
+            "i1",
+            "e2"
+        ],
+        "constraint_rate":[
+            3.0,
+            3.0,
+            5.0
+        ]
+    },
+    "12":{
+        "prompts":"Please tell me how to complete the task: Sleep. There are the following constraints: Can't adjust the comfort of the bed. No comfortable bedding. Not in a suitable temperature environment. Time constraint: Need to complete sleep within 8 hours. Please find a way to overcome the constraints and complete the task within the time limit. If you can complete the task within the time limit, please respond with the number 0 and a brief solution. If the task cannot be completed, please respond with the number 1 and the reason for the inability to complete. Please output the answer in the following JSON format: {0, <solution>} or {1, <reason for inability to complete>}.",
+        "resps":"{0, \"To overcome the constraints and complete the task of sleeping within 8 hours, consider the following solutions: 1. Use relaxation techniques such as deep breathing, meditation, or progressive muscle relaxation to help your body relax despite the uncomfortable conditions. 2. Wear appropriate clothing to help regulate your body temperature as much as possible. 3. Use earplugs and an eye mask to block out any disruptive noise and light. 4. Try to tire yourself out during the day with physical activity so that you are more likely to fall asleep despite the discomfort. 5. Establish a pre-sleep routine to signal to your body that it's time to wind down, such as reading or listening to calming music. 6. If possible, use a sleep aid such as melatonin or a non-prescription sleep medication, but consult with a healthcare provider before doing so.\"}",
+        "constraint_id":[
+            "s1",
+            "i1",
+            "e2"
+        ],
+        "constraint_rate":[
+            2.0,
+            2.0,
+            5.0
+        ]
+    },
+    "13":{
+        "prompts":"Please tell me how to complete the task: Go to the grocery store. There are the following constraints: Not familiar with the placement rules of grocery stores may waste time searching for products. Without a shopping list, you may forget to buy some items. The grocery store is conducting inventory checks or renovations, and shopping is unavailable. Time constraint: Need to complete shopping within 2 hours, this is the usual time to complete this task. Please find a way to overcome the constraints and complete the task within the time limit. If you can complete the task within the time limit, please respond with the number 0 and a brief solution. If the task cannot be completed, please respond with the number 1 and the reason for the inability to complete. Please output the answer in the following JSON format: {0, <solution>} or {1, <reason for inability to complete>}.",
+        "resps":"{1, \"The grocery store is conducting inventory checks or renovations, and shopping is unavailable.\"}",
+        "constraint_id":[
+            "s2",
+            "i2",
+            "e2"
+        ],
+        "constraint_rate":[
+            1.0,
+            3.0,
+            5.0
+        ]
+    },
+    "14":{
+        "prompts":"Please tell me how to complete the task: Go to the grocery store. There are the following constraints: Cannot drive, unable to drive to the grocery store on my own. Without a shopping list, you may forget to buy some items. Not near the grocery store, it takes more time to get there. Time constraint: Need to complete shopping within 2 hours, this is the usual time to complete this task. Please find a way to overcome the constraints and complete the task within the time limit. If you can complete the task within the time limit, please respond with the number 0 and a brief solution. If the task cannot be completed, please respond with the number 1 and the reason for the inability to complete. Please output the answer in the following JSON format: {0, <solution>} or {1, <reason for inability to complete>}.",
+        "resps":"{0, \"Use a delivery service or ask a friend or family member for a ride. Before leaving, create a shopping list to ensure you don't forget any items. If using public transportation, check the schedule to ensure you can get to the store and back within the 2-hour window.\"}",
+        "constraint_id":[
+            "s1",
+            "i2",
+            "e1"
+        ],
+        "constraint_rate":[
+            2.0,
+            3.0,
+            4.0
+        ]
+    },
+    "15":{
+        "prompts":"Please tell me how to complete the task: have a snack There are the following constraints: Without understanding nutrition, it is impossible to choose healthy snacks. Without snacks, snack cravings cannot be satisfied. Eating snacks in the gym or on the sports field may affect the effectiveness of exercise. Time constraint: Select and consume snacks within 15 minutes, this is the usual time for eating snacks. Please find a way to overcome the constraints and complete the task within the time limit. If you can complete the task within the time limit, please respond with the number 0 and a brief solution. If the task cannot be completed, please respond with the number 1 and the reason for the inability to complete. Please output the answer in the following JSON format: {0, <solution>} or {1, <reason for inability to complete>}.",
+        "resps":"{0, \"Choose pre-packaged or easy-to-prepare healthy snacks that you are already familiar with, such as a piece of fruit, a handful of nuts, or yogurt. Avoid eating in the gym or on the sports field by having your snack before or after your exercise session. Ensure that you start your snack selection and consumption at least 15 minutes before your exercise or other activities to fit within the time constraint.\"}",
+        "constraint_id":[
+            "s2",
+            "i1",
+            "e2"
+        ],
+        "constraint_rate":[
+            1.0,
+            3.0,
+            4.0
+        ]
+    },
+    "16":{
+        "prompts":"Please tell me how to complete the task: Go to the bedroom. There are the following constraints: If the user is not familiar with the current environment, such as in a strange place, they may not be able to find the bedroom. If there are not enough lighting devices, such as flashlights or mobile phones, users may not be able to find the bedroom in the dark. If the user is not currently at home, for example, if they are traveling out of town, then they will not be able to walk to the bedroom. Time constraint: Under normal circumstances, the user should be able to walk to the bedroom within 5 minutes. Please find a way to overcome the constraints and complete the task within the time limit. If you can complete the task within the time limit, please respond with the number 0 and a brief solution. If the task cannot be completed, please respond with the number 1 and the reason for the inability to complete. Please output the answer in the following JSON format: {0, <solution>} or {1, <reason for inability to complete>}.",
+        "resps":"{1, \"The user may not be able to complete the task due to unfamiliarity with the environment, lack of lighting, or not being at home.\"}",
+        "constraint_id":[
+            "s2",
+            "i1",
+            "e1"
+        ],
+        "constraint_rate":[
+            2.0,
+            3.0,
+            5.0
+        ]
+    },
+    "17":{
+        "prompts":"Please tell me how to complete the task: How to perform well in juggling ball game. There are the following constraints: If your body coordination and reaction speed are poor, it may affect your performance in slacklining games. If you do not have appropriate sports shoes and sportswear, it may affect your comfort and performance in the game. If you do not have enough space and a safe environment to play suspended ball games, it may affect your performance, and even pose a safety risk. Time constraint: In a standard game of tetherball, you need to defeat your opponent within a set time limit (usually 10 minutes). Please find a way to overcome the constraints and complete the task within the time limit. If you can complete the task within the time limit, please respond with the number 0 and a brief solution. If the task cannot be completed, please respond with the number 1 and the reason for the inability to complete. Please output the answer in the following JSON format: {0, <solution>} or {1, <reason for inability to complete>}.",
+        "resps":"{0, \"Improve body coordination and reaction speed through regular practice and exercises such as catching a ball or using a reaction ball. Wear appropriate sports shoes and sportswear for comfort and performance. Find a suitable space and create a safe environment by clearing obstacles and ensuring the playing surface is even. Practice the game within the time limit to develop strategies and increase efficiency in defeating the opponent.\"}",
+        "constraint_id":[
+            "s2",
+            "i2",
+            "e1"
+        ],
+        "constraint_rate":[
+            3.0,
+            2.0,
+            5.0
+        ]
+    },
+    "18":{
+        "prompts":"Please tell me how to complete the task: Go to a concert on the weekend. There are the following constraints: Not understanding how to purchase concert tickets may result in unsuccessful ticket purchase and entry. Without transportation, you may not be able to reach the concert venue. Unable to attend weekend concerts on weekdays instead of weekends. Time constraint: Concerts are usually held in the evening and require free time in the evening. Please find a way to overcome the constraints and complete the task within the time limit. If you can complete the task within the time limit, please respond with the number 0 and a brief solution. If the task cannot be completed, please respond with the number 1 and the reason for the inability to complete. Please output the answer in the following JSON format: {0, <solution>} or {1, <reason for inability to complete>}.",
+        "resps":"{0, \"solution\": \"To successfully go to a concert on the weekend, first research online or contact the venue to understand the process for purchasing tickets, including the date and time they go on sale. Buy the tickets either online, by phone, or at the box office. Arrange transportation by booking a taxi, using public transport, carpooling with friends, or using a ride-sharing service. Ensure you have free time in the evening by managing your schedule and commitments in advance.\"}",
+        "constraint_id":[
+            "s2",
+            "i2",
+            "e1"
+        ],
+        "constraint_rate":[
+            3.0,
+            1.0,
+            5.0
+        ]
+    },
+    "19":{
+        "prompts":"Please tell me how to complete the task: How to buy well-fitting clothes. There are the following constraints: Do not know how to use online shopping platforms. There are no electronic devices available for online shopping. No fitting room facilities. Time constraint: Complete shopping within 2 hours. Please find a way to overcome the constraints and complete the task within the time limit. If you can complete the task within the time limit, please respond with the number 0 and a brief solution. If the task cannot be completed, please respond with the number 1 and the reason for the inability to complete. Please output the answer in the following JSON format: {0, <solution>} or {1, <reason for inability to complete>}.",
+        "resps":"{0, \"Visit a local clothing store or a department store with a wide variety of clothing options. Know your measurements and size beforehand and bring a measuring tape to check the sizes of the clothes if needed. Look for stores that have a good return policy, so you can return items if they don't fit well once you try them on at home. Ask for assistance from store staff for recommendations based on your size and preferences. Make quick decisions and prioritize purchasing basics that are more likely to fit well. Keep track of time to ensure you complete your shopping within the 2-hour window.\"}",
+        "constraint_id":[
+            "s1",
+            "i2",
+            "e2"
+        ],
+        "constraint_rate":[
+            2.0,
+            3.0,
+            4.0
+        ]
+    }
+}

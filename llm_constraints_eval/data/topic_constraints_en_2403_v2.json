@@ -506,23 +506,26 @@
     "21":{
         "task":"How to become an exquisite person in the 21st century.",
         "skill_constraints":[
-            "Lack of social skills, such as not knowing how to communicate with others."
+            "Lack of social skills, such as not knowing how to communicate with others.",
+            "Lack of knowledge about personal health maintenance and skincare skills."
         ],
         "item_constraints":[
-            "Lack of necessary personal care products, such as no high-quality cosmetics or skincare products."
+            "Lack of necessary personal care products, such as no high-quality cosmetics or skincare products.",
+            "Lack of money to purchase food and supplementals to sustain health."
         ],
         "environment_constraints":[
-            "Not suitable for displaying your exquisite lifestyle, such as in upscale restaurants or art exhibitions."
+            "Not suitable for displaying your exquisite lifestyle, such as in upscale restaurants or art exhibitions.",
+            "Live in a poor region where economy and basic infrastructure is severely under developed."
         ],
         "time_constraints":[
             "Complete self-improvement within a month, this is the usual time to complete this task."
         ],
         "s1":2.0,
-        "s2":2.0,
+        "s2":3.0,
         "i1":2.0,
-        "i2":2.0,
+        "i2":4.0,
         "e1":2.0,
-        "e2":2.0
+        "e2":5.0
     },
     "22":{
         "task":"Go to the funeral.",
@@ -4386,7 +4389,7 @@
         "i1":5.0,
         "i2":5.0,
         "e1":3.0,
-        "e2":null
+        "e2":3.0
     },
     "183":{
         "task":"Go to Springsteen's concert.",
@@ -4578,7 +4581,7 @@
         "i1":5.0,
         "i2":5.0,
         "e1":5.0,
-        "e2":null
+        "e2":1.0
     },
     "191":{
         "task":"get in car.",
@@ -5226,7 +5229,7 @@
         "i1":2.0,
         "i2":4.0,
         "e1":3.0,
-        "e2":null
+        "e2":3.0
     },
     "218":{
         "task":"Sign up for classes.",

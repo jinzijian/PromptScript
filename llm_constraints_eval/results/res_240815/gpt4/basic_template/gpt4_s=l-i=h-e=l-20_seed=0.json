@@ -1,0 +1,282 @@
+{
+    "0":{
+        "prompts":"Please tell me how to complete the task: Open a convenience store. There are the following constraints: Lack of negotiation skills with suppliers. Lack of necessary business license and permits. The area already has too many convenience stores. Time constraint: Open and operate a convenience store within one month. Please find a way to overcome the constraints and complete the task within the time limit. If you can complete the task within the time limit, please respond with the number 0 and a brief solution. If the task cannot be completed, please respond with the number 1 and the reason for the inability to complete. Please output the answer in the following JSON format: {0, <solution>} or {1, <reason for inability to complete>}.",
+        "resps":"{1, \"The task cannot be completed within the given time frame due to the lack of necessary business licenses and permits, which typically take longer than one month to acquire, especially considering the time needed to learn about the requirements, prepare the necessary documentation, and go through the application process. Additionally, the oversaturation of convenience stores in the area and the lack of negotiation skills with suppliers would significantly hinder the ability to establish competitive pricing and a solid supply chain within the one-month time constraint.\"}",
+        "constraint_id":[
+            "s2",
+            "i2",
+            "e1"
+        ],
+        "constraint_rate":[
+            3.0,
+            5.0,
+            3.0
+        ]
+    },
+    "1":{
+        "prompts":"Please tell me how to complete the task: How to upgrade a little girl's bedroom to a teenager's. There are the following constraints: Do not know how to choose and match colors. Do not have enough budget to purchase new furniture and decorations. The bedroom has limited space, unable to accommodate more furniture. Time constraint: Complete the update of the bedroom within one month. Please find a way to overcome the constraints and complete the task within the time limit. If you can complete the task within the time limit, please respond with the number 0 and a brief solution. If the task cannot be completed, please respond with the number 1 and the reason for the inability to complete. Please output the answer in the following JSON format: {0, <solution>} or {1, <reason for inability to complete>}.",
+        "resps":"{0, \"Repaint the walls with a neutral color that will grow with her, such as light grey or off-white, which doesn't require expert color matching skills. Use removable wall decals or stickers to add a personal touch without permanent commitment. Rearrange existing furniture to create a more mature layout, perhaps by moving the bed to a different wall or creating a small study area. Utilize DIY projects to upcycle current furniture, like painting or adding new hardware to dressers and desks. Incorporate multi-functional items like ottomans with storage to maximize space. Use existing bedding and add new throw pillows or a blanket to refresh the look. Finally, declutter and organize the room to give it a more grown-up feel. All these steps can be done gradually within a month and without the need for a large budget.\"}",
+        "constraint_id":[
+            "s2",
+            "i1",
+            "e1"
+        ],
+        "constraint_rate":[
+            3.0,
+            4.0,
+            3.0
+        ]
+    },
+    "2":{
+        "prompts":"Please tell me how to complete the task: get some ice cream. There are the following constraints: Cannot drive, unable to drive to the ice cream shop by myself. Without enough cash or payment tools, you cannot purchase ice cream. Cannot directly purchase ice cream if not in ice cream shop or supermarket. Time constraint: Complete the task of buying ice cream within 30 minutes, this is the regular time to complete this task. Please find a way to overcome the constraints and complete the task within the time limit. If you can complete the task within the time limit, please respond with the number 0 and a brief solution. If the task cannot be completed, please respond with the number 1 and the reason for the inability to complete. Please output the answer in the following JSON format: {0, <solution>} or {1, <reason for inability to complete>}.",
+        "resps":"{1, \"Unable to complete the task due to lack of transportation to the ice cream shop, no means of purchasing ice cream, and restrictions on where ice cream can be bought.\"}",
+        "constraint_id":[
+            "s1",
+            "i1",
+            "e1"
+        ],
+        "constraint_rate":[
+            2.0,
+            4.0,
+            3.0
+        ]
+    },
+    "3":{
+        "prompts":"Please tell me how to complete the task: get some ice cream. There are the following constraints: Unable to order ice cream online without knowing how to use the phone app. Without enough cash or payment tools, you cannot purchase ice cream. Cannot directly purchase ice cream if not in ice cream shop or supermarket. Time constraint: Complete the task of buying ice cream within 30 minutes, this is the regular time to complete this task. Please find a way to overcome the constraints and complete the task within the time limit. If you can complete the task within the time limit, please respond with the number 0 and a brief solution. If the task cannot be completed, please respond with the number 1 and the reason for the inability to complete. Please output the answer in the following JSON format: {0, <solution>} or {1, <reason for inability to complete>}.",
+        "resps":"{1, \"Unable to overcome the constraints of not knowing how to use the phone app for ordering, not having cash or payment tools to purchase, and not being in proximity to an ice cream shop or supermarket within the 30-minute time constraint.\"}",
+        "constraint_id":[
+            "s2",
+            "i1",
+            "e1"
+        ],
+        "constraint_rate":[
+            2.0,
+            4.0,
+            3.0
+        ]
+    },
+    "4":{
+        "prompts":"Please tell me how to complete the task: order the books online. There are the following constraints: Do not know how to use computers or smart devices. No available payment methods (such as credit cards, Alipay, etc.). In places where the use of electronic devices is not allowed. Time constraint: Complete the book buying task within 30 minutes. Please find a way to overcome the constraints and complete the task within the time limit. If you can complete the task within the time limit, please respond with the number 0 and a brief solution. If the task cannot be completed, please respond with the number 1 and the reason for the inability to complete. Please output the answer in the following JSON format: {0, <solution>} or {1, <reason for inability to complete>}.",
+        "resps":"{1, \"The constraints given make it impossible to order books online as it requires the use of electronic devices and a payment method.\"}",
+        "constraint_id":[
+            "s1",
+            "i2",
+            "e2"
+        ],
+        "constraint_rate":[
+            3.0,
+            5.0,
+            2.0
+        ]
+    },
+    "5":{
+        "prompts":"Please tell me how to complete the task: put on the left rain boot There are the following constraints: Cannot wear rain boots. No rain boots. In places where there is not enough space, such as inside an elevator. Time constraint: Complete the task of putting on the left rain boot in 30 seconds. Please find a way to overcome the constraints and complete the task within the time limit. If you can complete the task within the time limit, please respond with the number 0 and a brief solution. If the task cannot be completed, please respond with the number 1 and the reason for the inability to complete. Please output the answer in the following JSON format: {0, <solution>} or {1, <reason for inability to complete>}.",
+        "resps":"{1, \"Cannot wear rain boots or have rain boots, thus making it impossible to put on a left rain boot.\"}",
+        "constraint_id":[
+            "s1",
+            "i1",
+            "e1"
+        ],
+        "constraint_rate":[
+            2.0,
+            5.0,
+            3.0
+        ]
+    },
+    "6":{
+        "prompts":"Please tell me how to complete the task: Deposit in the bank. There are the following constraints: Do not know how to fill out a deposit slip. There is no cash or checks to be deposited. Not at the bank or unable to access the ATM. Time constraint: Complete deposit during banking hours. Please find a way to overcome the constraints and complete the task within the time limit. If you can complete the task within the time limit, please respond with the number 0 and a brief solution. If the task cannot be completed, please respond with the number 1 and the reason for the inability to complete. Please output the answer in the following JSON format: {0, <solution>} or {1, <reason for inability to complete>}.",
+        "resps":"{1, \"No cash or checks to deposit and inability to access the bank or ATM means there is no physical medium to deposit. Without access to online banking or mobile deposit options, the task cannot be completed within the constraints provided.\"}",
+        "constraint_id":[
+            "s2",
+            "i2",
+            "e1"
+        ],
+        "constraint_rate":[
+            3.0,
+            5.0,
+            3.0
+        ]
+    },
+    "7":{
+        "prompts":"Please tell me how to complete the task: Take the asparagus from the refrigerator. There are the following constraints: Do not know how to properly store and retrieve asparagus. There are no asparagus in the refrigerator. Not at home, unable to access the refrigerator. Time constraint: Complete the task of picking asparagus within 2 minutes. Please find a way to overcome the constraints and complete the task within the time limit. If you can complete the task within the time limit, please respond with the number 0 and a brief solution. If the task cannot be completed, please respond with the number 1 and the reason for the inability to complete. Please output the answer in the following JSON format: {0, <solution>} or {1, <reason for inability to complete>}.",
+        "resps":"{1, \"Cannot access the refrigerator as not at home and there are no asparagus in the refrigerator to take.\"}",
+        "constraint_id":[
+            "s2",
+            "i2",
+            "e1"
+        ],
+        "constraint_rate":[
+            2.0,
+            5.0,
+            3.0
+        ]
+    },
+    "8":{
+        "prompts":"Please tell me how to complete the task: Take the asparagus from the refrigerator. There are the following constraints: Do not know how to properly store and retrieve asparagus. No refrigerator. Not at home, unable to access the refrigerator. Time constraint: Complete the task of picking asparagus within 2 minutes. Please find a way to overcome the constraints and complete the task within the time limit. If you can complete the task within the time limit, please respond with the number 0 and a brief solution. If the task cannot be completed, please respond with the number 1 and the reason for the inability to complete. Please output the answer in the following JSON format: {0, <solution>} or {1, <reason for inability to complete>}.",
+        "resps":"{1, \"No access to a refrigerator containing asparagus, and not at home to retrieve it.\"}",
+        "constraint_id":[
+            "s2",
+            "i1",
+            "e1"
+        ],
+        "constraint_rate":[
+            2.0,
+            4.0,
+            3.0
+        ]
+    },
+    "9":{
+        "prompts":"Please tell me how to complete the task: Go out to the car. There are the following constraints: Cannot use vehicle-related equipment, such as GPS navigation systems. No car keys. The vehicle is far away from the current location. Time constraint: Complete the task of going out to the car within 30 minutes. Please find a way to overcome the constraints and complete the task within the time limit. If you can complete the task within the time limit, please respond with the number 0 and a brief solution. If the task cannot be completed, please respond with the number 1 and the reason for the inability to complete. Please output the answer in the following JSON format: {0, <solution>} or {1, <reason for inability to complete>}.",
+        "resps":"{1, \"The task cannot be completed due to the lack of car keys to access the vehicle and the vehicle being far away, which may not be reachable within the 30-minute time constraint without additional information on the exact distance and available means of transportation.\"}",
+        "constraint_id":[
+            "s2",
+            "i1",
+            "e2"
+        ],
+        "constraint_rate":[
+            1.0,
+            5.0,
+            3.0
+        ]
+    },
+    "10":{
+        "prompts":"Please tell me how to complete the task: How to treat lupus. There are the following constraints: Lack of medical knowledge and skills, such as not understanding the pathological mechanism and treatment methods of lupus. Lack of necessary medications, such as corticosteroids and immunosuppressants. Not in a hospital or clinic, for example, at home or in other non-medical environments. Time constraint: The treatment of lupus is a long process, which may take several months or even years. Please find a way to overcome the constraints and complete the task within the time limit. If you can complete the task within the time limit, please respond with the number 0 and a brief solution. If the task cannot be completed, please respond with the number 1 and the reason for the inability to complete. Please output the answer in the following JSON format: {0, <solution>} or {1, <reason for inability to complete>}.",
+        "resps":"```json\n{1, \"Lupus is a complex autoimmune disease that requires medical intervention, including prescription medications and monitoring by healthcare professionals. Without medical knowledge, skills, or access to necessary medications and a healthcare setting, it is not possible to safely or effectively treat lupus. Additionally, the treatment of lupus is a long-term process that cannot be expedited to fit within an arbitrary time constraint without compromising patient safety and treatment efficacy.\"}\n```",
+        "constraint_id":[
+            "s1",
+            "i1",
+            "e1"
+        ],
+        "constraint_rate":[
+            3.0,
+            5.0,
+            3.0
+        ]
+    },
+    "11":{
+        "prompts":"Please tell me how to complete the task: Sign up for the course. There are the following constraints: Lack basic computer operation skills, such as not being able to use email or online registration systems. Without a valid ID or student card, registration verification cannot be completed. Unable to register directly at the window if not at the school or educational institution. Time constraint: Complete registration before the registration deadline (usually one week before the start of the course). Please find a way to overcome the constraints and complete the task within the time limit. If you can complete the task within the time limit, please respond with the number 0 and a brief solution. If the task cannot be completed, please respond with the number 1 and the reason for the inability to complete. Please output the answer in the following JSON format: {0, <solution>} or {1, <reason for inability to complete>}.",
+        "resps":"{1, \"Unable to complete registration due to lack of basic computer skills, no valid ID for verification, and inability to register in person at the institution.\"}",
+        "constraint_id":[
+            "s1",
+            "i2",
+            "e1"
+        ],
+        "constraint_rate":[
+            3.0,
+            5.0,
+            2.0
+        ]
+    },
+    "12":{
+        "prompts":"Please tell me how to complete the task: How to fully enjoy RuneScape. There are the following constraints: If players do not understand how to interact with NPCs, or do not know how to complete tasks, it may affect the gaming experience. If players lack necessary mission items, such as specific tools or resources, they may be unable to complete certain missions. If players are in a PvP area, they may face the risk of being attacked by other players, which could affect their gaming experience. Time constraint: If players do not have enough time to devote to the game, they may not be able to complete complex tasks or improve their skills. Generally, players need to spend at least 2-3 hours a day to fully enjoy the game. Please find a way to overcome the constraints and complete the task within the time limit. If you can complete the task within the time limit, please respond with the number 0 and a brief solution. If the task cannot be completed, please respond with the number 1 and the reason for the inability to complete. Please output the answer in the following JSON format: {0, <solution>} or {1, <reason for inability to complete>}.",
+        "resps":"{0, \"To fully enjoy RuneScape within the given constraints, players should follow these steps: \n\n1. Learn the basics of interacting with NPCs and completing tasks by using the game's tutorial, online guides, and community forums.\n2. Prepare for missions by gathering necessary items in advance, which can be done by researching the requirements of the mission or asking more experienced players.\n3. Avoid PvP areas if not interested in player combat or not adequately equipped, or join a group for protection if PvP is a desired aspect of the game.\n4. Manage time effectively by setting clear goals for each gaming session, focusing on tasks that fit within the 2-3 hour daily time limit, and using in-game tools to track progress.\"}",
+        "constraint_id":[
+            "s2",
+            "i2",
+            "e2"
+        ],
+        "constraint_rate":[
+            2.0,
+            5.0,
+            2.0
+        ]
+    },
+    "13":{
+        "prompts":"Please tell me how to complete the task: Go on an adventure. There are the following constraints: Cannot swim. No food and water. Not in the mountainous area. Time constraint: Complete this task within 24 hours. Please find a way to overcome the constraints and complete the task within the time limit. If you can complete the task within the time limit, please respond with the number 0 and a brief solution. If the task cannot be completed, please respond with the number 1 and the reason for the inability to complete. Please output the answer in the following JSON format: {0, <solution>} or {1, <reason for inability to complete>}.",
+        "resps":"{0, \"solution\": \"Choose a local adventure that does not require swimming, such as a hike in a non-mountainous area, a city exploration, or a cultural event. Ensure to bring or have access to food and water during the adventure to maintain health and safety. Plan the activity to fit within the 24-hour time frame.\"}",
+        "constraint_id":[
+            "s2",
+            "i1",
+            "e2"
+        ],
+        "constraint_rate":[
+            1.0,
+            5.0,
+            2.0
+        ]
+    },
+    "14":{
+        "prompts":"Please tell me how to complete the task: Go on an adventure. There are the following constraints: Cannot swim. No food and water. Not in the forest. Time constraint: Complete this task within 24 hours. Please find a way to overcome the constraints and complete the task within the time limit. If you can complete the task within the time limit, please respond with the number 0 and a brief solution. If the task cannot be completed, please respond with the number 1 and the reason for the inability to complete. Please output the answer in the following JSON format: {0, <solution>} or {1, <reason for inability to complete>}.",
+        "resps":"{0, \"Choose an urban adventure such as a city scavenger hunt or a cultural exploration of museums and historical sites. Use public transportation or ride-sharing services to move around, and ensure to carry a refillable water bottle to stay hydrated using public water fountains or asking for water refills at restaurants. Plan the adventure to include food stops where you can purchase meals, thus overcoming the no food constraint. Complete the adventure within the 24-hour time limit.\"}",
+        "constraint_id":[
+            "s2",
+            "i1",
+            "e1"
+        ],
+        "constraint_rate":[
+            1.0,
+            5.0,
+            2.0
+        ]
+    },
+    "15":{
+        "prompts":"Please tell me how to complete the task: How to create your own moving and trucking service website. There are the following constraints: Cannot drive, unable to provide actual moving and truck services. Without necessary software tools, such as web page editors or graphic design tools, it is impossible to create high-quality website content. Not in a city or high population density area, it may not be possible to find enough customers. Time constraint: It takes at least 3-6 months to learn the necessary skills, purchase and set up the necessary equipment, and create and promote the website. Please find a way to overcome the constraints and complete the task within the time limit. If you can complete the task within the time limit, please respond with the number 0 and a brief solution. If the task cannot be completed, please respond with the number 1 and the reason for the inability to complete. Please output the answer in the following JSON format: {0, <solution>} or {1, <reason for inability to complete>}.",
+        "resps":"{1, \"The task cannot be completed as described because the constraints include not being able to drive or provide actual moving and truck services, which are essential for operating a moving and trucking service. Additionally, without the necessary software tools or skills, it is not possible to create a high-quality website, and the lack of a customer base in a low population density area further impedes the ability to establish such a business within the given time frame.\"}",
+        "constraint_id":[
+            "s1",
+            "i2",
+            "e1"
+        ],
+        "constraint_rate":[
+            1.0,
+            5.0,
+            2.0
+        ]
+    },
+    "16":{
+        "prompts":"Please tell me how to complete the task: How to make a button necklace. There are the following constraints: Not familiar with how to choose and match buttons, such as the matching of color, size, and shape. Not enough buttons or buttons of insufficient variety and colors are not enough to make a satisfactory necklace. Not in an environment that allows quiet and focused making of handicrafts, such as a noisy public place. Time constraint: Not enough time to complete the making of the necklace. Generally, it takes 2-3 hours to make a button necklace. Please find a way to overcome the constraints and complete the task within the time limit. If you can complete the task within the time limit, please respond with the number 0 and a brief solution. If the task cannot be completed, please respond with the number 1 and the reason for the inability to complete. Please output the answer in the following JSON format: {0, <solution>} or {1, <reason for inability to complete>}.",
+        "resps":"{1, \"Constraints such as lack of quiet environment, insufficient variety of buttons, and time limitations make it impossible to complete the task within the required time frame.\"}",
+        "constraint_id":[
+            "s2",
+            "i2",
+            "e1"
+        ],
+        "constraint_rate":[
+            2.0,
+            4.0,
+            3.0
+        ]
+    },
+    "17":{
+        "prompts":"Please tell me how to complete the task: Ensure the details are correct. There are the following constraints: Lack of relevant knowledge or experience, such as insufficient knowledge in a specific field, unable to judge whether the details are correct. Lack of reference materials or samples, such as no samples or templates for comparison. Inappropriate environment, such as in a noisy environment, unable to focus. Time constraint: Under normal circumstances, completing this task requires at least 2 hours. Please find a way to overcome the constraints and complete the task within the time limit. If you can complete the task within the time limit, please respond with the number 0 and a brief solution. If the task cannot be completed, please respond with the number 1 and the reason for the inability to complete. Please output the answer in the following JSON format: {0, <solution>} or {1, <reason for inability to complete>}.",
+        "resps":"{1, \"Insufficient knowledge in the specific field, lack of reference materials or samples, and an inappropriate environment, combined with a strict time constraint, make it impossible to ensure the details are correct within the given time frame.\"}",
+        "constraint_id":[
+            "s2",
+            "i2",
+            "e1"
+        ],
+        "constraint_rate":[
+            3.0,
+            5.0,
+            2.0
+        ]
+    },
+    "18":{
+        "prompts":"Please tell me how to complete the task: turn music system on There are the following constraints: The assistant may not understand the user's music system, such as not knowing the brand or model of the music system, and therefore may not be able to provide accurate operation guidance. The assistant may lack necessary items, such as a remote control for the music system or inability to access the music system switch. The assistant may not be in the scene where the music system is located, such as being away from home or not in the room where the music system is located. Time constraint: Under normal circumstances, the operation of turning on the music system should be completed within 1 minute. Please find a way to overcome the constraints and complete the task within the time limit. If you can complete the task within the time limit, please respond with the number 0 and a brief solution. If the task cannot be completed, please respond with the number 1 and the reason for the inability to complete. Please output the answer in the following JSON format: {0, <solution>} or {1, <reason for inability to complete>}.",
+        "resps":"{1, \"The assistant lacks physical capabilities and cannot interact with the physical environment, such as using a remote control or manually turning on a music system.\"}",
+        "constraint_id":[
+            "s2",
+            "i1",
+            "e1"
+        ],
+        "constraint_rate":[
+            2.0,
+            5.0,
+            2.0
+        ]
+    },
+    "19":{
+        "prompts":"Please tell me how to complete the task: secure all windows. There are the following constraints: Do not know how to install or repair window locks. Lack of necessary tools, such as screwdrivers or hammers. No longer need security windows. Time constraint: Complete the security settings for all windows within 2 hours. Please find a way to overcome the constraints and complete the task within the time limit. If you can complete the task within the time limit, please respond with the number 0 and a brief solution. If the task cannot be completed, please respond with the number 1 and the reason for the inability to complete. Please output the answer in the following JSON format: {0, <solution>} or {1, <reason for inability to complete>}.",
+        "resps":"{1, \"Lack of knowledge on how to install or repair window locks, absence of necessary tools, and the requirement to no longer need security windows make it impossible to secure all windows within the given constraints and time frame.\"}",
+        "constraint_id":[
+            "s1",
+            "i1",
+            "e1"
+        ],
+        "constraint_rate":[
+            3.0,
+            5.0,
+            3.0
+        ]
+    }
+}
