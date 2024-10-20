@@ -1,0 +1,2104 @@
+{
+    "results": [
+        {
+            "task_id": "0",
+            "constraints": {
+                "s1": 3.0
+            },
+            "response": "{0, Time Management Analysis,  Find alternative transportation options such as walking, cycling, public transport, or requesting a ride from a friend or family member.}"
+        },
+        {
+            "task_id": "0",
+            "constraints": {
+                "s2": 1.0
+            },
+            "response": "{1, Time Management Analysis, The time constraint of 1 hour is insufficient to complete the task considering the difficulty in communication with restaurant staff and understanding the menu without English proficiency.  }"
+        },
+        {
+            "task_id": "0",
+            "constraints": {
+                "i1": 3.0
+            },
+            "response": "{1, Feasibility Analysis, Unable to pay for the meal due to lack of money or payment tools.}"
+        },
+        {
+            "task_id": "0",
+            "constraints": {
+                "i2": 2.0
+            },
+            "response": "{0, Time Management Analysis,  1. Identify a restaurant within walking distance. 2. Account for travel time to the restaurant. 3. Choose a restaurant with a relatively quick service time. 4. Consider ordering ahead if possible.}"
+        },
+        {
+            "task_id": "0",
+            "constraints": {
+                "e1": 5.0
+            },
+            "response": "{1, Feasibility Analysis, The restaurant is under maintenance and is not open for business.}"
+        },
+        {
+            "task_id": "0",
+            "constraints": {
+                "e2": 5.0
+            },
+            "response": "{1, Time Management Analysis, The restaurant is closed at the current time, making it impossible to complete the task within the given timeframe.}"
+        },
+        {
+            "task_id": "1",
+            "constraints": {
+                "s1": 2.0
+            },
+            "response": "{0, Time Management Analysis,  Taking a bath within 15 minutes is achievable by focusing on efficiency:\n\n- **Step 1:** Quickly test the water temperature (30 seconds). If it's tolerable, proceed. If not, adjust your expectations for a shorter bath or consider alternative options.\n- **Step 2:** Get in and wet yourself thoroughly (1 minute).\n- **Step 3:** Apply soap and lather (2 minutes).\n- **Step 4:** Rinse off completely (1 minute).\n- **Step 5:** Step out of the bath and dry off (2 minutes).\n\n\n}"
+        },
+        {
+            "task_id": "1",
+            "constraints": {
+                "s2": 2.0
+            },
+            "response": "{0, Time Management Analysis,  Break down the task into steps: 1) Gather supplies (2 minutes), 2) Wet body (3 minutes), 3) Apply soap to body (2 minutes), 4) Rinse off soap (2 minutes), 5) Shampoo hair (2 minutes), 6) Rinse shampoo (2 minutes), 7) Dry off (3 minutes). This allows for completion within 15 minutes.  }"
+        },
+        {
+            "task_id": "1",
+            "constraints": {
+                "i1": 2.0
+            },
+            "response": "{0, Time Management Analysis,  Taking a bath without shower gel or shampoo can be completed within 15 minutes by focusing on rinsing thoroughly with water.}"
+        },
+        {
+            "task_id": "1",
+            "constraints": {
+                "i2": 2.0
+            },
+            "response": "{1, Time Management Analysis,  A bath requires drying off with a towel afterwords which is impossible without one.}"
+        },
+        {
+            "task_id": "1",
+            "constraints": {
+                "e1": 5.0
+            },
+            "response": "{1, Time Management Analysis,  The bathroom water supply interruption prevents the completion of the task within the given time constraint.}"
+        },
+        {
+            "task_id": "1",
+            "constraints": {
+                "e2": 4.0
+            },
+            "response": "{0, Time Management Analysis, Take a cold bath.}"
+        },
+        {
+            "task_id": "2",
+            "constraints": {
+                "s1": 5.0
+            },
+            "response": "{1, Feasibility Analysis, Can't swim}"
+        },
+        {
+            "task_id": "2",
+            "constraints": {
+                "s2": 2.0
+            },
+            "response": "{1, Time Management Analysis, The task cannot be completed within 2 hours because there is no way to get to the swimming pool without driving knowledge.}"
+        },
+        {
+            "task_id": "2",
+            "constraints": {
+                "i1": 3.0
+            },
+            "response": "{1, Time Management Analysis,  The task cannot be completed because going to the swimming pool requires a swimsuit which is not available.}"
+        },
+        {
+            "task_id": "2",
+            "constraints": {
+                "i2": 2.0
+            },
+            "response": "{0, Time Management Analysis,  Swimming without goggles may cause discomfort or blurry vision, potentially affecting performance and time. Consider wearing a swim cap to minimize water contact with eyes.}"
+        },
+        {
+            "task_id": "2",
+            "constraints": {
+                "e1": 5.0
+            },
+            "response": "{1, Feasibility Analysis, The swimming pool is under maintenance, making it impossible to swim there.}"
+        },
+        {
+            "task_id": "2",
+            "constraints": {
+                "e2": 4.0
+            },
+            "response": "{1, Risk Assessment, The weather is unsuitable for swimming, posing a risk to safety and well-being.}"
+        },
+        {
+            "task_id": "3",
+            "constraints": {
+                "s1": 2.0
+            },
+            "response": "{0, Time Management Analysis,  Borrow books manually from a librarian. }"
+        },
+        {
+            "task_id": "3",
+            "constraints": {
+                "s2": 1.0
+            },
+            "response": "{0, Time Management Analysis,  Find a librarian or ask someone familiar with the library's electronic catalog for assistance in searching for books.}"
+        },
+        {
+            "task_id": "3",
+            "constraints": {
+                "i1": 5.0
+            },
+            "response": "{1, Feasibility Analysis,  The task cannot be completed because a library borrowing card is required to borrow books from the library.}"
+        },
+        {
+            "task_id": "3",
+            "constraints": {
+                "i2": 3.0
+            },
+            "response": "{0, Time Management Analysis,  The task can be completed by going back home to retrieve valid identification before returning to the library.}"
+        },
+        {
+            "task_id": "3",
+            "constraints": {
+                "e1": 5.0
+            },
+            "response": "{1, Feasibility Analysis, The library being under renovation makes it impossible to enter and borrow books.}"
+        },
+        {
+            "task_id": "3",
+            "constraints": {
+                "e2": 5.0
+            },
+            "response": "{1, Feasibility Analysis, The city does not have a library, making it impossible to borrow books from one.}"
+        },
+        {
+            "task_id": "4",
+            "constraints": {
+                "s1": 2.0
+            },
+            "response": "{1, Time Management Analysis,  Cannot bake a cake without knowing how to use an oven.}"
+        },
+        {
+            "task_id": "4",
+            "constraints": {
+                "s2": 2.0
+            },
+            "response": "{0, Time Management Analysis,  Find a simple cake recipe with minimal steps and short baking time. Watch a video tutorial on basic cake-baking techniques before starting. Focus on efficient preparation and execution to complete within the hour.}"
+        },
+        {
+            "task_id": "4",
+            "constraints": {
+                "i1": 3.0
+            },
+            "response": "{0, Resource Allocation Analysis, Purchase a baking tray}"
+        },
+        {
+            "task_id": "4",
+            "constraints": {
+                "i2": 5.0
+            },
+            "response": "{0, Time Management Analysis, Substitute eggs with a suitable egg replacement like applesauce or mashed banana.}"
+        },
+        {
+            "task_id": "4",
+            "constraints": {
+                "e1": 4.0
+            },
+            "response": "{1, Feasibility Analysis,  The task requires an oven for baking, which is unavailable according to the constraints.}"
+        },
+        {
+            "task_id": "4",
+            "constraints": {
+                "e2": 1.0
+            },
+            "response": "{0, Time Management Analysis, Break down baking into smaller steps that can be done in short bursts even with noise interruptions. For example, prepare ingredients beforehand, set timer for mixing, etc.  }"
+        },
+        {
+            "task_id": "5",
+            "constraints": {
+                "s1": 5.0
+            },
+            "response": "{1, Feasibility Analysis,  One cannot fly an airplane without a pilot's license.}"
+        },
+        {
+            "task_id": "5",
+            "constraints": {
+                "s2": 4.0
+            },
+            "response": "{1, Risk Assessment, Lack of flight skills and knowledge poses a significant risk to personal safety and aircraft operation, making it impossible to complete the flight safely.}"
+        },
+        {
+            "task_id": "5",
+            "constraints": {
+                "i1": 5.0
+            },
+            "response": "{0, Feasibility Analysis, Acquire a plane}"
+        },
+        {
+            "task_id": "5",
+            "constraints": {
+                "i2": 5.0
+            },
+            "response": "{1, Feasibility Analysis, Humans cannot fly without specialized equipment and physiological adaptations.}"
+        },
+        {
+            "task_id": "5",
+            "constraints": {
+                "e1": 3.0
+            },
+            "response": "{0, Time Management Analysis,  Break down the task into steps: 1) Travel to the airport, 2) Check in for the flight, 3) Go through security, 4) Board the airplane, 5) Fly during the prescribed flying time.}"
+        },
+        {
+            "task_id": "5",
+            "constraints": {
+                "e2": 5.0
+            },
+            "response": "{0, Time Management Analysis,  Break down the task into smaller steps like planning the flight route, booking tickets, packing, arriving at the airport, going through security, boarding the plane, and enjoying the flight. Estimate time needed for each step considering factors like travel to the airport, check-in procedures, and security checks. Create a schedule that adheres to the prescribed flying time constraint.}"
+        },
+        {
+            "task_id": "6",
+            "constraints": {
+                "s1": 2.0
+            },
+            "response": "{1, Time Management Analysis, The task requires making a dental appointment which is impossible without taking action to schedule one within the 24 hour time constraint.}"
+        },
+        {
+            "task_id": "6",
+            "constraints": {
+                "s2": 2.0
+            },
+            "response": "{0, Time Management Analysis,  Arrange for a ride to the dentist's office with a friend, family member, or rideshare service.}"
+        },
+        {
+            "task_id": "6",
+            "constraints": {
+                "i1": 4.0
+            },
+            "response": "{0, Time Management Analysis,  The task can be completed by calling the dentist's office to schedule an appointment over the phone. Payment can be made at the time of the appointment.}"
+        },
+        {
+            "task_id": "6",
+            "constraints": {
+                "i2": 4.0
+            },
+            "response": "{0, Time Management Analysis,  The task can be completed within 24 hours by: 1) Calling the dentist's office immediately to inquire about available appointments. 2) Explaining the situation regarding the missing insurance card and asking if they offer payment plans or accept cash payments. 3) Scheduling an appointment for the earliest available time slot. 4) Preparing any necessary documentation or information required by the dentist's office. }"
+        },
+        {
+            "task_id": "6",
+            "constraints": {
+                "e1": 5.0
+            },
+            "response": "{1, Time Management Analysis, The dental clinic being closed prevents the task from being completed within the 24-hour timeframe.}"
+        },
+        {
+            "task_id": "6",
+            "constraints": {
+                "e2": 5.0
+            },
+            "response": "{0, Time Management Analysis,  Search for available appointments at different dental clinics or consider scheduling an appointment for a later date.}"
+        },
+        {
+            "task_id": "7",
+            "constraints": {
+                "s1": 2.0
+            },
+            "response": "{1, Time Management Analysis,  The constraint of not knowing how to use an iron prevents the task from being completed within the given time frame.}"
+        },
+        {
+            "task_id": "7",
+            "constraints": {
+                "s2": 2.0
+            },
+            "response": "{0, Time Management Analysis,  Break down ironing into smaller steps (e.g., sorting clothes by fabric type, pre-treating stains, ironing each garment section). Research basic ironing techniques online during a 15-minute break before starting. Focus on high-priority items first and prioritize quick-ironing fabrics like cotton. }"
+        },
+        {
+            "task_id": "7",
+            "constraints": {
+                "i1": 5.0
+            },
+            "response": "{1, Feasibility Analysis,  The task requires an iron which is unavailable.}"
+        },
+        {
+            "task_id": "7",
+            "constraints": {
+                "i2": 4.0
+            },
+            "response": "{0, Time Management Analysis,  Ironing clothes on a flat surface like a table using a heavy object as a makeshift weight.}"
+        },
+        {
+            "task_id": "7",
+            "constraints": {
+                "e1": 4.0
+            },
+            "response": "{1, Time Management Analysis,  The task cannot be completed within 30 minutes because ironing clothes requires time and space which are unavailable due to the constraints.}"
+        },
+        {
+            "task_id": "7",
+            "constraints": {
+                "e2": 5.0
+            },
+            "response": "{1, Time Management Analysis,  Ironing requires a power source to operate an iron.}"
+        },
+        {
+            "task_id": "8",
+            "constraints": {
+                "s1": 2.0
+            },
+            "response": "{1, Time Management Analysis,  The inability to understand the local language and read the bus route map makes it impossible to determine the correct bus to take, its route, or stops within the 1-hour time constraint.}"
+        },
+        {
+            "task_id": "8",
+            "constraints": {
+                "s2": 4.0
+            },
+            "response": "{0, Time Management Analysis,  Find someone who knows how to use public transportation cards or electronic payment tools to assist with purchasing a ticket.}"
+        },
+        {
+            "task_id": "8",
+            "constraints": {
+                "i1": 4.0
+            },
+            "response": "{0, Time Management Analysis,  Find an alternative transportation method like walking, cycling, or asking someone for a ride.}"
+        },
+        {
+            "task_id": "8",
+            "constraints": {
+                "i2": 2.0
+            },
+            "response": "{0, Time Management Analysis,  Identify nearby bus stops by asking locals or observing street signs. Use a mobile phone with internet access to check bus schedules and routes if available. }"
+        },
+        {
+            "task_id": "8",
+            "constraints": {
+                "e1": 3.0
+            },
+            "response": "{0, Time Management Analysis,  Walk to the bus stop and wait for the bus.}"
+        },
+        {
+            "task_id": "8",
+            "constraints": {
+                "e2": 3.0
+            },
+            "response": "{1, Feasibility Analysis, There are no buses passing by, making it technically infeasible to complete the task.}"
+        },
+        {
+            "task_id": "9",
+            "constraints": {
+                "s1": 2.0
+            },
+            "response": "{0, Time Management Analysis,  Call the fast food restaurant directly using a phone to place the order.}"
+        },
+        {
+            "task_id": "9",
+            "constraints": {
+                "s2": 1.0
+            },
+            "response": "{0, Time Management Analysis,  Place the order by phone or through a delivery app.}"
+        },
+        {
+            "task_id": "9",
+            "constraints": {
+                "i1": 2.0
+            },
+            "response": "{0, Time Management Analysis, Visit the fast food restaurant in person and place the order at the counter.}"
+        },
+        {
+            "task_id": "9",
+            "constraints": {
+                "i2": 2.0
+            },
+            "response": "{0, Time Management Analysis,  Order food online through a delivery app or website.}"
+        },
+        {
+            "task_id": "9",
+            "constraints": {
+                "e1": 3.0
+            },
+            "response": "{0, Time Management Analysis, Order through a fast food restaurant's mobile app or website.}"
+        },
+        {
+            "task_id": "9",
+            "constraints": {
+                "e2": 3.0
+            },
+            "response": "{0, Time Management Analysis,  Break down the task into steps: 1) Identify a fast food restaurant within range (5 minutes). 2) Check if they have a drive-thru or walk-up option (2 minutes). 3) Decide on your order (5 minutes). 4) Place your order (3 minutes). 5) Drive/walk to the restaurant and pick up your food (10 minutes). This should allow for completion within 30 minutes. If internet access is unavailable, rely on phone ordering or in-person ordering at the restaurant.}"
+        },
+        {
+            "task_id": "10",
+            "constraints": {
+                "s1": 2.0
+            },
+            "response": "{0, Time Management Analysis, Break down the renovation into smaller, manageable tasks. Research DIY tutorials and seek guidance from experienced friends or family members for specific steps. Consider hiring professionals for complex tasks like electrical or plumbing work. Create a detailed schedule with realistic deadlines and allocate sufficient time for each task. }"
+        },
+        {
+            "task_id": "10",
+            "constraints": {
+                "s2": 2.0
+            },
+            "response": "{1, Resource Allocation Analysis, Lack of knowledge about renovation tools necessitates hiring skilled labor, which may exceed the budget and time constraint.}"
+        },
+        {
+            "task_id": "10",
+            "constraints": {
+                "i1": 3.0
+            },
+            "response": "{1, Resource Allocation Analysis,  The absence of necessary renovation materials such as paint, wallpaper, and flooring makes it impossible to complete the renovation task.}"
+        },
+        {
+            "task_id": "10",
+            "constraints": {
+                "i2": 4.0
+            },
+            "response": "{1, Resource Allocation Analysis, Lack of essential renovation tools like electric drills, brushes, and ladders makes it impossible to complete the renovation within the given time frame.}"
+        },
+        {
+            "task_id": "10",
+            "constraints": {
+                "e1": 3.0
+            },
+            "response": "{1, Feasibility Analysis, The constraint of a large amount of furniture in the room makes technical feasibility impossible as renovation requires clearing the space.}"
+        },
+        {
+            "task_id": "10",
+            "constraints": {
+                "e2": 4.0
+            },
+            "response": "{1, Time Management Analysis,  Renovating a room while it is in constant use will make it extremely difficult to complete within one month due to logistical challenges and interruptions.}"
+        },
+        {
+            "task_id": "11",
+            "constraints": {
+                "s1": 2.0
+            },
+            "response": "{0, Time Management Analysis,  Break down the task into smaller steps: 1) Wet hair (2 minutes), 2) Apply shampoo and lather (3 minutes), 3) Rinse shampoo (2 minutes), 4) Apply conditioner (2 minutes), 5) Rinse conditioner (2 minutes), 6) Towel dry (3 minutes). This allows for a clear understanding of each step and potential time management issues. Seek assistance from someone experienced in using shampoo and conditioner to ensure proper application and rinsing.}"
+        },
+        {
+            "task_id": "11",
+            "constraints": {
+                "s2": 1.0
+            },
+            "response": "{0, Time Management Analysis,  Break down hair washing into steps: wetting hair (2 mins), applying shampoo (1 min), massaging scalp with fingertips in circular motions (3 mins), rinsing shampoo (2 mins), applying conditioner (1 min), rinsing conditioner (2 mins), drying hair (5 mins). This allows for a 15-minute completion time.}"
+        },
+        {
+            "task_id": "11",
+            "constraints": {
+                "i1": 3.0
+            },
+            "response": "{0, Time Management Analysis,  The task can be completed by focusing on rinsing the hair thoroughly with water to remove dirt and debris. This will take less than 15 minutes.}"
+        },
+        {
+            "task_id": "11",
+            "constraints": {
+                "i2": 4.0
+            },
+            "response": "{1, Feasibility Analysis, There are no available water sources or shower facilities which makes it technically infeasible to complete the task.}"
+        },
+        {
+            "task_id": "11",
+            "constraints": {
+                "e1": 4.0
+            },
+            "response": "{1, Time Management Analysis,  The task cannot be completed as it requires a suitable location (bathroom) which is unavailable within the given constraints.}"
+        },
+        {
+            "task_id": "11",
+            "constraints": {
+                "e2": 5.0
+            },
+            "response": "{1, Time Management Analysis,  Washing hair in a public place is inappropriate and against social norms.}"
+        },
+        {
+            "task_id": "12",
+            "constraints": {
+                "s1": 3.0
+            },
+            "response": "{0, Time Management Analysis, 1. Open the YouTube app on iPhone. 2. Play a video you want to listen to. 3. Minimize the YouTube app by swiping up from the bottom of the screen. 4. The audio will continue playing in the background even when the app is minimized.}"
+        },
+        {
+            "task_id": "12",
+            "constraints": {
+                "s2": 3.0
+            },
+            "response": "{0, Time Management Analysis,  Users can achieve this by utilizing the built-in \"Picture in Picture\" mode on their iPhone. This allows them to minimize the YouTube video window while still listening to the audio. }"
+        },
+        {
+            "task_id": "12",
+            "constraints": {
+                "i1": 5.0
+            },
+            "response": "{1, Time Management Analysis,  The task requires accessing and manipulating settings on an iPhone which is impossible without knowing the password within the given time constraint.}"
+        },
+        {
+            "task_id": "12",
+            "constraints": {
+                "i2": 1.0
+            },
+            "response": "{0, Time Management Analysis,  The user can utilize a third-party app like \"YouTube Music\" which allows listening to YouTube audio content without watching videos. This app is available on the App Store and can be downloaded within 5 minutes.}"
+        },
+        {
+            "task_id": "12",
+            "constraints": {
+                "e1": 3.0
+            },
+            "response": "{0, Time Management Analysis,  Download YouTube videos beforehand using a Wi-Fi connection.}"
+        },
+        {
+            "task_id": "12",
+            "constraints": {
+                "e2": 3.0
+            },
+            "response": "{0, Time Management Analysis,  Users can utilize the \"YouTube Music\" app which allows for audio-only playback of YouTube videos without needing to watch them. This eliminates the need to visually engage with the content while still enjoying the audio.}"
+        },
+        {
+            "task_id": "13",
+            "constraints": {
+                "s1": 1.0
+            },
+            "response": "{0, Time Management Analysis,  Break down the task into specific steps with clear instructions tailored for users unfamiliar with WhatsApp settings. Provide screenshots or visual aids to guide them through each step. Estimate time needed for each step realistically and ensure the total time remains within 5-10 minutes.}"
+        },
+        {
+            "task_id": "13",
+            "constraints": {
+                "s2": 3.0
+            },
+            "response": "{0, Time Management Analysis,  Break down the task into smaller steps explaining what two-step verification is, how it works, and the benefits. Allocate time for each step, ensuring sufficient time for user understanding. }"
+        },
+        {
+            "task_id": "13",
+            "constraints": {
+                "i1": 5.0
+            },
+            "response": "{1, Feasibility Analysis, The user does not have an Android phone which is required to set up two-step verification for WhatsApp on Android.}"
+        },
+        {
+            "task_id": "13",
+            "constraints": {
+                "i2": 2.0
+            },
+            "response": "{0, Time Management Analysis,  The user needs to first download and install WhatsApp on their Android phone before setting up two-step verification. }"
+        },
+        {
+            "task_id": "13",
+            "constraints": {
+                "e1": 3.0
+            },
+            "response": "{0, Time Management Analysis,  Two-step verification setup on WhatsApp requires internet access for initial configuration and linking with a secondary authentication method. Users in places without internet cannot complete this task within the given time constraint. }"
+        },
+        {
+            "task_id": "13",
+            "constraints": {
+                "e2": 5.0
+            },
+            "response": "{0, Time Management Analysis,  The user can utilize a power bank or connect their phone to a charger during the setup process to ensure sufficient battery life. }"
+        },
+        {
+            "task_id": "14",
+            "constraints": {
+                "s1": 3.0
+            },
+            "response": "{0, Time Management Analysis,  Break down the task into smaller steps: 1) Drink a large glass of cold water (5 minutes). 2) Take a brisk walk outside for 10 minutes. 3) Engage in a stimulating conversation with someone (15 minutes). 4) Listen to upbeat music (10 minutes). 5) Do some light stretches or jumping jacks (5 minutes). }"
+        },
+        {
+            "task_id": "14",
+            "constraints": {
+                "s2": 2.0
+            },
+            "response": "{0, Time Management Analysis,  Try these quick energy boosters: 1) Take a brisk 5-minute walk. 2) Splash cold water on your face. 3) Listen to upbeat music. 4) Practice deep breathing exercises. 5) Engage in a brief conversation with someone stimulating.}"
+        },
+        {
+            "task_id": "14",
+            "constraints": {
+                "i1": 4.0
+            },
+            "response": "{0, Time Management Analysis,  Break down the task into smaller steps: 1) Engage in light physical activity like stretching or a short walk (15 minutes). 2) Splash cold water on your face and neck (5 minutes). 3) Practice deep breathing exercises for 5 minutes. 4) Consume a healthy snack with protein and complex carbohydrates (10 minutes). 5) Listen to upbeat music or engage in a stimulating conversation (15 minutes).}"
+        },
+        {
+            "task_id": "14",
+            "constraints": {
+                "i2": 2.0
+            },
+            "response": "{0, Time Management Analysis,  Break down the task into smaller steps: 1) Drink a large glass of cold water (5 minutes), 2) Take a brisk walk outside for 10 minutes, 3) Engage in a stimulating conversation or activity (15 minutes), 4) Eat a healthy snack (5 minutes), 5) Listen to upbeat music (5 minutes). }"
+        },
+        {
+            "task_id": "14",
+            "constraints": {
+                "e1": 3.0
+            },
+            "response": "{0, Time Management Analysis,  Break down the task into smaller steps: 1) Take a brisk walk for 10 minutes to increase blood flow and alertness. 2) Drink a glass of cold water to rehydrate and boost energy levels. 3) Engage in a quick mental exercise like solving a puzzle or doing some math problems to stimulate your brain. 4) Listen to upbeat music to improve mood and motivation. 5) Take deep breaths for a few minutes to increase oxygen intake and reduce fatigue.}"
+        },
+        {
+            "task_id": "14",
+            "constraints": {
+                "e2": 2.0
+            },
+            "response": "{0, Time Management Analysis,  Break down the task into smaller steps: 1) Engage in a quick physical activity like jumping jacks or stretching (5 minutes). 2) Drink a glass of cold water (2 minutes). 3) Practice deep breathing exercises for 5 minutes. 4) Listen to an upbeat song or podcast (10 minutes). 5) Take a short walk outside if possible (10 minutes). }"
+        },
+        {
+            "task_id": "15",
+            "constraints": {
+                "s1": 3.0
+            },
+            "response": "{0, Time Management Analysis,  Break down the task into: 1) Research reliable sources about eye mite symptoms (online medical websites, reputable health organizations). 2) Schedule an appointment with a doctor or ophthalmologist for a proper diagnosis and treatment plan.}"
+        },
+        {
+            "task_id": "15",
+            "constraints": {
+                "s2": 3.0
+            },
+            "response": "{1, Risk Assessment,  Self-diagnosis of eye mites carries significant risks due to potential misidentification and inappropriate treatment, which could worsen the condition. }"
+        },
+        {
+            "task_id": "15",
+            "constraints": {
+                "i1": 2.0
+            },
+            "response": "{1, Feasibility Analysis, It is not feasible to self-diagnose eye mites without a microscope or specialized ophthalmic examination equipment.}"
+        },
+        {
+            "task_id": "15",
+            "constraints": {
+                "i2": 4.0
+            },
+            "response": "{0, Time Management Analysis,  Break down the task into: 1) Researching symptoms of eye mites online (30 mins), 2) Consulting a doctor for professional diagnosis and treatment plan (requires scheduling an appointment). }"
+        },
+        {
+            "task_id": "15",
+            "constraints": {
+                "e1": 3.0
+            },
+            "response": "{0, Time Management Analysis,  Break down the task into smaller steps: 1) Research common symptoms of eye mites online from reputable sources like the Mayo Clinic or WebMD. 2) Observe your own eyes for these symptoms. 3) If you suspect you have eye mites, consult a doctor or ophthalmologist for proper diagnosis and treatment. This allows for gradual self-assessment while acknowledging the need for professional intervention.}"
+        },
+        {
+            "task_id": "15",
+            "constraints": {
+                "e2": 4.0
+            },
+            "response": "{0, Time Management Analysis,  Break down the task into smaller steps: 1) Research symptoms of eye mites online in a well-lit environment. 2) Consult with an ophthalmologist for a proper diagnosis and treatment plan.}"
+        },
+        {
+            "task_id": "16",
+            "constraints": {
+                "s1": 3.0
+            },
+            "response": "{0, Time Management Analysis,  Break down the task into smaller steps: 1) Learn basic computer operations (5 minutes), 2) Find a PDF creation tool (5 minutes), 3) Create a simple PDF document (10 minutes), 4) Save and access the PDF file (5 minutes). }"
+        },
+        {
+            "task_id": "16",
+            "constraints": {
+                "s2": 3.0
+            },
+            "response": "{0, Time Management Analysis, Break down the task into smaller steps: 1) Research methods to create PDF files (5 minutes), 2) Choose a suitable method based on available resources (5 minutes), 3) Follow the chosen method's instructions to create a PDF file (15 minutes), 4) Review and save the created PDF file (5 minutes)}"
+        },
+        {
+            "task_id": "16",
+            "constraints": {
+                "i1": 5.0
+            },
+            "response": "{1, Feasibility Analysis,  The task requires a computer to run software capable of creating PDF files. The constraint states that a computer is unavailable or cannot function properly.}"
+        },
+        {
+            "task_id": "16",
+            "constraints": {
+                "i2": 3.0
+            },
+            "response": "{1, Feasibility Analysis, The constraint \"There is no software or tool available to create PDF files\" makes it impossible to complete the task.}"
+        },
+        {
+            "task_id": "16",
+            "constraints": {
+                "e1": 4.0
+            },
+            "response": "{0, Time Management Analysis,  Break down the task into steps: 1) Choose a word processing software (if available offline), 2) Create a document, 3) Format the content, 4) Save the document as PDF using the software's built-in function.}"
+        },
+        {
+            "task_id": "16",
+            "constraints": {
+                "e2": 5.0
+            },
+            "response": "{0, Time Management Analysis,  Break down the task into smaller steps: 1) Choose a document creation tool (Word, Google Docs, etc.), 2) Create the content, 3) Select \"Save as PDF\" option within the chosen tool.}"
+        },
+        {
+            "task_id": "17",
+            "constraints": {
+                "s1": 3.0
+            },
+            "response": "{1, Time Management Analysis,  Lack of safety protection knowledge makes it impossible to install and use anti-theft systems effectively within one day.}"
+        },
+        {
+            "task_id": "17",
+            "constraints": {
+                "s2": 3.0
+            },
+            "response": "{0, Feasibility Analysis,  The task can be partially completed within one day by focusing on low-cost, easily implemented security measures like improving lighting, installing visible security cameras, reinforcing entry points with basic locks and alarms, and creating a clear security policy for employees. However, comprehensive legal protection requires consulting with a lawyer which may take longer than one day.}"
+        },
+        {
+            "task_id": "17",
+            "constraints": {
+                "i1": 3.0
+            },
+            "response": "{1, Feasibility Analysis, The constraint of not using theft prevention devices such as surveillance cameras or alarm systems significantly limits the options for protecting business property.}"
+        },
+        {
+            "task_id": "17",
+            "constraints": {
+                "i2": 3.0
+            },
+            "response": "{0, Time Management Analysis,  Break down the task into smaller steps like: 1) Identify vulnerable entry points (doors, windows), 2) Purchase basic locks and security devices (door/window locks, motion sensor lights) from local stores, 3) Install purchased locks and devices focusing on high-traffic areas, 4) Secure any remaining vulnerabilities with temporary measures (boards over broken windows). }"
+        },
+        {
+            "task_id": "17",
+            "constraints": {
+                "e1": 4.0
+            },
+            "response": "{0, Time Management Analysis,  Break down the task into specific steps like assessing vulnerabilities, choosing security measures (alarms, cameras, locks), installing them, training staff on procedures, and finalizing documentation. Prioritize high-risk areas and tasks. Create a detailed schedule with realistic time estimates for each step. Delegate tasks where possible to optimize efficiency.}"
+        },
+        {
+            "task_id": "17",
+            "constraints": {
+                "e2": 2.0
+            },
+            "response": "{0, Time Management Analysis, Break down the task into smaller steps like assessing vulnerabilities, choosing basic security measures (locks, alarms), securing entry points, and implementing good lighting. Prioritize essential measures and focus on quick DIY solutions.  }"
+        },
+        {
+            "task_id": "18",
+            "constraints": {
+                "s1": 3.0
+            },
+            "response": "{0, Time Management Analysis,  Break down \"becoming the ultimate player\" into smaller, achievable goals like mastering one weapon type per game session, learning common map layouts, practicing movement techniques, and studying gameplay strategies. Focus on consistent practice within each game session to improve skills rapidly.}"
+        },
+        {
+            "task_id": "18",
+            "constraints": {
+                "s2": 3.0
+            },
+            "response": "{0, Time Management Analysis,  Focus on individual skills like aiming, movement, map knowledge, and weapon selection. Practice consistently in game modes that emphasize these skills (e.g., Team Deathmatch, Search and Destroy). Utilize in-game settings to adjust sensitivity and field of view for optimal performance.}"
+        },
+        {
+            "task_id": "18",
+            "constraints": {
+                "i1": 4.0
+            },
+            "response": "{0, Time Management Analysis,  Break down \"becoming the ultimate player\" into smaller, achievable goals within a game (e.g., mastering one weapon type per match, improving map awareness, practicing specific strategies). Focus on consistent improvement rather than instant mastery.}"
+        },
+        {
+            "task_id": "18",
+            "constraints": {
+                "i2": 2.0
+            },
+            "response": "{0, Time Management Analysis,  Break down \"becoming the ultimate player\" into smaller, achievable goals like mastering a specific weapon, learning map layouts, improving aim, and practicing teamwork. Focus on consistent improvement within each game session rather than aiming for perfection immediately.}"
+        },
+        {
+            "task_id": "18",
+            "constraints": {
+                "e1": 2.0
+            },
+            "response": "{0, Time Management Analysis,  Break down \"becoming the ultimate player\" into smaller, achievable goals within a game (e.g., mastering one weapon type, learning specific maps, improving aim). Focus on practicing these skills during each game session to see gradual improvement over time.}"
+        },
+        {
+            "task_id": "18",
+            "constraints": {
+                "e2": 1.0
+            },
+            "response": "{0, Time Management Analysis,  Break down \"becoming the ultimate player\" into smaller, achievable goals like mastering a specific weapon, learning map layouts, improving aim training, and practicing strategies. Focus on consistent improvement within each game session rather than aiming for perfection immediately.}"
+        },
+        {
+            "task_id": "19",
+            "constraints": {
+                "s1": 2.0
+            },
+            "response": "{0, Time Management Analysis, Break down \"How to add a neutral style to school uniforms\" into smaller steps: 1) Research current uniform trends and styles considered neutral. 2) Explore fabric options that are versatile and adaptable to different styles. 3) Brainstorm design ideas for incorporating neutral elements into existing uniform pieces (e.g., subtle color palettes, minimalist patterns, adjustable features). 4) Create mood boards or sketches visualizing the proposed neutral style concepts. 5) Gather feedback from students, teachers, and parents on the design ideas. }"
+        },
+        {
+            "task_id": "19",
+            "constraints": {
+                "s2": 2.0
+            },
+            "response": "{0, Time Management Analysis,  Break down the task into smaller steps: 1) Research neutral style characteristics (online resources, fashion magazines), 2) Analyze existing school uniform designs, 3) Brainstorm ways to incorporate neutral elements into uniforms (colors, patterns, textures), 4) Create sketches or mockups of modified uniforms, 5) Gather feedback from students, teachers, and parents.}"
+        },
+        {
+            "task_id": "19",
+            "constraints": {
+                "i1": 1.0
+            },
+            "response": "{0, Time Management Analysis, Break down \"How to add a neutral style\" into researching existing neutral styles in clothing (1 hour), analyzing how those styles could be incorporated into school uniform design (2 hours), and brainstorming specific modifications to the uniforms (3 hours). This allows for completion within the one-day time constraint.}"
+        },
+        {
+            "task_id": "19",
+            "constraints": {
+                "i2": 4.0
+            },
+            "response": "{0, Time Management Analysis,  Break down the task into smaller steps: 1) Research existing neutral style trends in fashion. 2) Brainstorm uniform modifications that incorporate these trends (e.g., color palettes, fabric textures, silhouette variations). 3) Create visual mockups of the proposed designs. 4) Gather feedback from students and school administration on the proposed designs. }"
+        },
+        {
+            "task_id": "19",
+            "constraints": {
+                "e1": 1.0
+            },
+            "response": "{0, Time Management Analysis, Break down the task into researching neutral style trends, brainstorming uniform modifications, creating mood boards/sketches, and compiling a presentation or guide on incorporating these styles. This can be achieved within one day by focusing on research and ideation.}"
+        },
+        {
+            "task_id": "19",
+            "constraints": {
+                "e2": 4.0
+            },
+            "response": "{0, Time Management Analysis, Break down the task into smaller steps like researching neutral color palettes, exploring different fabric textures, suggesting subtle design elements that can be incorporated without altering existing uniforms. Share these ideas through written communication (e.g., blog post, email) within the day.}"
+        },
+        {
+            "task_id": "20",
+            "constraints": {
+                "s1": 2.0
+            },
+            "response": "{0, Time Management Analysis,  Break down the task into smaller steps with clear verbal instructions tailored for someone unfamiliar with Android devices. For example: 1) Open the Twitter app. 2) Tap on your profile picture. 3) Select \"Settings and privacy\". 4) Choose \"Account information\". 5) Tap on \"Email\" and follow the on-screen prompts to change your email address.  }"
+        },
+        {
+            "task_id": "20",
+            "constraints": {
+                "s2": 2.0
+            },
+            "response": "{0, Time Management Analysis,  1. Open the Twitter app on your Android device. 2. Tap on your profile picture in the top left corner. 3. Select \"Settings and privacy\". 4. Choose \"Account information\". 5. Tap on \"Email address\". 6. Enter your new email address and follow the prompts to verify it. }"
+        },
+        {
+            "task_id": "20",
+            "constraints": {
+                "i1": 4.0
+            },
+            "response": "{1, Feasibility Analysis, The user does not have an Android device which is required to change Twitter's email on Android.}"
+        },
+        {
+            "task_id": "20",
+            "constraints": {
+                "i2": 2.0
+            },
+            "response": "{1, Time Management Analysis, The user needs to create a Twitter account before changing their email address.}"
+        },
+        {
+            "task_id": "20",
+            "constraints": {
+                "e1": 4.0
+            },
+            "response": "{0, Time Management Analysis,  Changing email on Twitter requires internet connection to access the app's settings and complete the process. Users without network access cannot change their email address.}"
+        },
+        {
+            "task_id": "20",
+            "constraints": {
+                "e2": 5.0
+            },
+            "response": "{1, Time Management Analysis, Changing Twitter's email on Android requires using a phone and navigating the app interface.  }"
+        },
+        {
+            "task_id": "21",
+            "constraints": {
+                "s1": 2.0
+            },
+            "response": "{0, Time Management Analysis, Break down \"becoming an exquisite person\" into smaller, achievable goals like practicing active listening, joining social clubs, reading books on etiquette, and seeking feedback on communication skills. Create a schedule allocating specific time slots each day for these activities. }"
+        },
+        {
+            "task_id": "21",
+            "constraints": {
+                "s2": 3.0
+            },
+            "response": "{0, Time Management Analysis,  Break down \"becoming an exquisite person\" into smaller, achievable goals like learning basic skincare routines (online tutorials, dermatologist consultation), researching healthy eating habits, practicing mindfulness techniques, and engaging in activities that foster personal growth. Create a schedule allocating specific time slots for each goal throughout the month.}"
+        },
+        {
+            "task_id": "21",
+            "constraints": {
+                "i1": 2.0
+            },
+            "response": "{0, Time Management Analysis, Break down \"becoming an exquisite person\" into smaller, achievable goals focusing on personal development (reading, learning new skills, practicing mindfulness),  healthy habits (exercise, balanced diet), and social skills (communication, empathy). Prioritize these goals and allocate time each day for their development. Utilize free resources like online courses, libraries, and community events to minimize the impact of lacking specific products.}"
+        },
+        {
+            "task_id": "21",
+            "constraints": {
+                "i2": 4.0
+            },
+            "response": "{1, Feasibility Analysis,  Lack of money to purchase food and supplementals to sustain health poses a significant barrier to self-improvement as it directly impacts physical well-being, which is essential for mental and emotional development.}"
+        },
+        {
+            "task_id": "21",
+            "constraints": {
+                "e1": 2.0
+            },
+            "response": "{0, Time Management Analysis, Break down \"becoming exquisite\" into smaller, achievable goals like cultivating mindfulness, developing empathy, pursuing intellectual growth, practicing ethical behavior, and honing creative skills. Allocate specific time slots each day for working on these goals. Track progress and adjust the schedule as needed.}"
+        },
+        {
+            "task_id": "21",
+            "constraints": {
+                "e2": 5.0
+            },
+            "response": "{1, Time Management Analysis,  It is highly unlikely to achieve significant self-improvement within a month, especially considering the constraints of living in a region with underdeveloped infrastructure and limited resources. Self-improvement often requires sustained effort, access to learning materials and opportunities, and a supportive environment which may be difficult to attain within such a short timeframe and under these circumstances.}"
+        },
+        {
+            "task_id": "22",
+            "constraints": {
+                "s1": 2.0
+            },
+            "response": "{0, Time Management Analysis,  Arrange for transportation to the funeral, such as a taxi, ride-sharing service, public transportation, or ask a friend or family member for a ride.}"
+        },
+        {
+            "task_id": "22",
+            "constraints": {
+                "s2": 1.0
+            },
+            "response": "{0, Time Management Analysis,  Break down the task into steps: 1) Research local funeral customs and etiquette (online resources, contacting local community organizations). 2) Plan attire appropriate for the occasion. 3) Arrange transportation to the funeral location. 4) Prepare a condolence message or speech if desired. }"
+        },
+        {
+            "task_id": "22",
+            "constraints": {
+                "i1": 2.0
+            },
+            "response": "{0, Time Management Analysis,  Identify appropriate funeral attire within available resources. Plan time for shopping or borrowing clothes if necessary.}"
+        },
+        {
+            "task_id": "22",
+            "constraints": {
+                "i2": 2.0
+            },
+            "response": "{0, Time Management Analysis,  Attend the funeral within the two day timeframe. Purchase mourning supplies such as a wreath or prepare a eulogy in advance to express condolences appropriately.}"
+        },
+        {
+            "task_id": "22",
+            "constraints": {
+                "e1": 4.0
+            },
+            "response": "{0, Time Management Analysis,  Determine the distance to the funeral location. If it's within a reasonable driving distance, plan the trip itinerary to arrive at the funeral on time. If not, explore alternative transportation options like flights and factor in travel time for airport procedures.}"
+        },
+        {
+            "task_id": "22",
+            "constraints": {
+                "e2": 3.0
+            },
+            "response": "{0, Time Management Analysis,  Identify the location of the funeral as soon as possible. Plan a route considering potential traffic delays. Leave with ample time to arrive at the funeral on time.}"
+        },
+        {
+            "task_id": "23",
+            "constraints": {
+                "s1": 2.0
+            },
+            "response": "{0, Time Management Analysis,  Break down a full yoga practice into smaller sessions focusing on beginner poses and gradually increasing intensity over time. Supplement with stretching exercises to improve flexibility.}"
+        },
+        {
+            "task_id": "23",
+            "constraints": {
+                "s2": 2.0
+            },
+            "response": "{0, Time Management Analysis, Break down yoga practice into smaller sessions focusing on breath control exercises. Start with 5-10 minutes daily, gradually increasing duration as breath control improves. Utilize guided meditation or breathing techniques videos for assistance.}"
+        },
+        {
+            "task_id": "23",
+            "constraints": {
+                "i1": 3.0
+            },
+            "response": "{0, Time Management Analysis,  Acquire a yoga mat before practicing yoga.}"
+        },
+        {
+            "task_id": "23",
+            "constraints": {
+                "i2": 3.0
+            },
+            "response": "{0, Time Management Analysis,  Break down yoga practice into smaller sessions (15-20 minutes) focusing on specific areas like stretching or breathing exercises. This allows practicing yoga even without a full hour and suitable clothing can be acquired gradually.}"
+        },
+        {
+            "task_id": "23",
+            "constraints": {
+                "e1": 2.0
+            },
+            "response": "{0, Time Management Analysis,  Break down a yoga practice into shorter sessions (15-20 minutes) that can be done throughout the day to fit within a quieter environment.}"
+        },
+        {
+            "task_id": "23",
+            "constraints": {
+                "e2": 3.0
+            },
+            "response": "{0, Time Management Analysis,  Break down a yoga practice into smaller, space-saving poses and stretches that can be done in a limited area. Focus on seated or standing poses that don't require extensive movement.}"
+        },
+        {
+            "task_id": "24",
+            "constraints": {
+                "s1": 5.0
+            },
+            "response": "{1, Feasibility Analysis,  The constraints state that the individual cannot drive or disembark from the vehicle independently. This makes the task of driving to the grocery store and completing the disembarkation impossible.}"
+        },
+        {
+            "task_id": "24",
+            "constraints": {
+                "s2": 4.0
+            },
+            "response": "{0, Time Management Analysis,  The individual could arrange for a ride-sharing service or ask a friend or family member to drive them to the grocery store. Upon arrival, they can request assistance from the driver or companion to help them exit the vehicle and navigate inside the store.}"
+        },
+        {
+            "task_id": "24",
+            "constraints": {
+                "i1": 4.0
+            },
+            "response": "{1, Feasibility Analysis, The car door lock being broken prevents the task from being completed as it is technically infeasible to disembark without opening the car door.}"
+        },
+        {
+            "task_id": "24",
+            "constraints": {
+                "i2": 3.0
+            },
+            "response": "{1, Time Management Analysis, The stuck seat belt prevents safe disembarkation from the vehicle within the given time constraint.}"
+        },
+        {
+            "task_id": "24",
+            "constraints": {
+                "e1": 2.0
+            },
+            "response": "{0, Time Management Analysis,  Break down the task into: 1) Drive to the grocery store (estimate time based on distance), 2) Park the vehicle (estimate time), 3) Disembark from the vehicle (estimate time). Ensure the total estimated time for all steps is within 30 minutes.}"
+        },
+        {
+            "task_id": "24",
+            "constraints": {
+                "e2": 4.0
+            },
+            "response": "{1, Risk Assessment, Vehicles are trapped due to environmental factors such as mud or snow, preventing movement.}"
+        },
+        {
+            "task_id": "25",
+            "constraints": {
+                "s1": 2.0
+            },
+            "response": "{0, Time Management Analysis,  Break down the task into smaller steps with clear instructions tailored for someone with limited computer skills. For example: 1) Access Gmail login page, 2) Enter username and password, 3) Click on \"Settings\" gear icon, 4) Navigate to \"Security\" tab, 5) Enable two-factor authentication, 6) Review and save changes. Provide visual aids or step-by-step screenshots for each step. Offer phone support or remote assistance if needed.}"
+        },
+        {
+            "task_id": "25",
+            "constraints": {
+                "s2": 2.0
+            },
+            "response": "{0, Time Management Analysis,  Break down the task into steps: 1) Access Gmail settings (2 mins), 2) Navigate to Security section (1 min), 3) Enable Two-Factor Authentication (5 mins), 4) Set up preferred method (e.g., phone app) (10 mins), 5) Test authentication (2 mins). This allocates 20 minutes for the task, leaving 10 minutes buffer for unexpected issues.}"
+        },
+        {
+            "task_id": "25",
+            "constraints": {
+                "i1": 3.0
+            },
+            "response": "{0, Time Management Analysis,  The task can be completed offline by reviewing Gmail security settings documentation and making necessary changes once a stable connection is available.}"
+        },
+        {
+            "task_id": "25",
+            "constraints": {
+                "i2": 4.0
+            },
+            "response": "{0, Time Management Analysis,  Focus on the most impactful security settings within the 30-minute timeframe:\n\n1. **Strong Password:** Create a unique, complex password using a combination of uppercase and lowercase letters, numbers, and symbols. (5 minutes)\n2. **Two-Step Verification (Alternative Methods):** Explore options like authenticator apps or security keys if available, even without a phone number. (10 minutes)\n3. **Account Recovery:** Set up trusted contacts for account recovery in case of password loss. (5 minutes)\n4. **Suspicious Activity Monitoring:** Enable alerts for unusual login attempts and activity. (5 minutes)\n5. **Review App Permissions:** Regularly check and revoke permissions granted to unnecessary apps. (5 minutes)}"
+        },
+        {
+            "task_id": "25",
+            "constraints": {
+                "e1": 5.0
+            },
+            "response": "{0, Time Management Analysis,  Break down the task into smaller steps: 1) Enable two-factor authentication (5 minutes), 2) Review recent login activity (5 minutes), 3) Update password (5 minutes), 4) Check security settings (5 minutes), 5) Be cautious of phishing attempts (10 minutes). }"
+        },
+        {
+            "task_id": "25",
+            "constraints": {
+                "e2": 1.0
+            },
+            "response": "{0, Time Management Analysis,  Break down the task into specific steps such as enabling two-factor authentication, reviewing app permissions, setting up account recovery options, using strong passwords, and being cautious about phishing attempts. Allocate 5 minutes per step to ensure completion within 30 minutes.}"
+        },
+        {
+            "task_id": "26",
+            "constraints": {
+                "s1": 2.0
+            },
+            "response": "{1, Time Management Analysis, The task requires driving to a grocery store, which is unrelated to fitness and muscle growth.}"
+        },
+        {
+            "task_id": "26",
+            "constraints": {
+                "s2": 3.0
+            },
+            "response": "{1, Time Management Analysis, The task requires driving to the grocery store which is a separate action from muscle growth. Muscle growth takes time and proper nutrition planning, which cannot be achieved solely by driving to the grocery store.}"
+        },
+        {
+            "task_id": "26",
+            "constraints": {
+                "i1": 2.0
+            },
+            "response": "{1, Time Management Analysis, The task requires physical activity at a gym, not driving to a grocery store.}"
+        },
+        {
+            "task_id": "26",
+            "constraints": {
+                "i2": 2.0
+            },
+            "response": "{1, Time Management Analysis, The task requires driving to a grocery store which is unrelated to muscle growth within 3 months.}"
+        },
+        {
+            "task_id": "26",
+            "constraints": {
+                "e1": 2.0
+            },
+            "response": "{1, Time Management Analysis, The task of driving to the grocery store is unrelated to muscle growth and cannot be completed within the given time constraint of 3 months for muscle growth.}"
+        },
+        {
+            "task_id": "26",
+            "constraints": {
+                "e2": 2.0
+            },
+            "response": "{1, Time Management Analysis, The task requires physical movement and a vehicle, which are not addressed in the constraints.}"
+        },
+        {
+            "task_id": "27",
+            "constraints": {
+                "s1": 3.0
+            },
+            "response": "{0, Time Management Analysis,  Break down \"perfection\" into smaller, achievable goals (e.g., mastering a specific subject, achieving a certain grade). Research and implement effective learning techniques like spaced repetition and active recall. Utilize time management tools to schedule study sessions and breaks. Explore resources for improving memory skills.}"
+        },
+        {
+            "task_id": "27",
+            "constraints": {
+                "s2": 3.0
+            },
+            "response": "{0, Time Management Analysis,  Break down \"achieving perfection\" into smaller, manageable goals like improving grades in specific subjects, developing study habits, and participating actively in class. Allocate time slots for each goal, including dedicated time for practicing communication and social skills through clubs, debates, or volunteering. }"
+        },
+        {
+            "task_id": "27",
+            "constraints": {
+                "i1": 2.0
+            },
+            "response": "{1, Resource Allocation Analysis, The constraint of no necessary study tools (notebooks, calculators, computers) makes it impossible to complete the task effectively.}"
+        },
+        {
+            "task_id": "27",
+            "constraints": {
+                "i2": 2.0
+            },
+            "response": "{1, Time Management Analysis, Achieving perfection in school within 8 hours of study time daily without a proper study environment is highly challenging.  Effective learning requires focus and minimal distractions, which are difficult to achieve in noisy or crowded environments. }"
+        },
+        {
+            "task_id": "27",
+            "constraints": {
+                "e1": 2.0
+            },
+            "response": "{0, Time Management Analysis,  Break down \"perfection\" into smaller, achievable goals (e.g., mastering specific subjects, consistently earning high grades). Create a daily schedule allocating 8 hours for studying, reviewing, and completing assignments. Prioritize tasks based on importance and deadlines. Utilize effective study techniques like active recall and spaced repetition. Seek help from teachers or tutors when needed.}"
+        },
+        {
+            "task_id": "27",
+            "constraints": {
+                "e2": 2.0
+            },
+            "response": "{0, Time Management Analysis,  Break down \"perfection\" into smaller, achievable goals (e.g., mastering specific subjects, consistently earning high grades). Create a daily schedule allocating 8 hours for studying, prioritizing challenging subjects and incorporating breaks. Utilize effective study techniques like active recall and spaced repetition. Seek individual help from teachers or tutors when needed to address knowledge gaps.}"
+        },
+        {
+            "task_id": "28",
+            "constraints": {
+                "s1": 4.0
+            },
+            "response": "{0, Time Management Analysis,  Explore alternative transportation options within the city like public transit, cycling, or walking to experience a change of scenery and escape the hustle and bustle.}"
+        },
+        {
+            "task_id": "28",
+            "constraints": {
+                "s2": 4.0
+            },
+            "response": "{0, Time Management Analysis,  Break down \"getting away from city life\" into smaller, manageable steps. Week 1: Research and book a cabin/glamping site with amenities (electricity, running water, etc.) that offer some wilderness experience but require minimal survival skills. Week 2: Pack appropriate clothing and gear for the chosen location.  Week 3: Enjoy the experience! Focus on activities like hiking, nature walks, and stargazing that don't require advanced survival skills.}"
+        },
+        {
+            "task_id": "28",
+            "constraints": {
+                "i1": 4.0
+            },
+            "response": "{0, Resource Allocation Analysis,  Acquire necessary outdoor survival equipment like tents, cooking utensils, etc., through rental services, borrowing from friends/family, or purchasing essential items. }"
+        },
+        {
+            "task_id": "28",
+            "constraints": {
+                "i2": 5.0
+            },
+            "response": "{0, Time Management Analysis,  Break down the task into smaller, manageable steps like researching suitable locations, securing temporary accommodation, packing essential supplies, and arranging transportation. Prioritize tasks based on urgency and allocate specific time slots for each step. This will help ensure efficient use of the one-week timeframe.}"
+        },
+        {
+            "task_id": "28",
+            "constraints": {
+                "e1": 2.0
+            },
+            "response": "{1, Time Management Analysis,  The constraint of no suitable places nearby to escape city life within a one week timeframe makes it impossible to complete the task.}"
+        },
+        {
+            "task_id": "28",
+            "constraints": {
+                "e2": 3.0
+            },
+            "response": "{0, Time Management Analysis,  Break down \"getting away from city life\" into smaller tasks (e.g., research destinations, book accommodation, pack). Prioritize tasks based on urgency and weather dependency. Look for alternative destinations with suitable weather conditions. Monitor weather forecasts closely and adjust plans accordingly.}"
+        },
+        {
+            "task_id": "29",
+            "constraints": {
+                "s1": 3.0
+            },
+            "response": "{0, Time Management Analysis, 1.  Explain the concept of \"SMS login\" in simple terms suitable for someone unfamiliar with Android phones. 2. Provide step-by-step instructions on how to access SMS messages on an Android phone, using clear and concise language. 3. Guide the user through the process of entering the received SMS code into WeChat's login interface, highlighting key elements like \"Enter Code\" button. }"
+        },
+        {
+            "task_id": "29",
+            "constraints": {
+                "s2": 2.0
+            },
+            "response": "{0, Time Management Analysis,  Break down the login process into smaller steps with clear instructions, considering users' unfamiliarity with SMS functions. Provide visual aids like screenshots to guide them through each step. Offer additional support channels (e.g., chatbots, FAQs) for quick assistance during the process.}"
+        },
+        {
+            "task_id": "29",
+            "constraints": {
+                "i1": 3.0
+            },
+            "response": "{0, Time Management Analysis,  The user needs to first download and install WeChat from the Google Play Store before they can log in using SMS. This will take some time depending on their internet connection speed.}"
+        },
+        {
+            "task_id": "29",
+            "constraints": {
+                "i2": 4.0
+            },
+            "response": "{1, Feasibility Analysis, The task requires SMS verification for login, which is impossible without signal or text message reception.}"
+        },
+        {
+            "task_id": "29",
+            "constraints": {
+                "e1": 4.0
+            },
+            "response": "{0, Time Management Analysis,  WeChat login via SMS typically involves receiving a verification code via SMS, entering it in the app, and then completing the login process. This can be done offline as long as the user has previously saved their WeChat account information on their device. The time constraint of 5 minutes is achievable if the user has a readily available phone number linked to their WeChat account and receives the verification code promptly.}"
+        },
+        {
+            "task_id": "29",
+            "constraints": {
+                "e2": 5.0
+            },
+            "response": "{1, Time Management Analysis,  The task requires receiving an SMS code for verification, which is impossible in a location where text messages cannot be received. }"
+        },
+        {
+            "task_id": "30",
+            "constraints": {
+                "s1": 2.0
+            },
+            "response": "{0, Time Management Analysis,  Break down fundraising activities into smaller, achievable goals with deadlines. Explore offline fundraising options like bake sales, car washes, garage sales, local events, or seeking donations from friends and family. }"
+        },
+        {
+            "task_id": "30",
+            "constraints": {
+                "s2": 2.0
+            },
+            "response": "{0, Time Management Analysis,  Break down fundraising goals into smaller, achievable targets. Explore online platforms like crowdfunding or peer-to-peer lending to raise funds without organizing events. Leverage personal networks for financial support. }"
+        },
+        {
+            "task_id": "30",
+            "constraints": {
+                "i1": 2.0
+            },
+            "response": "{0, Time Management Analysis,  Break down fundraising into smaller tasks like reaching out to family and friends, setting up online donation platforms, organizing small events (bake sales, car washes), applying for travel grants. Create a schedule with deadlines for each task to ensure timely completion within the month.}"
+        },
+        {
+            "task_id": "30",
+            "constraints": {
+                "i2": 2.0
+            },
+            "response": "{0, Time Management Analysis,  Break down fundraising into smaller tasks like organizing bake sales, car washes, garage sales, seeking donations from local businesses and individuals through personal appeals. Create a schedule allocating specific days/weeks to each task. Promote events through flyers and word-of-mouth.}"
+        },
+        {
+            "task_id": "30",
+            "constraints": {
+                "e1": 2.0
+            },
+            "response": "{0, Time Management Analysis,  Break down fundraising goals into smaller, achievable targets. Explore online fundraising platforms and social media campaigns to reach a wider audience despite limited foot traffic. }"
+        },
+        {
+            "task_id": "30",
+            "constraints": {
+                "e2": 2.0
+            },
+            "response": "{0, Time Management Analysis,  Break down fundraising goals into daily/weekly targets. Explore online fundraising platforms, personal networks, and creative crowdfunding campaigns to bypass location constraints.}"
+        },
+        {
+            "task_id": "31",
+            "constraints": {
+                "s1": 1.0
+            },
+            "response": "{0, Time Management Analysis,  Learn how to use the TV or other devices to watch the game within the 20 minutes.}"
+        },
+        {
+            "task_id": "31",
+            "constraints": {
+                "s2": 2.0
+            },
+            "response": "{1, Time Management Analysis,  It is impossible to understand a large-scale competition within 20 minutes without prior knowledge of the rules and process.}"
+        },
+        {
+            "task_id": "31",
+            "constraints": {
+                "i1": 4.0
+            },
+            "response": "{1, Time Management Analysis, Watching a large-scale competition requires continuous viewing over an extended period, which is impossible within 20 minutes given the constraint of no TV or other devices.}"
+        },
+        {
+            "task_id": "31",
+            "constraints": {
+                "i2": 4.0
+            },
+            "response": "{1, Time Management Analysis, Unable to watch a large-scale competition within 20 minutes due to the time constraint and the requirement to physically attend the event.}"
+        },
+        {
+            "task_id": "31",
+            "constraints": {
+                "e1": 4.0
+            },
+            "response": "{0, Time Management Analysis,  Watch a live stream of the competition online.}"
+        },
+        {
+            "task_id": "31",
+            "constraints": {
+                "e2": 2.0
+            },
+            "response": "{1, Time Management Analysis, Watching a large-scale competition in person typically takes several hours or even days depending on the event. 20 minutes is insufficient time to watch even a small portion of such an event.}"
+        },
+        {
+            "task_id": "32",
+            "constraints": {
+                "s1": 1.0
+            },
+            "response": "{0, Time Management Analysis,  Break down the task into smaller steps like: 1) physically prepare the draft (printing, organizing), 2) choose a suitable method of delivery (courier, hand-delivery), 3) arrange for delivery and tracking. }"
+        },
+        {
+            "task_id": "32",
+            "constraints": {
+                "s2": 2.0
+            },
+            "response": "{0, Time Management Analysis, Break down the task into smaller steps: 1) Research effective communication strategies for editors. 2) Draft a concise email introducing yourself and your work. 3) Proofread and finalize the email. Schedule time for each step to ensure completion within the day.}"
+        },
+        {
+            "task_id": "32",
+            "constraints": {
+                "i1": 2.0
+            },
+            "response": "{0, Time Management Analysis, Break down the task into smaller steps like \"Reviewing the draft\", \"Identifying areas for improvement\", \"Suggesting edits\", and \"Finalizing the edited version\". Allocate a specific time frame for each step to ensure timely completion within a day.}"
+        },
+        {
+            "task_id": "32",
+            "constraints": {
+                "i2": 3.0
+            },
+            "response": "{0, Time Management Analysis,  The draft can be physically delivered to the editor within a day.}"
+        },
+        {
+            "task_id": "32",
+            "constraints": {
+                "e1": 3.0
+            },
+            "response": "{0, Time Management Analysis,  Send the draft electronically to the editor.}"
+        },
+        {
+            "task_id": "32",
+            "constraints": {
+                "e2": 3.0
+            },
+            "response": "{0, Time Management Analysis,  Deliver the draft physically to the editor.}"
+        },
+        {
+            "task_id": "33",
+            "constraints": {
+                "s1": 2.0
+            },
+            "response": "{0, Time Management Analysis,  Break down travel preparations into smaller tasks like researching destinations, booking flights and accommodation, obtaining necessary documents (passport, visa), packing essentials, informing bank about travel plans, arranging local transportation, learning basic phrases in the local language using apps or online resources. Prioritize tasks based on urgency and allocate specific time slots for each activity to ensure completion within a week.}"
+        },
+        {
+            "task_id": "33",
+            "constraints": {
+                "s2": 3.0
+            },
+            "response": "{1, Time Management Analysis,  Travel to a foreign country requires planning routes, booking flights/accommodation, and potentially obtaining visas, which are difficult to accomplish without navigation aids within a week.}"
+        },
+        {
+            "task_id": "33",
+            "constraints": {
+                "i1": 5.0
+            },
+            "response": "{1, Feasibility Analysis,  A passport and visa are legally required to travel to a foreign country. Obtaining these documents typically takes longer than a week.}"
+        },
+        {
+            "task_id": "33",
+            "constraints": {
+                "i2": 4.0
+            },
+            "response": "{1, Feasibility Analysis, Not enough travel funds to complete the task within the given time constraint.}"
+        },
+        {
+            "task_id": "33",
+            "constraints": {
+                "e1": 1.0
+            },
+            "response": "{0, Time Management Analysis,  Break down travel preparations into steps like researching destinations, booking flights/accommodation, packing, visa applications, currency exchange, etc. Create a schedule allocating time for each step, prioritizing urgent tasks and identifying potential time bottlenecks. }"
+        },
+        {
+            "task_id": "33",
+            "constraints": {
+                "e2": 1.0
+            },
+            "response": "{0, Time Management Analysis,  Break down travel preparations into smaller tasks like researching destinations, booking flights and accommodation, obtaining necessary visas and travel insurance, packing, and informing relevant parties. Create a schedule allocating specific time slots for each task, prioritizing urgent ones. Utilize online tools and resources to streamline the process and minimize time spent on research and booking. }"
+        },
+        {
+            "task_id": "34",
+            "constraints": {
+                "s1": 2.0
+            },
+            "response": "{0, Time Management Analysis,  Focus on arranging existing baked goods on a pre-assembled table within the 2-hour timeframe. Prioritize efficient placement and organization to maximize display space and visual appeal.}"
+        },
+        {
+            "task_id": "34",
+            "constraints": {
+                "s2": 2.0
+            },
+            "response": "{0, Time Management Analysis,  Break down the task into smaller steps: 1) Gather baked goods (15 min), 2) Choose a display table (15 min), 3) Clean and prepare the table (30 min), 4) Arrange baked goods by type or size (45 min), 5) Add decorative elements (15 min). This allows for efficient time allocation and completion within 2 hours.}"
+        },
+        {
+            "task_id": "34",
+            "constraints": {
+                "i1": 3.0
+            },
+            "response": "{0, Time Management Analysis,  Find alternative display surfaces like shelves, crates, or even clean blankets. Repurpose existing furniture if possible. Prioritize essential items for display and consider a tiered arrangement to maximize space.}"
+        },
+        {
+            "task_id": "34",
+            "constraints": {
+                "i2": 4.0
+            },
+            "response": "{1, Time Management Analysis, The task requires baked goods which are unavailable.}"
+        },
+        {
+            "task_id": "34",
+            "constraints": {
+                "e1": 3.0
+            },
+            "response": "{1, Feasibility Analysis, The space constraint makes it impossible to set up a display table.}"
+        },
+        {
+            "task_id": "34",
+            "constraints": {
+                "e2": 2.0
+            },
+            "response": "{0, Time Management Analysis,  Break down the task into smaller steps like: 1) Choosing a location (considering it can't be where baked goods are), 2) Gathering necessary materials (table, tablecloth, display stands etc.), 3) Setting up the table and arranging the baked goods attractively. Allocate time for each step realistically to ensure completion within 2 hours.}"
+        },
+        {
+            "task_id": "35",
+            "constraints": {
+                "s1": 2.0
+            },
+            "response": "{0, Time Management Analysis,  Purchase pre-cut vegetables or salad mix. Assemble the salad by combining ingredients in a bowl.}"
+        },
+        {
+            "task_id": "35",
+            "constraints": {
+                "s2": 2.0
+            },
+            "response": "{0, Time Management Analysis,  Break down salad making into steps: 1) Choose a recipe (5 minutes), 2) Gather ingredients (5 minutes), 3) Wash and chop vegetables (10 minutes), 4) Prepare dressing (5 minutes), 5) Assemble salad (5 minutes). }"
+        },
+        {
+            "task_id": "35",
+            "constraints": {
+                "i1": 4.0
+            },
+            "response": "{1, Time Management Analysis,  Lack of main salad ingredients makes it impossible to complete the task within the given time constraint.}"
+        },
+        {
+            "task_id": "35",
+            "constraints": {
+                "i2": 4.0
+            },
+            "response": "{1, Time Management Analysis,  The task requires cutting ingredients which is impossible without appropriate utensils.}"
+        },
+        {
+            "task_id": "35",
+            "constraints": {
+                "e1": 2.0
+            },
+            "response": "{0, Time Management Analysis,  Find a location with pre-made salad ingredients or a nearby store selling ready-to-eat salads.}"
+        },
+        {
+            "task_id": "35",
+            "constraints": {
+                "e2": 2.0
+            },
+            "response": "{1, Time Management Analysis,  The lack of a clean environment poses a significant hygiene risk and makes it impossible to safely prepare food within the given time constraint.}"
+        },
+        {
+            "task_id": "36",
+            "constraints": {
+                "s1": 2.0
+            },
+            "response": "{0, Time Management Analysis,  Break down \"attend weekly lessons\" into specific activities like traveling to the lesson location, participating in class discussions, completing assignments. Estimate time needed for each activity and create a schedule that fits within the one-hour constraint.}"
+        },
+        {
+            "task_id": "36",
+            "constraints": {
+                "s2": 3.0
+            },
+            "response": "{1, Time Management Analysis,  The constraint of lacking basic knowledge or skills required for studying the course makes it impossible to attend weekly lessons effectively within one hour. }"
+        },
+        {
+            "task_id": "36",
+            "constraints": {
+                "i1": 3.0
+            },
+            "response": "{0, Time Management Analysis,  Break down the lesson content into manageable chunks that can be covered within one hour. Focus on key concepts and active learning techniques to maximize understanding in the limited time.}"
+        },
+        {
+            "task_id": "36",
+            "constraints": {
+                "i2": 3.0
+            },
+            "response": "{0, Time Management Analysis,  Break down the lesson material into smaller chunks and allocate 15 minutes per chunk. Utilize any available space for studying, even if it's not ideal. }"
+        },
+        {
+            "task_id": "36",
+            "constraints": {
+                "e1": 3.0
+            },
+            "response": "{0, Time Management Analysis, Explore online learning platforms or recorded lectures that offer the same content as the weekly lessons.}"
+        },
+        {
+            "task_id": "36",
+            "constraints": {
+                "e2": 4.0
+            },
+            "response": "{0, Time Management Analysis,  Attend in-person lessons if available.}"
+        },
+        {
+            "task_id": "37",
+            "constraints": {
+                "s1": 2.0
+            },
+            "response": "{0, Time Management Analysis,  Break down muscle gain into specific steps (e.g., strength training, nutrition planning, rest). Research effective workout routines and dietary guidelines. Seek guidance from a certified personal trainer or nutritionist to address knowledge gaps and ensure proper form and technique. Create a realistic schedule that allocates sufficient time for each step and tracks progress. }"
+        },
+        {
+            "task_id": "37",
+            "constraints": {
+                "s2": 4.0
+            },
+            "response": "{0, Time Management Analysis,  Break down muscle gain into smaller, achievable goals with specific timelines. Create a workout schedule that is realistic and enjoyable to maintain motivation. Track progress regularly to celebrate milestones and stay engaged. Incorporate accountability measures like working out with a friend or joining a fitness community.}"
+        },
+        {
+            "task_id": "37",
+            "constraints": {
+                "i1": 3.0
+            },
+            "response": "{1, Feasibility Analysis,  Gaining significant muscle mass within 6 months requires access to fitness equipment for resistance training. The absence of suitable equipment significantly limits the ability to achieve this goal.}"
+        },
+        {
+            "task_id": "37",
+            "constraints": {
+                "i2": 3.0
+            },
+            "response": "{0, Time Management Analysis,  Break down muscle gain into steps achievable without specialized clothes/shoes (bodyweight exercises, resistance bands). Prioritize acquiring suitable gear within the 6 months timeframe.}"
+        },
+        {
+            "task_id": "37",
+            "constraints": {
+                "e1": 3.0
+            },
+            "response": "{1, Time Management Analysis,  Gaining significant muscle mass within 6 months requires consistent exercise and a structured training program which is difficult to achieve without access to a gym or suitable environment.}"
+        },
+        {
+            "task_id": "37",
+            "constraints": {
+                "e2": 3.0
+            },
+            "response": "{0, Time Management Analysis,  Break down muscle gain into specific steps (e.g., workout plan, nutrition plan, rest & recovery). Utilize online resources like fitness apps, websites, and YouTube channels for guidance on exercises, diet, and progress tracking. Focus on consistency and gradual progression to avoid injury and burnout.}"
+        },
+        {
+            "task_id": "38",
+            "constraints": {
+                "s1": 1.0
+            },
+            "response": "{0, Time Management Analysis, Break down dance class into smaller, simpler steps focusing on basic movements and gradually increasing complexity.  Prioritize practice and repetition to improve coordination.}"
+        },
+        {
+            "task_id": "38",
+            "constraints": {
+                "s2": 1.0
+            },
+            "response": "{0, Time Management Analysis, Break down dance class into smaller steps focusing on basic movements and rhythm. Practice consistently outside class to improve rhythm recognition. Seek guidance from the instructor for personalized feedback and support.}"
+        },
+        {
+            "task_id": "38",
+            "constraints": {
+                "i1": 2.0
+            },
+            "response": "{0, Time Management Analysis,  Break down the task into steps like researching suitable dance attire options, purchasing attire, attending the first class, practicing at home, and attending subsequent classes. Create a schedule allocating time for each step within the month timeframe.}"
+        },
+        {
+            "task_id": "38",
+            "constraints": {
+                "i2": 2.0
+            },
+            "response": "{0, Time Management Analysis,  Break down the dance course into weekly modules. Research affordable or used dance shoes options online or at local stores. Prioritize attending classes and practicing regularly to maximize learning within the month timeframe.}"
+        },
+        {
+            "task_id": "38",
+            "constraints": {
+                "e1": 3.0
+            },
+            "response": "{0, Time Management Analysis, Break down the beginner dance course into weekly modules with specific learning objectives. Schedule 2-3 sessions per week at a suitable dance venue.  }"
+        },
+        {
+            "task_id": "38",
+            "constraints": {
+                "e2": 3.0
+            },
+            "response": "{0, Time Management Analysis,  Break down the dance class into smaller sessions and find a quieter location for practice during those sessions. }"
+        },
+        {
+            "task_id": "39",
+            "constraints": {
+                "s1": 2.0
+            },
+            "response": "{0, Time Management Analysis,  Break down writing process into steps: research topic (10 mins), outline post (15 mins), write first draft (20 mins), revise and edit (10 mins). This allows for focused work within the hour constraint.}"
+        },
+        {
+            "task_id": "39",
+            "constraints": {
+                "s2": 3.0
+            },
+            "response": "{1, Time Management Analysis,  The constraint of lacking writing skills and language organization ability within an hour timeframe makes it impossible to produce a coherent and well-written blog post.}"
+        },
+        {
+            "task_id": "39",
+            "constraints": {
+                "i1": 4.0
+            },
+            "response": "{1, Time Management Analysis,  The task requires writing and publishing a blog post which necessitates using a computer or mobile device for drafting, editing, and publishing. Without these tools, the task cannot be completed.}"
+        },
+        {
+            "task_id": "39",
+            "constraints": {
+                "i2": 3.0
+            },
+            "response": "{0, Time Management Analysis, Write the blog post offline and publish it once a stable network connection is available.}"
+        },
+        {
+            "task_id": "39",
+            "constraints": {
+                "e1": 2.0
+            },
+            "response": "{0, Time Management Analysis, Break down the task into smaller steps like brainstorming ideas, outlining the post, writing a draft, editing, and publishing. Focus on completing the most crucial steps within the hour, such as drafting the main content. Consider using voice-to-text software to overcome the writing environment constraint.}"
+        },
+        {
+            "task_id": "39",
+            "constraints": {
+                "e2": 2.0
+            },
+            "response": "{0, Time Management Analysis,  Break down the task into smaller steps like brainstorming ideas (10 minutes), outlining the post (15 minutes), writing the first draft (20 minutes), editing and revising (10 minutes), and publishing (5 minutes). Utilize noise-canceling headphones or find a quieter space for focused work during these time blocks.}"
+        },
+        {
+            "task_id": "40",
+            "constraints": {
+                "s1": 4.0
+            },
+            "response": "{1, Time Management Analysis,  The task requires baking knowledge which the individual lacks. Learning to bake within an hour is not feasible.}"
+        },
+        {
+            "task_id": "40",
+            "constraints": {
+                "s2": 2.0
+            },
+            "response": "{0, Time Management Analysis,  Break down the recipe into steps, prioritize learning basic lemon handling techniques (e.g., juicing) through online tutorials during prep time. Focus on a simplified lemon bar recipe with minimal ingredients and steps to ensure completion within the hour.}"
+        },
+        {
+            "task_id": "40",
+            "constraints": {
+                "i1": 4.0
+            },
+            "response": "{1, Resource Allocation Analysis, Lacking essential baking ingredients like lemons, sugar, and flour prevents the completion of the task.}"
+        },
+        {
+            "task_id": "40",
+            "constraints": {
+                "i2": 5.0
+            },
+            "response": "{1, Time Management Analysis,  Making lemon bars requires baking which is impossible without an oven.}"
+        },
+        {
+            "task_id": "40",
+            "constraints": {
+                "e1": 5.0
+            },
+            "response": "{1, Time Management Analysis,  The task requires access to a kitchen and cooking equipment which is unavailable.}"
+        },
+        {
+            "task_id": "40",
+            "constraints": {
+                "e2": 5.0
+            },
+            "response": "{1, Time Management Analysis,  Making lemon bars requires an oven to bake the crust and filling. Without a power supply, it is impossible to bake the lemon bars within the given time constraint.}"
+        },
+        {
+            "task_id": "41",
+            "constraints": {
+                "s1": 2.0
+            },
+            "response": "{0, Time Management Analysis,  Break down relationship building into smaller steps: 1) Practice active listening and empathy in conversations. 2) Start small by initiating friendly interactions with classmates. 3) Join clubs or activities to meet people with shared interests. 4) Seek opportunities for one-on-one conversations to build deeper connections. 5) Be patient and consistent in your efforts, focusing on quality over quantity of interactions.}"
+        },
+        {
+            "task_id": "41",
+            "constraints": {
+                "s2": 2.0
+            },
+            "response": "{0, Time Management Analysis,  Break down the task into smaller steps: 1) Identify interests and activities to join (week 1-2). 2) Practice initiating conversations and asking questions (week 3-4). 3) Participate actively in chosen activities and events (week 5-8). 4) Be genuine, listen attentively, and follow up with new acquaintances (week 9-12).  }"
+        },
+        {
+            "task_id": "41",
+            "constraints": {
+                "i1": 2.0
+            },
+            "response": "{0, Time Management Analysis,  Break down the task into smaller steps like: 1) Identify common interests with classmates (2 weeks), 2) Initiate conversations and be approachable (ongoing), 3) Participate in school activities (weekly), 4) Be respectful and kind (ongoing), 5) Learn to resolve conflicts constructively (ongoing).  }"
+        },
+        {
+            "task_id": "41",
+            "constraints": {
+                "i2": 2.0
+            },
+            "response": "{0, Time Management Analysis,  Focus on building relationships during in-person interactions like classes, lunch breaks, and school events. Utilize shared notebooks or physical notes to communicate with classmates. Participate actively in group projects and extracurricular activities to connect with peers who share similar interests.}"
+        },
+        {
+            "task_id": "41",
+            "constraints": {
+                "e1": 2.0
+            },
+            "response": "{0, Time Management Analysis,  Focus on building relationships during school hours: participate actively in class discussions, join clubs or activities that align with interests, be friendly and approachable to classmates, initiate conversations during lunch or breaks. Utilize online platforms (if allowed) for group projects or study sessions to connect with classmates virtually.}"
+        },
+        {
+            "task_id": "41",
+            "constraints": {
+                "e2": 2.0
+            },
+            "response": "{0, Time Management Analysis,  Break down the task into smaller steps like: 1) Identify common interests with classmates (within first week), 2) Initiate conversations based on shared interests (ongoing throughout the semester), 3) Participate actively in class and extracurricular activities (weekly), 4) Be respectful and kind to everyone (daily). Create a schedule for these activities and stick to it.  }"
+        },
+        {
+            "task_id": "42",
+            "constraints": {
+                "s1": 2.0
+            },
+            "response": "{0, Time Management Analysis,  Ask a friend or family member who is familiar with online booking systems to assist in booking the ticket within the 2-hour timeframe.}"
+        },
+        {
+            "task_id": "42",
+            "constraints": {
+                "s2": 2.0
+            },
+            "response": "{0, Time Management Analysis,  Break down the task into smaller steps: 1) Identify desired destination and travel dates. 2) Use online travel search engines or apps to compare flight/train options based on price, time, and reviews. 3) Select the most suitable option and proceed with booking. Seek assistance from friends, family, or customer service if needed for choosing the appropriate option.}"
+        },
+        {
+            "task_id": "42",
+            "constraints": {
+                "i1": 4.0
+            },
+            "response": "{0, Time Management Analysis,  Book tickets in person at a physical ticket counter.}"
+        },
+        {
+            "task_id": "42",
+            "constraints": {
+                "i2": 2.0
+            },
+            "response": "{0, Time Management Analysis,  Find a valid payment method before attempting to book the ticket.}"
+        },
+        {
+            "task_id": "42",
+            "constraints": {
+                "e1": 4.0
+            },
+            "response": "{0, Time Management Analysis,  Identify physical ticket vendors in close proximity, prioritize those with shortest wait times based on online reviews or estimated queue lengths.}"
+        },
+        {
+            "task_id": "42",
+            "constraints": {
+                "e2": 3.0
+            },
+            "response": "{1, Time Management Analysis, Booking a ticket requires an online platform which is inaccessible without a network connection.}"
+        },
+        {
+            "task_id": "43",
+            "constraints": {
+                "s1": 3.0
+            },
+            "response": "{1, Time Management Analysis, Opening and operating a convenience store within one month with no prior experience in retail management is highly unlikely due to the complexity of tasks involved, such as securing permits, sourcing inventory, hiring staff, setting up operations, and marketing the store.}"
+        },
+        {
+            "task_id": "43",
+            "constraints": {
+                "s2": 3.0
+            },
+            "response": "{1, Time Management Analysis, Opening a convenience store within one month is an extremely tight timeframe.  Even with efficient time management, securing permits, finding a location, stocking inventory, hiring staff, and setting up operations would be incredibly difficult to achieve in such a short period.}"
+        },
+        {
+            "task_id": "43",
+            "constraints": {
+                "i1": 4.0
+            },
+            "response": "{1, Feasibility Analysis, Not enough funds to purchase goods and equipment constitutes a barrier to economic feasibility.}"
+        },
+        {
+            "task_id": "43",
+            "constraints": {
+                "i2": 5.0
+            },
+            "response": "{1, Feasibility Analysis, Obtaining necessary business licenses and permits typically takes several weeks to months, exceeding the one-month time constraint.}"
+        },
+        {
+            "task_id": "43",
+            "constraints": {
+                "e1": 3.0
+            },
+            "response": "{1, Feasibility Analysis, The existing saturation of convenience stores in the area presents a significant economic feasibility challenge, making it highly unlikely to achieve profitability within the given timeframe.}"
+        },
+        {
+            "task_id": "43",
+            "constraints": {
+                "e2": 3.0
+            },
+            "response": "{1, Feasibility Analysis, Insufficient demand in a sparse population makes it unlikely to generate sufficient revenue to sustain a convenience store.}"
+        },
+        {
+            "task_id": "44",
+            "constraints": {
+                "s1": 2.0
+            },
+            "response": "{1, Time Management Analysis,  The constraint of not knowing how to use the oven prevents the completion of baking cookies within the given time frame.}"
+        },
+        {
+            "task_id": "44",
+            "constraints": {
+                "s2": 2.0
+            },
+            "response": "{0, Time Management Analysis,  Find a simple cookie recipe with few ingredients and steps. Watch a short video tutorial on basic cookie baking techniques. Focus on efficiency during each step to save time.}"
+        },
+        {
+            "task_id": "44",
+            "constraints": {
+                "i1": 4.0
+            },
+            "response": "{1, Feasibility Analysis, Lack of oven or microwave makes it technically infeasible to bake cookies}"
+        },
+        {
+            "task_id": "44",
+            "constraints": {
+                "i2": 4.0
+            },
+            "response": "{1, Resource Allocation Analysis, Lack of necessary ingredients for baking cookies.}"
+        },
+        {
+            "task_id": "44",
+            "constraints": {
+                "e1": 5.0
+            },
+            "response": "{1, Feasibility Analysis, Unable to use kitchen equipment at home}"
+        },
+        {
+            "task_id": "44",
+            "constraints": {
+                "e2": 5.0
+            },
+            "response": "{1, Feasibility Analysis, Baking cookies requires an oven which is unavailable in a camping environment.}"
+        },
+        {
+            "task_id": "45",
+            "constraints": {
+                "s1": 3.0
+            },
+            "response": "{0, Time Management Analysis,  Order ingredients online for delivery within 2 hours.}"
+        },
+        {
+            "task_id": "45",
+            "constraints": {
+                "s2": 3.0
+            },
+            "response": "{0, Time Management Analysis,  Break down the task into smaller steps: 1) Consult a pre-made cookie recipe list online (15 min), 2) Create a shopping list based on the chosen recipe (15 min), 3) Visit the grocery store and purchase ingredients (60 min), 4) Return home and organize purchased ingredients (15 min). }"
+        },
+        {
+            "task_id": "45",
+            "constraints": {
+                "i1": 2.0
+            },
+            "response": "{0, Time Management Analysis,  Break down the task into smaller steps: 1) Create a list of needed ingredients. 2) Check pantry for existing ingredients to avoid unnecessary purchases. 3) Plan the most efficient route to the store considering traffic and store layout. 4) Purchase only necessary items to avoid carrying too much. 5) Return home and organize purchased ingredients.}"
+        },
+        {
+            "task_id": "45",
+            "constraints": {
+                "i2": 4.0
+            },
+            "response": "{0, Time Management Analysis,  Find alternative payment methods like using a mobile wallet, online payment platforms, or asking someone with cash/card to purchase the ingredients on your behalf.}"
+        },
+        {
+            "task_id": "45",
+            "constraints": {
+                "e1": 4.0
+            },
+            "response": "{0, Time Management Analysis,  Break down the task into steps like: 1) Create a shopping list (15 mins), 2) Choose a supermarket (10 mins), 3) Navigate to the supermarket (30 mins), 4) Purchase ingredients (45 mins), 5) Return home (30 mins). This allows for efficient time allocation and completion within 2 hours.}"
+        },
+        {
+            "task_id": "45",
+            "constraints": {
+                "e2": 2.0
+            },
+            "response": "{0, Time Management Analysis,  Break down the task into steps like: 1) Check existing ingredients (5 mins), 2) Create a shopping list (10 mins), 3) Travel to the store (30 mins), 4) Purchase ingredients (45 mins), 5) Return home (30 mins). This allows for efficient time allocation and ensures completion within 2 hours.}"
+        },
+        {
+            "task_id": "46",
+            "constraints": {
+                "s1": 2.0
+            },
+            "response": "{0, Time Management Analysis, Break down the application process into smaller steps. Seek assistance from a financial aid advisor or counselor at your school or a trusted individual familiar with these forms to help with understanding and filling out the application accurately. Utilize online resources and tutorials specifically designed for financial aid applications. }"
+        },
+        {
+            "task_id": "46",
+            "constraints": {
+                "s2": 2.0
+            },
+            "response": "{0, Time Management Analysis,  Contact the financial aid office to inquire about alternative application methods, such as paper applications or phone assistance. }"
+        },
+        {
+            "task_id": "46",
+            "constraints": {
+                "i1": 4.0
+            },
+            "response": "{0, Time Management Analysis,  Break down the application into steps (e.g., gathering basic information, filling out sections, submitting). Estimate time needed for each step. Create a schedule that allows completion before the deadline.}"
+        },
+        {
+            "task_id": "46",
+            "constraints": {
+                "i2": 2.0
+            },
+            "response": "{0, Time Management Analysis,  Contact the financial aid office to inquire about alternative application methods, such as paper applications or assistance with online submission at a public library or community center.}"
+        },
+        {
+            "task_id": "46",
+            "constraints": {
+                "e1": 3.0
+            },
+            "response": "{0, Time Management Analysis,  Break down the application process into smaller steps (gathering required documents, filling out forms online if available, contacting relevant individuals within the school/institution for guidance). Prioritize tasks based on deadlines and urgency. Create a schedule that allocates sufficient time for each step while adhering to the financial aid application deadline.}"
+        },
+        {
+            "task_id": "46",
+            "constraints": {
+                "e2": 3.0
+            },
+            "response": "{0, Time Management Analysis, Find a quiet space at a library, community center, or even a friend's house where you can complete the application without distractions.}"
+        },
+        {
+            "task_id": "47",
+            "constraints": {
+                "s1": 2.0
+            },
+            "response": "{0, Time Management Analysis,  Break down learning into smaller steps (e.g., safety first, basic mounting/dismounting, walk commands) and focus on one step per day. This allows for faster progress within the week.}"
+        },
+        {
+            "task_id": "47",
+            "constraints": {
+                "s2": 2.0
+            },
+            "response": "{0, Time Management Analysis,  Break down equestrian classes into smaller steps like introductory theory sessions on horse behavior, basic grooming techniques, supervised ground work exercises before progressing to riding lessons. This allows gradual learning and addressing the lack of understanding of horse behavior.}"
+        },
+        {
+            "task_id": "47",
+            "constraints": {
+                "i1": 3.0
+            },
+            "response": "{0, Resource Allocation Analysis,  Acquire necessary equestrian equipment such as helmets, equestrian saddles, riding boots, etc. }"
+        },
+        {
+            "task_id": "47",
+            "constraints": {
+                "i2": 4.0
+            },
+            "response": "{1, Feasibility Analysis,  No suitable horses are available to participate in equestrian classes.}"
+        },
+        {
+            "task_id": "47",
+            "constraints": {
+                "e1": 4.0
+            },
+            "response": "{1, Time Management Analysis, Completing an equestrian course requires physical presence at a training facility with horses and instructors.  }"
+        },
+        {
+            "task_id": "47",
+            "constraints": {
+                "e2": 5.0
+            },
+            "response": "{0, Time Management Analysis,  Break down learning into smaller steps (e.g., mounting/dismounting, basic commands, walking). Utilize online resources like videos and articles for guidance. Focus on practicing fundamental skills consistently throughout the week.}"
+        },
+        {
+            "task_id": "48",
+            "constraints": {
+                "s1": 3.0
+            },
+            "response": "{1, Time Management Analysis, The time constraint of 6 months is likely insufficient to complete all adoption procedures, especially considering the need to arrange transportation for the child. }"
+        },
+        {
+            "task_id": "48",
+            "constraints": {
+                "s2": 5.0
+            },
+            "response": "{1, Feasibility Analysis,  Adopting a child requires significant financial resources to provide for the child's basic needs, healthcare, education, and overall well-being. Without financial management skills, it may be challenging to ensure a stable living environment for a child, making adoption financially infeasible.}"
+        },
+        {
+            "task_id": "48",
+            "constraints": {
+                "i1": 5.0
+            },
+            "response": "{1, Resource Allocation Analysis,  Insufficient resources to provide basic necessities for a child.}"
+        },
+        {
+            "task_id": "48",
+            "constraints": {
+                "i2": 5.0
+            },
+            "response": "{1, Feasibility Analysis, It is impossible to meet the basic life needs of a child without sufficient economic resources.}"
+        },
+        {
+            "task_id": "48",
+            "constraints": {
+                "e1": 4.0
+            },
+            "response": "{1, Time Management Analysis,  It is highly unlikely to complete all adoption procedures and placement within 6 months, especially considering the constraint of geographical distance preventing direct contact with the child.}"
+        },
+        {
+            "task_id": "48",
+            "constraints": {
+                "e2": 5.0
+            },
+            "response": "{1, Time Management Analysis, The adoption process typically takes much longer than 6 months due to legal procedures, home study requirements, background checks, and waiting periods. }"
+        },
+        {
+            "task_id": "49",
+            "constraints": {
+                "s1": 4.0
+            },
+            "response": "{0, Time Management Analysis,  Arrange for a friend or family member to pick up the guitar and bring it home.}"
+        },
+        {
+            "task_id": "49",
+            "constraints": {
+                "s2": 4.0
+            },
+            "response": "{0, Time Management Analysis,  Find someone who can drive you home with their car or rent a car for the day.}"
+        },
+        {
+            "task_id": "49",
+            "constraints": {
+                "i1": 3.0
+            },
+            "response": "{0, Time Management Analysis,  Acquire a guitar case before transporting the guitar.}"
+        },
+        {
+            "task_id": "49",
+            "constraints": {
+                "i2": 5.0
+            },
+            "response": "{0, Time Management Analysis,  Break down the task into steps: 1) Find a guitar to buy (research options, visit stores), 2) Purchase the guitar, 3) Transport the guitar home.}"
+        },
+        {
+            "task_id": "49",
+            "constraints": {
+                "e1": 3.0
+            },
+            "response": "{0, Time Management Analysis,  1. Identify a guitar shop within reach. 2. Travel to the shop. 3. Select a guitar. 4. Purchase the guitar. 5. Transport the guitar back home.}"
+        },
+        {
+            "task_id": "49",
+            "constraints": {
+                "e2": 3.0
+            },
+            "response": "{0, Time Management Analysis,  Identify transportation options (e.g., taxi, public transport) and schedule travel time to bring the guitar back home within the day.}"
+        }
+    ]
+}

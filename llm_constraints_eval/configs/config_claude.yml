@@ -1,0 +1,17 @@
+data_file: ./data/topic_constraints_en_2403_v2.json
+api_configs_file: ./configs/api_configs.yml
+save_root: ./results/res_2410
+llm: claude-3-5-sonnet
+stages: ['query', 'evaluate']
+# stages: ['evaluate']
+
+#### query stage ####
+# query_template_file: ./templates/base.txt
+query_template_file: ./templates/softmoe.txt
+num_constraints: 1
+reset_progress: False
+first_k: 50
+
+#### evaluate params ####
+# result_file: 
+multi_type_agg: max

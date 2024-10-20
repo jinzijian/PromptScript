@@ -1,0 +1,2104 @@
+{
+    "results": [
+        {
+            "task_id": "0",
+            "constraints": {
+                "s1": 3.0
+            },
+            "response": "{0, Use a ride-sharing service or taxi to reach the restaurant within the time constraint. This resolves the driving constraint and allows for completion of the task within 1 hour.}"
+        },
+        {
+            "task_id": "0",
+            "constraints": {
+                "s2": 1.0
+            },
+            "response": "{0, Use a translation app on smartphone to communicate with staff and understand menu. Point to items on menu when ordering. Allow extra time for potential communication difficulties.}"
+        },
+        {
+            "task_id": "0",
+            "constraints": {
+                "i1": 3.0
+            },
+            "response": "{1, Unable to dine at the restaurant without money or payment tools to pay for the meal}"
+        },
+        {
+            "task_id": "0",
+            "constraints": {
+                "i2": 2.0
+            },
+            "response": "{0, Walk to a nearby restaurant or ask locals for recommendations. Choose a restaurant within walking distance to save time. Arrive, be seated, order quickly, and eat efficiently to complete the meal within the time constraint.}"
+        },
+        {
+            "task_id": "0",
+            "constraints": {
+                "e1": 5.0
+            },
+            "response": "{1, The restaurant is closed for maintenance, making it impossible to dine there within the given time constraint of 1 hour.}"
+        },
+        {
+            "task_id": "0",
+            "constraints": {
+                "e2": 5.0
+            },
+            "response": "{1, The restaurant is closed and unable to enter, making it impossible to complete the task of going to the restaurant and dining within 1 hour.}"
+        },
+        {
+            "task_id": "1",
+            "constraints": {
+                "s1": 2.0
+            },
+            "response": "{0, Use room temperature water for the bath. While not ideal, it allows completion of the task within 15 minutes without adjusting water temperature.}"
+        },
+        {
+            "task_id": "1",
+            "constraints": {
+                "s2": 2.0
+            },
+            "response": "{0, Use all available products as body wash. Focus on thorough cleaning rather than product distinction. Rinse well and complete within the time limit.}"
+        },
+        {
+            "task_id": "1",
+            "constraints": {
+                "i1": 2.0
+            },
+            "response": "{0, Use alternative cleansing agents like soap, body wash, or even plain water. Rinse thoroughly and finish within the 15-minute time limit.}"
+        },
+        {
+            "task_id": "1",
+            "constraints": {
+                "i2": 2.0
+            },
+            "response": "{0, Use alternative drying methods such as air drying, using a clean article of clothing, or improvising with paper towels or a clean bed sheet as a makeshift towel.}"
+        },
+        {
+            "task_id": "1",
+            "constraints": {
+                "e1": 5.0
+            },
+            "response": "{1, The task cannot be completed due to the bathroom water supply interruption. Without water, it is impossible to take a bath or shower within the given time constraint of 15 minutes.}"
+        },
+        {
+            "task_id": "1",
+            "constraints": {
+                "e2": 4.0
+            },
+            "response": "{0, Take a cold bath instead. Cold baths can be completed within 15 minutes and don't require hot water. While less comfortable, they can be invigorating and offer health benefits.}"
+        },
+        {
+            "task_id": "2",
+            "constraints": {
+                "s1": 5.0
+            },
+            "response": "{0, Take swimming lessons at the pool or participate in other pool activities that don't require swimming, such as water aerobics or lounging by the pool.}"
+        },
+        {
+            "task_id": "2",
+            "constraints": {
+                "s2": 2.0
+            },
+            "response": "{0, Use a ride-sharing service or public transportation to reach the swimming pool. This resolves the driving constraint and allows you to complete the swim within the 2-hour time limit.}"
+        },
+        {
+            "task_id": "2",
+            "constraints": {
+                "i1": 3.0
+            },
+            "response": "{0, Purchase or rent a swimsuit at the pool or nearby store before entering the pool area.}"
+        },
+        {
+            "task_id": "2",
+            "constraints": {
+                "i2": 2.0
+            },
+            "response": "{0, Swim without goggles. While not ideal, it's possible to swim without goggles for 2 hours. Keep eyes closed underwater or blink frequently to protect them from chlorine.}"
+        },
+        {
+            "task_id": "2",
+            "constraints": {
+                "e1": 5.0
+            },
+            "response": "{1, The swimming pool is under maintenance, making it impossible to swim within the given time constraint of 2 hours.}"
+        },
+        {
+            "task_id": "2",
+            "constraints": {
+                "e2": 4.0
+            },
+            "response": "{1, The weather is not suitable for swimming, making it unsafe or impractical to go to the swimming pool. The primary constraint cannot be resolved within the given time frame.}"
+        },
+        {
+            "task_id": "3",
+            "constraints": {
+                "s1": 2.0
+            },
+            "response": "{0, Ask a librarian for assistance with manual book checkout, as they can process the borrowing without using the self-service machine.}"
+        },
+        {
+            "task_id": "3",
+            "constraints": {
+                "s2": 1.0
+            },
+            "response": "{0, Ask a librarian for assistance in using the electronic catalog. They can provide a quick tutorial on how to search for books, which should take no more than 15-20 minutes. This leaves ample time to search for and borrow books within the 2-hour time constraint.}"
+        },
+        {
+            "task_id": "3",
+            "constraints": {
+                "i1": 5.0
+            },
+            "response": "{0, Apply for a temporary library card or guest pass, which can often be obtained on the same day. Many libraries offer this service for new patrons or visitors, allowing immediate borrowing privileges.}"
+        },
+        {
+            "task_id": "3",
+            "constraints": {
+                "i2": 3.0
+            },
+            "response": "{0, Return home to retrieve valid identification, then go to the library. This can be completed within 2 hours if the distance to home and library allows for round-trip travel within the time constraint.}"
+        },
+        {
+            "task_id": "3",
+            "constraints": {
+                "e1": 5.0
+            },
+            "response": "{0, Use the library's online borrowing system or mobile app to reserve books and arrange for curbside pickup or home delivery service while the physical library is closed for renovation.}"
+        },
+        {
+            "task_id": "3",
+            "constraints": {
+                "e2": 5.0
+            },
+            "response": "{1, The task cannot be completed because the city does not have a library. Without a library, it is impossible to borrow books from one within the given time constraint.}"
+        },
+        {
+            "task_id": "4",
+            "constraints": {
+                "s1": 2.0
+            },
+            "response": "{1, Lack of knowledge on how to use the oven is a critical constraint for baking a cake. Learning to use the oven safely and effectively typically takes more than 1 hour, especially for a beginner. Without this essential skill, it is not possible to complete the task of baking a cake within the given time frame.}"
+        },
+        {
+            "task_id": "4",
+            "constraints": {
+                "s2": 2.0
+            },
+            "response": "{0, Use a simple boxed cake mix with clear instructions. Follow the step-by-step guide on the package, which typically requires minimal baking knowledge. Gather all ingredients and equipment beforehand. Set a timer for each step to stay within the 1-hour limit.}"
+        },
+        {
+            "task_id": "4",
+            "constraints": {
+                "i1": 3.0
+            },
+            "response": "{0, Use alternative baking containers like muffin tins, oven-safe glass dishes, or disposable aluminum pans as substitutes for the baking tray. Adjust baking time if needed.}"
+        },
+        {
+            "task_id": "4",
+            "constraints": {
+                "i2": 5.0
+            },
+            "response": "{0, Use egg substitutes like mashed banana, applesauce, or commercial egg replacer to bake the cake without eggs. Adjust recipe as needed and proceed with baking within the 1-hour timeframe.}"
+        },
+        {
+            "task_id": "4",
+            "constraints": {
+                "e1": 4.0
+            },
+            "response": "{0, Use a microwave or stovetop to make a mug cake or no-bake cake recipe. Alternatively, use a slow cooker or pressure cooker to bake a cake without a traditional oven.}"
+        },
+        {
+            "task_id": "4",
+            "constraints": {
+                "e2": 1.0
+            },
+            "response": "{0, Use noise-canceling headphones or earplugs to minimize distractions. Prepare ingredients and equipment in advance. Choose a simple cake recipe that can be mixed and baked within the time limit. Set a timer to stay on track.}"
+        },
+        {
+            "task_id": "5",
+            "constraints": {
+                "s1": 5.0
+            },
+            "response": "{0, Book a flight as a passenger on a commercial airline. This allows you to fly on an airplane without needing a pilot's license, and commercial flights typically operate during daytime hours.}"
+        },
+        {
+            "task_id": "5",
+            "constraints": {
+                "s2": 4.0
+            },
+            "response": "{0, Book a commercial flight as a passenger. Attend pre-flight safety briefing, follow crew instructions, and enjoy the flight without needing personal flight skills.}"
+        },
+        {
+            "task_id": "5",
+            "constraints": {
+                "i1": 5.0
+            },
+            "response": "{1, The constraint states that without a plane, it is impossible to fly. Since no plane is provided or mentioned as available, the task cannot be completed.}"
+        },
+        {
+            "task_id": "5",
+            "constraints": {
+                "i2": 5.0
+            },
+            "response": "{0, The task can be completed without flying equipment. As a passenger on a commercial airplane, you don't need specialized gear. Simply book a ticket, go through security, and board the plane during daytime hours to complete the flight within the prescribed time.}"
+        },
+        {
+            "task_id": "5",
+            "constraints": {
+                "e1": 3.0
+            },
+            "response": "{0, Go to the airport before attempting to fly on the airplane.}"
+        },
+        {
+            "task_id": "5",
+            "constraints": {
+                "e2": 5.0
+            },
+            "response": "{1, Unable to fly in a no-fly zone as it is prohibited by law and could result in severe legal consequences and safety risks}"
+        },
+        {
+            "task_id": "6",
+            "constraints": {
+                "s1": 2.0
+            },
+            "response": "{1, The task cannot be completed because the constraint of not making a dental appointment directly conflicts with the requirement to see a dentist within 24 hours. Without an appointment, it is highly unlikely to be seen by a dentist on such short notice, especially considering most dental practices require scheduled appointments for non-emergency visits.}"
+        },
+        {
+            "task_id": "6",
+            "constraints": {
+                "s2": 2.0
+            },
+            "response": "{0, Use a ride-sharing service, taxi, or public transportation to get to the dentist. Alternatively, ask a friend or family member for a ride. Call the dentist's office to explain the urgency and request an emergency appointment within 24 hours.}"
+        },
+        {
+            "task_id": "6",
+            "constraints": {
+                "i1": 4.0
+            },
+            "response": "{0, Call the dentist to make an appointment within 24 hours. Explain the wallet situation and ask if they can bill you later or if you can pay online after the appointment. Alternatively, ask a friend or family member to bring your wallet or lend you money for the appointment.}"
+        },
+        {
+            "task_id": "6",
+            "constraints": {
+                "i2": 4.0
+            },
+            "response": "{0, Call the dentist's office to explain the situation and ask if they can verify insurance information over the phone or online. If not, request a self-pay appointment and bring necessary identification. Schedule an emergency appointment within 24 hours.}"
+        },
+        {
+            "task_id": "6",
+            "constraints": {
+                "e1": 5.0
+            },
+            "response": "{1, The dental clinic is not open, and there is no way to guarantee it will open within the 24-hour time constraint. Even if the clinic opens the next day, it may not have available appointments within the remaining time frame.}"
+        },
+        {
+            "task_id": "6",
+            "constraints": {
+                "e2": 5.0
+            },
+            "response": "{1, The task cannot be completed within 24 hours due to the inability to find a doctor available for an appointment tomorrow. Dental appointments typically require advance scheduling, and the constraint of no available doctors within the given timeframe makes it impossible to both make an appointment and see the dentist within 24 hours.}"
+        },
+        {
+            "task_id": "7",
+            "constraints": {
+                "s1": 2.0
+            },
+            "response": "{1, Lack of knowledge on how to use an iron is a critical constraint that prevents completion of the ironing task within the given time frame. Learning to use an iron safely and effectively typically requires more than 30 minutes for a beginner.}"
+        },
+        {
+            "task_id": "7",
+            "constraints": {
+                "s2": 2.0
+            },
+            "response": "{1, Lack of knowledge about ironing techniques and steps is a critical constraint that prevents safe and effective completion of the task within the given time frame. Learning proper ironing methods is essential before attempting the task.}"
+        },
+        {
+            "task_id": "7",
+            "constraints": {
+                "i1": 5.0
+            },
+            "response": "{1, The task of ironing clothes cannot be completed within the given time constraint due to the absence of an iron, which is the primary tool required for this task. Without an iron, there is no effective way to remove wrinkles and press clothes within the specified 30-minute timeframe.}"
+        },
+        {
+            "task_id": "7",
+            "constraints": {
+                "i2": 4.0
+            },
+            "response": "{0, Use alternative flat surfaces like a table or countertop covered with a thick towel as a makeshift ironing board. This allows for ironing within the 30-minute time constraint without a traditional ironing board.}"
+        },
+        {
+            "task_id": "7",
+            "constraints": {
+                "e1": 4.0
+            },
+            "response": "{0, Use a portable handheld steamer or wrinkle-release spray as an alternative to traditional ironing. These methods can be used in various locations and require minimal space.}"
+        },
+        {
+            "task_id": "7",
+            "constraints": {
+                "e2": 5.0
+            },
+            "response": "{0, Use a cordless or rechargeable iron to complete the ironing tasks without needing a nearby power source.}"
+        },
+        {
+            "task_id": "8",
+            "constraints": {
+                "s1": 2.0
+            },
+            "response": "{0, Use a translation app on smartphone to translate bus route information. Ask for help from locals or bus driver using gestures or translated phrases. Look for universal symbols or numbers on bus stops/buses. Use GPS and map apps to track location and compare with bus routes.}"
+        },
+        {
+            "task_id": "8",
+            "constraints": {
+                "s2": 4.0
+            },
+            "response": "{0, Learn to use cash for bus fare. Ask the bus driver or fellow passengers for help with the correct fare amount and how to pay. Many buses still accept cash payments, making it possible to take the bus without electronic payment methods. This solution can be implemented within the 1-hour time constraint.}"
+        },
+        {
+            "task_id": "8",
+            "constraints": {
+                "i1": 4.0
+            },
+            "response": "{0, Purchase a single-ride paper ticket with cash at the bus station or from the bus driver before boarding.}"
+        },
+        {
+            "task_id": "8",
+            "constraints": {
+                "i2": 2.0
+            },
+            "response": "{0, Ask locals or bus station staff for route information, or wait at a bus stop and inquire with the driver about the route}"
+        },
+        {
+            "task_id": "8",
+            "constraints": {
+                "e1": 3.0
+            },
+            "response": "{0, Walk or travel to the nearest bus stop within the 1-hour time frame, then take the bus from there.}"
+        },
+        {
+            "task_id": "8",
+            "constraints": {
+                "e2": 3.0
+            },
+            "response": "{1, The task cannot be completed because there are no buses passing by in the given location. Without access to bus service, it is impossible to take a bus within the 1-hour time constraint.}"
+        },
+        {
+            "task_id": "9",
+            "constraints": {
+                "s1": 2.0
+            },
+            "response": "{0, Visit a nearby fast food restaurant in person and place your order at the counter or drive-thru. This method doesn't require online ordering knowledge and can be completed within 30 minutes.}"
+        },
+        {
+            "task_id": "9",
+            "constraints": {
+                "s2": 1.0
+            },
+            "response": "{0, Use the counter service or drive-thru to place your order verbally with a staff member instead of using the self-service machine. Most fast food restaurants offer multiple ordering options, so this constraint can be easily overcome within the 30-minute time frame.}"
+        },
+        {
+            "task_id": "9",
+            "constraints": {
+                "i1": 2.0
+            },
+            "response": "{0, Walk or drive to a nearby fast food restaurant and place your order in person at the counter or drive-thru within 30 minutes.}"
+        },
+        {
+            "task_id": "9",
+            "constraints": {
+                "i2": 2.0
+            },
+            "response": "{0, Use a food delivery app or website to order from a fast food restaurant for delivery or pickup within 30 minutes. Alternatively, walk or use public transportation to visit a nearby fast food restaurant and place an order in person.}"
+        },
+        {
+            "task_id": "9",
+            "constraints": {
+                "e1": 3.0
+            },
+            "response": "{0, Use a food delivery app or website to order fast food from a restaurant and have it delivered to your location within 30 minutes.}"
+        },
+        {
+            "task_id": "9",
+            "constraints": {
+                "e2": 3.0
+            },
+            "response": "{0, Visit a physical fast food restaurant or use a drive-thru to place your order in person within 30 minutes.}"
+        },
+        {
+            "task_id": "10",
+            "constraints": {
+                "s1": 2.0
+            },
+            "response": "{0, Hire an interior designer or consult online resources for design ideas. Take online courses or watch tutorials to learn basic renovation skills. Use project management apps to plan and track progress. Outsource complex tasks to professionals if needed.}"
+        },
+        {
+            "task_id": "10",
+            "constraints": {
+                "s2": 2.0
+            },
+            "response": "{0, Hire professional contractors or take DIY renovation classes to learn necessary skills. Start with simpler tasks like painting and gradually progress to more complex renovations as skills improve. Utilize online tutorials and resources for guidance. Rent or borrow tools as needed. Plan and prioritize tasks to ensure completion within the one-month timeframe.}"
+        },
+        {
+            "task_id": "10",
+            "constraints": {
+                "i1": 3.0
+            },
+            "response": "{1, Lack of necessary renovation materials prevents the task from being completed within the given time frame. Without paint, wallpaper, flooring, and other essential supplies, it is not possible to renovate the room effectively.}"
+        },
+        {
+            "task_id": "10",
+            "constraints": {
+                "i2": 4.0
+            },
+            "response": "{0, Rent or borrow the necessary renovation tools from a local hardware store or tool rental service. Many stores offer affordable rental options for various tools needed for home renovation projects. This solution allows you to acquire the required equipment without purchasing them outright, making it possible to complete the room renovation within the one-month timeframe.}"
+        },
+        {
+            "task_id": "10",
+            "constraints": {
+                "e1": 3.0
+            },
+            "response": "{0, Temporarily move furniture to storage or another location, then proceed with the renovation. Once complete, move furniture back into the renovated room.}"
+        },
+        {
+            "task_id": "10",
+            "constraints": {
+                "e2": 4.0
+            },
+            "response": "{1, The task cannot be completed within the given time constraint because the room is currently in use and cannot be vacated for renovation. Renovating an occupied room would be disruptive, unsafe, and impractical. A complete room renovation typically requires the space to be empty and accessible for workers, which is not possible under the given constraints.}"
+        },
+        {
+            "task_id": "11",
+            "constraints": {
+                "s1": 2.0
+            },
+            "response": "{0, Learn basic hair washing steps: Wet hair, apply small amount of shampoo, massage scalp, rinse thoroughly. Apply conditioner to ends, wait 1-2 minutes, rinse. Can be completed within 15 minutes with quick instruction.}"
+        },
+        {
+            "task_id": "11",
+            "constraints": {
+                "s2": 1.0
+            },
+            "response": "{0, Learn basic scalp massage technique quickly: use fingertips to gently rub scalp in circular motions while shampooing. Focus on thorough cleaning rather than perfect technique. Complete other hair washing steps as usual.}"
+        },
+        {
+            "task_id": "11",
+            "constraints": {
+                "i1": 3.0
+            },
+            "response": "{0, Use alternative cleansing methods such as water-only washing, dry shampoo, or natural ingredients like baking soda or apple cider vinegar to clean hair without traditional shampoo or conditioner.}"
+        },
+        {
+            "task_id": "11",
+            "constraints": {
+                "i2": 4.0
+            },
+            "response": "{1, The task cannot be completed due to the lack of water sources or shower facilities, which are essential for washing hair. Dry shampoo or waterless hair cleaning methods would not provide a thorough hair wash within the given constraints.}"
+        },
+        {
+            "task_id": "11",
+            "constraints": {
+                "e1": 4.0
+            },
+            "response": "{1, Unable to wash hair without access to a bathroom or suitable location with water and proper facilities for hair washing within the given time constraint}"
+        },
+        {
+            "task_id": "11",
+            "constraints": {
+                "e2": 5.0
+            },
+            "response": "{1, Washing hair in public places or environments where it is not appropriate violates social norms and hygiene standards. There is no suitable solution to overcome this constraint within the given time and setting.}"
+        },
+        {
+            "task_id": "12",
+            "constraints": {
+                "s1": 3.0
+            },
+            "response": "{0, To listen to YouTube videos on iPhone without watching: 1. Open YouTube app. 2. Start a video. 3. Lock your screen. 4. Swipe down to open Control Center. 5. Press play on the media controls. This method works without additional apps or subscriptions and can be learned within 5 minutes.}"
+        },
+        {
+            "task_id": "12",
+            "constraints": {
+                "s2": 3.0
+            },
+            "response": "{0, Enable background play in YouTube app: 1. Open YouTube app. 2. Tap profile icon. 3. Go to Settings > Background & downloads. 4. Turn on \"Background play\". 5. Play video, then lock screen or switch apps. Audio continues playing.}"
+        },
+        {
+            "task_id": "12",
+            "constraints": {
+                "i1": 5.0
+            },
+            "response": "{1, The task cannot be completed within 5 minutes because the user does not know the password for the iPhone device. Without the password, it is impossible to access the device's settings or install any apps that would allow listening to YouTube videos without watching them. The password is a critical security feature that prevents unauthorized access to the device's functions and settings.}"
+        },
+        {
+            "task_id": "12",
+            "constraints": {
+                "i2": 1.0
+            },
+            "response": "{0, Open Safari browser, go to YouTube.com, search for desired video, play video, lock screen or switch to another app while audio continues to play in background. Enable background audio playback in Safari settings if needed.}"
+        },
+        {
+            "task_id": "12",
+            "constraints": {
+                "e1": 3.0
+            },
+            "response": "{1, The task cannot be completed within the given constraints because listening to YouTube videos requires an active internet connection. Without a network connection, it is not possible to access or stream YouTube content on an iPhone.}"
+        },
+        {
+            "task_id": "12",
+            "constraints": {
+                "e2": 3.0
+            },
+            "response": "{0, Enable background play in YouTube app settings or use YouTube Premium. Lock iPhone screen and control playback from lock screen or Control Center. Use AirPods or other wireless earphones for discreet listening.}"
+        },
+        {
+            "task_id": "13",
+            "constraints": {
+                "s1": 1.0
+            },
+            "response": "{0, To set up two-step verification for WhatsApp on Android: 1. Open WhatsApp and tap the three dots menu. 2. Go to Settings > Account > Two-step verification. 3. Tap Enable. 4. Create a 6-digit PIN and confirm it. 5. Add an email address for recovery (optional). 6. Tap Done. Provide clear instructions and highlight the importance of remembering the PIN for users unfamiliar with WhatsApp settings.}"
+        },
+        {
+            "task_id": "13",
+            "constraints": {
+                "s2": 3.0
+            },
+            "response": "{0, Briefly explain two-step verification as an extra security measure that requires a PIN in addition to the regular login. Then guide users through the setup process: Open WhatsApp > Settings > Account > Two-step verification > Enable. Choose a 6-digit PIN and optionally add an email address for recovery. This explanation and setup can be completed within the 5-10 minute timeframe.}"
+        },
+        {
+            "task_id": "13",
+            "constraints": {
+                "i1": 5.0
+            },
+            "response": "{1, The task cannot be completed because the user does not have an Android phone, which is essential for setting up two-step verification for WhatsApp on Android. Two-step verification for WhatsApp is platform-specific, and the process for Android devices cannot be performed on other operating systems or devices.}"
+        },
+        {
+            "task_id": "13",
+            "constraints": {
+                "i2": 2.0
+            },
+            "response": "{1, The task cannot be completed because the user's phone does not have WhatsApp installed. Setting up two-step verification for WhatsApp requires the app to be installed and functional on the device. The first step would be to install WhatsApp, which is not possible within the given time constraint of 5 to 10 minutes, as it involves downloading, installing, and setting up the app before proceeding with two-step verification.}"
+        },
+        {
+            "task_id": "13",
+            "constraints": {
+                "e1": 3.0
+            },
+            "response": "{1, Setting up two-step verification for WhatsApp on Android requires an active internet connection. Users in places without internet cannot complete this task as WhatsApp needs to communicate with its servers to enable and verify the two-step authentication process.}"
+        },
+        {
+            "task_id": "13",
+            "constraints": {
+                "e2": 5.0
+            },
+            "response": "{0, Plug the phone into a charger before starting the setup process. This will ensure the battery doesn't die during the setup of two-step verification for WhatsApp on Android, which typically takes 5-10 minutes.}"
+        },
+        {
+            "task_id": "14",
+            "constraints": {
+                "s1": 3.0
+            },
+            "response": "{0, Take a brisk walk or do light exercises to increase blood flow and boost energy. Drink water to stay hydrated. Eat a healthy snack for quick energy. Listen to upbeat music. Take a cold shower or splash cold water on your face. Engage in a stimulating conversation or activity. Step outside for fresh air and natural light exposure. These methods can help combat fatigue without relying on sleep, yoga, or meditation.}"
+        },
+        {
+            "task_id": "14",
+            "constraints": {
+                "s2": 2.0
+            },
+            "response": "{0, Take a brisk walk or do light exercises to increase blood flow and boost energy. Drink water to stay hydrated. Practice deep breathing or meditation to increase alertness. Expose yourself to bright light or sunlight to help regulate your body's circadian rhythm. Listen to upbeat music or engage in a stimulating conversation to keep your mind active.}"
+        },
+        {
+            "task_id": "14",
+            "constraints": {
+                "i1": 4.0
+            },
+            "response": "{0, Take a brisk 10-minute walk outside, do some light stretching exercises, splash cold water on your face, listen to upbeat music, eat a healthy snack like an apple or nuts, and engage in a mentally stimulating activity like a puzzle or conversation with a friend.}"
+        },
+        {
+            "task_id": "14",
+            "constraints": {
+                "i2": 2.0
+            },
+            "response": "{0, Take a cold shower or splash cold water on your face to stimulate alertness. Drink water to stay hydrated. Engage in light stretching or walking. Try deep breathing exercises or meditation. Consume a healthy snack for an energy boost. Listen to upbeat music or engage in a mentally stimulating activity like a puzzle.}"
+        },
+        {
+            "task_id": "14",
+            "constraints": {
+                "e1": 3.0
+            },
+            "response": "{0, Take a brisk walk or do light exercises like jumping jacks or stretches to increase blood flow and boost energy. Drink cold water and splash some on your face. Engage in a stimulating conversation or listen to upbeat music to stay alert. Eat a healthy snack with complex carbohydrates and protein for sustained energy. If possible, step outside for fresh air and natural light exposure.}"
+        },
+        {
+            "task_id": "14",
+            "constraints": {
+                "e2": 2.0
+            },
+            "response": "{0, Engage in physical exercise like jumping jacks or push-ups to increase heart rate and boost energy. Drink cold water and splash face with cold water to feel alert. Practice deep breathing exercises or meditation to increase oxygen flow and mental clarity. Consume a healthy snack with protein and complex carbohydrates for sustained energy. Listen to upbeat music or engage in a stimulating conversation to activate the mind.}"
+        },
+        {
+            "task_id": "15",
+            "constraints": {
+                "s1": 3.0
+            },
+            "response": "{1, The task cannot be completed within the given time constraint due to the lack of medical knowledge and inability to self-diagnose. Properly identifying eye mites requires professional medical examination, which typically involves scheduling an appointment with an eye doctor or dermatologist, undergoing a thorough eye examination, and potentially waiting for test results. This process cannot be completed within 1-2 hours.}"
+        },
+        {
+            "task_id": "15",
+            "constraints": {
+                "s2": 3.0
+            },
+            "response": "{1, Accurately determining the presence of eye mites requires professional ophthalmic examination skills and specialized equipment, which cannot be acquired or replicated within a short timeframe. Self-diagnosis is not reliable for this condition, and attempting treatment without proper diagnosis could be harmful.}"
+        },
+        {
+            "task_id": "15",
+            "constraints": {
+                "i1": 2.0
+            },
+            "response": "{1, The task cannot be completed within the given time constraint and without specialized equipment. Eye mites are microscopic and cannot be seen with the naked eye. A proper diagnosis requires a professional eye examination using specialized ophthalmic equipment, which is not available for self-diagnosis at home. Additionally, the process of scheduling and attending an eye appointment would exceed the 1-2 hour time constraint.}"
+        },
+        {
+            "task_id": "15",
+            "constraints": {
+                "i2": 4.0
+            },
+            "response": "{1, Self-diagnosis of eye mites requires professional medical examination and specialized equipment, which cannot be performed within 1-2 hours without access to a healthcare provider. Additionally, treatment typically involves prescription medications, making self-treatment impossible given the constraints.}"
+        },
+        {
+            "task_id": "15",
+            "constraints": {
+                "e1": 3.0
+            },
+            "response": "{0, While professional diagnosis is ideal, you can perform a basic self-check for eye mites at home within 1-2 hours. Look for symptoms like itchy, red eyes, crusty eyelashes, and blurry vision. Use a magnifying mirror to examine your eyelashes for tiny, translucent mites or their eggs. Clean your eyelids with warm water and mild soap. If symptoms persist, consult an eye doctor for a proper diagnosis.}"
+        },
+        {
+            "task_id": "15",
+            "constraints": {
+                "e2": 4.0
+            },
+            "response": "{1, Diagnosing eye mites typically requires a professional examination by an eye doctor using specialized equipment. Self-diagnosis within 1-2 hours is not reliable or recommended, as symptoms can be similar to other eye conditions. Additionally, proper treatment often involves prescription medications, which cannot be obtained without a medical consultation.}"
+        },
+        {
+            "task_id": "16",
+            "constraints": {
+                "s1": 3.0
+            },
+            "response": "{1, The task cannot be completed within 30 minutes due to the constraint of not being familiar with using computers and related software. Learning basic computer skills and PDF creation software would require more time than the given 30-minute constraint allows.}"
+        },
+        {
+            "task_id": "16",
+            "constraints": {
+                "s2": 3.0
+            },
+            "response": "{0, Learn the process of creating a PDF file through online tutorials or video guides. Use free software like Google Docs or Microsoft Word to create a document, then export or save it as a PDF. Practice with a simple document to familiarize yourself with the steps. This can be accomplished within 30 minutes, even for beginners.}"
+        },
+        {
+            "task_id": "16",
+            "constraints": {
+                "i1": 5.0
+            },
+            "response": "{1, Creating a PDF file requires a functional computer or device with appropriate software. Without a working computer, it is not possible to generate a PDF file within the given time constraint of 30 minutes.}"
+        },
+        {
+            "task_id": "16",
+            "constraints": {
+                "i2": 3.0
+            },
+            "response": "{1, The task cannot be completed within the given time constraint due to the lack of any software or tool available to create PDF files. Creating a PDF file from scratch without specialized software is not feasible within 30 minutes, as it would require extensive programming knowledge and time to implement the PDF file structure and formatting.}"
+        },
+        {
+            "task_id": "16",
+            "constraints": {
+                "e1": 4.0
+            },
+            "response": "{0, Use pre-installed software like Microsoft Word, Excel, or PowerPoint to create a document and save it as PDF. Most modern operating systems also have built-in PDF printing capabilities. Alternatively, use open-source software like LibreOffice, which can be installed without internet and has PDF export functionality.}"
+        },
+        {
+            "task_id": "16",
+            "constraints": {
+                "e2": 5.0
+            },
+            "response": "{1, Without power, the computer cannot be turned on or used, making it impossible to create a PDF file within the given time constraint of 30 minutes. The task requires a functioning computer with power to create and save a PDF file.}"
+        },
+        {
+            "task_id": "17",
+            "constraints": {
+                "s1": 3.0
+            },
+            "response": "{0, Hire a professional security consultant for a one-day crash course and installation service. They can quickly assess your property, recommend and install appropriate anti-theft systems, and provide basic training on their use. This approach overcomes the lack of knowledge constraint and can be completed within the one-day time frame.}"
+        },
+        {
+            "task_id": "17",
+            "constraints": {
+                "s2": 3.0
+            },
+            "response": "{1, Setting up comprehensive anti-theft measures for a business property within one day is not feasible, especially with a lack of legal knowledge. Proper protection requires time for research, consultation with legal experts, installation of security systems, and implementation of policies, which typically takes several days to weeks to complete effectively and legally.}"
+        },
+        {
+            "task_id": "17",
+            "constraints": {
+                "i1": 3.0
+            },
+            "response": "{1, The task cannot be completed within one day due to the constraint of having no necessary theft prevention devices. Installing effective anti-theft measures such as surveillance cameras, alarm systems, and access control typically requires more than one day for procurement, installation, and setup. Additionally, implementing comprehensive security protocols and training staff on new procedures would likely extend beyond the given time frame.}"
+        },
+        {
+            "task_id": "17",
+            "constraints": {
+                "i2": 3.0
+            },
+            "response": "{0, Install temporary security measures such as portable door locks, window alarms, and security cameras that can be quickly set up without professional installation. Purchase these items from a local hardware store or security shop, and install them yourself. Reinforce existing locks with additional deadbolts or chain locks. Set up motion-activated lights around the property. Create a basic security system using smart home devices that can be easily installed and connected to your smartphone for monitoring.}"
+        },
+        {
+            "task_id": "17",
+            "constraints": {
+                "e1": 4.0
+            },
+            "response": "{0, Install security cameras, alarms, and improved locks on all entry points. Implement access control systems for employees. Secure valuable items in a safe. Install proper lighting around the property. Train staff on security protocols. Post visible security signs as deterrents. Review and update insurance coverage for theft protection.}"
+        },
+        {
+            "task_id": "17",
+            "constraints": {
+                "e2": 2.0
+            },
+            "response": "{0, Implement basic security measures without professional help: install sturdy locks on doors and windows, set up motion-activated lights, use visible security cameras or dummy cameras, reinforce entry points, create a well-lit environment, secure valuable items in a safe, establish clear security protocols for employees, and educate staff on security awareness. These steps can be completed within one day and don't require professional anti-theft personnel.}"
+        },
+        {
+            "task_id": "18",
+            "constraints": {
+                "s1": 3.0
+            },
+            "response": "{1, Becoming the ultimate player of Call of Duty requires extensive practice and experience beyond a single game session. Players need time to learn weapon mechanics, map layouts, strategies, and develop muscle memory, which cannot be achieved within the 10-15 minute time constraint of a typical match.}"
+        },
+        {
+            "task_id": "18",
+            "constraints": {
+                "s2": 3.0
+            },
+            "response": "{1, Becoming the ultimate player of Call of Duty within a single game timeframe is not feasible without tactical planning and team collaboration. These elements are crucial for high-level play, and their absence severely limits a player's ability to excel. Additionally, mastering complex game mechanics, map knowledge, and weapon proficiency requires extensive practice over a much longer period than a single match duration.}"
+        },
+        {
+            "task_id": "18",
+            "constraints": {
+                "i1": 4.0
+            },
+            "response": "{1, Becoming the ultimate player of Call of Duty requires extensive practice, skill development, and experience over a long period of time, which cannot be achieved within a single game's time constraint of 10-15 minutes. Additionally, the lack of necessary in-game weapons and equipment further hinders the ability to reach ultimate player status within such a short timeframe.}"
+        },
+        {
+            "task_id": "18",
+            "constraints": {
+                "i2": 2.0
+            },
+            "response": "{0, Focus on improving skills through practice, map knowledge, and teamwork. Utilize available weapons and equipment effectively. Develop strategies for resource management and positioning. Adapt playstyle to compensate for lack of specific items. Communicate with teammates to share resources and coordinate attacks.}"
+        },
+        {
+            "task_id": "18",
+            "constraints": {
+                "e1": 2.0
+            },
+            "response": "{1, Becoming the ultimate player of Call of Duty requires extensive practice, skill development, and experience across various maps and game modes, which cannot be achieved within a single 10-15 minute game session, especially when players are not in suitable maps or areas for battle.}"
+        },
+        {
+            "task_id": "18",
+            "constraints": {
+                "e2": 1.0
+            },
+            "response": "{0, To become the ultimate Call of Duty player within a game's time limit, even in disadvantageous positions: 1) Master map awareness and positioning. 2) Improve aim and reaction time through practice. 3) Learn effective communication and teamwork. 4) Utilize cover and movement techniques. 5) Adapt strategies based on the game mode and situation. 6) Optimize loadouts and equipment choices. 7) Develop game sense and anticipate enemy actions. 8) Practice regularly to build muscle memory and decision-making skills.}"
+        },
+        {
+            "task_id": "19",
+            "constraints": {
+                "s1": 2.0
+            },
+            "response": "{0, Introduce neutral accessories like plain backpacks, simple watches, or solid-color scarves that don't require matching. Use monochromatic or single-color elements for uniform components to maintain neutrality without coordination.}"
+        },
+        {
+            "task_id": "19",
+            "constraints": {
+                "s2": 2.0
+            },
+            "response": "{0, Research and learn about neutral style characteristics, such as muted colors, simple designs, and versatile pieces. Then apply these principles to school uniforms by incorporating neutral colors like beige, gray, or navy, and using minimalist designs for shirts, pants, and skirts. Add subtle, unisex accessories like plain belts or simple shoes to complete the neutral look.}"
+        },
+        {
+            "task_id": "19",
+            "constraints": {
+                "i1": 1.0
+            },
+            "response": "{0, Modify existing uniform elements to create a neutral style: use muted colors like beige, gray, or navy for shirts and pants/skirts; opt for simple, classic cuts without embellishments; choose plain, versatile footwear; and allow subtle variations in fabric textures to add interest while maintaining neutrality.}"
+        },
+        {
+            "task_id": "19",
+            "constraints": {
+                "i2": 4.0
+            },
+            "response": "{0, Design new neutral-style uniforms from scratch using gender-neutral colors, cuts, and styles. Create prototypes and present to school administration for approval. Once approved, arrange for bulk production and distribution to students within the one-day timeframe.}"
+        },
+        {
+            "task_id": "19",
+            "constraints": {
+                "e1": 1.0
+            },
+            "response": "{0, Research current school uniform styles online and create digital mockups or sketches of neutral additions like solid color accessories, unisex outerwear, or versatile layering pieces that complement existing uniforms. Present these ideas to school administrators or uniform committees via email or virtual meeting for consideration and feedback.}"
+        },
+        {
+            "task_id": "19",
+            "constraints": {
+                "e2": 4.0
+            },
+            "response": "{0, Develop neutral style ideas for school uniforms without physical alterations. Create digital mockups or sketches of proposed designs. Present concepts to school administration for approval. If approved, work with uniform suppliers to implement changes in future uniform orders.}"
+        },
+        {
+            "task_id": "20",
+            "constraints": {
+                "s1": 2.0
+            },
+            "response": "{1, The task cannot be completed within 5 minutes due to the user's lack of knowledge in operating an Android device. Learning basic Android navigation and app usage would likely exceed the time constraint, making it impractical to guide the user through the Twitter email change process within the given timeframe.}"
+        },
+        {
+            "task_id": "20",
+            "constraints": {
+                "s2": 2.0
+            },
+            "response": "{0, Open Twitter app > Tap profile icon > Settings and privacy > Your account > Account information > Email > Enter Twitter password > Add email > Enter new email > Verify with code sent to new email > Set as primary email if desired. Provide step-by-step instructions with clear labels for each action to guide unfamiliar users.}"
+        },
+        {
+            "task_id": "20",
+            "constraints": {
+                "i1": 4.0
+            },
+            "response": "{1, The task cannot be completed because the user does not have an Android device, which is essential for changing Twitter's email on Android. Without access to an Android device, it is impossible to perform the required steps within the Android operating system and Twitter app interface.}"
+        },
+        {
+            "task_id": "20",
+            "constraints": {
+                "i2": 2.0
+            },
+            "response": "{1, The task cannot be completed because the user does not have a Twitter account. Changing an email address on Twitter requires an existing account. Without an account, there is no email address to change.}"
+        },
+        {
+            "task_id": "20",
+            "constraints": {
+                "e1": 4.0
+            },
+            "response": "{1, The task cannot be completed due to the constraint of users being in places without network connection. Changing Twitter's email on Android requires an active internet connection to communicate with Twitter's servers and verify the new email address. Without network access, it is impossible to perform this operation within the given time constraint or at all.}"
+        },
+        {
+            "task_id": "20",
+            "constraints": {
+                "e2": 5.0
+            },
+            "response": "{1, The task cannot be completed because users are unable to use their phones, which is necessary to access and change Twitter's email settings on Android. Without access to the Android device, there is no way to perform this operation within the given time constraint or at all.}"
+        },
+        {
+            "task_id": "21",
+            "constraints": {
+                "s1": 2.0
+            },
+            "response": "{0, To become an exquisite person in the 21st century within a month, focus on improving social skills through daily practice. Start with online resources and self-help books on effective communication. Engage in social situations regularly, even if uncomfortable at first. Practice active listening, empathy, and small talk. Join social clubs or groups aligned with your interests to meet like-minded people. Use apps or attend workshops for structured social skill development. Reflect on interactions and adjust behavior accordingly. Consistency and persistence in these efforts can lead to significant improvement within the given timeframe.}"
+        },
+        {
+            "task_id": "21",
+            "constraints": {
+                "s2": 3.0
+            },
+            "response": "{0, Develop a comprehensive self-improvement plan focusing on personal health and skincare. Start with researching reliable sources on health maintenance and skincare routines. Implement a balanced diet, regular exercise regimen, and proper sleep schedule. Learn basic skincare techniques and invest in quality products. Attend workshops or online courses on personal grooming. Practice daily self-care habits and track progress. Seek advice from professionals if needed. Consistency and dedication over the month will lead to significant improvements in personal health and appearance.}"
+        },
+        {
+            "task_id": "21",
+            "constraints": {
+                "i1": 2.0
+            },
+            "response": "{0, Focus on inner qualities and personal growth rather than external appearance. Develop knowledge, empathy, and social skills through reading, learning, and engaging with others. Practice good hygiene and grooming with basic products. Cultivate a positive attitude, confidence, and strong character traits. Embrace simplicity and authenticity in personal style.}"
+        },
+        {
+            "task_id": "21",
+            "constraints": {
+                "i2": 4.0
+            },
+            "response": "{1, Becoming an exquisite person is a subjective and ongoing process that typically requires more than a month. The lack of money for food and supplements poses a significant health risk, making it impossible to focus on self-improvement within the given timeframe. Addressing basic needs is crucial before pursuing personal development goals.}"
+        },
+        {
+            "task_id": "21",
+            "constraints": {
+                "e1": 2.0
+            },
+            "response": "{0, Focus on internal qualities and personal growth rather than external displays. Cultivate knowledge, empathy, and refined tastes through reading, online courses, and self-reflection. Develop excellent communication skills, practice mindfulness, and refine your personal style subtly. Engage in meaningful conversations and volunteer work to broaden perspectives and demonstrate social grace.}"
+        },
+        {
+            "task_id": "21",
+            "constraints": {
+                "e2": 5.0
+            },
+            "response": "{1, Becoming an exquisite person is a lifelong journey that cannot be fully achieved within a month, especially in a poor region with underdeveloped infrastructure. Limited access to resources, education, and cultural experiences in such an environment significantly hinders rapid personal growth and refinement. Additionally, the concept of being exquisite is subjective and multifaceted, requiring continuous self-improvement, which cannot be meaningfully accomplished in such a short timeframe.}"
+        },
+        {
+            "task_id": "22",
+            "constraints": {
+                "s1": 2.0
+            },
+            "response": "{0, Arrange alternative transportation such as asking a friend or family member for a ride, using a taxi or ride-sharing service, or taking public transportation if available. If the funeral is far away, consider booking a flight or train ticket.}"
+        },
+        {
+            "task_id": "22",
+            "constraints": {
+                "s2": 1.0
+            },
+            "response": "{0, Research local funeral customs online or consult with a local friend/colleague. Learn appropriate attire, etiquette, and gestures. Prepare a suitable condolence message if needed. Purchase an appropriate sympathy gift if customary. Arrive on time and follow the lead of other attendees.}"
+        },
+        {
+            "task_id": "22",
+            "constraints": {
+                "i1": 2.0
+            },
+            "response": "{0, Purchase or borrow appropriate funeral attire within the two-day timeframe. Visit a clothing store, rent formal wear, or ask friends/family for suitable clothing to meet funeral regulations.}"
+        },
+        {
+            "task_id": "22",
+            "constraints": {
+                "i2": 2.0
+            },
+            "response": "{0, Purchase or create simple mourning supplies like flowers or a sympathy card within the two-day timeframe. These items can serve as appropriate alternatives to traditional wreaths or eulogies, allowing you to express condolences respectfully.}"
+        },
+        {
+            "task_id": "22",
+            "constraints": {
+                "e1": 4.0
+            },
+            "response": "{0, Determine the location of the funeral and plan travel accordingly. If it's in a different city, book transportation and accommodation immediately. Pack appropriate attire and any necessary items. Inform work/commitments of your absence. Two days should be sufficient for most funeral-related travel and attendance.}"
+        },
+        {
+            "task_id": "22",
+            "constraints": {
+                "e2": 3.0
+            },
+            "response": "{0, Research and confirm the exact location of the funeral in advance. Use GPS or mapping services to plan the route. Allow extra travel time to account for potential traffic or navigation issues. Contact the funeral organizers for detailed directions if needed.}"
+        },
+        {
+            "task_id": "23",
+            "constraints": {
+                "s1": 2.0
+            },
+            "response": "{0, Begin with beginner-friendly yoga poses and modifications that accommodate limited flexibility. Focus on gentle stretches and breathing exercises. Gradually increase difficulty as flexibility improves over time. Use props like blocks or straps for support in challenging poses.}"
+        },
+        {
+            "task_id": "23",
+            "constraints": {
+                "s2": 2.0
+            },
+            "response": "{0, Begin with beginner-friendly yoga classes that focus on breath awareness. Start with simple breathing exercises before moving to poses. Practice diaphragmatic breathing daily. Gradually increase complexity as breath control improves.}"
+        },
+        {
+            "task_id": "23",
+            "constraints": {
+                "i1": 3.0
+            },
+            "response": "{0, Use a folded blanket or towel as a substitute for a yoga mat to provide cushioning on hard surfaces. This alternative can offer comfort and grip for practicing yoga within the one-hour time frame.}"
+        },
+        {
+            "task_id": "23",
+            "constraints": {
+                "i2": 3.0
+            },
+            "response": "{0, Wear comfortable, stretchy clothing like sweatpants and a t-shirt as an alternative to specialized yoga attire. These common clothing items allow for sufficient flexibility to perform most yoga poses effectively within the one-hour time frame.}"
+        },
+        {
+            "task_id": "23",
+            "constraints": {
+                "e1": 2.0
+            },
+            "response": "{0, Use noise-canceling headphones or earplugs to create a quiet environment for yoga practice, allowing for better focus and relaxation within the one-hour time frame.}"
+        },
+        {
+            "task_id": "23",
+            "constraints": {
+                "e2": 3.0
+            },
+            "response": "{0, Practice chair yoga or standing yoga poses that require minimal space. Focus on breathing exercises, meditation, and gentle stretches that can be done in a confined area. Utilize walls or furniture for support if needed.}"
+        },
+        {
+            "task_id": "24",
+            "constraints": {
+                "s1": 5.0
+            },
+            "response": "{1, The task cannot be completed due to the inability to drive and the constraint of being unable to exit the vehicle independently at the destination. These limitations prevent the person from both operating the vehicle and disembarking at the grocery store, making it impossible to fulfill the task within the given time constraint.}"
+        },
+        {
+            "task_id": "24",
+            "constraints": {
+                "s2": 4.0
+            },
+            "response": "{0, Request assistance from a caregiver or family member to accompany and help with disembarkation. Use mobility aids like a wheelchair or walker if available. Call the store in advance to arrange for curbside assistance or utilize their delivery service if offered.}"
+        },
+        {
+            "task_id": "24",
+            "constraints": {
+                "i1": 4.0
+            },
+            "response": "{1, The task cannot be completed because the broken car door lock prevents entry into the vehicle, making it impossible to drive to the grocery store within the given time constraint.}"
+        },
+        {
+            "task_id": "24",
+            "constraints": {
+                "i2": 3.0
+            },
+            "response": "{0, Use scissors or a knife to cut the seat belt, allowing you to exit the vehicle and drive to the grocery store. Replace the seat belt later for safety.}"
+        },
+        {
+            "task_id": "24",
+            "constraints": {
+                "e1": 2.0
+            },
+            "response": "{0, Wait for the vehicle to come to a complete stop and park at the grocery store, then exit the vehicle safely.}"
+        },
+        {
+            "task_id": "24",
+            "constraints": {
+                "e2": 4.0
+            },
+            "response": "{1, The task cannot be completed within the given time constraint due to the vehicles being trapped and unable to move. Disembarking from a trapped vehicle and finding alternative transportation to the grocery store would likely exceed the 30-minute time limit.}"
+        },
+        {
+            "task_id": "25",
+            "constraints": {
+                "s1": 2.0
+            },
+            "response": "{1, The task cannot be completed within the given time constraint due to the lack of basic computer operation skills, specifically the inability to use email. Learning how to use email is a prerequisite for accessing and securing a Gmail account, and this fundamental skill typically requires more than 30 minutes to acquire for someone with no prior experience.}"
+        },
+        {
+            "task_id": "25",
+            "constraints": {
+                "s2": 2.0
+            },
+            "response": "{0, Enable two-factor authentication by following these steps: 1. Sign in to your Gmail account. 2. Click on your profile picture and select \"Manage your Google Account\". 3. In the left menu, click on \"Security\". 4. Under \"Signing in to Google,\" find \"2-Step Verification\" and click \"Get started\". 5. Follow the on-screen instructions to set up 2FA using your phone number or an authenticator app. This process typically takes less than 15 minutes, allowing time to explore other security features within the 30-minute constraint.}"
+        },
+        {
+            "task_id": "25",
+            "constraints": {
+                "i1": 3.0
+            },
+            "response": "{1, The task cannot be completed within the given time constraint due to the lack of a stable network connection. Protecting Gmail account security requires access to online settings and features, which is not possible without a reliable internet connection. The unstable network would prevent consistent access to Gmail's security settings, two-factor authentication setup, and other crucial security measures, making it impossible to complete the task within 30 minutes.}"
+        },
+        {
+            "task_id": "25",
+            "constraints": {
+                "i2": 4.0
+            },
+            "response": "{0, Enable two-factor authentication using Google Authenticator app instead of phone or email. Set up recovery options like security questions and backup codes. Use a strong, unique password and enable login alerts. Review and revoke access for third-party apps. Enable advanced protection program if available.}"
+        },
+        {
+            "task_id": "25",
+            "constraints": {
+                "e1": 5.0
+            },
+            "response": "{1, The task cannot be completed due to the lack of network connectivity. Protecting Gmail account security typically requires access to the internet to log in to your account, enable two-factor authentication, review security settings, and update recovery options. Without a network connection, it is impossible to access and modify these critical security features within the given time constraint.}"
+        },
+        {
+            "task_id": "25",
+            "constraints": {
+                "e2": 1.0
+            },
+            "response": "{0, Enable two-factor authentication, use a strong unique password, avoid logging in on public computers, use Gmail's security checkup feature, be cautious of phishing attempts, and enable alerts for suspicious activity. When using public Wi-Fi, use a VPN for added security. These steps can be completed within 30 minutes to enhance Gmail account security.}"
+        },
+        {
+            "task_id": "26",
+            "constraints": {
+                "s1": 2.0
+            },
+            "response": "{0, The given constraints and time constraint are not relevant to the task of driving to the grocery store. The task can be completed without any fitness knowledge or equipment. Simply use a vehicle to drive to the nearest grocery store following traffic rules and regulations.}"
+        },
+        {
+            "task_id": "26",
+            "constraints": {
+                "s2": 3.0
+            },
+            "response": "{0, Driving to the grocery store can be completed within 3 months and is not directly impacted by lack of nutritional knowledge. The constraint of nutritional knowledge is unrelated to the task of driving to the store.}"
+        },
+        {
+            "task_id": "26",
+            "constraints": {
+                "i1": 2.0
+            },
+            "response": "{0, The task of driving to the grocery store can be completed regardless of the lack of fitness equipment. Fitness equipment is not necessary for driving a vehicle to a store. The time constraint of 3 months for muscle growth is irrelevant to this task, which can typically be completed in a matter of minutes or hours depending on the distance to the store.}"
+        },
+        {
+            "task_id": "26",
+            "constraints": {
+                "i2": 2.0
+            },
+            "response": "{0, The task of driving to the grocery store can be completed within the given time frame and is not affected by the constraint of lacking nutritional supplements. The solution is to simply drive to the grocery store as planned, where you can purchase the needed nutritional supplements if desired.}"
+        },
+        {
+            "task_id": "26",
+            "constraints": {
+                "e1": 2.0
+            },
+            "response": "{1, The task of driving to the grocery store is unrelated to the given constraints and time frame for muscle growth. The constraints and time constraint are not applicable to this task.}"
+        },
+        {
+            "task_id": "26",
+            "constraints": {
+                "e2": 2.0
+            },
+            "response": "{1, The given task of driving to the grocery store is unrelated to the constraint and time frame provided, which are about muscle growth. The mismatch between the task and constraints makes it impossible to provide a relevant solution or assessment.}"
+        },
+        {
+            "task_id": "27",
+            "constraints": {
+                "s1": 3.0
+            },
+            "response": "{1, Achieving perfection in school is an unrealistic and unattainable goal. Perfection implies flawlessness, which is not possible in academic pursuits due to human limitations, varying subject difficulties, and external factors beyond one's control. Instead, focus on continuous improvement and personal growth.}"
+        },
+        {
+            "task_id": "27",
+            "constraints": {
+                "s2": 3.0
+            },
+            "response": "{1, Achieving perfection in school is an unrealistic and unattainable goal. Perfection implies flawlessness, which is not possible in any human endeavor. Additionally, the constraint of lacking good communication and social skills would significantly hinder academic success, as these skills are crucial for effective learning, collaboration, and demonstrating knowledge. The time constraint of 8 hours of study daily is also unsustainable long-term and may lead to burnout, negatively impacting overall performance.}"
+        },
+        {
+            "task_id": "27",
+            "constraints": {
+                "i1": 2.0
+            },
+            "response": "{1, Achieving perfection in school is an unrealistic and unattainable goal. Perfection implies flawlessness, which is not possible in academic pursuits. Additionally, the lack of necessary study tools severely limits the ability to learn and perform academic tasks effectively, making it impossible to achieve even high levels of academic success, let alone perfection.}"
+        },
+        {
+            "task_id": "27",
+            "constraints": {
+                "i2": 2.0
+            },
+            "response": "{1, Achieving perfection in school is an unrealistic and unattainable goal. Perfection implies flawlessness, which is not possible in academic pursuits due to human limitations, varying subject difficulties, and external factors. Additionally, the constraint of lacking a proper study environment significantly hinders effective learning and concentration, making it even more challenging to excel academically.}"
+        },
+        {
+            "task_id": "27",
+            "constraints": {
+                "e1": 2.0
+            },
+            "response": "{1, Achieving perfection in school is an unrealistic and unattainable goal. Perfection implies flawlessness, which is not possible in an educational setting where learning involves making mistakes and continuous improvement. Additionally, the time constraint of 8 hours of daily study is excessive and may lead to burnout, negatively impacting overall academic performance and well-being.}"
+        },
+        {
+            "task_id": "27",
+            "constraints": {
+                "e2": 2.0
+            },
+            "response": "{1, Achieving perfection in school is an unrealistic and unattainable goal. Perfection implies flawlessness, which is not possible in academic pursuits due to human limitations, varying subject difficulties, and the subjective nature of many assessments. Additionally, the constraint of being unable to collaborate limits opportunities for growth and learning from peers, which is crucial for academic development. The time constraint of 8 hours of study daily is also unsustainable long-term and may lead to burnout, negatively impacting overall performance and well-being.}"
+        },
+        {
+            "task_id": "28",
+            "constraints": {
+                "s1": 4.0
+            },
+            "response": "{0, Take public transportation or arrange a ride-share to a nearby rural area or nature reserve for a day trip or short stay. Alternatively, find urban green spaces, parks, or community gardens within the city to experience a nature retreat without leaving the city limits.}"
+        },
+        {
+            "task_id": "28",
+            "constraints": {
+                "s2": 4.0
+            },
+            "response": "{0, Book a guided camping or glamping trip that includes accommodations and activities led by experienced guides. This option allows you to experience nature without needing wilderness survival skills, as the guides will handle setup and provide necessary instruction.}"
+        },
+        {
+            "task_id": "28",
+            "constraints": {
+                "i1": 4.0
+            },
+            "response": "{0, Rent or borrow outdoor equipment from local outdoor stores, friends, or online rental services. Many places offer short-term rentals for camping gear, which can be a cost-effective solution for a one-week getaway. This approach resolves the equipment constraint and allows for a quick escape to nature within the given time frame.}"
+        },
+        {
+            "task_id": "28",
+            "constraints": {
+                "i2": 5.0
+            },
+            "response": "{0, Stock up on non-perishable food items and water containers. Purchase or gather supplies for a week-long trip. Plan your destination and route, ensuring access to natural water sources or stores for resupply if needed. Pack essential camping gear and emergency supplies to sustain yourself away from urban areas for the week.}"
+        },
+        {
+            "task_id": "28",
+            "constraints": {
+                "e1": 2.0
+            },
+            "response": "{0, Plan a week-long trip to a rural area or natural destination that's within a reasonable travel distance. Book accommodations in advance, arrange transportation, and prepare for activities that immerse you in nature or small-town life, away from urban environments.}"
+        },
+        {
+            "task_id": "28",
+            "constraints": {
+                "e2": 3.0
+            },
+            "response": "{0, Plan an indoor retreat at a nearby resort or spa that offers relaxation amenities. This allows you to escape city life without being affected by adverse weather conditions.}"
+        },
+        {
+            "task_id": "29",
+            "constraints": {
+                "s1": 3.0
+            },
+            "response": "{1, The task cannot be completed within the given time constraint due to the user's lack of knowledge in operating an Android phone. Learning basic Android operations and WeChat login procedures would likely take more than 5 minutes for a complete novice, making it impractical to complete the SMS login process within the specified timeframe.}"
+        },
+        {
+            "task_id": "29",
+            "constraints": {
+                "s2": 2.0
+            },
+            "response": "{0, Provide step-by-step instructions with clear visuals on how to use SMS for WeChat login. Include: 1) Locating SMS option in WeChat login screen, 2) Entering phone number, 3) Receiving SMS code, 4) Inputting code in WeChat. Offer alternative login methods if SMS fails. This approach simplifies the process for users unfamiliar with SMS, allowing completion within 5 minutes.}"
+        },
+        {
+            "task_id": "29",
+            "constraints": {
+                "i1": 3.0
+            },
+            "response": "{1, The task cannot be completed because using SMS to log in to WeChat requires the WeChat application to be installed on the Android device. Without the app, there is no way to receive or process the SMS login code within the WeChat ecosystem. The user must first install the WeChat app from the Google Play Store or an official source before attempting to log in via SMS.}"
+        },
+        {
+            "task_id": "29",
+            "constraints": {
+                "i2": 4.0
+            },
+            "response": "{1, The task cannot be completed because SMS login for WeChat requires the ability to receive text messages. Without signal or the ability to receive SMS, the user cannot receive the verification code necessary for logging in. Alternative login methods like QR code scanning or email verification are not applicable to this specific SMS login scenario.}"
+        },
+        {
+            "task_id": "29",
+            "constraints": {
+                "e1": 4.0
+            },
+            "response": "{1, The task cannot be completed because WeChat requires an internet connection to verify the SMS login code. Without an internet connection, it is impossible to receive the SMS code or send it to WeChat's servers for authentication, making the login process unfeasible.}"
+        },
+        {
+            "task_id": "29",
+            "constraints": {
+                "e2": 5.0
+            },
+            "response": "{1, Unable to receive SMS messages is a critical constraint for WeChat login on Android, as SMS verification is a required step in the process. Without the ability to receive the verification code via SMS, the user cannot complete the login within the given time frame.}"
+        },
+        {
+            "task_id": "30",
+            "constraints": {
+                "s1": 2.0
+            },
+            "response": "{0, Organize local fundraising events like bake sales, car washes, or community dinners. Seek sponsorships from local businesses. Sell personal items or offer services for donations. Request contributions from friends and family. Apply for travel grants or scholarships if applicable.}"
+        },
+        {
+            "task_id": "30",
+            "constraints": {
+                "s2": 2.0
+            },
+            "response": "{0, Create an online crowdfunding campaign using platforms like GoFundMe or Indiegogo to raise funds for travel. Share the campaign on social media and with friends and family to reach potential donors without organizing events.}"
+        },
+        {
+            "task_id": "30",
+            "constraints": {
+                "i1": 2.0
+            },
+            "response": "{0, Seek donations or crowdfunding through online platforms, apply for travel grants or scholarships, organize fundraising events like bake sales or car washes, or offer services like pet-sitting or tutoring to raise funds without selling items.}"
+        },
+        {
+            "task_id": "30",
+            "constraints": {
+                "i2": 2.0
+            },
+            "response": "{0, Organize in-person fundraising events like bake sales, car washes, or yard sales. Solicit donations door-to-door or at local businesses. Host a community talent show or charity dinner. Sell handmade crafts or offer services like dog-walking or lawn care. Approach local organizations for sponsorship opportunities.}"
+        },
+        {
+            "task_id": "30",
+            "constraints": {
+                "e1": 2.0
+            },
+            "response": "{0, Utilize online crowdfunding platforms and social media to reach a wider audience, create a compelling campaign, and engage with potential donors virtually. Explore remote fundraising options like virtual events, online auctions, or digital product sales to overcome the lack of foot traffic.}"
+        },
+        {
+            "task_id": "30",
+            "constraints": {
+                "e2": 2.0
+            },
+            "response": "{0, Utilize online crowdfunding platforms and social media to raise funds virtually, reach out to friends and family for support, explore remote freelance work opportunities, or sell personal items online to generate money for travel within a month.}"
+        },
+        {
+            "task_id": "31",
+            "constraints": {
+                "s1": 1.0
+            },
+            "response": "{0, Ask someone nearby for help using the TV or device to watch the competition. If no one is available, search online using a smartphone or computer for quick instructions on operating the TV or streaming device to watch live events.}"
+        },
+        {
+            "task_id": "31",
+            "constraints": {
+                "s2": 2.0
+            },
+            "response": "{0, Quickly research basic rules online or ask nearby spectators for a brief explanation. Focus on understanding key scoring elements and major gameplay aspects to follow along within 20 minutes.}"
+        },
+        {
+            "task_id": "31",
+            "constraints": {
+                "i1": 4.0
+            },
+            "response": "{1, The task cannot be completed due to the constraint of having no TV or other devices for watching the game. Large-scale competitions typically require some form of media or in-person attendance to view, which is not possible given the constraints.}"
+        },
+        {
+            "task_id": "31",
+            "constraints": {
+                "i2": 4.0
+            },
+            "response": "{1, Unable to watch a large-scale competition without access to live broadcast via internet or television signal within the given time constraint of 20 minutes}"
+        },
+        {
+            "task_id": "31",
+            "constraints": {
+                "e1": 4.0
+            },
+            "response": "{1, The task cannot be completed due to the constraint of being in a remote area without television or internet access, which prevents watching a large-scale competition within the given 20-minute time frame.}"
+        },
+        {
+            "task_id": "31",
+            "constraints": {
+                "e2": 2.0
+            },
+            "response": "{0, Watch a live stream or recorded video of the competition on a personal device at home or in a private setting.}"
+        },
+        {
+            "task_id": "32",
+            "constraints": {
+                "s1": 1.0
+            },
+            "response": "{0, Hand-deliver the draft to the editor's office or designated physical location within the day. If the editor is in a different location, use a courier service or express mail to deliver the draft within the given timeframe.}"
+        },
+        {
+            "task_id": "32",
+            "constraints": {
+                "s2": 2.0
+            },
+            "response": "{0, Learn basic communication skills for working with editors. Research proper email etiquette and formatting for submitting drafts. Ask colleagues or mentors for advice on editor interactions. Practice clear and concise communication. Send a polite email with the draft attached, following any submission guidelines provided by the editor.}"
+        },
+        {
+            "task_id": "32",
+            "constraints": {
+                "i1": 2.0
+            },
+            "response": "{1, The task cannot be completed because there are no electronic or paper copies of the draft available, as specified in the constraints. Without any form of the draft, it is impossible to give it to the editor.}"
+        },
+        {
+            "task_id": "32",
+            "constraints": {
+                "i2": 3.0
+            },
+            "response": "{0, Deliver the draft to the editor in person or via traditional mail service. If the editor is nearby, hand-deliver the physical copy of the draft. If not, use postal or courier services to send the draft within the day.}"
+        },
+        {
+            "task_id": "32",
+            "constraints": {
+                "e1": 3.0
+            },
+            "response": "{0, Email or electronically send the draft to the editor, or use a courier service to deliver the physical draft if electronic submission is not possible.}"
+        },
+        {
+            "task_id": "32",
+            "constraints": {
+                "e2": 3.0
+            },
+            "response": "{0, Deliver the draft to the editor in person or via physical mail/courier service. If the editor is in the same location, hand-deliver the printed draft. If not, use postal or courier services to send the physical copy within the day.}"
+        },
+        {
+            "task_id": "33",
+            "constraints": {
+                "s1": 2.0
+            },
+            "response": "{0, Learn basic phrases, use translation apps, book guided tours, carry a phrasebook, stay in tourist-friendly areas, and arrange for an interpreter if needed for important interactions.}"
+        },
+        {
+            "task_id": "33",
+            "constraints": {
+                "s2": 3.0
+            },
+            "response": "{0, Memorize key routes and landmarks before departure. Learn basic phrases in the local language. Hire a local guide upon arrival to assist with navigation and cultural insights. Obtain physical copies of essential travel documents and emergency contact information.}"
+        },
+        {
+            "task_id": "33",
+            "constraints": {
+                "i1": 5.0
+            },
+            "response": "{1, Obtaining a passport and visa typically takes longer than one week, making it impossible to complete the travel preparations and depart within the given time constraint.}"
+        },
+        {
+            "task_id": "33",
+            "constraints": {
+                "i2": 4.0
+            },
+            "response": "{1, Insufficient time to secure necessary funds for international travel within a week, especially considering the constraint of not having enough travel funds initially. Obtaining additional funds, arranging visas, and making travel arrangements typically require more than a week's preparation.}"
+        },
+        {
+            "task_id": "33",
+            "constraints": {
+                "e1": 1.0
+            },
+            "response": "{0, Book flights or train tickets online, arrange transportation to the airport or train station, obtain necessary travel documents (passport, visa if required), pack essentials, and arrange accommodation in the destination country. Leave for the airport or train station on the day of departure.}"
+        },
+        {
+            "task_id": "33",
+            "constraints": {
+                "e2": 1.0
+            },
+            "response": "{0, Research and book flights, accommodations, and transportation online. Apply for necessary visas electronically if possible. Obtain travel insurance and required vaccinations quickly. Pack essentials and prepare necessary documents. Inform bank of travel plans. Download language apps and travel guides for the destination.}"
+        },
+        {
+            "task_id": "34",
+            "constraints": {
+                "s1": 2.0
+            },
+            "response": "{0, Use a pre-assembled table or alternative flat surface like a countertop. Arrange baked goods on trays or platters, then place them on the chosen surface. Add decorative elements and signage as needed.}"
+        },
+        {
+            "task_id": "34",
+            "constraints": {
+                "s2": 2.0
+            },
+            "response": "{0, Research basic display techniques online or consult with experienced bakers. Use tiered stands, vary heights, group similar items, and add decorative elements. Practice arranging before the event to gain confidence and improve skills.}"
+        },
+        {
+            "task_id": "34",
+            "constraints": {
+                "i1": 3.0
+            },
+            "response": "{0, Create a makeshift display table using alternative materials such as stacked boxes, wooden planks on sawhorses, or a folding table covered with a tablecloth. These options can be quickly assembled within the 2-hour time constraint using readily available materials.}"
+        },
+        {
+            "task_id": "34",
+            "constraints": {
+                "i2": 4.0
+            },
+            "response": "{0, Purchase pre-made baked goods from a local bakery or grocery store to set up the display table within the 2-hour time frame.}"
+        },
+        {
+            "task_id": "34",
+            "constraints": {
+                "e1": 3.0
+            },
+            "response": "{1, The space is not suitable for setting up a display table, which is a fundamental requirement for the task. Without a suitable space, it is impossible to set up the display table for baked goods, regardless of the time constraint.}"
+        },
+        {
+            "task_id": "34",
+            "constraints": {
+                "e2": 2.0
+            },
+            "response": "{0, Obtain baked goods from a bakery or store, then set up the display table in an appropriate location with the purchased items.}"
+        },
+        {
+            "task_id": "35",
+            "constraints": {
+                "s1": 2.0
+            },
+            "response": "{0, Use pre-cut or pre-shredded vegetables, or opt for whole vegetables that don't require cutting such as cherry tomatoes, baby spinach, or pre-washed salad mixes. Add other ingredients like nuts, seeds, or dried fruits that don't need cutting. Use a pre-made dressing or quickly whisk together a simple vinaigrette.}"
+        },
+        {
+            "task_id": "35",
+            "constraints": {
+                "s2": 2.0
+            },
+            "response": "{0, Look up a simple salad recipe online or in a cookbook. Choose a basic recipe with few ingredients like a green salad. Follow the recipe instructions to combine the ingredients. This can easily be done within 30 minutes, even for a beginner.}"
+        },
+        {
+            "task_id": "35",
+            "constraints": {
+                "i1": 4.0
+            },
+            "response": "{1, Lacking main ingredients of salad, such as lettuce and tomato, makes it impossible to create a traditional salad within the given time constraint. Without these essential components, a proper salad cannot be made.}"
+        },
+        {
+            "task_id": "35",
+            "constraints": {
+                "i2": 4.0
+            },
+            "response": "{0, Use pre-washed, pre-cut salad ingredients and mix them in a clean bowl or container using hands or disposable utensils. Opt for ingredients like pre-packaged leafy greens, cherry tomatoes, pre-sliced carrots, and pre-cooked proteins that don't require cutting.}"
+        },
+        {
+            "task_id": "35",
+            "constraints": {
+                "e1": 2.0
+            },
+            "response": "{0, Gather portable ingredients and tools, then prepare the salad in an alternative clean area such as a dining room or outdoor space.}"
+        },
+        {
+            "task_id": "35",
+            "constraints": {
+                "e2": 2.0
+            },
+            "response": "{1, Lack of a clean environment to prepare food poses a significant health and safety risk. Without proper sanitation, there is a high likelihood of contamination, which could lead to foodborne illness. Food preparation requires a hygienic space to ensure safety and quality.}"
+        },
+        {
+            "task_id": "36",
+            "constraints": {
+                "s1": 2.0
+            },
+            "response": "{0, Attend in-person lessons at a physical location such as a classroom, community center, or tutor's home. This eliminates the need for online learning or digital devices.}"
+        },
+        {
+            "task_id": "36",
+            "constraints": {
+                "s2": 3.0
+            },
+            "response": "{1, Attending weekly lessons within one hour is possible, but the constraint of lacking basic knowledge or skills required for the course cannot be resolved in such a short time frame. Acquiring fundamental understanding typically requires more extensive study and preparation beyond a single hour.}"
+        },
+        {
+            "task_id": "36",
+            "constraints": {
+                "i1": 3.0
+            },
+            "response": "{0, Attend the weekly lessons without textbooks or study materials by actively listening, taking mental notes, and participating in class discussions. Ask questions for clarification and engage with the instructor and other students to maximize learning within the one-hour time constraint.}"
+        },
+        {
+            "task_id": "36",
+            "constraints": {
+                "i2": 3.0
+            },
+            "response": "{0, Create a makeshift study space by using noise-canceling headphones, finding a quiet corner, or utilizing a portable folding table as a temporary desk.}"
+        },
+        {
+            "task_id": "36",
+            "constraints": {
+                "e1": 3.0
+            },
+            "response": "{0, Attend weekly lessons remotely through online platforms like Zoom, Google Meet, or pre-recorded video lessons, allowing participation from any location with internet access.}"
+        },
+        {
+            "task_id": "36",
+            "constraints": {
+                "e2": 4.0
+            },
+            "response": "{0, Study offline materials or textbooks related to the weekly lessons. Request printed handouts or lesson summaries from the instructor in advance. Practice self-study techniques and review previous notes during the allocated hour.}"
+        },
+        {
+            "task_id": "37",
+            "constraints": {
+                "s1": 2.0
+            },
+            "response": "{0, Resolve the knowledge constraint by hiring a certified personal trainer or nutritionist for guidance. Follow a structured workout plan focusing on progressive overload in compound exercises. Consume a protein-rich diet with a caloric surplus. Ensure adequate rest and recovery. Consistency in training and nutrition over the 6-month period can lead to significant muscle gain even for beginners.}"
+        },
+        {
+            "task_id": "37",
+            "constraints": {
+                "s2": 4.0
+            },
+            "response": "{0, Implement a structured program with external accountability. Join a gym with a personal trainer for regular sessions, set specific measurable goals, use progress tracking apps, and find a workout buddy for mutual motivation. Incorporate habit-building techniques like scheduling workouts at consistent times and rewarding small victories to build sustained motivation over time.}"
+        },
+        {
+            "task_id": "37",
+            "constraints": {
+                "i1": 3.0
+            },
+            "response": "{0, Utilize bodyweight exercises like push-ups, squats, lunges, and pull-ups. Incorporate progressive overload by increasing repetitions and adding variations. Focus on compound movements and high-protein diet. Use household items as makeshift weights. Ensure adequate rest and recovery between workouts.}"
+        },
+        {
+            "task_id": "37",
+            "constraints": {
+                "i2": 3.0
+            },
+            "response": "{0, Purchase suitable workout clothes and shoes, then follow a consistent strength training program with progressive overload and proper nutrition. Focus on compound exercises, increase protein intake, and ensure adequate rest between workouts. Consult a fitness professional for personalized guidance if needed.}"
+        },
+        {
+            "task_id": "37",
+            "constraints": {
+                "e1": 3.0
+            },
+            "response": "{0, Utilize bodyweight exercises and resistance band workouts at home or outdoors. Focus on compound movements like push-ups, squats, and pull-ups. Incorporate progressive overload by increasing reps, sets, or resistance over time. Ensure adequate protein intake and proper nutrition to support muscle growth. Get sufficient sleep for recovery and muscle repair.}"
+        },
+        {
+            "task_id": "37",
+            "constraints": {
+                "e2": 3.0
+            },
+            "response": "{0, Utilize online resources and fitness apps for guidance. Follow a structured workout plan focusing on progressive overload. Learn proper form through video tutorials. Join online fitness communities for motivation and accountability. Ensure adequate protein intake and caloric surplus through diet tracking apps. Consistently perform compound exercises 3-4 times per week. Track progress with photos and measurements to stay motivated.}"
+        },
+        {
+            "task_id": "38",
+            "constraints": {
+                "s1": 1.0
+            },
+            "response": "{0, Focus on beginner-level classes that emphasize basic movements and rhythm. Practice simple steps at home to improve coordination gradually. Communicate with the instructor about your limitations and request additional guidance or modified routines as needed.}"
+        },
+        {
+            "task_id": "38",
+            "constraints": {
+                "s2": 1.0
+            },
+            "response": "{0, Practice basic rhythm exercises daily, such as clapping or stepping to a metronome. Take private lessons to focus on rhythm improvement. Use visual cues and counting techniques to supplement auditory learning. Gradually increase complexity as rhythm sense improves.}"
+        },
+        {
+            "task_id": "38",
+            "constraints": {
+                "i1": 2.0
+            },
+            "response": "{0, Purchase or borrow suitable dance attire before attending the dance class. This can typically be done within a day or two, allowing ample time to complete the month-long beginner dance course.}"
+        },
+        {
+            "task_id": "38",
+            "constraints": {
+                "i2": 2.0
+            },
+            "response": "{0, Borrow or rent dance shoes for the duration of the course, or purchase affordable beginner-level dance shoes. Alternatively, check with the instructor if regular athletic shoes are acceptable for beginners.}"
+        },
+        {
+            "task_id": "38",
+            "constraints": {
+                "e1": 3.0
+            },
+            "response": "{0, Locate and enroll in a dance class at a local dance studio, community center, or fitness facility that offers suitable dance training spaces. Ensure the chosen venue has proper flooring, mirrors, and equipment for dance instruction. Commit to attending regular classes within the month-long timeframe to complete the beginner course.}"
+        },
+        {
+            "task_id": "38",
+            "constraints": {
+                "e2": 3.0
+            },
+            "response": "{0, Use noise-canceling headphones or earplugs to block out external noise and improve concentration during dance training. Alternatively, request a quieter practice space or adjust class times to less noisy periods if possible.}"
+        },
+        {
+            "task_id": "39",
+            "constraints": {
+                "s1": 2.0
+            },
+            "response": "{0, Use alternative publishing methods like creating a simple HTML file and hosting it on a free static site hosting service (e.g., GitHub Pages, Netlify). Write the blog post content in a text editor, convert it to HTML, and upload it to the chosen hosting platform within the hour.}"
+        },
+        {
+            "task_id": "39",
+            "constraints": {
+                "s2": 3.0
+            },
+            "response": "{0, Use a blog post template or outline to structure your thoughts. Focus on a simple topic you're familiar with. Write in short, clear sentences. Use online tools like Grammarly to check spelling and grammar. Don't aim for perfection; the goal is to publish your first post within the time limit.}"
+        },
+        {
+            "task_id": "39",
+            "constraints": {
+                "i1": 4.0
+            },
+            "response": "{1, The task cannot be completed within the given time constraint due to the lack of available computers or mobile devices. Writing and publishing a blog post typically requires a digital device with internet access to create, format, and upload the content to a blogging platform. Without access to such devices, it is not feasible to write and publish a blog post within an hour.}"
+        },
+        {
+            "task_id": "39",
+            "constraints": {
+                "i2": 3.0
+            },
+            "response": "{0, Write the blog post offline using a word processor or text editor. Once completed, save it locally. When a stable network connection becomes available, quickly publish the pre-written post to your blog platform within the remaining time.}"
+        },
+        {
+            "task_id": "39",
+            "constraints": {
+                "e1": 2.0
+            },
+            "response": "{1, The task cannot be completed within the given time constraint due to the specified constraint of not being in an environment conducive to concentrated writing. Writing a quality blog post typically requires focus and a suitable environment, which is not available in this scenario. The lack of a proper writing environment would significantly hinder the ability to produce and publish a coherent blog post within the one-hour timeframe.}"
+        },
+        {
+            "task_id": "39",
+            "constraints": {
+                "e2": 2.0
+            },
+            "response": "{0, Find a quieter location like a library or use noise-cancelling headphones. If those aren't options, try white noise or instrumental music to mask distractions. Focus on outlining key points first, then expand on them quickly without overthinking. Use a timer to stay on track and publish even if not perfect.}"
+        },
+        {
+            "task_id": "40",
+            "constraints": {
+                "s1": 4.0
+            },
+            "response": "{1, Lack of cooking knowledge and skills makes it difficult to complete the task within 1 hour. Learning to bake and make lemon bars from scratch typically requires more time for a beginner, including understanding ingredients, techniques, and following a recipe accurately.}"
+        },
+        {
+            "task_id": "40",
+            "constraints": {
+                "s2": 2.0
+            },
+            "response": "{0, Look up a simple lemon bar recipe online and follow step-by-step instructions. For handling lemons, watch a quick tutorial video on how to juice and zest lemons. With a straightforward recipe and basic kitchen skills, lemon bars can typically be made within an hour.}"
+        },
+        {
+            "task_id": "40",
+            "constraints": {
+                "i1": 4.0
+            },
+            "response": "{1, Lacking essential ingredients and baking materials makes it impossible to make lemon bars within 1 hour. Acquiring the necessary items would exceed the time constraint.}"
+        },
+        {
+            "task_id": "40",
+            "constraints": {
+                "i2": 5.0
+            },
+            "response": "{1, The task cannot be completed within the given constraints. Lemon bars typically require baking in an oven, which is not available according to the constraints. Additionally, the lack of essential baking tools like a mixer and baking paper makes it impossible to prepare and bake the lemon bars properly. Without these tools, it is not feasible to make traditional lemon bars within the 1-hour time constraint.}"
+        },
+        {
+            "task_id": "40",
+            "constraints": {
+                "e1": 5.0
+            },
+            "response": "{1, The task cannot be completed within the given time constraint and location restriction. Making lemon bars requires a kitchen or cooking area with necessary equipment and ingredients, which are not available according to the specified constraints. Without access to an appropriate cooking space, it is impossible to prepare and bake lemon bars within the 1-hour time limit.}"
+        },
+        {
+            "task_id": "40",
+            "constraints": {
+                "e2": 5.0
+            },
+            "response": "{1, Making lemon bars typically requires baking, which needs an oven powered by electricity or gas. Without a power or gas supply, it is not possible to bake the lemon bars within the given time constraint of 1 hour.}"
+        },
+        {
+            "task_id": "41",
+            "constraints": {
+                "s1": 2.0
+            },
+            "response": "{0, Develop communication skills through practice and guidance. Join a public speaking club or seek counseling to learn effective expression techniques. Role-play conversations with friends or family to build confidence. Read books on emotional intelligence and relationship-building. Attend school workshops on communication if available. Start with small interactions and gradually increase complexity. Keep a journal to reflect on daily interactions and identify areas for improvement. Within 4 months, these steps can significantly enhance communication abilities, enabling better relationship-building in high school.}"
+        },
+        {
+            "task_id": "41",
+            "constraints": {
+                "s2": 2.0
+            },
+            "response": "{0, Develop social skills through gradual exposure and practice: 1) Join school clubs or activities to meet like-minded peers. 2) Practice active listening and showing genuine interest in others. 3) Learn and use appropriate body language. 4) Initiate small conversations daily to build confidence. 5) Seek guidance from a school counselor or trusted adult for personalized advice. 6) Participate in group projects to practice teamwork. 7) Use social media responsibly to connect with classmates. 8) Attend school events to increase social interactions. With consistent effort, these steps can significantly improve social skills within one semester.}"
+        },
+        {
+            "task_id": "41",
+            "constraints": {
+                "i1": 2.0
+            },
+            "response": "{0, Develop self-awareness and social skills through observation and practice. Engage in school activities to meet like-minded peers. Cultivate empathy and active listening skills. Seek advice from trusted adults or school counselors. Join clubs or groups to expand social circles. Practice effective communication and conflict resolution. Focus on building genuine friendships based on shared interests and mutual respect. Maintain a positive attitude and be open to new experiences.}"
+        },
+        {
+            "task_id": "41",
+            "constraints": {
+                "i2": 2.0
+            },
+            "response": "{0, Focus on in-person interactions at school. Participate in group activities, clubs, or sports to meet people with shared interests. Be friendly, approachable, and engage in conversations during class breaks or lunch. Develop strong listening skills and show genuine interest in others. Arrange study groups or in-person hangouts after school. Use school resources like library computers or public phones if necessary for occasional communication outside of school hours.}"
+        },
+        {
+            "task_id": "41",
+            "constraints": {
+                "e1": 2.0
+            },
+            "response": "{0, Focus on building connections during school hours and social occasions. Engage in group activities, join clubs, and participate in class discussions. Use social media and messaging apps to maintain contact outside of face-to-face interactions. Show genuine interest in others, be supportive, and practice active listening. Develop your own interests and hobbies to become more confident and interesting. Be kind, respectful, and authentic in your interactions to foster positive relationships over time.}"
+        },
+        {
+            "task_id": "41",
+            "constraints": {
+                "e2": 2.0
+            },
+            "response": "{0, Focus on building relationships at school and during extracurricular activities. Utilize digital communication platforms to stay connected with friends outside of family environments. Participate in school clubs or sports teams to expand social circles. During family time, practice active listening and open communication to improve overall social skills. Seek guidance from school counselors if needed for additional support in navigating social challenges.}"
+        },
+        {
+            "task_id": "42",
+            "constraints": {
+                "s1": 2.0
+            },
+            "response": "{0, Visit a physical ticket office or call a booking hotline to purchase the ticket with assistance from a representative. Alternatively, ask a friend or family member who is familiar with online booking to help you complete the process within the 2-hour timeframe.}"
+        },
+        {
+            "task_id": "42",
+            "constraints": {
+                "s2": 2.0
+            },
+            "response": "{0, Research available flights or trains online, compare options, and seek assistance from customer service or a travel agent to guide you through the booking process. This can be accomplished within 2 hours.}"
+        },
+        {
+            "task_id": "42",
+            "constraints": {
+                "i1": 4.0
+            },
+            "response": "{0, Visit a physical ticket office or travel agency in person to book the ticket using traditional methods without electronic devices.}"
+        },
+        {
+            "task_id": "42",
+            "constraints": {
+                "i2": 2.0
+            },
+            "response": "{0, Borrow a valid payment method from a friend or family member, or obtain a prepaid debit card from a local store within the 2-hour timeframe.}"
+        },
+        {
+            "task_id": "42",
+            "constraints": {
+                "e1": 4.0
+            },
+            "response": "{0, Visit a physical ticket office or travel agency to book and receive a paper ticket within the 2-hour timeframe.}"
+        },
+        {
+            "task_id": "42",
+            "constraints": {
+                "e2": 3.0
+            },
+            "response": "{1, No network connection prevents online booking, and 2 hours is likely insufficient time to travel to a physical ticket office, especially without the ability to check locations or operating hours online}"
+        },
+        {
+            "task_id": "43",
+            "constraints": {
+                "s1": 3.0
+            },
+            "response": "{1, Opening and operating a convenience store within one month is not feasible due to the lack of knowledge and experience in retail management. This task typically requires several months of planning, obtaining necessary permits and licenses, securing a location, setting up inventory and point-of-sale systems, hiring and training staff, and establishing supplier relationships. Without prior experience, these processes would take significantly longer than the given time constraint of one month.}"
+        },
+        {
+            "task_id": "43",
+            "constraints": {
+                "s2": 3.0
+            },
+            "response": "{1, Opening and operating a convenience store within one month is not feasible due to the numerous time-consuming steps involved, including location selection, permits and licensing, inventory procurement, staff hiring and training, and store setup. The lack of negotiation skills with suppliers further complicates the process, making it impossible to complete within the given time constraint.}"
+        },
+        {
+            "task_id": "43",
+            "constraints": {
+                "i1": 4.0
+            },
+            "response": "{1, Insufficient funds and time to open a convenience store. One month is not enough time to secure financing, obtain necessary permits, lease a location, purchase inventory and equipment, hire staff, and set up operations. The lack of funds is a critical barrier that cannot be overcome within the given timeframe.}"
+        },
+        {
+            "task_id": "43",
+            "constraints": {
+                "i2": 5.0
+            },
+            "response": "{1, Obtaining necessary business licenses and permits typically takes longer than one month due to bureaucratic processes, inspections, and potential zoning issues. This timeframe is insufficient for completing all required legal and regulatory steps to open and operate a convenience store.}"
+        },
+        {
+            "task_id": "43",
+            "constraints": {
+                "e1": 3.0
+            },
+            "response": "{1, Opening and operating a convenience store within one month is not feasible due to several factors. The primary constraint of the area already having too many convenience stores makes it challenging to establish a viable business. Additionally, the time constraint of one month is insufficient for necessary steps such as market research, securing permits, finding a suitable location, renovating the space, stocking inventory, hiring staff, and establishing supplier relationships. These processes typically require several months to a year to complete properly.}"
+        },
+        {
+            "task_id": "43",
+            "constraints": {
+                "e2": 3.0
+            },
+            "response": "{1, Insufficient demand due to sparse population makes opening a convenience store within one month unfeasible. The time constraint is too short to address the fundamental issue of low customer base, making the business unsustainable.}"
+        },
+        {
+            "task_id": "44",
+            "constraints": {
+                "s1": 2.0
+            },
+            "response": "{1, Lack of knowledge on how to use the oven is a critical constraint for baking cookies. Learning to use the oven safely and effectively typically takes more than the given 1-hour time limit, making it unfeasible to complete the task within the specified timeframe.}"
+        },
+        {
+            "task_id": "44",
+            "constraints": {
+                "s2": 2.0
+            },
+            "response": "{0, Use a simple no-bake cookie recipe that requires minimal ingredients and steps. Follow a video tutorial for visual guidance. Prepare ingredients in advance. Mix dry ingredients, then add wet ingredients. Form cookies on a baking sheet and refrigerate to set. This approach can be completed within an hour, even for beginners.}"
+        },
+        {
+            "task_id": "44",
+            "constraints": {
+                "i1": 4.0
+            },
+            "response": "{1, Baking cookies requires an oven or similar heat source. Without an oven or microwave, it is not possible to properly bake cookies within the given time constraint of 1 hour.}"
+        },
+        {
+            "task_id": "44",
+            "constraints": {
+                "i2": 4.0
+            },
+            "response": "{1, Lack of essential ingredients prevents baking cookies within the given time constraint. Obtaining ingredients and baking would exceed 1 hour.}"
+        },
+        {
+            "task_id": "44",
+            "constraints": {
+                "e1": 5.0
+            },
+            "response": "{1, Unable to bake cookies within 1 hour due to not being at home and lacking access to necessary kitchen equipment. Baking cookies requires an oven, ingredients, and utensils, which are unavailable in the given scenario.}"
+        },
+        {
+            "task_id": "44",
+            "constraints": {
+                "e2": 5.0
+            },
+            "response": "{1, Baking cookies requires an oven and basic baking equipment, which are not available in an outdoor camping environment. Without these essential tools, it is not possible to bake traditional cookies within the given time constraint of 1 hour.}"
+        },
+        {
+            "task_id": "45",
+            "constraints": {
+                "s1": 3.0
+            },
+            "response": "{0, Use a grocery delivery service or app to order the ingredients online and have them delivered to your home within the 2-hour timeframe.}"
+        },
+        {
+            "task_id": "45",
+            "constraints": {
+                "s2": 3.0
+            },
+            "response": "{0, Research basic cookie recipes online and create a shopping list with specific brand recommendations. Use this list at the store, asking staff for help locating items. Choose pre-packaged ingredients with clear expiration dates to ensure freshness. If unsure about quality, opt for well-known brands or ask for assistance from store employees.}"
+        },
+        {
+            "task_id": "45",
+            "constraints": {
+                "i1": 2.0
+            },
+            "response": "{0, Bring a reusable shopping bag or backpack to carry the ingredients. This will resolve the constraint of not having a shopping cart or basket while still allowing you to purchase and transport the necessary items within the 2-hour time frame.}"
+        },
+        {
+            "task_id": "45",
+            "constraints": {
+                "i2": 4.0
+            },
+            "response": "{1, Without cash or a bank card, there is no viable method to purchase ingredients within the given time frame. Alternative payment methods or borrowing money would likely exceed the 2-hour time constraint.}"
+        },
+        {
+            "task_id": "45",
+            "constraints": {
+                "e1": 4.0
+            },
+            "response": "{0, Visit a supermarket or grocery store within the 2-hour time frame to purchase the necessary ingredients for making cookies. This solution complies with the constraint of only buying ingredients from these types of stores and can easily be completed within the given time limit.}"
+        },
+        {
+            "task_id": "45",
+            "constraints": {
+                "e2": 2.0
+            },
+            "response": "{0, Visit a local grocery store or supermarket in person to purchase the ingredients for making cookies. This method does not require internet access and can typically be completed within 2 hours.}"
+        },
+        {
+            "task_id": "46",
+            "constraints": {
+                "s1": 2.0
+            },
+            "response": "{0, Seek assistance from a financial aid advisor or counselor at the educational institution. They can provide guidance on filling out forms, explain requirements, and help overcome lack of understanding. Alternatively, attend financial aid workshops or use online tutorials to learn how to complete the application correctly.}"
+        },
+        {
+            "task_id": "46",
+            "constraints": {
+                "s2": 2.0
+            },
+            "response": "{0, Visit the financial aid office in person to obtain and submit a paper application. Alternatively, request a paper application by mail or phone and submit it via postal mail before the deadline.}"
+        },
+        {
+            "task_id": "46",
+            "constraints": {
+                "i1": 4.0
+            },
+            "response": "{0, Submit a simplified financial assistance application without personal financial documents. Focus on providing basic information such as name, contact details, and reason for seeking assistance. Check with the institution if they offer alternative application methods or waivers for document requirements.}"
+        },
+        {
+            "task_id": "46",
+            "constraints": {
+                "i2": 2.0
+            },
+            "response": "{0, Visit the financial aid office in person or call them to request a paper application. Complete the paper form and submit it by mail or in person before the deadline.}"
+        },
+        {
+            "task_id": "46",
+            "constraints": {
+                "e1": 3.0
+            },
+            "response": "{0, Research and apply for financial assistance through online platforms or websites of educational institutions. Gather necessary documents and information beforehand. Submit the application electronically before the deadline. If clarification is needed, contact the financial aid office via email or phone during business hours.}"
+        },
+        {
+            "task_id": "46",
+            "constraints": {
+                "e2": 3.0
+            },
+            "response": "{0, Find a quiet, private location such as a library study room or empty classroom to complete the application. Alternatively, use noise-canceling headphones at home or in a public space to maintain privacy while filling out the form.}"
+        },
+        {
+            "task_id": "47",
+            "constraints": {
+                "s1": 2.0
+            },
+            "response": "{0, Enroll in an intensive beginner's equestrian course that covers basic riding skills within a week. Many stables offer accelerated programs for beginners. Dedicate extra time to studying horse care and riding theory outside of class hours to supplement hands-on training.}"
+        },
+        {
+            "task_id": "47",
+            "constraints": {
+                "s2": 2.0
+            },
+            "response": "{0, Enroll in an introductory equestrian course that includes basic horse behavior education. Supplement with online resources and books on horse care and handling. Spend time observing horses at the stable before and after classes to gain practical understanding. Ask instructors for guidance on horse behavior during lessons.}"
+        },
+        {
+            "task_id": "47",
+            "constraints": {
+                "i1": 3.0
+            },
+            "response": "{1, Lack of essential equestrian equipment prevents safe participation in equestrian classes. Proper safety gear and riding equipment are mandatory for taking part in such activities, and cannot be substituted or improvised within a week's timeframe.}"
+        },
+        {
+            "task_id": "47",
+            "constraints": {
+                "i2": 4.0
+            },
+            "response": "{1, The task cannot be completed due to the lack of suitable horses, which are essential for participating in equestrian classes. Without access to appropriate horses, it is impossible to engage in the required riding activities and learn the necessary skills within the given time frame.}"
+        },
+        {
+            "task_id": "47",
+            "constraints": {
+                "e1": 4.0
+            },
+            "response": "{1, Unable to participate in equestrian classes due to lack of access to a suitable training facility or horse riding location within the given time frame}"
+        },
+        {
+            "task_id": "47",
+            "constraints": {
+                "e2": 5.0
+            },
+            "response": "{1, Lack of professional equestrian coach guidance is a significant safety concern and hinders proper skill development. Equestrian classes typically require expert instruction to ensure rider safety and proper technique. Without professional guidance, it is not advisable to attempt equestrian classes within the given time frame.}"
+        },
+        {
+            "task_id": "48",
+            "constraints": {
+                "s1": 3.0
+            },
+            "response": "{1, The inability to drive and transport the child to essential locations like hospitals and schools is a significant barrier to adoption. Most adoption agencies and child welfare services require prospective parents to demonstrate their ability to meet the child's basic needs, including transportation. This constraint would likely disqualify the individual from adopting, as it poses a risk to the child's well-being and access to necessary services.}"
+        },
+        {
+            "task_id": "48",
+            "constraints": {
+                "s2": 5.0
+            },
+            "response": "{1, The adoption process typically takes longer than 6 months due to extensive background checks, home studies, and legal procedures. Additionally, financial management skills are crucial for adoption approval and cannot be quickly developed within the given timeframe. These factors make it unfeasible to complete the task within the specified constraints.}"
+        },
+        {
+            "task_id": "48",
+            "constraints": {
+                "i1": 5.0
+            },
+            "response": "{0, Acquire necessary daily necessities through purchases, donations, or assistance programs. Create a checklist of required items and budget accordingly. Reach out to local charities, community organizations, or adoption agencies for support in obtaining essential supplies. Plan and prepare living space for the child's arrival. Complete required paperwork and home studies promptly to meet the 6-month timeframe.}"
+        },
+        {
+            "task_id": "48",
+            "constraints": {
+                "i2": 5.0
+            },
+            "response": "{1, The adoption process typically takes longer than 6 months due to extensive background checks, home studies, and legal procedures. Additionally, the economic constraint cannot be quickly resolved within this timeframe, as improving financial stability often requires long-term planning and effort.}"
+        },
+        {
+            "task_id": "48",
+            "constraints": {
+                "e1": 4.0
+            },
+            "response": "{1, The adoption process typically requires in-person visits, home studies, and direct interaction with the child, which cannot be completed within 6 months without being in the same city or country. International adoptions often take longer due to legal and bureaucratic processes across countries. The constraint of not being in the same location as the child makes it impossible to fulfill essential adoption requirements within the given timeframe.}"
+        },
+        {
+            "task_id": "48",
+            "constraints": {
+                "e2": 5.0
+            },
+            "response": "{1, The adoption process typically requires in-person presence at the adopting institution for various steps, including interviews, home studies, and legal proceedings. Without being physically present, it is not possible to complete the adoption process within the given 6-month timeframe or at all.}"
+        },
+        {
+            "task_id": "49",
+            "constraints": {
+                "s1": 4.0
+            },
+            "response": "{0, Use a ride-sharing service, public transportation, or ask a friend/family member for a ride to transport the guitar home}"
+        },
+        {
+            "task_id": "49",
+            "constraints": {
+                "s2": 4.0
+            },
+            "response": "{0, Use a ride-sharing service like Uber or Lyft to transport yourself and the guitar home. Alternatively, ask a friend or family member with a car to help you bring the guitar back.}"
+        },
+        {
+            "task_id": "49",
+            "constraints": {
+                "i1": 3.0
+            },
+            "response": "{0, Purchase or borrow a guitar case, or create a temporary protective cover using blankets or bubble wrap to safely transport the guitar home within one day.}"
+        },
+        {
+            "task_id": "49",
+            "constraints": {
+                "i2": 5.0
+            },
+            "response": "{1, The task cannot be completed because the constraint states that without buying a guitar, you cannot bring the guitar home. Since buying a guitar is not mentioned as part of the task, there is no way to fulfill the requirement within the given constraints.}"
+        },
+        {
+            "task_id": "49",
+            "constraints": {
+                "e1": 3.0
+            },
+            "response": "{0, Borrow a guitar from a friend or family member and bring it back home. Alternatively, rent a guitar from a local music store for a day and return it to your home.}"
+        },
+        {
+            "task_id": "49",
+            "constraints": {
+                "e2": 3.0
+            },
+            "response": "{0, Arrange for someone else to bring the guitar back home, such as a friend, family member, or courier service. Alternatively, return home within the day to retrieve the guitar personally.}"
+        }
+    ]
+}

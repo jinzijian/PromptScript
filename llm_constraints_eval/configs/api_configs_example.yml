@@ -1,0 +1,39 @@
+gpt-4o:
+  name: gpt-4o
+  key: xxxx
+  provider: openai
+
+claude-3-5-sonnet:
+  name: claude-3-5-sonnet-20240620
+  key: xxxx
+  provider: anthropic
+
+llama3.1:
+  name: llama3.1
+  key: xxxx
+  provider: ollama
+
+llama3.1-70b:
+  name: llama3.1:70b
+  key: xxxx
+  provider: ollama
+
+mixtral:
+  name: mixtral:8x22b
+  key: xxxx
+  provider: ollama
+
+qwen2.5:
+  name: qwen2.5
+  key: xxxx
+  provider: ollama
+
+qwen2.5-72b:
+  name: qwen2.5:72b
+  key: xxxx
+  provider: ollama
+
+gemma2:
+  name: gemma2
+  key: xxxx
+  provider: ollama

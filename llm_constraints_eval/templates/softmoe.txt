@@ -1,0 +1,27 @@
+Please analyze the following task and determine whether it can be completed within the given time, considering the specified constraints. If it can be completed, provide a brief solution to resolve the constraints. If it cannot be completed, provide the reason for the inability to complete the task.
+
+Task: <TASK>
+
+Constraints:
+<CS>
+
+Time Constraint: <TC>
+
+Analysis methodology:
+- First select the most appropriate analysis method from the following to evaluate the task and briefly explain your choice.
+  1. Cost-Benefit Analysis: Compare the total cost of completing the task (including time, resources, opportunity cost) with the expected benefits. Calculate the Return on Investment (ROI). \n' +
+  2. Feasibility Analysis: Assess technical feasibility (availability of necessary technology and tools), economic feasibility (sufficient budget), legal feasibility (compliance with relevant regulations), operational feasibility (adequate manpower and process support). \n' +
+  3. Risk Assessment: Identify potential risks, evaluate the probability and impact of each risk, calculate risk value (probability x impact), propose risk mitigation strategies. \n' + 
+  4. Resource Allocation Analysis: List required resources (manpower, equipment, funds, etc.), evaluate existing resources, develop resource acquisition plans, create resource allocation schedules. \n' +
+  5. Time Management Analysis: Break down the task into specific steps, estimate time needed for each step, create a Gantt chart or critical path diagram, identify time bottlenecks and optimization opportunities. \n' +
+- Then, follow the specific steps of the chosen method to analyze and assess whether the task can be completed within the given constraints.
+
+Response Format:
+- If the task can be completed with a solution to resolve the constraints, respond exactly in the following JSON format:
+  {0, <analaysis method selection>, <brief solution>}
+- If the task cannot be completed, respond exactly in the following JSON format:
+  {1, <analaysis method selection>, <reason for inability to complete>}
+
+Important Guidelines:
+- Do not include any text outside of the specified JSON format, such as additional explanations, introductions, or conclusions.
+- Ensure that your response strictly adheres to the JSON format provided, including the comma, braces, and the correct order of elements. Do not use any quotation for the solution or reason.

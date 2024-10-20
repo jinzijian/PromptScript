@@ -1,0 +1,196 @@
+{
+    "results": [
+        {
+            "task_id": "0",
+            "constraints": {
+                "s1": 3.0,
+                "i1": 3.0
+            },
+            "response": "{1, Cannot go to the restaurant without transportation and payment.}"
+        },
+        {
+            "task_id": "0",
+            "constraints": {
+                "s1": 3.0,
+                "i2": 2.0
+            },
+            "response": "{1,  Unable to find a restaurant location or arrange transportation without a mobile phone or internet access.}"
+        },
+        {
+            "task_id": "0",
+            "constraints": {
+                "s2": 1.0,
+                "i1": 3.0
+            },
+            "response": "{1, Unable to communicate with staff and pay for the meal within the given time constraint.}"
+        },
+        {
+            "task_id": "0",
+            "constraints": {
+                "s2": 1.0,
+                "i2": 2.0
+            },
+            "response": "{1,  It is impossible to find a suitable restaurant and navigate there without a mobile phone or internet access, given the language barrier.}"
+        },
+        {
+            "task_id": "0",
+            "constraints": {
+                "s1": 3.0,
+                "e1": 5.0
+            },
+            "response": "{1, The restaurant is closed due to maintenance.}"
+        },
+        {
+            "task_id": "0",
+            "constraints": {
+                "s1": 3.0,
+                "e2": 5.0
+            },
+            "response": "{1, Cannot drive and the restaurant is closed}"
+        },
+        {
+            "task_id": "0",
+            "constraints": {
+                "s2": 1.0,
+                "e1": 5.0
+            },
+            "response": "{1, The restaurant is closed due to maintenance.}"
+        },
+        {
+            "task_id": "0",
+            "constraints": {
+                "s2": 1.0,
+                "e2": 5.0
+            },
+            "response": "{1, Unable to communicate with staff and the restaurant is closed.}"
+        },
+        {
+            "task_id": "0",
+            "constraints": {
+                "i1": 3.0,
+                "e1": 5.0
+            },
+            "response": "{1, Unable to pay for the meal and the restaurant is closed.}"
+        },
+        {
+            "task_id": "0",
+            "constraints": {
+                "i1": 3.0,
+                "e2": 5.0
+            },
+            "response": "{1, unable to pay for the meal and the restaurant is closed}"
+        },
+        {
+            "task_id": "0",
+            "constraints": {
+                "i2": 2.0,
+                "e1": 5.0
+            },
+            "response": "{1, The restaurant is closed due to maintenance.}"
+        },
+        {
+            "task_id": "0",
+            "constraints": {
+                "i2": 2.0,
+                "e2": 5.0
+            },
+            "response": "{1, The restaurant is closed at the current time.}"
+        },
+        {
+            "task_id": "1",
+            "constraints": {
+                "s1": 2.0,
+                "i1": 2.0
+            },
+            "response": "{1, Cannot enjoy a traditional bath without water temperature adjustment and cleansing products.}"
+        },
+        {
+            "task_id": "1",
+            "constraints": {
+                "s1": 2.0,
+                "i2": 2.0
+            },
+            "response": "{1, Cannot enjoy a bath without adjusting water temperature and drying off with a towel.}"
+        },
+        {
+            "task_id": "1",
+            "constraints": {
+                "s2": 2.0,
+                "i1": 2.0
+            },
+            "response": "{1, Cannot bathe without soap.}"
+        },
+        {
+            "task_id": "1",
+            "constraints": {
+                "s2": 2.0,
+                "i2": 2.0
+            },
+            "response": "{1, Cannot bathe without a towel.}"
+        },
+        {
+            "task_id": "1",
+            "constraints": {
+                "s1": 2.0,
+                "e1": 5.0
+            },
+            "response": "{1, Bathroom water supply interruption prevents taking a bath.}"
+        },
+        {
+            "task_id": "1",
+            "constraints": {
+                "s1": 2.0,
+                "e2": 4.0
+            },
+            "response": "{1, Cannot take a bath without hot water.}"
+        },
+        {
+            "task_id": "1",
+            "constraints": {
+                "s2": 2.0,
+                "e1": 5.0
+            },
+            "response": "{1, Cannot take a bath without water supply.}"
+        },
+        {
+            "task_id": "1",
+            "constraints": {
+                "s2": 2.0,
+                "e2": 4.0
+            },
+            "response": "{1, Cannot distinguish between body wash and shampoo and no hot water supply}"
+        },
+        {
+            "task_id": "1",
+            "constraints": {
+                "i1": 2.0,
+                "e1": 5.0
+            },
+            "response": "{1, No bath possible without water supply.}"
+        },
+        {
+            "task_id": "1",
+            "constraints": {
+                "i1": 2.0,
+                "e2": 4.0
+            },
+            "response": "{1,  No hot water and lack of shower gel/shampoo make a traditional bath impossible.}"
+        },
+        {
+            "task_id": "1",
+            "constraints": {
+                "i2": 2.0,
+                "e1": 5.0
+            },
+            "response": "{1, No access to water and a towel are necessary for taking a bath.}"
+        },
+        {
+            "task_id": "1",
+            "constraints": {
+                "i2": 2.0,
+                "e2": 4.0
+            },
+            "response": "{1, No towel and no hot water supply make it impossible to take a bath.}"
+        }
+    ]
+}

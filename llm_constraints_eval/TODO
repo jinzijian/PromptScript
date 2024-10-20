@@ -1,0 +1,9 @@
+Out-of-Box evaluation:
+- Evaluate all combinations:
+    - Single constraint, 6C1 * 500 = 3000
+    - Two types of constraints, 3*2*2 * 500 = 12 * 500 = 6000
+    - 3 types of constraints, 2*2*2 * 500 = 4000
+- LLMs:
+    - openai gpt4o (oracle); anthropic claude-3.5-sonnet
+    - llama3.1-70B, qwen2.5-72B, mixtral-8x22B
+    - llama3.1-8B, qwen2.5-7B, gemma2-9B
