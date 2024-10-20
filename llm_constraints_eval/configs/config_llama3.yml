@@ -1,13 +1,13 @@
 data_file: ./data/topic_constraints_en_2403_v2.json
 api_configs_file: ./configs/api_configs.yml
 save_root: ./results/res_2410
-llm: gpt-4o
-stages: ['query']
+llm: llama3.1-70b
+stages: ['query', evaluate]
 # stages: ['evaluate']
 
 #### query stage ####
-# query_template_file: ./templates/base.txt
-query_template_file: ./templates/softmoe.txt
+query_template_file: ./templates/base.txt
+# query_template_file: ./templates/softmoe.txt
 num_constraints: 1
 reset_progress: False
 first_k: 50
