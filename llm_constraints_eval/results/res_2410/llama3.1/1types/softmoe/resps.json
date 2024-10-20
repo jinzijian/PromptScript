@@ -1,0 +1,46 @@
+{
+    "results": [
+        {
+            "task_id": "0",
+            "constraints": {
+                "s1": 3.0
+            },
+            "response": "{0, 5, Call a friend or family member who can drive you to the restaurant, and plan the meal in advance to minimize dining time}"
+        },
+        {
+            "task_id": "0",
+            "constraints": {
+                "s2": 1.0
+            },
+            "response": "{0, 5, Time Management Analysis: Break down the task into specific steps - Step 1: Go to the restaurant (15 minutes), Step 2: Order food using gestures and simple language (20 minutes), Step 3: Wait for food and eat (15 minutes). Total time needed is 50 minutes. Since this is less than the given time constraint of 1 hour, the task can be completed within the given constraints. Solution: Learn basic English phrases to communicate with restaurant staff and understand the menu, or use a translation app on your phone to help with ordering food.}"
+        },
+        {
+            "task_id": "0",
+            "constraints": {
+                "i1": 3.0
+            },
+            "response": "{0, 5, Go to a restaurant with a friend who can pay for the meal, ask them to cover the cost, and dine within an hour}"
+        },
+        {
+            "task_id": "0",
+            "constraints": {
+                "i2": 2.0
+            },
+            "response": "{0, 5, Time Management Analysis: Break down the task into specific steps - Step 1: Find a restaurant (15 minutes), Step 2: Walk to the restaurant (10 minutes), Step 3: Order food and dine (20 minutes). Total time required is 45 minutes. Since this is less than the given time constraint of 1 hour, the task can be completed within the given constraints. Solution: Plan your route in advance, consider nearby restaurants, and walk at a moderate pace to ensure timely arrival and dining completion.}"
+        },
+        {
+            "task_id": "0",
+            "constraints": {
+                "e1": 5.0
+            },
+            "response": "{0, 5, Go to an alternative restaurant within the 1-hour time frame, or consider dining at home with a similar meal option}"
+        },
+        {
+            "task_id": "0",
+            "constraints": {
+                "e2": 5.0
+            },
+            "response": "{0, 5, Go to the restaurant at a different time when it is open. Create a resource allocation schedule to ensure you have enough time to dine within the remaining hour after the restaurant opens.}"
+        }
+    ]
+}

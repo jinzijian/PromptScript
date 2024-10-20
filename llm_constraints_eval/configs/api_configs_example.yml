@@ -18,8 +18,8 @@ llama3.1-70b:
   key: xxxx
   provider: ollama
 
-mixtral:
-  name: mixtral:8x22b
+gemma2-27b:
+  name: gemma2:27b
   key: xxxx
   provider: ollama
 

@@ -1,0 +1,46 @@
+{
+    "results": [
+        {
+            "task_id": "0",
+            "constraints": {
+                "s1": 3.0
+            },
+            "response": "{0, Call a friend or family member who can drive you to the restaurant}"
+        },
+        {
+            "task_id": "0",
+            "constraints": {
+                "s2": 1.0
+            },
+            "response": "{0, Learn a few basic English phrases like \"hello\", \"menu please\", and \"bill please\" to communicate with restaurant staff and understand the menu within 1 hour}"
+        },
+        {
+            "task_id": "0",
+            "constraints": {
+                "i1": 3.0
+            },
+            "response": "{0, Go to a restaurant with a friend who can pay for the meal}"
+        },
+        {
+            "task_id": "0",
+            "constraints": {
+                "i2": 2.0
+            },
+            "response": "{0, Look at a map or ask someone for directions to find the restaurant and then go there}"
+        },
+        {
+            "task_id": "0",
+            "constraints": {
+                "e1": 5.0
+            },
+            "response": "{1, The restaurant is under maintenance today and is not open for business}"
+        },
+        {
+            "task_id": "0",
+            "constraints": {
+                "e2": 5.0
+            },
+            "response": "{1, The restaurant is closed at the current time, unable to enter the restaurant}"
+        }
+    ]
+}

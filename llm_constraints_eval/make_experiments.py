@@ -15,9 +15,10 @@ def argbooltype(v):
         return False
 
 parser = argparse.ArgumentParser(description='args')
+parser.add_argument('--cfg_file', default='./configs/config_llama3.yml', type=str)
 parser.add_argument('--local_models_only', default=True, type=argbooltype)
-parser.add_argument('--first_k', default=50, type=int)
-args = vars(parser.parse_args())
+parser.add_argument('--first_k', default=None, type=int)
+args = parser.parse_args()
 
 
 def make_experiments(args, base_cfg):
@@ -29,10 +30,13 @@ def make_experiments(args, base_cfg):
     if args.local_models_only:
         llms = []
         for k in api_configs.keys():
+            if k == 'cfg_file':
+                continue
             if api_configs[k]['provider'] == 'ollama':
                 llms.append(k)
     templates = ['./templates/base.txt', './templates/softmoe.txt']
-    num_constraints = [1, 2, 3]
+    # num_constraints = [1, 2, 3]
+    num_constraints = [1]
     
     combinations = list(itertools.product(llms, templates, num_constraints))
     cfgs = []
@@ -46,7 +50,7 @@ def make_experiments(args, base_cfg):
 
 
 if __name__ == "__main__":
-    base_cfg = core.config.get_config(core.config.get_args().cfg_file)
+    base_cfg = core.config.get_config(args.cfg_file)
     api_configs = core.config.get_config(base_cfg.api_configs_file)
     base_cfg['api_configs'] = api_configs
 
