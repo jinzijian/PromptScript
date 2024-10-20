@@ -1,0 +1,2104 @@
+{
+    "results": [
+        {
+            "task_id": "0",
+            "constraints": {
+                "s1": 3.0
+            },
+            "response": "{0, Take a taxi or ride-hailing service, walk, or ask someone else to drive you to the restaurant}"
+        },
+        {
+            "task_id": "0",
+            "constraints": {
+                "s2": 1.0
+            },
+            "response": "{0, Use a translation app or bring an English-speaking friend to facilitate communication with restaurant staff}"
+        },
+        {
+            "task_id": "0",
+            "constraints": {
+                "i1": 3.0
+            },
+            "response": "{1, unable to pay for meal without money or payment tools}"
+        },
+        {
+            "task_id": "0",
+            "constraints": {
+                "i2": 2.0
+            },
+            "response": "{0, Ask someone nearby for directions to a nearby restaurant, then go there directly}"
+        },
+        {
+            "task_id": "0",
+            "constraints": {
+                "e1": 5.0
+            },
+            "response": "{1, The restaurant is under maintenance today and is not open for business}"
+        },
+        {
+            "task_id": "0",
+            "constraints": {
+                "e2": 5.0
+            },
+            "response": "{1, The restaurant is closed at the current time, unable to enter the restaurant within 1 hour}"
+        },
+        {
+            "task_id": "1",
+            "constraints": {
+                "s1": 2.0
+            },
+            "response": "{0, Use lukewarm water}"
+        },
+        {
+            "task_id": "1",
+            "constraints": {
+                "s2": 2.0
+            },
+            "response": "{0, Use both body wash and shampoo on the entire body as a temporary measure, then rinse thoroughly}"
+        },
+        {
+            "task_id": "1",
+            "constraints": {
+                "i1": 2.0
+            },
+            "response": "{0, Use water alone or consider using soap if available}"
+        },
+        {
+            "task_id": "1",
+            "constraints": {
+                "i2": 2.0
+            },
+            "response": "{0, Use a shirt or other available cloth to dry off after the bath}"
+        },
+        {
+            "task_id": "1",
+            "constraints": {
+                "e1": 5.0
+            },
+            "response": "{1, Bathroom water supply interruption prevents taking a bath within 15 minutes}"
+        },
+        {
+            "task_id": "1",
+            "constraints": {
+                "e2": 4.0
+            },
+            "response": "{0, Use cold water}"
+        },
+        {
+            "task_id": "2",
+            "constraints": {
+                "s1": 5.0
+            },
+            "response": "{1, cannot swim within 2 hours if you can't swim}"
+        },
+        {
+            "task_id": "2",
+            "constraints": {
+                "s2": 2.0
+            },
+            "response": "{0, Take public transportation or ride-hailing services to reach the swimming pool within 2 hours}"
+        },
+        {
+            "task_id": "2",
+            "constraints": {
+                "i1": 3.0
+            },
+            "response": "{0, Buy a swimsuit on the way to the swimming pool}"
+        },
+        {
+            "task_id": "2",
+            "constraints": {
+                "i2": 2.0
+            },
+            "response": "{0, Swim without goggles}"
+        },
+        {
+            "task_id": "2",
+            "constraints": {
+                "e1": 5.0
+            },
+            "response": "{1, The swimming pool is under maintenance}"
+        },
+        {
+            "task_id": "2",
+            "constraints": {
+                "e2": 4.0
+            },
+            "response": "{1, The weather is not suitable for swimming}"
+        },
+        {
+            "task_id": "3",
+            "constraints": {
+                "s1": 2.0
+            },
+            "response": "{0, Use the library's staff-assisted book borrowing service instead}"
+        },
+        {
+            "task_id": "3",
+            "constraints": {
+                "s2": 1.0
+            },
+            "response": "{0, Ask a librarian for assistance with searching the electronic catalog}"
+        },
+        {
+            "task_id": "3",
+            "constraints": {
+                "i1": 5.0
+            },
+            "response": "{0, Obtain a library borrowing card by registering at the library within 2 hours}"
+        },
+        {
+            "task_id": "3",
+            "constraints": {
+                "i2": 3.0
+            },
+            "response": "{0, Go home and retrieve valid identification then return to the library within the 2-hour time frame}"
+        },
+        {
+            "task_id": "3",
+            "constraints": {
+                "e1": 5.0
+            },
+            "response": "{1, Library is under renovation and cannot be entered}"
+        },
+        {
+            "task_id": "3",
+            "constraints": {
+                "e2": 5.0
+            },
+            "response": "{1, The city does not have a library}"
+        },
+        {
+            "task_id": "4",
+            "constraints": {
+                "s1": 2.0
+            },
+            "response": "{1, unable to complete task due to lack of knowledge on using oven within given time constraint}"
+        },
+        {
+            "task_id": "4",
+            "constraints": {
+                "s2": 2.0
+            },
+            "response": "{1, Lack of familiarity with baking steps and techniques cannot be overcome within a 1-hour time frame}"
+        },
+        {
+            "task_id": "4",
+            "constraints": {
+                "i1": 3.0
+            },
+            "response": "{0, Use a makeshift baking tray made from aluminum foil or purchase a disposable baking tray if available within the 1-hour time frame}"
+        },
+        {
+            "task_id": "4",
+            "constraints": {
+                "i2": 5.0
+            },
+            "response": "{1, Lack of basic ingredient eggs needed for baking cannot be resolved within 1 hour as it requires a trip to the store to purchase eggs}"
+        },
+        {
+            "task_id": "4",
+            "constraints": {
+                "e1": 4.0
+            },
+            "response": "{0, Use a microwave-safe cake mix and follow the instructions for microwave baking, adjusting cooking time as needed}"
+        },
+        {
+            "task_id": "4",
+            "constraints": {
+                "e2": 1.0
+            },
+            "response": "{0, Use a stand mixer with a secure lid to minimize disturbance from noise, and consider using a recipe with a shorter preparation time to ensure completion within 1 hour}"
+        },
+        {
+            "task_id": "5",
+            "constraints": {
+                "s1": 5.0
+            },
+            "response": "{1, cannot fly an airplane without a pilot's license}"
+        },
+        {
+            "task_id": "5",
+            "constraints": {
+                "s2": 4.0
+            },
+            "response": "{0, Hire a licensed pilot with flight skills and knowledge to operate the airplane}"
+        },
+        {
+            "task_id": "5",
+            "constraints": {
+                "i1": 5.0
+            },
+            "response": "{0, Book a flight on a scheduled airline during daylight hours}"
+        },
+        {
+            "task_id": "5",
+            "constraints": {
+                "i2": 5.0
+            },
+            "response": "{1, The task is impossible because flying on an airplane requires being a passenger or crew member with proper clearance and equipment, not actually flying the plane personally without necessary training and gear}"
+        },
+        {
+            "task_id": "5",
+            "constraints": {
+                "e1": 3.0
+            },
+            "response": "{0, Go to the airport before the flight's scheduled departure time during the day}"
+        },
+        {
+            "task_id": "5",
+            "constraints": {
+                "e2": 5.0
+            },
+            "response": "{1, The task cannot be completed because flying in a no-fly zone is prohibited and poses a risk to safety and security.}"
+        },
+        {
+            "task_id": "6",
+            "constraints": {
+                "s1": 2.0
+            },
+            "response": "{1, cannot make an appointment without making a dental appointment}"
+        },
+        {
+            "task_id": "6",
+            "constraints": {
+                "s2": 2.0
+            },
+            "response": "{0, Ask a friend or family member to drive you to the dentist, or consider using public transportation or ride-hailing services}"
+        },
+        {
+            "task_id": "6",
+            "constraints": {
+                "i1": 4.0
+            },
+            "response": "{0, Call the dentist office to make an appointment and ask if they accept payment methods other than cash such as credit card over phone or online billing}"
+        },
+        {
+            "task_id": "6",
+            "constraints": {
+                "i2": 4.0
+            },
+            "response": "{0, Call the dentist office to inquire about their policy on patients without insurance cards, explain the situation, and ask if they can accommodate an appointment within 24 hours; some dentists may offer alternative payment options or accept patients without insurance cards}"
+        },
+        {
+            "task_id": "6",
+            "constraints": {
+                "e1": 5.0
+            },
+            "response": "{1, The dental clinic is not open within the given 24-hour time frame}"
+        },
+        {
+            "task_id": "6",
+            "constraints": {
+                "e2": 5.0
+            },
+            "response": "{0, Look for dentists who offer same-day appointments or emergency services, or consider visiting an urgent care dental clinic that can accommodate walk-ins or last-minute appointments within 24 hours.}"
+        },
+        {
+            "task_id": "7",
+            "constraints": {
+                "s1": 2.0
+            },
+            "response": "{1, Lack of knowledge on how to use an iron cannot be resolved within 30 minutes}"
+        },
+        {
+            "task_id": "7",
+            "constraints": {
+                "s2": 2.0
+            },
+            "response": "{1, Lack of understanding of ironing techniques and steps for clothing cannot be resolved within 30 minutes}"
+        },
+        {
+            "task_id": "7",
+            "constraints": {
+                "i1": 5.0
+            },
+            "response": "{1, No iron available to complete the task}"
+        },
+        {
+            "task_id": "7",
+            "constraints": {
+                "i2": 4.0
+            },
+            "response": "{0, Use a heat-resistant surface like a countertop or table covered with a towel to iron clothes}"
+        },
+        {
+            "task_id": "7",
+            "constraints": {
+                "e1": 4.0
+            },
+            "response": "{0, Use a portable handheld garment steamer or visit a nearby laundromat with ironing facilities}"
+        },
+        {
+            "task_id": "7",
+            "constraints": {
+                "e2": 5.0
+            },
+            "response": "{0, Use a portable ironing kit with a battery-powered travel iron or a handheld garment steamer that does not require a power source}"
+        },
+        {
+            "task_id": "8",
+            "constraints": {
+                "s1": 2.0
+            },
+            "response": "{0, Ask a local for help with reading the bus route map or look for visual cues such as bus numbers and destinations displayed in English or through images}"
+        },
+        {
+            "task_id": "8",
+            "constraints": {
+                "s2": 4.0
+            },
+            "response": "{0, Ask someone at the bus stop or a station staff for help with purchasing a ticket or using public transportation cards/electronic payment tools}"
+        },
+        {
+            "task_id": "8",
+            "constraints": {
+                "i1": 4.0
+            },
+            "response": "{0, Buy a bus ticket with cash at a nearby ticket counter or ask someone if they can lend you their bus card}"
+        },
+        {
+            "task_id": "8",
+            "constraints": {
+                "i2": 2.0
+            },
+            "response": "{0, Ask someone nearby for bus route information}"
+        },
+        {
+            "task_id": "8",
+            "constraints": {
+                "e1": 3.0
+            },
+            "response": "{0, Go to the bus stop within 1 hour}"
+        },
+        {
+            "task_id": "8",
+            "constraints": {
+                "e2": 3.0
+            },
+            "response": "{1, No buses are available in the given location within the specified time frame}"
+        },
+        {
+            "task_id": "9",
+            "constraints": {
+                "s1": 2.0
+            },
+            "response": "{0, Use a phone to call the fast food restaurant's customer service number and place an order over the phone with the assistance of their staff}"
+        },
+        {
+            "task_id": "9",
+            "constraints": {
+                "s2": 1.0
+            },
+            "response": "{0, Order at the counter with a cashier}"
+        },
+        {
+            "task_id": "9",
+            "constraints": {
+                "i1": 2.0
+            },
+            "response": "{0, Go to a nearby fast food restaurant with a physical location and place an order in person}"
+        },
+        {
+            "task_id": "9",
+            "constraints": {
+                "i2": 2.0
+            },
+            "response": "{0, Use a ride-sharing service or walk/bike to the restaurant to place an order inside}"
+        },
+        {
+            "task_id": "9",
+            "constraints": {
+                "e1": 3.0
+            },
+            "response": "{0, Use a food delivery app or website that partners with fast food restaurants to place an order within 30 minutes}"
+        },
+        {
+            "task_id": "9",
+            "constraints": {
+                "e2": 3.0
+            },
+            "response": "{0, Use a phone call or visit the fast food restaurant in person}"
+        },
+        {
+            "task_id": "10",
+            "constraints": {
+                "s1": 2.0
+            },
+            "response": "{0, Hire a professional interior designer or decorator who can provide guidance on design decisions and oversee the renovation process}"
+        },
+        {
+            "task_id": "10",
+            "constraints": {
+                "s2": 2.0
+            },
+            "response": "{0, Take a crash course or online tutorials to learn how to use renovation tools, consider hiring a professional for complex tasks, and prioritize simpler tasks such as painting and decorating to ensure completion within one month}"
+        },
+        {
+            "task_id": "10",
+            "constraints": {
+                "i1": 3.0
+            },
+            "response": "{1, Insufficient materials and resources to complete the renovation within the given time frame}"
+        },
+        {
+            "task_id": "10",
+            "constraints": {
+                "i2": 4.0
+            },
+            "response": "{0, Purchase or rent necessary renovation tools within the first week, allowing three weeks for actual renovation work}"
+        },
+        {
+            "task_id": "10",
+            "constraints": {
+                "e1": 3.0
+            },
+            "response": "{1, The room cannot be renovated within one month due to the large amount of furniture in the room, which makes renovation impossible without first removing or relocating the furniture.}"
+        },
+        {
+            "task_id": "10",
+            "constraints": {
+                "e2": 4.0
+            },
+            "response": "{1, The room cannot be renovated within one month while it is still in use, as renovation typically requires exclusive access to the space to ensure safety and efficiency.}"
+        },
+        {
+            "task_id": "11",
+            "constraints": {
+                "s1": 2.0
+            },
+            "response": "{1, Lack of knowledge on how to use shampoo and conditioner cannot be resolved within 15 minutes}"
+        },
+        {
+            "task_id": "11",
+            "constraints": {
+                "s2": 1.0
+            },
+            "response": "{0, Use a gentle scalp massaging technique by applying moderate pressure with fingertips in circular motions, focusing on one area at a time, without needing to know specific proper techniques}"
+        },
+        {
+            "task_id": "11",
+            "constraints": {
+                "i1": 3.0
+            },
+            "response": "{0, Use water only and massage scalp to remove dirt and oils}"
+        },
+        {
+            "task_id": "11",
+            "constraints": {
+                "i2": 4.0
+            },
+            "response": "{1, No available water sources or shower facilities to wash hair}"
+        },
+        {
+            "task_id": "11",
+            "constraints": {
+                "e1": 4.0
+            },
+            "response": "{1, No suitable place available to wash hair within the given time constraint}"
+        },
+        {
+            "task_id": "11",
+            "constraints": {
+                "e2": 5.0
+            },
+            "response": "{1, Washing hair in public places or environments where it is not appropriate is generally considered impolite and may be against rules or regulations, making it impractical to complete within 15 minutes due to lack of suitable facilities and potential disturbance to others.}"
+        },
+        {
+            "task_id": "12",
+            "constraints": {
+                "s1": 3.0
+            },
+            "response": "{0, Open YouTube app on iPhone > Play a video > Tap home button or swipe up to go back to home screen > Swipe left to open Control Center > Long press play button > Tap Play in Background}"
+        },
+        {
+            "task_id": "12",
+            "constraints": {
+                "s2": 3.0
+            },
+            "response": "{0, Open YouTube app on iPhone > Tap profile picture > Settings > Background play > Turn on 'Play in background' > Start playing a video > Press home button to return to home screen > Video will continue playing audio in background}"
+        },
+        {
+            "task_id": "12",
+            "constraints": {
+                "i1": 5.0
+            },
+            "response": "{1, The task cannot be completed because accessing an iPhone without knowing the password is not possible due to security restrictions}"
+        },
+        {
+            "task_id": "12",
+            "constraints": {
+                "i2": 1.0
+            },
+            "response": "{0, Open Safari browser on iPhone, navigate to youtube.com, find desired video, start playing it, then swipe up from bottom of screen to return to home screen, video audio will continue playing in background}"
+        },
+        {
+            "task_id": "12",
+            "constraints": {
+                "e1": 3.0
+            },
+            "response": "{1, No network connection is required to listen to downloaded YouTube videos on iPhone, but downloading requires a prior internet connection which is not available in this scenario}"
+        },
+        {
+            "task_id": "12",
+            "constraints": {
+                "e2": 3.0
+            },
+            "response": "{0, Use Siri or Control Center to play YouTube videos in the background, then minimize the app or lock the iPhone screen}"
+        },
+        {
+            "task_id": "13",
+            "constraints": {
+                "s1": 1.0
+            },
+            "response": "{0, Open WhatsApp > Settings > Account > Two-step verification > Enable > Create a 6-digit PIN > Confirm PIN > Optional: Add email address to recover account}"
+        },
+        {
+            "task_id": "13",
+            "constraints": {
+                "s2": 3.0
+            },
+            "response": "{0, Explain two-step verification in simple terms: it adds an extra security step to WhatsApp login, requiring a 6-digit code sent via SMS or email, in addition to the phone number; then guide users through WhatsApp settings > Account > Two-step verification > Enable, and follow prompts to set up the verification code.}"
+        },
+        {
+            "task_id": "13",
+            "constraints": {
+                "i1": 5.0
+            },
+            "response": "{1, The user does not have an Android phone which is a necessary requirement to set up two-step verification for WhatsApp on Android}"
+        },
+        {
+            "task_id": "13",
+            "constraints": {
+                "i2": 2.0
+            },
+            "response": "{1, WhatsApp must be installed on the phone to set up two-step verification}"
+        },
+        {
+            "task_id": "13",
+            "constraints": {
+                "e1": 3.0
+            },
+            "response": "{1, Two-step verification for WhatsApp requires an internet connection to receive a verification code via SMS or email, which is not possible in places without internet.}"
+        },
+        {
+            "task_id": "13",
+            "constraints": {
+                "e2": 5.0
+            },
+            "response": "{0, Plug in the phone to charge while setting up two-step verification to prevent the battery from dying during the process}"
+        },
+        {
+            "task_id": "14",
+            "constraints": {
+                "s1": 3.0
+            },
+            "response": "{0, Take a cold shower, get some fresh air, drink water, eat a snack with protein and complex carbohydrates, engage in a short burst of physical activity like jumping jacks or dancing, change your environment by taking a short walk outside or rearranging your workspace}"
+        },
+        {
+            "task_id": "14",
+            "constraints": {
+                "s2": 2.0
+            },
+            "response": "{0, Take a cold shower, get some fresh air, stretch or do a quick 10-minute workout to increase blood circulation and oxygen flow, change your environment or take a short walk outside}"
+        },
+        {
+            "task_id": "14",
+            "constraints": {
+                "i1": 4.0
+            },
+            "response": "{0, Take a cold shower, get some fresh air, engage in light physical activity like stretching or jumping jacks, practice deep breathing exercises, or change your environment to stimulate your senses}"
+        },
+        {
+            "task_id": "14",
+            "constraints": {
+                "i2": 2.0
+            },
+            "response": "{0, Take a cold shower, get some fresh air, practice deep breathing exercises, or engage in a mentally stimulating activity like solving puzzles or reading an interesting book to increase alertness and shake off drowsiness}"
+        },
+        {
+            "task_id": "14",
+            "constraints": {
+                "e1": 3.0
+            },
+            "response": "{0, Take a cold shower, get some fresh air, or engage in a short burst of physical activity like jumping jacks or a quick walk to increase alertness and circulation}"
+        },
+        {
+            "task_id": "14",
+            "constraints": {
+                "e2": 2.0
+            },
+            "response": "{0, Take a cold shower, engage in some light physical activity like stretching or yoga, practice deep breathing exercises, and drink a caffeinated beverage to increase alertness}"
+        },
+        {
+            "task_id": "15",
+            "constraints": {
+                "s1": 3.0
+            },
+            "response": "{1, Lack of medical knowledge requires professional diagnosis and treatment which cannot be completed within a short period of time}"
+        },
+        {
+            "task_id": "15",
+            "constraints": {
+                "s2": 3.0
+            },
+            "response": "{1, Lack of professional ophthalmic examination skills makes it impossible to accurately judge and complete self-diagnosis within a short period of time}"
+        },
+        {
+            "task_id": "15",
+            "constraints": {
+                "i1": 2.0
+            },
+            "response": "{1, Unable to complete self-diagnosis without specialized equipment, requiring professional medical examination}"
+        },
+        {
+            "task_id": "15",
+            "constraints": {
+                "i2": 4.0
+            },
+            "response": "{1, Self-diagnosis and treatment of eye mites within a short period is not possible without relevant medications or treatment products, and it requires professional medical attention from an optometrist or ophthalmologist to confirm the presence of eye mites and provide proper treatment}"
+        },
+        {
+            "task_id": "15",
+            "constraints": {
+                "e1": 3.0
+            },
+            "response": "{0, Research symptoms online and look for common signs such as intense itching, burning sensation, or blurry vision, then purchase an over-the-counter eye mite treatment kit which usually includes a magnifying glass or a specialized light to help identify the mites}"
+        },
+        {
+            "task_id": "15",
+            "constraints": {
+                "e2": 4.0
+            },
+            "response": "{0, Visit an eye care professional in a well-lit clinic with proper equipment for a thorough examination}"
+        },
+        {
+            "task_id": "16",
+            "constraints": {
+                "s1": 3.0
+            },
+            "response": "{0, Use a simple online PDF creation tool like SmallPDF or Canva that doesn't require software installation or extensive computer knowledge, follow the website's step-by-step instructions to create and download the PDF file within 30 minutes}"
+        },
+        {
+            "task_id": "16",
+            "constraints": {
+                "s2": 3.0
+            },
+            "response": "{0, Search online for \"how to create a PDF file\" and follow a simple tutorial, such as using a word processor like Microsoft Word or Google Docs to create a document and then saving it as a PDF file}"
+        },
+        {
+            "task_id": "16",
+            "constraints": {
+                "i1": 5.0
+            },
+            "response": "{0, Use a mobile device with internet connection to access online PDF creation tools or apps, such as SmallPDF or Canva, which allow creating and saving PDF files without needing a computer}"
+        },
+        {
+            "task_id": "16",
+            "constraints": {
+                "i2": 3.0
+            },
+            "response": "{1, No software or tool is available to create PDF files within the given time constraint}"
+        },
+        {
+            "task_id": "16",
+            "constraints": {
+                "e1": 4.0
+            },
+            "response": "{0, Use a local PDF creation software already installed on the device, such as Microsoft Word's built-in PDF export feature or a standalone PDF creator like Adobe Acrobat, to create a PDF file within the given time frame.}"
+        },
+        {
+            "task_id": "16",
+            "constraints": {
+                "e2": 5.0
+            },
+            "response": "{0, Use a laptop with a charged battery or find an alternative power source to turn on the computer and create the PDF file within 30 minutes}"
+        },
+        {
+            "task_id": "17",
+            "constraints": {
+                "s1": 3.0
+            },
+            "response": "{0, Hire a professional security expert to assess the property and install anti-theft systems, such as alarms, cameras, and motion detectors, within the given time frame}"
+        },
+        {
+            "task_id": "17",
+            "constraints": {
+                "s2": 3.0
+            },
+            "response": "{0, Consult with a lawyer or security expert to set up anti-theft measures such as CCTV cameras, alarms, and secure storage, while also learning about basic legal rights and responsibilities regarding property protection}"
+        },
+        {
+            "task_id": "17",
+            "constraints": {
+                "i1": 3.0
+            },
+            "response": "{0, Implement a temporary security patrol by hiring off-duty police officers or private security guards to monitor the property until permanent measures can be installed; utilize existing lighting to illuminate potential entry points and consider rearranging outdoor furniture or plants to reduce hiding spots}"
+        },
+        {
+            "task_id": "17",
+            "constraints": {
+                "i2": 3.0
+            },
+            "response": "{0, Prioritize the most vulnerable areas and install the available locks and security devices first. Then, consider hiring a locksmith or a security expert to provide temporary measures, such as installing portable locks or barriers, until high-quality door locks and window locks can be purchased and installed.}"
+        },
+        {
+            "task_id": "17",
+            "constraints": {
+                "e1": 4.0
+            },
+            "response": "{0, Hire a local security expert or company at the location where the commercial property is situated to set up anti-theft measures such as CCTV cameras, alarms, and secure locks within one day}"
+        },
+        {
+            "task_id": "17",
+            "constraints": {
+                "e2": 2.0
+            },
+            "response": "{0, Implement basic anti-theft measures such as installing security cameras, motion-sensitive lights, and alarms, securing doors and windows with strong locks, and keeping valuables out of sight, which can be done without professional help}"
+        },
+        {
+            "task_id": "18",
+            "constraints": {
+                "s1": 3.0
+            },
+            "response": "{0, Familiarize yourself with the game's controls and mechanics before playing, watch tutorials on weapon usage and equipment deployment, start with beginner-friendly modes like Team Deathmatch to practice and learn from mistakes}"
+        },
+        {
+            "task_id": "18",
+            "constraints": {
+                "s2": 3.0
+            },
+            "response": "{1, Lack of in-game tactical planning and team collaboration makes it impossible to become the ultimate player within a single game, as Call of Duty requires strategic teamwork and quick decision-making to win, which cannot be achieved without communication and coordination with teammates.}"
+        },
+        {
+            "task_id": "18",
+            "constraints": {
+                "i1": 4.0
+            },
+            "response": "{0, Focus on completing in-game objectives to earn rewards and experience points, allowing players to level up and unlock necessary equipment; utilize default loadouts effectively until better gear is acquired}"
+        },
+        {
+            "task_id": "18",
+            "constraints": {
+                "i2": 2.0
+            },
+            "response": "{0, Focus on map awareness and strategic positioning to avoid taking damage, utilize cover and concealment to stay alive, and prioritize enemy elimination over gathering items, allowing you to win without relying on specific in-game items}"
+        },
+        {
+            "task_id": "18",
+            "constraints": {
+                "e1": 2.0
+            },
+            "response": "{0, Communicate with teammates to coordinate map control and execute strategic rotations to secure favorable areas for battle}"
+        },
+        {
+            "task_id": "18",
+            "constraints": {
+                "e2": 1.0
+            },
+            "response": "{0, Utilize cover and concealment mechanics to mitigate disadvantageous positions, employ strategic movement and flanking maneuvers to gain advantageous angles, and leverage abilities such as smokes and flashes to disorient opponents and create opportunities for counterattacks}"
+        },
+        {
+            "task_id": "19",
+            "constraints": {
+                "s1": 2.0
+            },
+            "response": "{0, Use accessories like scarves, hats, or bags in neutral colors to add a personal touch without matching clothes}"
+        },
+        {
+            "task_id": "19",
+            "constraints": {
+                "s2": 2.0
+            },
+            "response": "{0, Research neutral style characteristics online or consult with a fashion expert within 2 hours, then apply the understanding to suggest modifications to school uniforms such as using muted colors, simple patterns, and minimal branding}"
+        },
+        {
+            "task_id": "19",
+            "constraints": {
+                "i1": 1.0
+            },
+            "response": "{0, Consider alternative methods to add a neutral style such as modifying existing uniform pieces like adding a simple embroidery or using different fabric textures that are still within school guidelines}"
+        },
+        {
+            "task_id": "19",
+            "constraints": {
+                "i2": 4.0
+            },
+            "response": "{0, Design a new uniform with neutral colors and styles that can be implemented alongside existing uniforms}"
+        },
+        {
+            "task_id": "19",
+            "constraints": {
+                "e1": 1.0
+            },
+            "response": "{0, Research online for inspiration and ideas on neutral styles, sketch or design digitally, and create a proposal or mockup to present to school administrators or uniform committee}"
+        },
+        {
+            "task_id": "19",
+            "constraints": {
+                "e2": 4.0
+            },
+            "response": "{0, Utilize digital design tools to create a virtual prototype of the neutral style school uniform, allowing for exploration and refinement without requiring physical transformation in an unsuitable environment}"
+        },
+        {
+            "task_id": "20",
+            "constraints": {
+                "s1": 2.0
+            },
+            "response": "{1, The user's lack of knowledge on operating an Android device is a significant constraint that cannot be resolved within the given 5-minute time frame, as it requires basic understanding and familiarity with the device's interface and navigation.}"
+        },
+        {
+            "task_id": "20",
+            "constraints": {
+                "s2": 2.0
+            },
+            "response": "{0, Open Twitter app > Tap profile picture > Settings and account > Account > Email address > Update email address > Enter new email address > Confirm password > Save}"
+        },
+        {
+            "task_id": "20",
+            "constraints": {
+                "i1": 4.0
+            },
+            "response": "{1, The user does not have an Android device which is required to change Twitter's email on Android}"
+        },
+        {
+            "task_id": "20",
+            "constraints": {
+                "i2": 2.0
+            },
+            "response": "{1, The user cannot change Twitter's email on Android without having a Twitter account first, which would take more than 5 minutes to create and set up.}"
+        },
+        {
+            "task_id": "20",
+            "constraints": {
+                "e1": 4.0
+            },
+            "response": "{1, Changing Twitter's email requires a network connection to access the Twitter app or website, which is not possible in places without a network connection within the given 5-minute time frame.}"
+        },
+        {
+            "task_id": "20",
+            "constraints": {
+                "e2": 5.0
+            },
+            "response": "{1, The task cannot be completed because users are unable to use their phones, which is a necessary device to access Twitter on Android and change the email address within the given time constraint of 5 minutes.}"
+        },
+        {
+            "task_id": "21",
+            "constraints": {
+                "s1": 2.0
+            },
+            "response": "{0, Enroll in a social skills workshop or online course, practice active listening, ask open-ended questions, and engage in small talk with strangers for at least 30 minutes daily to improve communication skills}"
+        },
+        {
+            "task_id": "21",
+            "constraints": {
+                "s2": 3.0
+            },
+            "response": "{0, Develop a daily routine that includes 30 minutes of online research on personal health maintenance and skincare skills, allocate 1 hour for practicing skincare routines, and dedicate 2 hours on weekends to reading books or articles on self-improvement, while also seeking guidance from experts in the field through social media or online forums.}"
+        },
+        {
+            "task_id": "21",
+            "constraints": {
+                "i1": 2.0
+            },
+            "response": "{0, Utilize natural ingredients like coconut oil, honey, and turmeric to create homemade skincare products, and focus on inner qualities like kindness, empathy, and self-awareness to become an exquisite person from within}"
+        },
+        {
+            "task_id": "21",
+            "constraints": {
+                "i2": 4.0
+            },
+            "response": "{1, Becoming an exquisite person in a month is unrealistic due to the complex nature of personal growth and development, which requires long-term effort and dedication, and cannot be rushed or completed within a short timeframe, especially with limited financial resources affecting basic needs like nutrition and health.}"
+        },
+        {
+            "task_id": "21",
+            "constraints": {
+                "e1": 2.0
+            },
+            "response": "{0, Focus on inner qualities like empathy, kindness, and self-awareness; develop a growth mindset through reading, journaling, and learning from failures; cultivate meaningful relationships and practice gratitude in daily life}"
+        },
+        {
+            "task_id": "21",
+            "constraints": {
+                "e2": 5.0
+            },
+            "response": "{1, Becoming an exquisite person in a severely underdeveloped region with limited access to resources, education, and opportunities within a month is unrealistic due to the significant time and effort required to acquire new skills, knowledge, and personal growth}"
+        },
+        {
+            "task_id": "22",
+            "constraints": {
+                "s1": 2.0
+            },
+            "response": "{0, Arrange for a ride with a friend or family member, hire a taxi or ride-sharing service, or use public transportation if available}"
+        },
+        {
+            "task_id": "22",
+            "constraints": {
+                "s2": 1.0
+            },
+            "response": "{0, Research local customs and habits related to funerals within the given time frame of two days}"
+        },
+        {
+            "task_id": "22",
+            "constraints": {
+                "i1": 2.0
+            },
+            "response": "{0, Buy or borrow suitable clothing within two days}"
+        },
+        {
+            "task_id": "22",
+            "constraints": {
+                "i2": 2.0
+            },
+            "response": "{0, Purchase mourning supplies within a day and attend the funeral on the second day}"
+        },
+        {
+            "task_id": "22",
+            "constraints": {
+                "e1": 4.0
+            },
+            "response": "{0, Check the location of the funeral and travel there within two days if it's nearby or accessible by a short flight/train ride}"
+        },
+        {
+            "task_id": "22",
+            "constraints": {
+                "e2": 3.0
+            },
+            "response": "{0, Confirm the location of the funeral in advance and plan the route to avoid lateness}"
+        },
+        {
+            "task_id": "23",
+            "constraints": {
+                "s1": 2.0
+            },
+            "response": "{0, Modify yoga poses to accommodate current flexibility level, using props such as blocks or straps if necessary, and focus on breathing techniques and relaxation}"
+        },
+        {
+            "task_id": "23",
+            "constraints": {
+                "s2": 2.0
+            },
+            "response": "{0, Start with short breathing exercises before yoga practice to improve breath control skills, such as alternate nostril breathing or box breathing, and gradually incorporate them into the full yoga practice within the hour}"
+        },
+        {
+            "task_id": "23",
+            "constraints": {
+                "i1": 3.0
+            },
+            "response": "{0, Use a towel or blanket on the hard surface as an alternative to a yoga mat}"
+        },
+        {
+            "task_id": "23",
+            "constraints": {
+                "i2": 3.0
+            },
+            "response": "{0, Wear comfortable and stretchy clothing that allows for a full range of motion}"
+        },
+        {
+            "task_id": "23",
+            "constraints": {
+                "e1": 2.0
+            },
+            "response": "{0, Find a quiet environment or use noise-cancelling headphones to minimize distractions}"
+        },
+        {
+            "task_id": "23",
+            "constraints": {
+                "e2": 3.0
+            },
+            "response": "{0, Focus on seated and kneeling poses, breathing exercises, and meditation, which can be done in a limited space without unrolling a yoga mat}"
+        },
+        {
+            "task_id": "24",
+            "constraints": {
+                "s1": 5.0
+            },
+            "response": "{1, unable to disembark from the car within 30 minutes due to physical limitations}"
+        },
+        {
+            "task_id": "24",
+            "constraints": {
+                "s2": 4.0
+            },
+            "response": "{0, Bring a companion who can assist with disembarkation}"
+        },
+        {
+            "task_id": "24",
+            "constraints": {
+                "i1": 4.0
+            },
+            "response": "{1, The car door cannot be opened due to a broken lock, preventing disembarkation}"
+        },
+        {
+            "task_id": "24",
+            "constraints": {
+                "i2": 3.0
+            },
+            "response": "{1, unable to disembark safely with a stuck seat belt}"
+        },
+        {
+            "task_id": "24",
+            "constraints": {
+                "e1": 2.0
+            },
+            "response": "{0, Park the vehicle first}"
+        },
+        {
+            "task_id": "24",
+            "constraints": {
+                "e2": 4.0
+            },
+            "response": "{1, Vehicles are trapped and unable to move}"
+        },
+        {
+            "task_id": "25",
+            "constraints": {
+                "s1": 2.0
+            },
+            "response": "{1, Lack of basic computer operation skills is a significant barrier to completing account security settings within 30 minutes, as it requires understanding and navigating Gmail's interface and settings.}"
+        },
+        {
+            "task_id": "25",
+            "constraints": {
+                "s2": 2.0
+            },
+            "response": "{0, Go to Gmail settings > Security > 2-Step Verification > Get started > Enter phone number or authenticator app details > Follow prompts to complete setup}"
+        },
+        {
+            "task_id": "25",
+            "constraints": {
+                "i1": 3.0
+            },
+            "response": "{1, No stable network connection prevents accessing Gmail account settings}"
+        },
+        {
+            "task_id": "25",
+            "constraints": {
+                "i2": 4.0
+            },
+            "response": "{0, Enable 2-Step Verification using authenticator apps like Google Authenticator, Authy, or Microsoft Authenticator that generate time-based one-time passwords (TOTPs), which do not require a phone number or alternate email address}"
+        },
+        {
+            "task_id": "25",
+            "constraints": {
+                "e1": 5.0
+            },
+            "response": "{0, Use Gmail's offline mode to access account settings, enable 2-step verification using authenticator app, set up account recovery options, and review account permissions before disconnecting from network}"
+        },
+        {
+            "task_id": "25",
+            "constraints": {
+                "e2": 1.0
+            },
+            "response": "{0, Use a secure connection HTTPS, enable two-factor authentication 2FA, set up account alerts, and avoid using public computers or unsecured networks to access your Gmail account}"
+        },
+        {
+            "task_id": "26",
+            "constraints": {
+                "s1": 2.0
+            },
+            "response": "{0, The task \"Drive to the grocery store\" is unrelated to muscle growth or fitness skills, so the constraint can be ignored in this context.}"
+        },
+        {
+            "task_id": "26",
+            "constraints": {
+                "s2": 3.0
+            },
+            "response": "{1, Lack of nutritional knowledge is a significant constraint that cannot be resolved within the given time frame of 3 months, as it requires extensive research and education to gain sufficient knowledge on how to assist muscle growth through diet.}"
+        },
+        {
+            "task_id": "26",
+            "constraints": {
+                "i1": 2.0
+            },
+            "response": "{1, The task \"Drive to the grocery store\" is unrelated to muscle growth and fitness equipment, making it impossible to complete within the given time frame due to a lack of relevance between the task and constraints.}"
+        },
+        {
+            "task_id": "26",
+            "constraints": {
+                "i2": 2.0
+            },
+            "response": "{1, The task \"Drive to the grocery store\" is unrelated to muscle growth and cannot be completed within a specific time frame as it is a physical activity with no direct correlation to nutritional supplements or muscle development}"
+        },
+        {
+            "task_id": "26",
+            "constraints": {
+                "e1": 2.0
+            },
+            "response": "{1, The task \"Drive to the grocery store\" is unrelated to muscle growth and cannot be completed within a time frame intended for physical training.}"
+        },
+        {
+            "task_id": "26",
+            "constraints": {
+                "e2": 2.0
+            },
+            "response": "{1, The task \"Drive to the grocery store\" is unrelated to muscle growth and does not require a professional coach, but the time constraint \"Complete muscle growth within 3 months\" is inapplicable to this task as it refers to physical development rather than driving to a location}"
+        },
+        {
+            "task_id": "27",
+            "constraints": {
+                "s1": 3.0
+            },
+            "response": "{0, Develop a daily routine that incorporates effective learning techniques such as Pomodoro sessions, active recall, and spaced repetition, while also allocating specific times for reviewing notes, practicing problems, and seeking help from teachers or classmates, allowing for efficient use of the 8 hours of study time}"
+        },
+        {
+            "task_id": "27",
+            "constraints": {
+                "s2": 3.0
+            },
+            "response": "{1, Lack of good communication and social skills is a significant constraint that cannot be resolved within the given time frame, as developing these skills requires extensive practice, training, and real-world experience, which cannot be achieved in just 8 hours of study per day}"
+        },
+        {
+            "task_id": "27",
+            "constraints": {
+                "i1": 2.0
+            },
+            "response": "{1, Insufficient resources due to lack of necessary study tools such as notebooks calculators computers etc making it impossible to achieve perfection in school}"
+        },
+        {
+            "task_id": "27",
+            "constraints": {
+                "i2": 2.0
+            },
+            "response": "{1, Insufficient study environment hinders effective learning and reviewing within the given 8 hours daily time constraint}"
+        },
+        {
+            "task_id": "27",
+            "constraints": {
+                "e1": 2.0
+            },
+            "response": "{1, Insufficient time available due to 8 hours of study time exceeding typical daily school hours and conflicting with constraint 1}"
+        },
+        {
+            "task_id": "27",
+            "constraints": {
+                "e2": 2.0
+            },
+            "response": "{1, Achieving perfection in school is subjective and cannot be measured, making it an unattainable goal, regardless of study time or collaboration constraints.}"
+        },
+        {
+            "task_id": "28",
+            "constraints": {
+                "s1": 4.0
+            },
+            "response": "{0, take public transportation or ride-sharing services to nearby towns or rural areas}"
+        },
+        {
+            "task_id": "28",
+            "constraints": {
+                "s2": 4.0
+            },
+            "response": "{0, Take a guided wilderness trip with an experienced guide who can provide instruction on wilderness survival skills, allowing you to learn while completing the task within the given time frame.}"
+        },
+        {
+            "task_id": "28",
+            "constraints": {
+                "i1": 4.0
+            },
+            "response": "{0, Purchase or rent necessary outdoor survival equipment within a few days, allowing enough time for the trip}"
+        },
+        {
+            "task_id": "28",
+            "constraints": {
+                "i2": 5.0
+            },
+            "response": "{0, Stock up on non-perishable food items and refillable water containers before leaving the city, consider purchasing a portable water filtration system or water purification tablets as well}"
+        },
+        {
+            "task_id": "28",
+            "constraints": {
+                "e1": 2.0
+            },
+            "response": "{0, Plan a trip to a nearby town or village that is within driving distance or accessible by public transportation, book accommodations in advance, and prepare for the trip by packing essentials and notifying relevant parties of your temporary absence}"
+        },
+        {
+            "task_id": "28",
+            "constraints": {
+                "e2": 3.0
+            },
+            "response": "{0, Plan a staycation or local getaway within the city limits, such as visiting museums, indoor pools, or entertainment centers, until the weather improves}"
+        },
+        {
+            "task_id": "29",
+            "constraints": {
+                "s1": 3.0
+            },
+            "response": "{1, The user's lack of knowledge on how to operate an Android phone is a significant barrier to completing the task within 5 minutes, as it would require additional time to learn basic phone operations before attempting to log in to WeChat via SMS.}"
+        },
+        {
+            "task_id": "29",
+            "constraints": {
+                "s2": 2.0
+            },
+            "response": "{0, Open WeChat on Android, tap More Options, select Log in via SMS, enter phone number, wait for SMS verification code, enter code to log in}"
+        },
+        {
+            "task_id": "29",
+            "constraints": {
+                "i1": 3.0
+            },
+            "response": "{0, Download WeChat from Google Play Store then open it and select SMS login option}"
+        },
+        {
+            "task_id": "29",
+            "constraints": {
+                "i2": 4.0
+            },
+            "response": "{1, No signal or inability to receive text messages prevents receiving SMS verification code required for WeChat login}"
+        },
+        {
+            "task_id": "29",
+            "constraints": {
+                "e1": 4.0
+            },
+            "response": "{1, No internet connection is required to receive SMS but WeChat login requires internet connection to communicate with servers}"
+        },
+        {
+            "task_id": "29",
+            "constraints": {
+                "e2": 5.0
+            },
+            "response": "{1, Unable to receive SMS verification code due to being in a place with no text message reception}"
+        },
+        {
+            "task_id": "30",
+            "constraints": {
+                "s1": 2.0
+            },
+            "response": "{0, Organize local fundraising events like bake sales charity runs auctions or sponsor a community project to raise funds within a month}"
+        },
+        {
+            "task_id": "30",
+            "constraints": {
+                "s2": 2.0
+            },
+            "response": "{0, Utilize online crowdfunding platforms, social media campaigns, and reach out to friends and family for donations}"
+        },
+        {
+            "task_id": "30",
+            "constraints": {
+                "i1": 2.0
+            },
+            "response": "{0, Consider crowdfunding, ask friends and family for donations, or take on a part-time job to raise funds within the given time frame}"
+        },
+        {
+            "task_id": "30",
+            "constraints": {
+                "i2": 2.0
+            },
+            "response": "{0, Utilize offline fundraising methods such as organizing local events like bake sales charity runs or auctions reaching out to friends family and community members for donations and partnering with local businesses for sponsorships}"
+        },
+        {
+            "task_id": "30",
+            "constraints": {
+                "e1": 2.0
+            },
+            "response": "{0, Utilize online platforms such as crowdfunding websites social media and email networks to reach a wider audience and collect donations}"
+        },
+        {
+            "task_id": "30",
+            "constraints": {
+                "e2": 2.0
+            },
+            "response": "{0, Utilize online fundraising platforms and social media to reach a wider audience and collect donations from friends, family, and acquaintances living in other locations}"
+        },
+        {
+            "task_id": "31",
+            "constraints": {
+                "s1": 1.0
+            },
+            "response": "{1, Lack of knowledge on using TV or devices cannot be resolved within 20 minutes}"
+        },
+        {
+            "task_id": "31",
+            "constraints": {
+                "s2": 2.0
+            },
+            "response": "{1, unable to comprehend the process of the game within 20 minutes due to lack of understanding of the rules}"
+        },
+        {
+            "task_id": "31",
+            "constraints": {
+                "i1": 4.0
+            },
+            "response": "{1, No device available to watch the competition within the given time}"
+        },
+        {
+            "task_id": "31",
+            "constraints": {
+                "i2": 4.0
+            },
+            "response": "{1, No internet or television signal available within the given time constraint}"
+        },
+        {
+            "task_id": "31",
+            "constraints": {
+                "e1": 4.0
+            },
+            "response": "{1, Task cannot be completed within 20 minutes in remote areas without television or internet as it is impossible to access the competition broadcast}"
+        },
+        {
+            "task_id": "31",
+            "constraints": {
+                "e2": 2.0
+            },
+            "response": "{1, The task cannot be completed within 20 minutes as watching a large-scale competition typically requires more time than the given constraint allows}"
+        },
+        {
+            "task_id": "32",
+            "constraints": {
+                "s1": 1.0
+            },
+            "response": "{0, Hand-deliver the draft to the editor or send it through a courier service within the day}"
+        },
+        {
+            "task_id": "32",
+            "constraints": {
+                "s2": 2.0
+            },
+            "response": "{0, Research editor communication guidelines online and follow a standard template for submitting drafts}"
+        },
+        {
+            "task_id": "32",
+            "constraints": {
+                "i1": 2.0
+            },
+            "response": "{0, Obtain a draft copy from the source, then hand it over to the editor}"
+        },
+        {
+            "task_id": "32",
+            "constraints": {
+                "i2": 3.0
+            },
+            "response": "{0, Print the draft on paper and hand-deliver it to the editor}"
+        },
+        {
+            "task_id": "32",
+            "constraints": {
+                "e1": 3.0
+            },
+            "response": "{0, Send the draft via email or online file-sharing platform}"
+        },
+        {
+            "task_id": "32",
+            "constraints": {
+                "e2": 3.0
+            },
+            "response": "{0, Print the draft and hand-deliver it to the editor}"
+        },
+        {
+            "task_id": "33",
+            "constraints": {
+                "s1": 2.0
+            },
+            "response": "{0, Download a translation app on phone and purchase a phrasebook to communicate basic needs}"
+        },
+        {
+            "task_id": "33",
+            "constraints": {
+                "s2": 3.0
+            },
+            "response": "{0, Research destination country's travel requirements online, ask friends or family members who have traveled there for directions, and contact the embassy or consulate for guidance on necessary documents and procedures}"
+        },
+        {
+            "task_id": "33",
+            "constraints": {
+                "i1": 5.0
+            },
+            "response": "{1, Obtaining a passport and visa typically takes longer than a week due to processing times and requirements}"
+        },
+        {
+            "task_id": "33",
+            "constraints": {
+                "i2": 4.0
+            },
+            "response": "{1, Insufficient time to secure additional travel funds}"
+        },
+        {
+            "task_id": "33",
+            "constraints": {
+                "e1": 1.0
+            },
+            "response": "{0, Arrange transportation to the airport or train station within a few days, then proceed with travel preparations such as obtaining necessary visas, booking flights or trains, and packing essentials}"
+        },
+        {
+            "task_id": "33",
+            "constraints": {
+                "e2": 1.0
+            },
+            "response": "{0, Research destination online, gather necessary documents, apply for visa if required, book flights and accommodation through online platforms, and purchase travel insurance within a week}"
+        },
+        {
+            "task_id": "34",
+            "constraints": {
+                "s1": 2.0
+            },
+            "response": "{0, Use pre-assembled tables or rent a table that comes fully assembled}"
+        },
+        {
+            "task_id": "34",
+            "constraints": {
+                "s2": 2.0
+            },
+            "response": "{0, Research online for 30 minutes to find a basic arrangement guide for baked goods displays, then spend the remaining 1.5 hours setting up the table according to the found guidelines}"
+        },
+        {
+            "task_id": "34",
+            "constraints": {
+                "i1": 3.0
+            },
+            "response": "{0, Borrow tables from nearby vendors or rent temporary display tables within the 2-hour time frame}"
+        },
+        {
+            "task_id": "34",
+            "constraints": {
+                "i2": 4.0
+            },
+            "response": "{0, Order baked goods from a nearby bakery or store within 1 hour and set up the display table with the received items within the remaining 1 hour}"
+        },
+        {
+            "task_id": "34",
+            "constraints": {
+                "e1": 3.0
+            },
+            "response": "{1, The space is not suitable for setting up a display table}"
+        },
+        {
+            "task_id": "34",
+            "constraints": {
+                "e2": 2.0
+            },
+            "response": "{0, Set up a display table in an area adjacent to where the baked goods will be placed, then move the baked goods to the table once it is set up}"
+        },
+        {
+            "task_id": "35",
+            "constraints": {
+                "s1": 2.0
+            },
+            "response": "{0, Use pre-cut vegetables or purchase a pre-made salad mix}"
+        },
+        {
+            "task_id": "35",
+            "constraints": {
+                "s2": 2.0
+            },
+            "response": "{0, Look up a simple salad recipe online or in a cookbook to find a suggested combination of ingredients, then quickly gather and prepare those ingredients within the 30-minute time frame}"
+        },
+        {
+            "task_id": "35",
+            "constraints": {
+                "i1": 4.0
+            },
+            "response": "{1, Insufficient time to procure main ingredients}"
+        },
+        {
+            "task_id": "35",
+            "constraints": {
+                "i2": 4.0
+            },
+            "response": "{0, Use pre-washed and pre-cut ingredients such as cherry tomatoes, carrots, and lettuce, and tear them into smaller pieces with your hands to assemble the salad}"
+        },
+        {
+            "task_id": "35",
+            "constraints": {
+                "e1": 2.0
+            },
+            "response": "{0, Prepare ingredients in advance and assemble salad in a designated area outside the kitchen}"
+        },
+        {
+            "task_id": "35",
+            "constraints": {
+                "e2": 2.0
+            },
+            "response": "{0, Clean a small area with available materials like paper towels or a cloth and water from a bottle to create a makeshift clean space}"
+        },
+        {
+            "task_id": "36",
+            "constraints": {
+                "s1": 2.0
+            },
+            "response": "{0, Attend in-person lessons at a physical location}"
+        },
+        {
+            "task_id": "36",
+            "constraints": {
+                "s2": 3.0
+            },
+            "response": "{1, Lack of basic knowledge or skills required for studying the course cannot be resolved within a 1-hour time frame}"
+        },
+        {
+            "task_id": "36",
+            "constraints": {
+                "i1": 3.0
+            },
+            "response": "{1, Insufficient study materials and time to effectively attend and engage with weekly lessons}"
+        },
+        {
+            "task_id": "36",
+            "constraints": {
+                "i2": 3.0
+            },
+            "response": "{0, Find a quiet spot in a library, park, or outdoor area with minimal distractions to attend virtual lessons or listen to recorded sessions}"
+        },
+        {
+            "task_id": "36",
+            "constraints": {
+                "e1": 3.0
+            },
+            "response": "{0, Attend virtual classes or online lessons}"
+        },
+        {
+            "task_id": "36",
+            "constraints": {
+                "e2": 4.0
+            },
+            "response": "{1, No network connection is required to attend weekly lessons if they are held in-person or offline}"
+        },
+        {
+            "task_id": "37",
+            "constraints": {
+                "s1": 2.0
+            },
+            "response": "{0, Consult with a certified personal trainer or nutritionist to create a customized workout and meal plan tailored to muscle gain; invest time in learning proper form and technique through online resources or fitness classes}"
+        },
+        {
+            "task_id": "37",
+            "constraints": {
+                "s2": 4.0
+            },
+            "response": "{0, Create a structured workout plan with specific goals and milestones, track progress through regular measurements and photos, find an accountability partner or personal trainer to provide motivation and support}"
+        },
+        {
+            "task_id": "37",
+            "constraints": {
+                "i1": 3.0
+            },
+            "response": "{0, Bodyweight exercises like push-ups, squats, lunges, planks, and pull-ups can be done without equipment; progressive overload can be achieved by increasing reps, sets, or difficulty over time}"
+        },
+        {
+            "task_id": "37",
+            "constraints": {
+                "i2": 3.0
+            },
+            "response": "{0, Purchase suitable workout clothes and shoes within a week to start working out consistently with a well-planned muscle gain program}"
+        },
+        {
+            "task_id": "37",
+            "constraints": {
+                "e1": 3.0
+            },
+            "response": "{0, Bodyweight exercises like push-ups, squats, lunges, planks, and burpees can be done at home without equipment; Progressive overload with increased reps, sets, or difficulty modifications can stimulate muscle growth; Nutrition plays a crucial role in muscle gain, so ensure adequate protein intake through food or supplements}"
+        },
+        {
+            "task_id": "37",
+            "constraints": {
+                "e2": 3.0
+            },
+            "response": "{0, Utilize online resources and fitness apps that provide personalized workout plans and virtual coaching, join online fitness communities for motivation and accountability, and consider hiring a remote personal trainer for periodic check-ins and guidance}"
+        },
+        {
+            "task_id": "38",
+            "constraints": {
+                "s1": 1.0
+            },
+            "response": "{0, Break down complex dance movements into simpler steps and practice each step slowly before combining them, consider taking private lessons or working with a partner who can provide additional support and guidance}"
+        },
+        {
+            "task_id": "38",
+            "constraints": {
+                "s2": 1.0
+            },
+            "response": "{0, Practice regularly with a metronome to improve sense of rhythm, focus on basic steps and technique, and consider taking private lessons for personalized feedback}"
+        },
+        {
+            "task_id": "38",
+            "constraints": {
+                "i1": 2.0
+            },
+            "response": "{0, Purchase suitable dance attire before attending class}"
+        },
+        {
+            "task_id": "38",
+            "constraints": {
+                "i2": 2.0
+            },
+            "response": "{0, Borrow or purchase professional dance shoes before attending classes}"
+        },
+        {
+            "task_id": "38",
+            "constraints": {
+                "e1": 3.0
+            },
+            "response": "{0, Find a local dance studio or community center with available classes within the next month}"
+        },
+        {
+            "task_id": "38",
+            "constraints": {
+                "e2": 3.0
+            },
+            "response": "{0, Find a dance studio with soundproofing or noise-cancelling equipment, schedule classes during less busy hours, or consider online dance courses with video tutorials}"
+        },
+        {
+            "task_id": "39",
+            "constraints": {
+                "s1": 2.0
+            },
+            "response": "{0, Write the blog post in a word processor or text editor within 30 minutes, then publish it on a self-hosted website or a static site generator like GitHub Pages within the remaining 30 minutes}"
+        },
+        {
+            "task_id": "39",
+            "constraints": {
+                "s2": 3.0
+            },
+            "response": "{1, Lack of writing skills and language organization ability cannot be resolved within an hour, requiring significant time and practice to develop}"
+        },
+        {
+            "task_id": "39",
+            "constraints": {
+                "i1": 4.0
+            },
+            "response": "{1, No available computers or mobile devices to write and publish the blog post}"
+        },
+        {
+            "task_id": "39",
+            "constraints": {
+                "i2": 3.0
+            },
+            "response": "{1, No stable network connection is required to publish a blog post}"
+        },
+        {
+            "task_id": "39",
+            "constraints": {
+                "e1": 2.0
+            },
+            "response": "{1, Writing a quality blog post requires concentrated writing which is hindered by the current environment}"
+        },
+        {
+            "task_id": "39",
+            "constraints": {
+                "e2": 2.0
+            },
+            "response": "{1, Insufficient quietness for deep thinking and creation within a short time frame of one hour makes it challenging to produce quality content for the first blog post.}"
+        },
+        {
+            "task_id": "40",
+            "constraints": {
+                "s1": 4.0
+            },
+            "response": "{1, Lack of cooking and baking knowledge cannot be overcome within a 1-hour time frame}"
+        },
+        {
+            "task_id": "40",
+            "constraints": {
+                "s2": 2.0
+            },
+            "response": "{1, Lack of familiarity with handling lemons cannot be resolved within 1 hour as it requires learning and practice to safely and effectively handle fruits}"
+        },
+        {
+            "task_id": "40",
+            "constraints": {
+                "i1": 4.0
+            },
+            "response": "{1, Insufficient time to acquire necessary materials within the given 1-hour constraint}"
+        },
+        {
+            "task_id": "40",
+            "constraints": {
+                "i2": 5.0
+            },
+            "response": "{1, No oven available to bake the lemon bars}"
+        },
+        {
+            "task_id": "40",
+            "constraints": {
+                "e1": 5.0
+            },
+            "response": "{1, It is impossible to make lemon bars without being in a kitchen or a place where cooking is possible within 1 hour}"
+        },
+        {
+            "task_id": "40",
+            "constraints": {
+                "e2": 5.0
+            },
+            "response": "{1, No power supply or gas supply means no oven or electric mixer available, making it impossible to bake and mix ingredients within 1 hour}"
+        },
+        {
+            "task_id": "41",
+            "constraints": {
+                "s1": 2.0
+            },
+            "response": "{0, Practice active listening, ask open-ended questions, and express feelings using \"I\" statements; join a club or group that aligns with interests to meet like-minded people and build relationships in a low-pressure setting; seek guidance from a trusted teacher, counselor, or mentor on effective communication skills.}"
+        },
+        {
+            "task_id": "41",
+            "constraints": {
+                "s2": 2.0
+            },
+            "response": "{0, Join a club or group that aligns with interests to meet like-minded people, participate in class discussions to build confidence in interacting with peers, and ask a teacher or school counselor for guidance on improving social skills}"
+        },
+        {
+            "task_id": "41",
+            "constraints": {
+                "i1": 2.0
+            },
+            "response": "{0, Seek guidance from a trusted teacher, school counselor, or mentor who can provide personalized advice on navigating high school relationships; observe and learn from positive relationships among peers; join clubs or groups that align with interests to meet like-minded people and build connections}"
+        },
+        {
+            "task_id": "41",
+            "constraints": {
+                "i2": 2.0
+            },
+            "response": "{0, Utilize school resources like libraries or computer labs to access communication tools during free periods or lunch breaks, and make an effort to spend quality time with friends during school hours or extracurricular activities}"
+        },
+        {
+            "task_id": "41",
+            "constraints": {
+                "e1": 2.0
+            },
+            "response": "{0, Be approachable and friendly in class, participate actively in group projects and discussions, show genuine interest in others' lives during lunch or between classes, and leverage social media to stay connected with classmates outside of school hours}"
+        },
+        {
+            "task_id": "41",
+            "constraints": {
+                "e2": 2.0
+            },
+            "response": "{0, Join a school club or sports team to meet like-minded friends outside of family environment, participate in group projects to build relationships with classmates, and schedule regular hangouts with friends during lunch breaks or after school}"
+        },
+        {
+            "task_id": "42",
+            "constraints": {
+                "s1": 2.0
+            },
+            "response": "{0, Ask a friend or family member who is familiar with online booking systems for assistance, or visit a physical ticket counter if available within the 2-hour time frame}"
+        },
+        {
+            "task_id": "42",
+            "constraints": {
+                "s2": 2.0
+            },
+            "response": "{0, Use online booking platforms like Expedia, Kayak, or directly visit airline/train websites with filters and sorting options to easily compare prices, schedules, and routes; also consider contacting customer support for assistance in choosing the appropriate flight or train}"
+        },
+        {
+            "task_id": "42",
+            "constraints": {
+                "i1": 4.0
+            },
+            "response": "{0, Visit a physical ticket counter or ask someone with access to electronic devices to book on behalf}"
+        },
+        {
+            "task_id": "42",
+            "constraints": {
+                "i2": 2.0
+            },
+            "response": "{0, Add a valid payment method within 2 hours}"
+        },
+        {
+            "task_id": "42",
+            "constraints": {
+                "e1": 4.0
+            },
+            "response": "{0, Book a physical ticket by visiting the ticket counter in person within 2 hours}"
+        },
+        {
+            "task_id": "42",
+            "constraints": {
+                "e2": 3.0
+            },
+            "response": "{0, Visit a nearby ticket counter or ask someone with a network connection to book on behalf}"
+        },
+        {
+            "task_id": "43",
+            "constraints": {
+                "s1": 3.0
+            },
+            "response": "{0, Hire an experienced retail manager or consultant to guide the process, conduct market research and create a business plan, obtain necessary licenses and permits, source products and suppliers, design and set up the store layout, hire and train staff, and establish operational systems within the given timeframe.}"
+        },
+        {
+            "task_id": "43",
+            "constraints": {
+                "s2": 3.0
+            },
+            "response": "{0, Hire a purchasing manager with negotiation skills to handle supplier interactions}"
+        },
+        {
+            "task_id": "43",
+            "constraints": {
+                "i1": 4.0
+            },
+            "response": "{0, Consider alternative funding options such as loans, grants, or investors to secure necessary funds for purchasing goods and equipment}"
+        },
+        {
+            "task_id": "43",
+            "constraints": {
+                "i2": 5.0
+            },
+            "response": "{1, Obtaining necessary business license and permits typically takes longer than one month due to processing times and potential delays in government agencies}"
+        },
+        {
+            "task_id": "43",
+            "constraints": {
+                "e1": 3.0
+            },
+            "response": "{0, Conduct market research to identify a specific niche or gap in the existing convenience store offerings, then create a unique value proposition that differentiates the new store from competitors, such as offering specialty products, extended hours, or loyalty programs}"
+        },
+        {
+            "task_id": "43",
+            "constraints": {
+                "e2": 3.0
+            },
+            "response": "{1, Insufficient demand due to sparse population makes it unviable to open and operate a convenience store within one month}"
+        },
+        {
+            "task_id": "44",
+            "constraints": {
+                "s1": 2.0
+            },
+            "response": "{1, unable to complete due to lack of knowledge on using the oven within the given time constraint}"
+        },
+        {
+            "task_id": "44",
+            "constraints": {
+                "s2": 2.0
+            },
+            "response": "{1, Lack of familiarity with baking steps and techniques cannot be resolved within a 1-hour time frame}"
+        },
+        {
+            "task_id": "44",
+            "constraints": {
+                "i1": 4.0
+            },
+            "response": "{1, No oven or microwave available to bake cookies within the given time}"
+        },
+        {
+            "task_id": "44",
+            "constraints": {
+                "i2": 4.0
+            },
+            "response": "{1, Lack of ingredients cannot be resolved within 1 hour as it requires a trip to the store to purchase necessary items}"
+        },
+        {
+            "task_id": "44",
+            "constraints": {
+                "e1": 5.0
+            },
+            "response": "{1, unable to access kitchen equipment at home due to physical absence}"
+        },
+        {
+            "task_id": "44",
+            "constraints": {
+                "e2": 5.0
+            },
+            "response": "{1, No baking equipment available in outdoor camping environment}"
+        },
+        {
+            "task_id": "45",
+            "constraints": {
+                "s1": 3.0
+            },
+            "response": "{0, Ask a friend or family member to drive you to the supermarket, or consider using public transportation or ride-hailing services if available in your area}"
+        },
+        {
+            "task_id": "45",
+            "constraints": {
+                "s2": 3.0
+            },
+            "response": "{0, Use a pre-made cookie mix that includes all necessary ingredients with instructions, or ask a store employee for assistance in selecting ingredients}"
+        },
+        {
+            "task_id": "45",
+            "constraints": {
+                "i1": 2.0
+            },
+            "response": "{0, Use a backpack, reusable bags, or ask store staff for assistance in carrying ingredients}"
+        },
+        {
+            "task_id": "45",
+            "constraints": {
+                "i2": 4.0
+            },
+            "response": "{1, No payment method available}"
+        },
+        {
+            "task_id": "45",
+            "constraints": {
+                "e1": 4.0
+            },
+            "response": "{0, Visit a nearby supermarket or grocery store within the 2-hour time frame to purchase ingredients for making cookies.}"
+        },
+        {
+            "task_id": "45",
+            "constraints": {
+                "e2": 2.0
+            },
+            "response": "{0, Visit a local grocery store within 2 hours}"
+        },
+        {
+            "task_id": "46",
+            "constraints": {
+                "s1": 2.0
+            },
+            "response": "{0, Seek guidance from a financial aid counselor or advisor who can provide step-by-step assistance in filling out the application forms, or utilize online resources such as video tutorials and application guides to help understand and complete the forms before the deadline}"
+        },
+        {
+            "task_id": "46",
+            "constraints": {
+                "s2": 2.0
+            },
+            "response": "{0, Visit a local library or community center with public computers and internet access, or ask a friend or family member if you can use their computer to apply online; alternatively, contact the financial aid office to inquire about alternative application methods such as mail-in applications or in-person submissions}"
+        },
+        {
+            "task_id": "46",
+            "constraints": {
+                "i1": 4.0
+            },
+            "response": "{0, Focus on providing required non-financial documents such as identification proof student records and other relevant information to support the application}"
+        },
+        {
+            "task_id": "46",
+            "constraints": {
+                "i2": 2.0
+            },
+            "response": "{0, Visit a local library or community center with public computers and internet access to complete the online application}"
+        },
+        {
+            "task_id": "46",
+            "constraints": {
+                "e1": 3.0
+            },
+            "response": "{0, Submit application through school counselor or educational institution's financial aid representative before deadline}"
+        },
+        {
+            "task_id": "46",
+            "constraints": {
+                "e2": 3.0
+            },
+            "response": "{0, Find a private space at home, library, or community center to fill out and submit the application quietly before the deadline}"
+        },
+        {
+            "task_id": "47",
+            "constraints": {
+                "s1": 2.0
+            },
+            "response": "{1, Insufficient time to learn horse riding skills from scratch within a week}"
+        },
+        {
+            "task_id": "47",
+            "constraints": {
+                "s2": 2.0
+            },
+            "response": "{0, Attend a crash course on horse behavior and habits before starting equestrian classes, and consider taking private lessons with an experienced instructor who can provide personalized guidance and feedback within the given time frame}"
+        },
+        {
+            "task_id": "47",
+            "constraints": {
+                "i1": 3.0
+            },
+            "response": "{0, Rent or purchase necessary equestrian equipment such as helmets riding boots and saddles within a few days to complete the course within the given time frame}"
+        },
+        {
+            "task_id": "47",
+            "constraints": {
+                "i2": 4.0
+            },
+            "response": "{0, Rent or lease suitable horses from a nearby stable or equestrian center}"
+        },
+        {
+            "task_id": "47",
+            "constraints": {
+                "e1": 4.0
+            },
+            "response": "{1, Not having a suitable place for horse riding is a critical constraint that cannot be resolved within the given time frame of one week}"
+        },
+        {
+            "task_id": "47",
+            "constraints": {
+                "e2": 5.0
+            },
+            "response": "{1, Lack of professional guidance may lead to safety risks and ineffective learning within a short time frame}"
+        },
+        {
+            "task_id": "48",
+            "constraints": {
+                "s1": 3.0
+            },
+            "response": "{0, Arrange for alternative transportation options, such as public transport, ride-hailing services, or enlist the help of friends/family members who can drive to facilitate hospital/school visits}"
+        },
+        {
+            "task_id": "48",
+            "constraints": {
+                "s2": 5.0
+            },
+            "response": "{0, Take a financial management course within 2 months to gain necessary skills, then proceed with adoption procedures, allowing 4 months for completion}"
+        },
+        {
+            "task_id": "48",
+            "constraints": {
+                "i1": 5.0
+            },
+            "response": "{0, Create a budget and shopping list for essential items, prioritize needs over wants, consider second-hand options or donations from friends and family, and allocate tasks to manage time effectively}"
+        },
+        {
+            "task_id": "48",
+            "constraints": {
+                "i2": 5.0
+            },
+            "response": "{1, Insufficient economic resources cannot be resolved within 6 months to meet the basic life needs of children}"
+        },
+        {
+            "task_id": "48",
+            "constraints": {
+                "e1": 4.0
+            },
+            "response": "{1, The constraint of not being in the same city or country as the child makes it impossible to complete the adoption procedures and placement within 6 months due to the need for direct contact and understanding of the child during the process}"
+        },
+        {
+            "task_id": "48",
+            "constraints": {
+                "e2": 5.0
+            },
+            "response": "{1, Physical presence is required at the adopting institution which cannot be waived within the given time frame}"
+        },
+        {
+            "task_id": "49",
+            "constraints": {
+                "s1": 4.0
+            },
+            "response": "{0, ask a friend or family member with a vehicle for assistance}"
+        },
+        {
+            "task_id": "49",
+            "constraints": {
+                "s2": 4.0
+            },
+            "response": "{0, ask a friend or family member with a car for a ride home with the guitar}"
+        },
+        {
+            "task_id": "49",
+            "constraints": {
+                "i1": 3.0
+            },
+            "response": "{0, purchase a guitar case or borrow one from someone}"
+        },
+        {
+            "task_id": "49",
+            "constraints": {
+                "i2": 5.0
+            },
+            "response": "{1, The task cannot be completed because it is constrained by a condition that requires buying a guitar, but there is no information about having access to a store or funds to make the purchase within the given time frame.}"
+        },
+        {
+            "task_id": "49",
+            "constraints": {
+                "e1": 3.0
+            },
+            "response": "{0, Visit a guitar shop within the day and purchase a guitar to bring back home}"
+        },
+        {
+            "task_id": "49",
+            "constraints": {
+                "e2": 3.0
+            },
+            "response": "{0, go back home and then bring guitar}"
+        }
+    ]
+}
