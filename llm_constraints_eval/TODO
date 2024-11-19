@@ -7,3 +7,13 @@ Out-of-Box evaluation:
     - openai gpt4o (oracle); anthropic claude-3.5-sonnet
     - llama3.1-70B, qwen2.5-72B, mixtral-8x22B
     - llama3.1-8B, qwen2.5-7B, gemma2-9B
+
+Current settings:
+- temperature = 0
+- top 1
+
+Ideas for give-up improvement:
+- How to build a signal?
+    - from prob of 0/1 decision
+    - from entropy of each token
+- How to convert signal to prompt/guidance for LLM?
