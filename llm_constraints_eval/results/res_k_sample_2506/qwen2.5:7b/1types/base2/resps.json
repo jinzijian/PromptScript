@@ -1,0 +1,58 @@
+{
+    "results": [
+        {
+            "task_id": "0",
+            "constraints": {
+                "s1": 3.0
+            },
+            "response": [
+                "{1, \"Unable to drive and no alternative transportation method specified.\"}",
+                "{1, \"Unable to drive and no alternative mode of transportation specified.\"}",
+                "{1, \"Cannot complete due to the inability to drive and no alternative mode of transportation specified within the given time constraint.\"}",
+                "{1, \"Cannot complete due to inability to drive to the restaurant.\"}",
+                "{1, \"Cannot complete the task within the given time constraint as driving is not an option, and alternative methods such as walking or taking public transportation might exceed the 1-hour dining window.\"}",
+                "{1, \"Cannot drive, unable to drive to the restaurant by oneself, thus the task of going to the restaurant and dining within 1 hour cannot be completed with the given constraints.\"}",
+                "{1, \"Cannot complete the task within 1 hour as driving is the fastest mode of transportation, which is unable due to specified constraints.\"}",
+                "{1, \"Unable to complete due to inability to drive and lack of alternate transportation methods specified within the constraints.\"}",
+                "{1, \"Cannot complete due to no means of transportation provided within the time constraint.\"}",
+                "{1, \"Cannot drive to the restaurant within the time constraint due to transportation limitations.\"}"
+            ]
+        },
+        {
+            "task_id": "0",
+            "constraints": {
+                "s2": 1.0
+            },
+            "response": [
+                "{1, \"Unable to communicate effectively with staff to understand menu options within the given time constraint.\"}",
+                "{1, \"Unable to communicate with staff and understand the menu without understanding English within the given time frame.\"}",
+                "{1, \"Reason for inability to complete: The difficulty in communicating with restaurant staff and understanding the menu makes it impossible to dine at the restaurant within 1 hour.\"}",
+                "{1, \"Unable to communicate effectively with staff and understand the menu without English proficiency.\"}",
+                "{1, \"Reason for inability to complete: Due to difficulties in communication and understanding the menu without speaking English, it is impossible to successfully complete the task of dining at the restaurant within the given time constraint.\"}",
+                "{1, \"Unable to communicate with staff and understand the menu without English.\"}",
+                "{1, \"Cannot communicate with restaurant staff and understand the menu without English.\"}",
+                "{1, \"Unable to communicate effectively with staff and understand menu due to language barrier\"}",
+                "{1, \"Reason for inability to complete: The lack of understanding English makes it difficult to communicate with the restaurant staff and understand the menu.\"}",
+                "{1, \"Unable to communicate with restaurant staff and understand the menu without English proficiency.\"}"
+            ]
+        },
+        {
+            "task_id": "0",
+            "constraints": {
+                "i1": 3.0
+            },
+            "response": [
+                "{1, \"Unable to complete the task without payment means.\"}",
+                "{1, \"Unable to pay for the meal due to lack of money or payment tools.\"}",
+                "{1, \"Unable to pay for the meal due to the lack of money or payment tools.\"}",
+                "{1, \"Unable to complete the task without money or payment tools.\"}",
+                "{1, \"Unable to pay for the meal without money or payment tools.\"}",
+                "{1, \"Unable to pay for the meal without money or payment tools.\"}",
+                "{1, \"Unable to pay for the meal without money or payment tools.\"}",
+                "{1, \"Unable to pay for the meal without money or payment tools.\"}",
+                "{1, \"Unable to complete the task without payment.\"}",
+                "{1, \"Unable to complete the task as payment is required for dining but money or payment tools are unavailable.\"}"
+            ]
+        }
+    ]
+}

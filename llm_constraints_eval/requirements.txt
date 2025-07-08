@@ -1,0 +1,11 @@
+numpy
+pandas
+torch
+joblib
+pyyaml
+tensorboard
+openai
+anthropic
+matplotlib
+seaborn
+ollama

@@ -1,0 +1,16 @@
+data_file: ./data/topic_constraints_en_2403_v2.json
+api_cfg_file: ./configs/api_configs.yml
+save_root: ./results/res_k_sample_2506
+llm: qwen2.5:7b
+
+#### query stage ####
+query_template_file: ./templates/base.txt
+# query_template_file: ./templates/softmoe.txt
+num_constraints: 1
+reset_progress: True
+first_k: 50
+
+#### evaluate params ####
+k_samples: 10
+temperature: 2.
+top_p: 0.95

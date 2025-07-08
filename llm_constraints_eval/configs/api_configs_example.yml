@@ -33,6 +33,11 @@ qwen2.5-72b:
   key: xxxx
   provider: ollama
 
+qwen2.5:7b:
+  name: qwen2.5:7b
+  key: xxxx
+  provider: ollama
+  
 gemma2:
   name: gemma2
   key: xxxx
