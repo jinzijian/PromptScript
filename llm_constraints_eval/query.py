@@ -160,6 +160,7 @@ class LLMQueryHandler:
 
                 # Save the response along with required details
                 result = {
+                    'prompt': prompt,
                     'task_id': task_id,
                     # 'constraint_ids': constraint_ids,
                     # 'constraint_types': constraint_types,
